@@ -1,0 +1,101 @@
+
+DataStore_Mails_Characters = {
+{
+["lastUpdate"] = 1760547685,
+["Mails"] = {
+},
+["MailCache"] = {
+},
+["lastVisitDate"] = "2025/10/15 19:01",
+},
+{
+["lastUpdate"] = 1757958979,
+["Mails"] = {
+{
+["lastCheck"] = 1757958979,
+["sender"] = "Zedek",
+["subject"] = "Character Boost",
+["returned"] = true,
+["money"] = 0,
+["text"] = "We've supplied you with a whole new set of high-level gear, but attached you'll find all the old items and equipment you once carried.\r\n\r\n - The WoW Dev Team",
+["icon"] = 134327,
+["daysLeft"] = 308.0192260742188,
+},
+{
+["lastCheck"] = 1757958979,
+["sender"] = "Zedek",
+["subject"] = "Character Boost",
+["returned"] = true,
+["money"] = 0,
+["text"] = "We've supplied you with a whole new set of high-level gear, but attached you'll find all the old items and equipment you once carried.\r\n\r\n - The WoW Dev Team",
+["icon"] = 134327,
+["daysLeft"] = 308.0192260742188,
+},
+{
+["lastCheck"] = 1757958979,
+["sender"] = "Zedek",
+["subject"] = "Character Boost",
+["returned"] = true,
+["money"] = 0,
+["text"] = "We've supplied you with a whole new set of high-level gear, but attached you'll find all the old items and equipment you once carried.\r\n\r\n - The WoW Dev Team",
+["icon"] = 134327,
+["daysLeft"] = 308.0192260742188,
+},
+{
+["lastCheck"] = 1757958979,
+["sender"] = "Zedek",
+["subject"] = "Character Boost",
+["returned"] = true,
+["money"] = 0,
+["text"] = "We've supplied you with a whole new set of high-level gear, but attached you'll find all the old items and equipment you once carried.\r\n\r\n - The WoW Dev Team",
+["icon"] = 134327,
+["daysLeft"] = 308.0192260742188,
+},
+{
+["lastCheck"] = 1757958979,
+["sender"] = "Zedek",
+["subject"] = "Character Boost",
+["returned"] = true,
+["money"] = 0,
+["text"] = "We've supplied you with a whole new set of high-level gear, but attached you'll find all the old items and equipment you once carried.\r\n\r\n - The WoW Dev Team",
+["icon"] = 134327,
+["daysLeft"] = 308.0192260742188,
+},
+{
+["lastCheck"] = 1757958979,
+["sender"] = "Zedek",
+["subject"] = "Character Boost",
+["returned"] = true,
+["money"] = 0,
+["text"] = "We've supplied you with a whole new set of high-level gear, but attached you'll find all the old items and equipment you once carried.\r\n\r\n - The WoW Dev Team",
+["icon"] = 134327,
+["daysLeft"] = 308.0192260742188,
+},
+},
+["lastVisitDate"] = "2025/09/15 19:56",
+["MailCache"] = {
+},
+},
+{
+["Mails"] = {
+},
+["MailCache"] = {
+},
+},
+{
+["lastUpdate"] = 1760478991,
+["Mails"] = {
+},
+["lastVisitDate"] = "2025/10/14 23:56",
+["MailCache"] = {
+},
+},
+}
+DataStore_Mails_Options = {
+["ReportExpiredMailsToChat"] = true,
+["ScanMailBody"] = true,
+["CheckMailExpiry"] = true,
+["CheckMailExpiryAllRealms"] = true,
+["MailWarningThreshold"] = 5,
+["CheckMailExpiryAllAccounts"] = true,
+}

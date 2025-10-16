@@ -1,0 +1,47 @@
+
+DataStore_GuildIDs = {
+["Set"] = {
+["Default.Ravencrest.Nox Terra"] = 1,
+},
+["Count"] = 1,
+["List"] = {
+"Default.Ravencrest.Nox Terra",
+},
+}
+DataStore_GuildFactions = {
+"Alliance",
+}
+DataStore_CharacterIDs = {
+["Set"] = {
+["Default.Ravencrest.Cretino"] = 1,
+["Default.Ravencrest.Wanpan"] = 4,
+["Default.Ravencrest.Brewdda"] = 3,
+["Default.Ravencrest.Zedek"] = 2,
+},
+["Count"] = 4,
+["List"] = {
+"Default.Ravencrest.Cretino",
+"Default.Ravencrest.Zedek",
+"Default.Ravencrest.Brewdda",
+"Default.Ravencrest.Wanpan",
+},
+}
+DataStore_CharacterGUIDs = {
+"Player-1329-0625A67D",
+"Player-1329-06AB09E9",
+"Player-1329-068DF44B",
+"Player-1329-0A73CA02",
+}
+DataStore_CharacterGuilds = {
+1,
+1,
+1,
+1,
+}
+DataStore_AltGroups = {
+}
+DataStore_ConnectedRealms = {
+}
+DataStore_RealmNames = {
+["Ravencrest"] = "Ravencrest",
+}

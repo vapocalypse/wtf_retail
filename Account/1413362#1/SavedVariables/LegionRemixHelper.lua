@@ -1,0 +1,136 @@
+
+LegionRemixHelperDB = {
+["artifactTraits"] = {
+["autoBuy"] = false,
+["autoActive"] = {
+},
+},
+["collectionsTab"] = {
+["selected"] = 1,
+},
+["tooltip"] = {
+["threads"] = false,
+["activate"] = false,
+["power"] = false,
+},
+["itemOpener"] = {
+["autoItemOpen"] = false,
+},
+["quest"] = {
+["autoAccept"] = false,
+["autoTurnIn"] = false,
+["suppressShift"] = false,
+["ignoreEternus"] = true,
+},
+["version"] = "1.6.0",
+["merchant"] = {
+["hideCollectedItems"] = false,
+},
+["toast"] = {
+["artifact"] = false,
+["activate"] = false,
+["upgrade"] = false,
+["trait"] = false,
+["sound"] = false,
+["bronze"] = false,
+},
+["scrapping"] = {
+["maxQuality"] = 3,
+["minLevelDiff"] = 0,
+["autoScrap"] = false,
+["advancedJeweleryFilter"] = false,
+},
+["quickActionBar"] = {
+["actions"] = {
+{
+["checkVisibility"] = true,
+["title"] = "Cache of Infinite Treasure",
+["actionType"] = "item",
+["icon"] = 1542856,
+["actionID"] = "Cache of Infinite Treasure",
+},
+{
+["checkVisibility"] = true,
+["title"] = "Cache of Infinite Power",
+["actionType"] = "item",
+["actionID"] = 251821,
+},
+{
+["checkVisibility"] = true,
+["title"] = "Heroic Cache of Infinite Treasure",
+["actionType"] = "item",
+["actionID"] = 245553,
+},
+{
+["checkVisibility"] = true,
+["title"] = "Bronze Cache",
+["actionType"] = "item",
+["actionID"] = 246814,
+},
+{
+["checkVisibility"] = true,
+["title"] = "Minor Bronze Cache",
+["actionType"] = "item",
+["actionID"] = 254847,
+},
+{
+["checkVisibility"] = true,
+["title"] = "Lesser Bronze Cache",
+["actionType"] = "item",
+["icon"] = 4555549,
+["actionID"] = "Lesser Bronze Cache",
+},
+{
+["checkVisibility"] = true,
+["title"] = "Greater Bronze Cache",
+["actionType"] = "item",
+["actionID"] = 246813,
+},
+{
+["checkVisibility"] = true,
+["title"] = "Artifactium Sand",
+["actionType"] = "item",
+["actionID"] = 245925,
+},
+{
+["checkVisibility"] = true,
+["title"] = "Mound of Artifactium Sand",
+["actionType"] = "item",
+["actionID"] = 249891,
+},
+{
+["checkVisibility"] = true,
+["title"] = "Nostwin's Voucher",
+["actionType"] = "item",
+["actionID"] = 238727,
+},
+{
+["checkVisibility"] = true,
+["title"] = "Timerunner's Hearthstone",
+["actionType"] = "item",
+["actionID"] = 250411,
+},
+{
+["checkVisibility"] = true,
+["title"] = "Dalaran Hearthstone",
+["actionType"] = "item",
+["actionID"] = 140192,
+},
+{
+["checkVisibility"] = true,
+["title"] = "Unraveling Sands",
+["actionType"] = "spell",
+["actionID"] = 1232807,
+},
+},
+},
+["editMode"] = {
+["ToastUI"] = {
+["relativeTo"] = "UIParent",
+["point"] = "TOP",
+["relativePoint"] = "TOP",
+["yOfs"] = -50,
+["xOfs"] = 0,
+},
+},
+}

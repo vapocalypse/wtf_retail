@@ -1,0 +1,42 @@
+
+DataStore_Agenda_Characters = {
+{
+["lastUpdate"] = 1760557716,
+["Calendar"] = {
+"2025-10-19|20:00|Raid|0|8",
+"2025-10-20|20:30|Dungeons|3|8",
+"2025-10-22|20:00|Raid Achievements|0|8",
+"2025-10-26|20:00|Raid|0|2",
+"2025-10-27|20:30|Dungeons|3|2",
+},
+},
+{
+["lastUpdate"] = 1757958948,
+},
+{
+["lastUpdate"] = 1757959245,
+},
+{
+["lastUpdate"] = 1760549240,
+},
+}
+DataStore_Agenda_SavedInstances = {
+{
+["Manaforge Omega Heroic|471002969"] = "547887|1760557716|0|1",
+},
+[4] = {
+},
+}
+DataStore_Agenda_BossKills = {
+}
+DataStore_Agenda_LFGDungeons = {
+}
+DataStore_Agenda_ItemCooldowns = {
+}
+DataStore_Agenda_Contacts = {
+}
+DataStore_Agenda_Options = {
+["WeeklyResetHour"] = 6,
+["WeeklyResetDay"] = 3,
+["NextWeeklyReset"] = "2025-10-22",
+}

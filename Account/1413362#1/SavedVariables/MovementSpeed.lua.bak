@@ -1,0 +1,171 @@
+
+MovementSpeedDB = {
+["profiles"] = {
+{
+["title"] = "Main",
+["data"] = {
+["travelSpeed"] = {
+["background"] = {
+["visible"] = false,
+["colors"] = {
+["bg"] = {
+["a"] = 0.5,
+["r"] = 0,
+["g"] = 0,
+["b"] = 0,
+},
+["border"] = {
+["a"] = 0.4,
+["r"] = 1,
+["g"] = 1,
+["b"] = 1,
+},
+},
+},
+["font"] = {
+["alignment"] = "CENTER",
+["color"] = {
+["a"] = 1,
+["r"] = 1,
+["g"] = 1,
+["b"] = 1,
+},
+["valueColoring"] = true,
+["family"] = "Interface/AddOns/ElvUI/Core/Media/Fonts/PTSansNarrow.ttf",
+["size"] = 11,
+},
+["update"] = {
+["frequency"] = 0.1,
+["throttle"] = true,
+},
+["position"] = {
+["offset"] = {
+["y"] = -60,
+["x"] = 0,
+},
+["anchor"] = "TOP",
+["relativePoint"] = "TOP",
+},
+["value"] = {
+["zeros"] = false,
+["fractionals"] = 0,
+["units"] = {
+true,
+false,
+false,
+},
+},
+["keepInBounds"] = true,
+["visibility"] = {
+["statusNotice"] = true,
+["hidden"] = true,
+["autoHide"] = false,
+},
+["layer"] = {
+["keepOnTop"] = false,
+["strata"] = "MEDIUM",
+},
+},
+["playerSpeed"] = {
+["background"] = {
+["visible"] = false,
+["colors"] = {
+["bg"] = {
+["a"] = 0.5,
+["r"] = 0,
+["g"] = 0,
+["b"] = 0,
+},
+["border"] = {
+["a"] = 0.4,
+["r"] = 1,
+["g"] = 1,
+["b"] = 1,
+},
+},
+},
+["font"] = {
+["alignment"] = "CENTER",
+["color"] = {
+["a"] = 1,
+["r"] = 1,
+["g"] = 1,
+["b"] = 1,
+},
+["valueColoring"] = true,
+["family"] = "Interface/AddOns/ElvUI/Core/Media/Fonts/PTSansNarrow.ttf",
+["size"] = 11,
+},
+["update"] = {
+["frequency"] = 0.1,
+["throttle"] = false,
+},
+["position"] = {
+["offset"] = {
+["y"] = -226.5559997558594,
+["x"] = -114.5554580688477,
+},
+["anchor"] = "TOP",
+["relativePoint"] = "TOPRIGHT",
+},
+["value"] = {
+["zeros"] = false,
+["fractionals"] = 0,
+["units"] = {
+true,
+false,
+false,
+},
+},
+["keepInBounds"] = true,
+["visibility"] = {
+["statusNotice"] = true,
+["hidden"] = false,
+["autoHide"] = false,
+},
+["layer"] = {
+["keepOnTop"] = false,
+["strata"] = "MEDIUM",
+},
+},
+["targetSpeed"] = {
+["enabled"] = true,
+["value"] = {
+["zeros"] = false,
+["fractionals"] = 0,
+["units"] = {
+true,
+true,
+false,
+},
+},
+},
+["customPreset"] = {
+["keepInBounds"] = true,
+["layer"] = {
+["keepOnTop"] = false,
+["strata"] = "MEDIUM",
+},
+["position"] = {
+["anchor"] = "TOP",
+["offset"] = {
+["y"] = -60,
+["x"] = 0,
+},
+["relativePoint"] = "TOP",
+},
+},
+},
+},
+},
+}
+MovementSpeedCS = {
+["travelSpeed"] = {
+["keepInPlace"] = true,
+},
+["compactBackup"] = true,
+["mainDisplay"] = "playerSpeed",
+["playerSpeed"] = {
+["keepInPlace"] = true,
+},
+}

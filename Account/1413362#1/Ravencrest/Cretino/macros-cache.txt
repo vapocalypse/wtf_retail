@@ -1,0 +1,13 @@
+VER 3 0100000000000001 "Outlaw Dungeon" "132094"
+/equipset Outlaw Dungeon;
+/script local g=11980558;if Narci and Narci.AC then Narci.AC(g) else C_ClassTalents.LoadConfig(g,true) end;--(3,0)
+END
+VER 3 0100000000000002 "Outlaw ST" "132282"
+/equipset Outlaw;
+/script local g=11980049;if Narci and Narci.AC then Narci.AC(g) else C_ClassTalents.LoadConfig(g,true) end;--(2,0)
+END
+VER 3 0100000000000003 "Shiv Tea" "134400"
+#showtooltip
+/cast Shiv
+/cast Thistle Tea
+END

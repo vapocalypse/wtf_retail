@@ -1,0 +1,252 @@
+
+NarcissusDB = {
+["DragonridingTourWorldMapPin"] = true,
+["SearchSuggestDirection"] = 1,
+["LetterboxRatio"] = 2,
+["NamePlateLanguage"] = "enUS",
+["ItemNameWidth"] = 180,
+["UseEscapeButton"] = true,
+["QuestCardTheme"] = 1,
+["LoopAnimation"] = false,
+["AutoFilterGem"] = false,
+["HideTextsWithUI"] = false,
+["AutoFilterMail"] = false,
+["SoloQueueLFRDetails"] = true,
+["DressingRoomAutoRemoveNonSetItem"] = false,
+["IsSortedByCategory"] = true,
+["AutoFilterAuction"] = false,
+["CameraTransition"] = true,
+["PaperDollWidget"] = true,
+["ShowModulePanelOnMouseOver"] = true,
+["CameraSafeMode"] = true,
+["WeatherEffect"] = true,
+["OutfitSortMethod"] = "name",
+["SearchRelatives"] = false,
+["DressingRoomIncludeItemID"] = false,
+["ClassSetTheme_DF_1"] = 2,
+["PaperDollWidget_Remix"] = true,
+["FadeButton"] = false,
+["ShowMinimapButton"] = true,
+["ItemTooltipStyle"] = 1,
+["MinimapButton"] = {
+["Position"] = 2.617993877991494,
+},
+["DetailedIlvlInfo"] = true,
+["OnlyShowOwnedUpgradeItem"] = true,
+["VignetteStrength"] = 0.5,
+["TruncateText"] = false,
+["ShrinkArea"] = 0,
+["LetterboxEffect"] = false,
+["ShowItemID"] = false,
+["Favorites"] = {
+["FavoriteAnimationIDs"] = {
+},
+},
+["BaseLineOffset"] = 0,
+["TalentTreeBiggerUI"] = false,
+["DressingRoomShowIconSelect"] = false,
+["UseAddonCompartment"] = true,
+["DressingRoom"] = true,
+["UseBustShot"] = true,
+["PaperDollWidget_ClassSet"] = true,
+["TranslateName"] = false,
+["TalentTreeUseClassBackground"] = false,
+["DressingRoomShowSlot"] = true,
+["EnableDoubleTap"] = false,
+["SearchRelativesHotkey"] = "TAB",
+["AutoPlayAnimation"] = false,
+["AFKScreen"] = false,
+["FontHeightItemName"] = 10,
+["AKFScreenDelay"] = false,
+["installTime"] = 1757077476,
+["GlobalScale"] = 0.8,
+["UseEntranceVisual"] = true,
+["Tutorials"] = {
+["ExitConfirmation"] = true,
+["Movement"] = true,
+["SpellVisualBrowser"] = true,
+["NPCBrowserEntance"] = true,
+["WeaponBrowser"] = true,
+["NPCBrowser"] = true,
+},
+["TalentTreeForEquipmentManager"] = true,
+["AnchorToMinimap"] = true,
+["PerksProgramDB"] = {
+["MonthNames"] = {
+{
+["y"] = 2025,
+["m"] = 33,
+["n"] = "September: Dwarven Charm",
+},
+{
+["y"] = 2025,
+["m"] = 34,
+["n"] = "October: Fel Festivities",
+},
+},
+["VendorItems"] = {
+},
+["CurrentMonthData"] = {
+},
+},
+["NamePlateNameOffset"] = 0,
+["TooltipLanguages"] = {
+},
+["CameraOrbit"] = true,
+["GemManager"] = true,
+["ModelPanelScale"] = 1,
+["AutoDisplayQuestItem"] = false,
+["TalentTreeForPaperDoll"] = false,
+["TooltipTheme"] = "Bright",
+["TalentTreeForInspection"] = true,
+["MissingEnchantAlert"] = false,
+["TalentTreeAnchor"] = 1,
+["NameTranslationPosition"] = 1,
+["IndependentMinimapButton"] = false,
+["SpeedyScreenshotAlert"] = true,
+["TradingPostChangePost"] = true,
+["Version"] = 10000,
+["SearchSuggestEnable"] = false,
+["ConduitTooltip"] = false,
+["DressingRoomUseTargetModel"] = true,
+}
+NarciAchievementOptions = {
+["UseAsDefault"] = false,
+["IncompleteFirst"] = true,
+["Scale"] = 1,
+["ReplaceToast"] = true,
+["Theme"] = 1,
+["ShowRedMark"] = false,
+}
+NarciStatisticsDB = {
+["InstalledDate"] = 1757077504,
+["QuestItems"] = {
+},
+["AddOnActionForbidden"] = {
+["timeLastError"] = 1758100561,
+["addons"] = {
+["TradeSkillMaster"] = {
+["count"] = 1,
+["timeLastError"] = 1758100561,
+},
+},
+},
+}
+NarciTurntableOptions = nil
+NarciCharacterProfiles = {
+["06AB09E9"] = {
+["race"] = 34,
+["name"] = "Zedek",
+["birth"] = 1757958800,
+["serverID"] = "1329",
+["lastVisit"] = 1757958943,
+["outfits"] = {
+{
+["s"] = "77344,69215,100004,69214,0,0,25694,4907,33352,89436,89440,69216,69219",
+["n"] = "asdf",
+},
+{
+["s"] = "62512,62530,92528,62518,0,0,45112,62524,62562,45103,84309,69216,41594",
+["n"] = "Kyparite",
+},
+},
+["class"] = 1,
+},
+["068DF44B"] = {
+["race"] = 34,
+["name"] = "Brewdda",
+["birth"] = 1757959213,
+["serverID"] = "1329",
+["lastVisit"] = 1757959244,
+["outfits"] = {
+{
+["s"] = "114050,146568,114058,81345,0,97209,0,114053,145642,114054,145662,111584,0",
+["n"] = "Maldraxxi",
+},
+},
+["class"] = 10,
+},
+["0A73CA02"] = {
+["race"] = 25,
+["name"] = "Wanpan",
+["birth"] = 1759922906,
+["serverID"] = "1329",
+["lastVisit"] = 1760547981,
+["outfits"] = {
+},
+["class"] = 10,
+},
+["0625A67D"] = {
+["race"] = 1,
+["name"] = "Cretino",
+["birth"] = 1757077504,
+["serverID"] = "1329",
+["lastVisit"] = 1760557714,
+["outfits"] = {
+{
+["s"] = "19472,19475,77345,19469,1255,83203,19088,19470,19287,19473,19036,80726,73714",
+["n"] = "Naxx",
+},
+{
+["s"] = "90213,77343,77345,26253,83202,83203,19637,31514,18143,78754,90401,12715,12715",
+["n"] = "Lederhosen",
+},
+{
+["s"] = "41873,90221,77345,17786,1255,83203,19088,90209,32842,82891,73939,29410:0:5391,32241:0:5391",
+["n"] = "Samurai",
+},
+{
+["s"] = "77344,77343,77345,7195,83202,83203,83040,26847,12019,10719,26244,49640,49640",
+["n"] = "Peter Pan",
+},
+{
+["s"] = "98439,98479,99295,98462,0,0,96222,98467,98454,98469,98447,91310,91310:0:80730",
+["n"] = "Pirate",
+},
+{
+["s"] = "33287,96560,99206,98894,0,0,96563,98891,98909,98906,98903,4674,96641",
+["n"] = "Black",
+},
+{
+["s"] = "76595,20890,62449,93971,0,0,18818,25670,74391,9554,17773,31734,17478",
+["n"] = "Mad Max",
+},
+{
+["s"] = "77344,33387,77345,30375,0,0,104604,8473,19362,72427,10724,0,0:0:73538",
+["n"] = "The Deep",
+},
+{
+["s"] = "105957,77343,77345,105958,0,0,96222,105954,84223,105956,105955,0,0:0:80731",
+["n"] = "Blizzcon 2019",
+},
+{
+["s"] = "108126,108122,105940,108115,0,0,106491,108139,108151,108147,108155,108375,108324",
+["n"] = "Ny'alotha",
+},
+{
+["s"] = "113719,111496,107424,111468,0,0,111547,113718,112888,112885,111457,0,0:0:80731",
+["n"] = "Shadows",
+},
+{
+["s"] = "14685,14687,107403,14688,20511,83203,86488,14684,86486,14686,86487,73512,73512",
+["n"] = "BC",
+},
+{
+["s"] = "222868,222871,222865,222870,20511,83203,222873,222867,222872,222869,222866,222858:-1,222858",
+["n"] = "ARRRRR!",
+},
+{
+["s"] = "287853,287465,287472,287470,1255,83203,287471,287468,287464,287466,287469,80726,0",
+["n"] = "Lava",
+},
+{
+["s"] = "285278,285257,285252,285253,1707,83203,285259,285255,285258,285256,285254,113519:-1:5364,113519:0:5364",
+["n"] = "Arathi Zealot",
+},
+},
+["class"] = 4,
+},
+}
+NarciPhotoModeDB = {
+}
+NarciDevToolOutput = nil

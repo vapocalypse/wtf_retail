@@ -1,0 +1,24 @@
+
+EventHorizonDB = {
+["lines"] = {
+["isActive"] = true,
+},
+["point"] = {
+"CENTER",
+"UIParent",
+"CENTER",
+},
+["charInfo"] = {
+["stance"] = 0,
+},
+["isActive"] = true,
+["redshift"] = {
+["isActive"] = false,
+["lastConfig"] = false,
+},
+["__DragonflightClassConfigStatusNotification2"] = true,
+["version"] = 4,
+["__DiscordDialog1NotificationDragonflight"] = true,
+["__DragonflightClassStatusNotification2"] = true,
+["__GithubDialog1NotificationDragonflight"] = true,
+}

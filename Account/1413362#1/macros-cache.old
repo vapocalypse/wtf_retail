@@ -1,0 +1,82 @@
+VER 3 00000000000001C1 "CBST" "135988"
+#showtooltip Cold Blood
+/cast Cold Blood
+/cast Secret Technique
+END
+VER 3 00000000000001C0 "Cold Blood" "134400"
+#showtooltip Cold Blood
+/cast Cold Blood
+/cast Dispatch
+END
+VER 3 00000000000001BC "Distract" "INV_MISC_QUESTIONMARK"
+#showTooltip
+/cast [@focus] Misdirection
+END
+VER 3 00000000000001BF "EmergencyHealDru" "134400"
+#showTooltip Nature's Swiftness
+/console Sound_EnableSFX 0
+/cast Nature's Swiftness
+/run UIErrorsFrame:Clear()
+/console Sound_EnableSFX 1
+/cast [@mouseover, help] Regrowth
+END
+VER 3 00000000000001C3 "g99" "134400"
+#showtooltip
+/dismount
+/cast [nomounted, noflyable] G-99 Breakneck
+/run if not IsMounted() then C_MountJournal.SummonByID(0) end
+END
+VER 3 00000000000001C9 "Inv" "6033354"
+/t barrow Supercalifragilisticexpialidocious
+END
+VER 3 00000000000001BD "kick focus" "132219"
+#showtooltip kick
+/cast [@focus,harm,nodead] kick
+END
+VER 3 00000000000001CA "LegionRemixArtif" "134400"
+#showtooltip 16
+/run SocketInventoryItem(16);
+END
+VER 3 00000000000001C6 "Lua OFF" "236151"
+/console scriptErrors 0
+END
+VER 3 00000000000001C5 "Lua ON" "236152"
+/console scriptErrors 1
+END
+VER 3 00000000000001BB "LUNARLIGHT POD" "INV_MISC_QUESTIONMARK"
+/tar Lunarlight Bud
+END
+VER 3 000000000000000D "Misdirect focus" "INV_MISC_QUESTIONMARK"
+#showtooltip Misdirection
+/cast [@focus,help,nodead][help]Misdirection
+END
+VER 3 00000000000001BE "Mountspecial" "4640492"
+#showtooltip mountspecial
+/mountspecial
+END
+VER 3 000000000000000C "Redirect" "INV_MISC_QUESTIONMARK"
+#showtooltip Tricks of the Trade
+/cast [@focus,help,nodead][help] Tricks of the Trade
+END
+VER 3 00000000000001C8 "ResampleAlwaysSh" "134400"
+/run local o = GetCVarBool("ResampleAlwaysSharpen"); SetCVar("ResampleAlwaysSharpen", not o); print("Sharpening is now " .. (o and "off" or "on"))
+END
+VER 3 00000000000001C7 "Reshii" "7137579"
+#showtooltip
+/run GenericTraitUI_LoadUI()GenericTraitFrame:SetSystemID(29)GenericTraitFrame:SetTreeID(1115)ToggleFrame(GenericTraitFrame)
+END
+VER 3 0000000000000093 "Sanity Orb" "INV_MISC_QUESTIONMARK"
+#showtooltip sanity restoration orb
+/cast Sanity Restoration Orb
+END
+VER 3 00000000000001C2 "ShadowDanceGloom" "134400"
+#showtooltip Shadow Dance
+/cast Shadow Dance
+/cast Gloomblade
+END
+VER 3 0000000000000015 "TSMMacro" "Achievement_Faction_GoldenLotus"
+/click TSMCancelAuctionBtn
+/click TSMDestroyBtn
+/click TSMShoppingBuyoutBtn
+/click TSMAuctioningBtn
+END

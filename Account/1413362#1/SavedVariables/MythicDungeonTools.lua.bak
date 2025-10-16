@@ -1,0 +1,70 @@
+
+MythicDungeonToolsDB = {
+["profileKeys"] = {
+["Zedek - Ravencrest"] = "Zedek - Ravencrest",
+["Brewdda - Ravencrest"] = "Brewdda - Ravencrest",
+["Wanpan - Ravencrest"] = "Wanpan - Ravencrest",
+["Cretino - Ravencrest"] = "Cretino - Ravencrest",
+},
+["global"] = {
+["currentDungeonIdx"] = 111,
+["minimap"] = {
+["showInCompartment"] = true,
+},
+["latestDungeonSeen"] = 123,
+["selectedDungeonList"] = 3,
+["maximized"] = false,
+["presets"] = {
+[111] = {
+{
+["difficulty"] = 10,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+["currentDungeonIdx"] = 111,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+},
+[115] = {
+{
+["difficulty"] = 10,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+["currentDungeonIdx"] = 115,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+},
+},
+["version"] = 553,
+["scale"] = 1.4,
+},
+}

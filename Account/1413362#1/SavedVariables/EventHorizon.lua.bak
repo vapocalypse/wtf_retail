@@ -1,0 +1,24 @@
+
+EventHorizonDBG = {
+["defaultProfile"] = "default",
+["profilePerChar"] = {
+["Kret - Ravencrest"] = "default",
+["Mannadar - Ravencrest"] = "default",
+["Felwielder - Ravencrest"] = "default",
+["Dracret - Ravencrest"] = "default",
+["Zedek - Ravencrest"] = "default",
+["Roberval - Ravencrest"] = "default",
+["Cretino - Ravencrest"] = "default",
+["Deeru - Magtheridon"] = "default",
+["Critina - Ravencrest"] = "default",
+["Voidana - Ravencrest"] = "default",
+["Shamonna - Ravencrest"] = "default",
+},
+["version"] = 4,
+["itemInfo"] = {
+},
+["profiles"] = {
+["default"] = {
+},
+},
+}

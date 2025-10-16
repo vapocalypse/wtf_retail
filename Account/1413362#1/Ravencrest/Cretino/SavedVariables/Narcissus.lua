@@ -1,0 +1,37 @@
+
+NarcissusDB_PC = {
+["EquipmentSetDB"] = {
+},
+["ClassSetAcquired_Undermine"] = true,
+["ClassSetAcquired_Karesh"] = true,
+["PlayerAlias"] = "",
+["UseAlias"] = false,
+}
+NarciStatisticsDB_PC = {
+["CovenantWalkthrough"] = 71,
+["Barbershop"] = {
+["Locations"] = {
+[2024] = {
+["visit"] = 1,
+["time"] = 210,
+},
+[1161] = {
+["visit"] = 1,
+["time"] = 203,
+},
+[2023] = {
+["visit"] = 2,
+["time"] = 35,
+},
+[2112] = {
+["visit"] = 9,
+["time"] = 839,
+},
+[2022] = {
+["visit"] = 3,
+["time"] = 174,
+},
+},
+["CoinSpentBeforeShadowlands"] = 2804293,
+},
+}

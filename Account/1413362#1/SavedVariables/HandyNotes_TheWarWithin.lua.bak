@@ -1,0 +1,26 @@
+
+HandyNotes_TheWarWithinDB = {
+["char"] = {
+["Magalee - Ravencrest"] = {
+["2214_coord_54773027"] = true,
+},
+},
+["profileKeys"] = {
+["Kret - Ravencrest"] = "Default",
+["Mannadar - Ravencrest"] = "Default",
+["Felwielder - Ravencrest"] = "Default",
+["Critina - Ravencrest"] = "Default",
+["Magalee - Ravencrest"] = "Default",
+["Brewdda - Ravencrest"] = "Default",
+["Cretino - Ravencrest"] = "Default",
+["Wanpan - Ravencrest"] = "Default",
+["Shamonna - Ravencrest"] = "Default",
+["Zedek - Ravencrest"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["icon_display_treasures"] = true,
+["icon_display_profession_treasures"] = true,
+},
+},
+}

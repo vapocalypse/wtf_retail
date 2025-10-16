@@ -1,0 +1,100 @@
+
+PawnOptions = {
+["LastVersion"] = 2.1108,
+["LastPlayerFullName"] = "Wanpan-Ravencrest",
+["AutoSelectScales"] = true,
+["ItemLevels"] = {
+{
+["ID"] = 240775,
+["Level"] = 607,
+["Link"] = "|cnIQ4:|Hitem:240775::::::::80:268::27:10:12545:13363:13361:13435:13533:13524:13357:13557:10034:5872:1:28:2905:::::|h[Lunarblight Leather Cowl]|h|r",
+},
+{
+["ID"] = 246192,
+["Level"] = 610,
+["Link"] = "|cnIQ4:|Hitem:246192::::::::80:268::27:5:12639:13524:13557:10034:5875:1:28:2905:::::|h[Understone Gorget]|h|r",
+},
+{
+["ID"] = 247532,
+["Level"] = 607,
+["Link"] = "|cnIQ4:|Hitem:247532::::::::80:270::133:10:12696:13524:12544:13365:13363:13435:13533:13557:10034:5872:1:28:2905:::::|h[Otherworldly Leather Mantle]|h|r",
+},
+nil,
+{
+["ID"] = 240777,
+["Level"] = 607,
+["Link"] = "|cnIQ4:|Hitem:240777::::::::80:270::27:9:12544:13360:13435:13533:13524:13357:13557:10034:5872:1:28:2905:::::|h[Lunarblight Leather Tunic]|h|r",
+},
+{
+["ID"] = 247524,
+["Level"] = 594,
+["Link"] = "|cnIQ4:|Hitem:247524::::::::80:268::133:10:12696:13524:12545:13361:13365:13435:13533:13557:10034:5859:1:28:2905:::::|h[Forest-Lord's Waistwrap]|h|r",
+},
+{
+["ID"] = 247527,
+["Level"] = 604,
+["Link"] = "|cnIQ4:|Hitem:247527::::::::80:270::133:10:12696:13524:12543:13365:13363:13435:13533:13557:10034:5869:1:28:2905:::::|h[Splotched Bloodfur Leggings]|h|r",
+},
+{
+["ID"] = 240780,
+["Level"] = 601,
+["Link"] = "|cnIQ4:|Hitem:240780::::::::80:268::27:10:12544:13365:13363:13435:13533:13524:13357:13557:10034:5866:1:28:2905:::::|h[Lunarblight Leather Striders]|h|r",
+},
+{
+["ID"] = 240781,
+["Level"] = 607,
+["Link"] = "|cnIQ4:|Hitem:240781::::::::80:270::27:10:12544:13361:13365:13435:13533:13524:13357:13557:10034:5872:1:28:2905:::::|h[Lunarblight Leather Cuffs]|h|r",
+},
+{
+["ID"] = 240782,
+["Level"] = 604,
+["Link"] = "|cnIQ4:|Hitem:240782::::::::80:270::27:10:12544:13361:13365:13435:13533:13524:13357:13557:10034:5869:1:28:2905:::::|h[Lunarblight Leather Grips]|h|r",
+},
+{
+["ID"] = 246201,
+["Level"] = 607,
+["AlsoFitsIn"] = 12,
+["Link"] = "|cnIQ4:|Hitem:246201::::::::80:270::27:5:12643:13524:13557:10034:5872:1:28:2905:::::|h[Signet of the Highborne Magi]|h|r",
+},
+{
+["ID"] = 246201,
+["Level"] = 607,
+["AlsoFitsIn"] = 11,
+["Link"] = "|cnIQ4:|Hitem:246201::::::::80:268::27:5:12643:13524:13557:10034:5872:1:28:2905:::::|h[Signet of the Highborne Magi]|h|r",
+},
+{
+["ID"] = 246203,
+["Level"] = 610,
+["AlsoFitsIn"] = 14,
+["Link"] = "|cnIQ4:|Hitem:246203::::::::80:268::27:5:12639:13524:13557:10034:5875:1:28:2905:::::|h[Chattering Soulmark]|h|r",
+},
+{
+["ID"] = 246203,
+["Level"] = 607,
+["AlsoFitsIn"] = 13,
+["Link"] = "|cnIQ4:|Hitem:246203::::::::80:268::133:5:12639:13524:13557:10034:5872:1:28:2905:::::|h[Chattering Soulmark]|h|r",
+},
+{
+["ID"] = 247512,
+["Level"] = 610,
+["Link"] = "|cnIQ4:|Hitem:247512::::::::80:268::133:10:12696:13524:12545:13365:13363:13435:13533:13557:10034:5875:1:28:2905:::::|h[Gossamer-Spun Greatcloak]|h|r",
+},
+{
+["ID"] = 242596,
+["Level"] = 614,
+["Link"] = "|cnIQ6:|Hitem:242596::::::::80:268:::3:13358:13278:11341:1:28:2905:::::|h[Fu Zan, the Wanderer's Companion]|h|r",
+},
+{
+["ID"] = 242601,
+["Level"] = 457,
+["Link"] = "|cnIQ6:|Hitem:242601::::::::80:269:::::::::|h[Fists of the Heavens]|h|r",
+},
+},
+["AutoSelectScalesEnabledOnce"] = true,
+["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+["LastClass"] = "MONK",
+["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil
