@@ -3,9 +3,8 @@ DetailsDataStorage = {
 ["normal"] = {
 [3016] = {
 {
+["date"] = "21:14 13/04/25",
 ["guild"] = "Nox Terra",
-["time"] = 1744571677,
-["elapsed"] = 257.6920000000391,
 ["DAMAGER"] = {
 ["Shkia"] = {
 ["total"] = 436224512,
@@ -27,32 +26,33 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.9375,
 ["classId"] = 5,
 },
-["Benó"] = {
-["total"] = 232072540,
-["itemLevel"] = 649.5625,
-["classId"] = 6,
-},
-["Strathlor"] = {
-["total"] = 400579251,
-["itemLevel"] = 661.0625,
-["classId"] = 8,
-},
-["Garmín"] = {
-["total"] = 463554879,
-["itemLevel"] = 663.0625,
-["classId"] = 2,
+["Cretino"] = {
+["total"] = 241847110,
+["itemLevel"] = 639.3125,
+["classId"] = 4,
 },
 ["Barrow"] = {
 ["total"] = 247113734,
 ["itemLevel"] = 640.4666666666667,
 ["classId"] = 11,
 },
-["Cretino"] = {
-["total"] = 241847110,
-["itemLevel"] = 639.3125,
-["classId"] = 4,
+["Garmín"] = {
+["total"] = 463554879,
+["itemLevel"] = 663.0625,
+["classId"] = 2,
+},
+["Strathlor"] = {
+["total"] = 400579251,
+["itemLevel"] = 661.0625,
+["classId"] = 8,
+},
+["Benó"] = {
+["total"] = 232072540,
+["itemLevel"] = 649.5625,
+["classId"] = 6,
 },
 },
+["elapsed"] = 257.6920000000391,
 ["servertime"] = 1744571676,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -66,13 +66,54 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "21:14 13/04/25",
+["time"] = 1744571677,
 },
 {
+["DAMAGER"] = {
+["Barrow"] = {
+["total"] = 432024877,
+["itemLevel"] = 643.375,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 473793908,
+["itemLevel"] = 663.5,
+["classId"] = 4,
+},
+["Goozen"] = {
+["total"] = 315935105,
+["itemLevel"] = 627.4375,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 490407519,
+["itemLevel"] = 667.625,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 477821491,
+["itemLevel"] = 643.5625,
+["classId"] = 4,
+},
+["Daveon-Stormscale"] = {
+["total"] = 239071463,
+["itemLevel"] = 641.1875,
+["classId"] = 6,
+},
+["Btheone"] = {
+["total"] = 292931686,
+["itemLevel"] = 647.375,
+["classId"] = 12,
+},
+["Angrilock"] = {
+["total"] = 212180486,
+["itemLevel"] = 628.4666666666667,
+["classId"] = 9,
+},
+},
 ["time"] = 1745176794,
-["guild"] = "Nox Terra",
-["elapsed"] = 360.2679999999818,
 ["date"] = "21:19 20/04/25",
+["elapsed"] = 360.2679999999818,
 ["servertime"] = 1745176794,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -86,50 +127,12 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["DAMAGER"] = {
-["Angrilock"] = {
-["total"] = 212180486,
-["itemLevel"] = 628.4666666666667,
-["classId"] = 9,
-},
-["Vynarth"] = {
-["total"] = 473793908,
-["itemLevel"] = 663.5,
-["classId"] = 4,
-},
-["Barrow"] = {
-["total"] = 432024877,
-["itemLevel"] = 643.375,
-["classId"] = 11,
-},
-["Btheone"] = {
-["total"] = 292931686,
-["itemLevel"] = 647.375,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 477821491,
-["itemLevel"] = 643.5625,
-["classId"] = 4,
-},
-["Daveon-Stormscale"] = {
-["total"] = 239071463,
-["itemLevel"] = 641.1875,
-["classId"] = 6,
-},
-["Beorrn"] = {
-["total"] = 490407519,
-["itemLevel"] = 667.625,
-["classId"] = 11,
-},
-["Goozen"] = {
-["total"] = 315935105,
-["itemLevel"] = 627.4375,
-["classId"] = 7,
-},
-},
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1747856230,
+["elapsed"] = 254.984999999986,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 467095494,
@@ -156,10 +159,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 667,
 ["classId"] = 3,
 },
-["Shkia"] = {
-["total"] = 234362113,
-["itemLevel"] = 667.875,
-["classId"] = 9,
+["Tiekenei"] = {
+["total"] = 326423310,
+["itemLevel"] = 664.3125,
+["classId"] = 7,
 },
 ["Beorrn"] = {
 ["total"] = 441901995,
@@ -171,10 +174,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 664.4375,
 ["classId"] = 11,
 },
-["Velion"] = {
-["total"] = 315625406,
-["itemLevel"] = 665.8125,
-["classId"] = 6,
+["Garanddor"] = {
+["total"] = 531112373,
+["itemLevel"] = 678.5,
+["classId"] = 2,
 },
 ["Shambone"] = {
 ["total"] = 464756348,
@@ -186,20 +189,17 @@ DetailsDataStorage = {
 ["itemLevel"] = 665.8125,
 ["classId"] = 3,
 },
-["Garanddor"] = {
-["total"] = 531112373,
-["itemLevel"] = 678.5,
-["classId"] = 2,
+["Velion"] = {
+["total"] = 315625406,
+["itemLevel"] = 665.8125,
+["classId"] = 6,
 },
-["Tiekenei"] = {
-["total"] = 326423310,
-["itemLevel"] = 664.3125,
-["classId"] = 7,
+["Shkia"] = {
+["total"] = 234362113,
+["itemLevel"] = 667.875,
+["classId"] = 9,
 },
 },
-["time"] = 1747856230,
-["date"] = "21:37 21/05/25",
-["elapsed"] = 254.984999999986,
 ["servertime"] = 1747856230,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -213,12 +213,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "21:37 21/05/25",
 },
 {
+["date"] = "21:16 04/06/25",
 ["guild"] = "Nox Terra",
-["time"] = 1749064591,
-["elapsed"] = 241.5760000000009,
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 276850633,
@@ -261,6 +260,7 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["elapsed"] = 241.5760000000009,
 ["servertime"] = 1749064589,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -274,24 +274,23 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["date"] = "21:16 04/06/25",
+["time"] = 1749064591,
 },
 },
 [3009] = {
 {
+["date"] = "20:08 13/04/25",
 ["guild"] = "Nox Terra",
-["time"] = 1744567739,
-["elapsed"] = 152.3720000000321,
 ["DAMAGER"] = {
+["Potdisc"] = {
+["total"] = 368583359,
+["itemLevel"] = 662.9375,
+["classId"] = 5,
+},
 ["Vynarth"] = {
 ["total"] = 337541333,
 ["itemLevel"] = 658.625,
 ["classId"] = 4,
-},
-["Benó"] = {
-["total"] = 210282926,
-["itemLevel"] = 649.5625,
-["classId"] = 6,
 },
 ["Barrow"] = {
 ["total"] = 166893623,
@@ -318,12 +317,13 @@ DetailsDataStorage = {
 ["itemLevel"] = 660.0625,
 ["classId"] = 3,
 },
-["Potdisc"] = {
-["total"] = 368583359,
-["itemLevel"] = 662.9375,
-["classId"] = 5,
+["Benó"] = {
+["total"] = 210282926,
+["itemLevel"] = 649.5625,
+["classId"] = 6,
 },
 },
+["elapsed"] = 152.3720000000321,
 ["servertime"] = 1744567738,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -337,13 +337,54 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "20:08 13/04/25",
+["time"] = 1744567739,
 },
 {
+["DAMAGER"] = {
+["Barrow"] = {
+["total"] = 225086429,
+["itemLevel"] = 643.375,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 499432579,
+["itemLevel"] = 663.5,
+["classId"] = 4,
+},
+["Btheone"] = {
+["total"] = 213167040,
+["itemLevel"] = 647.375,
+["classId"] = 12,
+},
+["Goozen"] = {
+["total"] = 214329643,
+["itemLevel"] = 626.4375,
+["classId"] = 7,
+},
+["Cretino"] = {
+["total"] = 359947470,
+["itemLevel"] = 645.8125,
+["classId"] = 4,
+},
+["Daveon-Stormscale"] = {
+["total"] = 173249215,
+["itemLevel"] = 641.1875,
+["classId"] = 6,
+},
+["Beorrn"] = {
+["total"] = 550964227,
+["itemLevel"] = 667.625,
+["classId"] = 11,
+},
+["Angrilock"] = {
+["total"] = 134425315,
+["itemLevel"] = 622.625,
+["classId"] = 9,
+},
+},
 ["time"] = 1745173031,
-["guild"] = "Nox Terra",
-["elapsed"] = 192.2989999999991,
 ["date"] = "20:17 20/04/25",
+["elapsed"] = 192.2989999999991,
 ["servertime"] = 1745173031,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -357,50 +398,12 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["DAMAGER"] = {
-["Angrilock"] = {
-["total"] = 134425315,
-["itemLevel"] = 622.625,
-["classId"] = 9,
-},
-["Vynarth"] = {
-["total"] = 499432579,
-["itemLevel"] = 663.5,
-["classId"] = 4,
-},
-["Barrow"] = {
-["total"] = 225086429,
-["itemLevel"] = 643.375,
-["classId"] = 11,
-},
-["Beorrn"] = {
-["total"] = 550964227,
-["itemLevel"] = 667.625,
-["classId"] = 11,
-},
-["Cretino"] = {
-["total"] = 359947470,
-["itemLevel"] = 645.8125,
-["classId"] = 4,
-},
-["Daveon-Stormscale"] = {
-["total"] = 173249215,
-["itemLevel"] = 641.1875,
-["classId"] = 6,
-},
-["Goozen"] = {
-["total"] = 214329643,
-["itemLevel"] = 626.4375,
-["classId"] = 7,
-},
-["Btheone"] = {
-["total"] = 213167040,
-["itemLevel"] = 647.375,
-["classId"] = 12,
-},
-},
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1747850825,
+["elapsed"] = 151.4470000000438,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 382774280,
@@ -427,10 +430,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 666.625,
 ["classId"] = 3,
 },
-["Shkia"] = {
-["total"] = 149331979,
-["itemLevel"] = 667.875,
-["classId"] = 9,
+["Tiekenei"] = {
+["total"] = 317264608,
+["itemLevel"] = 664.3125,
+["classId"] = 7,
 },
 ["Beorrn"] = {
 ["total"] = 393356492,
@@ -442,10 +445,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 664.4375,
 ["classId"] = 11,
 },
-["Velion"] = {
-["total"] = 279601169,
-["itemLevel"] = 665.4666666666667,
-["classId"] = 6,
+["Garanddor"] = {
+["total"] = 446527339,
+["itemLevel"] = 678.5,
+["classId"] = 2,
 },
 ["Shambone"] = {
 ["total"] = 355695321,
@@ -457,20 +460,17 @@ DetailsDataStorage = {
 ["itemLevel"] = 665.8125,
 ["classId"] = 3,
 },
-["Garanddor"] = {
-["total"] = 446527339,
-["itemLevel"] = 678.5,
-["classId"] = 2,
+["Velion"] = {
+["total"] = 279601169,
+["itemLevel"] = 665.4666666666667,
+["classId"] = 6,
 },
-["Tiekenei"] = {
-["total"] = 317264608,
-["itemLevel"] = 664.3125,
-["classId"] = 7,
+["Shkia"] = {
+["total"] = 149331979,
+["itemLevel"] = 667.875,
+["classId"] = 9,
 },
 },
-["time"] = 1747850825,
-["date"] = "20:07 21/05/25",
-["elapsed"] = 151.4470000000438,
 ["servertime"] = 1747850825,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -484,12 +484,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:07 21/05/25",
 },
 {
+["date"] = "20:07 04/06/25",
 ["guild"] = "Nox Terra",
-["time"] = 1749060450,
-["elapsed"] = 135.6440000000002,
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 190481623,
@@ -532,6 +531,7 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["elapsed"] = 135.6440000000002,
 ["servertime"] = 1749060448,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -540,14 +540,13 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "20:07 04/06/25",
+["time"] = 1749060450,
 },
 },
 [3122] = {
 {
+["date"] = "20:53 20/08/25",
 ["guild"] = "Nox Terra",
-["time"] = 1755716006,
-["elapsed"] = 289.6300000000047,
 ["DAMAGER"] = {
 ["Garadh"] = {
 ["total"] = 935551613,
@@ -589,32 +588,33 @@ DetailsDataStorage = {
 ["itemLevel"] = 691.25,
 ["classId"] = 11,
 },
-["Tbonem"] = {
-["total"] = 1446635822,
-["itemLevel"] = 696.4375,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 1059388253,
-["itemLevel"] = 688.625,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 1158316662,
-["itemLevel"] = 688.75,
-["classId"] = 11,
+["Potdisc"] = {
+["total"] = 1401934671,
+["itemLevel"] = 692.25,
+["classId"] = 5,
 },
 ["Tiekenei"] = {
 ["total"] = 1016024134,
 ["itemLevel"] = 693.6875,
 ["classId"] = 7,
 },
-["Potdisc"] = {
-["total"] = 1401934671,
-["itemLevel"] = 692.25,
-["classId"] = 5,
+["Beorrn"] = {
+["total"] = 1158316662,
+["itemLevel"] = 688.75,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 1059388253,
+["itemLevel"] = 688.625,
+["classId"] = 9,
+},
+["Tbonem"] = {
+["total"] = 1446635822,
+["itemLevel"] = 696.4375,
+["classId"] = 8,
 },
 },
+["elapsed"] = 289.6300000000047,
 ["servertime"] = 1755716005,
 ["HEALER"] = {
 ["Oplichter"] = {
@@ -633,9 +633,12 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["date"] = "20:53 20/08/25",
+["time"] = 1755716006,
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1757529163,
+["elapsed"] = 187.573000000004,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 1143378621,
@@ -677,25 +680,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 711.4375,
 ["classId"] = 11,
 },
-["Potdisc"] = {
-["total"] = 1254038221,
-["itemLevel"] = 705.625,
-["classId"] = 5,
+["Cretino"] = {
+["total"] = 935560027,
+["itemLevel"] = 705.8125,
+["classId"] = 4,
 },
 ["Garadh"] = {
 ["total"] = 1211854109,
 ["itemLevel"] = 710.875,
 ["classId"] = 12,
 },
-["Cretino"] = {
-["total"] = 935560027,
-["itemLevel"] = 705.8125,
-["classId"] = 4,
+["Potdisc"] = {
+["total"] = 1254038221,
+["itemLevel"] = 705.625,
+["classId"] = 5,
 },
 },
-["time"] = 1757529163,
-["date"] = "20:32 10/09/25",
-["elapsed"] = 187.573000000004,
 ["servertime"] = 1757529162,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -709,26 +709,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:32 10/09/25",
 },
 {
-["time"] = 1760295248,
-["guild"] = "Nox Terra",
-["elapsed"] = 214.71,
-["date"] = "20:54 12/10/25",
-["servertime"] = 1760295246,
-["HEALER"] = {
-["Wellric"] = {
-["total"] = 707984781,
-["itemLevel"] = 715.375,
-["classId"] = 7,
-},
-["Cidney"] = {
-["total"] = 690077033,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 1492243582,
@@ -760,44 +743,131 @@ DetailsDataStorage = {
 ["itemLevel"] = 716.5,
 ["classId"] = 11,
 },
-["Cretino"] = {
-["total"] = 1308490012,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 314054422,
-["itemLevel"] = 715.5,
-["classId"] = 12,
+["Angri"] = {
+["total"] = 974321334,
+["itemLevel"] = 712,
+["classId"] = 3,
 },
 ["Klanky"] = {
 ["total"] = 983361199,
 ["itemLevel"] = 714.5625,
 ["classId"] = 3,
 },
-["Angri"] = {
-["total"] = 974321334,
-["itemLevel"] = 712,
+["Garadh"] = {
+["total"] = 314054422,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 1308490012,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+},
+["time"] = 1760295248,
+["date"] = "20:54 12/10/25",
+["elapsed"] = 214.71,
+["servertime"] = 1760295246,
+["HEALER"] = {
+["Wellric"] = {
+["total"] = 707984781,
+["itemLevel"] = 715.375,
+["classId"] = 7,
+},
+["Cidney"] = {
+["total"] = 690077033,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 296532789,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 1339739665,
+["itemLevel"] = 721.6875,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 954358957,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 1612185997,
+["itemLevel"] = 711.75,
+["classId"] = 9,
+},
+["Velion"] = {
+["total"] = 642183445,
+["itemLevel"] = 719.8125,
+["classId"] = 6,
+},
+["Klanky"] = {
+["total"] = 693588261,
+["itemLevel"] = 717.1875,
 ["classId"] = 3,
 },
+["Beorrn"] = {
+["total"] = 1169147340,
+["itemLevel"] = 708.875,
+["classId"] = 11,
 },
+["Angri"] = {
+["total"] = 880838490,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1565860942,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+},
+["time"] = 1761158909,
+["date"] = "20:48 22/10/25",
+["elapsed"] = 240.9340000000002,
+["servertime"] = 1761158904,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 656686120,
+["itemLevel"] = 716.5,
+["classId"] = 2,
+},
+["Barrow"] = {
+["total"] = 330624240,
+["itemLevel"] = 717.625,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 651036420,
+["itemLevel"] = 714.5,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
 },
 },
 [3010] = {
 {
+["date"] = "20:15 13/04/25",
 ["guild"] = "Nox Terra",
-["time"] = 1744568146,
-["elapsed"] = 180.3619999999646,
 ["DAMAGER"] = {
+["Potdisc"] = {
+["total"] = 274484234,
+["itemLevel"] = 662.9375,
+["classId"] = 5,
+},
 ["Vynarth"] = {
 ["total"] = 338266129,
 ["itemLevel"] = 658.625,
 ["classId"] = 4,
-},
-["Benó"] = {
-["total"] = 143270799,
-["itemLevel"] = 649.5625,
-["classId"] = 6,
 },
 ["Barrow"] = {
 ["total"] = 35943840,
@@ -824,12 +894,13 @@ DetailsDataStorage = {
 ["itemLevel"] = 660.0625,
 ["classId"] = 3,
 },
-["Potdisc"] = {
-["total"] = 274484234,
-["itemLevel"] = 662.9375,
-["classId"] = 5,
+["Benó"] = {
+["total"] = 143270799,
+["itemLevel"] = 649.5625,
+["classId"] = 6,
 },
 },
+["elapsed"] = 180.3619999999646,
 ["servertime"] = 1744568145,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -843,13 +914,54 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "20:15 13/04/25",
+["time"] = 1744568146,
 },
 {
+["DAMAGER"] = {
+["Barrow"] = {
+["total"] = 189423332,
+["itemLevel"] = 643.375,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 373029292,
+["itemLevel"] = 663.5,
+["classId"] = 4,
+},
+["Goozen"] = {
+["total"] = 209497832,
+["itemLevel"] = 626.4375,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 493374555,
+["itemLevel"] = 667.625,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 58751573,
+["itemLevel"] = 645.8125,
+["classId"] = 4,
+},
+["Daveon-Stormscale"] = {
+["total"] = 149076837,
+["itemLevel"] = 641.1875,
+["classId"] = 6,
+},
+["Btheone"] = {
+["total"] = 201750887,
+["itemLevel"] = 647.375,
+["classId"] = 12,
+},
+["Angrilock"] = {
+["total"] = 24361628,
+["itemLevel"] = 622.625,
+["classId"] = 9,
+},
+},
 ["time"] = 1745173547,
-["guild"] = "Nox Terra",
-["elapsed"] = 216.2210000000196,
 ["date"] = "20:25 20/04/25",
+["elapsed"] = 216.2210000000196,
 ["servertime"] = 1745173547,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -863,50 +975,12 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["DAMAGER"] = {
-["Angrilock"] = {
-["total"] = 24361628,
-["itemLevel"] = 622.625,
-["classId"] = 9,
-},
-["Vynarth"] = {
-["total"] = 373029292,
-["itemLevel"] = 663.5,
-["classId"] = 4,
-},
-["Barrow"] = {
-["total"] = 189423332,
-["itemLevel"] = 643.375,
-["classId"] = 11,
-},
-["Btheone"] = {
-["total"] = 201750887,
-["itemLevel"] = 647.375,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 58751573,
-["itemLevel"] = 645.8125,
-["classId"] = 4,
-},
-["Daveon-Stormscale"] = {
-["total"] = 149076837,
-["itemLevel"] = 641.1875,
-["classId"] = 6,
-},
-["Beorrn"] = {
-["total"] = 493374555,
-["itemLevel"] = 667.625,
-["classId"] = 11,
-},
-["Goozen"] = {
-["total"] = 209497832,
-["itemLevel"] = 626.4375,
-["classId"] = 7,
-},
-},
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1747851374,
+["elapsed"] = 162.9660000000149,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 298523861,
@@ -933,10 +1007,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 666.625,
 ["classId"] = 3,
 },
-["Shkia"] = {
-["total"] = 156848077,
-["itemLevel"] = 667.875,
-["classId"] = 9,
+["Tiekenei"] = {
+["total"] = 232699029,
+["itemLevel"] = 664.3125,
+["classId"] = 7,
 },
 ["Beorrn"] = {
 ["total"] = 341990484,
@@ -948,10 +1022,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 664.4375,
 ["classId"] = 11,
 },
-["Velion"] = {
-["total"] = 236644213,
-["itemLevel"] = 665.8125,
-["classId"] = 6,
+["Garanddor"] = {
+["total"] = 333180123,
+["itemLevel"] = 678.5,
+["classId"] = 2,
 },
 ["Shambone"] = {
 ["total"] = 180053154,
@@ -963,20 +1037,17 @@ DetailsDataStorage = {
 ["itemLevel"] = 665.8125,
 ["classId"] = 3,
 },
-["Garanddor"] = {
-["total"] = 333180123,
-["itemLevel"] = 678.5,
-["classId"] = 2,
+["Velion"] = {
+["total"] = 236644213,
+["itemLevel"] = 665.8125,
+["classId"] = 6,
 },
-["Tiekenei"] = {
-["total"] = 232699029,
-["itemLevel"] = 664.3125,
-["classId"] = 7,
+["Shkia"] = {
+["total"] = 156848077,
+["itemLevel"] = 667.875,
+["classId"] = 9,
 },
 },
-["time"] = 1747851374,
-["date"] = "20:16 21/05/25",
-["elapsed"] = 162.9660000000149,
 ["servertime"] = 1747851374,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -990,12 +1061,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:16 21/05/25",
 },
 {
+["date"] = "20:14 04/06/25",
 ["guild"] = "Nox Terra",
-["time"] = 1749060858,
-["elapsed"] = 172.1749999999993,
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 146577080,
@@ -1038,6 +1108,7 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["elapsed"] = 172.1749999999993,
 ["servertime"] = 1749060856,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -1046,3076 +1117,13 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "20:14 04/06/25",
-},
-},
-[3132] = {
-{
-["guild"] = "Nox Terra",
-["time"] = 1755715305,
-["elapsed"] = 241.8559999999707,
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 768917700,
-["itemLevel"] = 696.1875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 680781565,
-["itemLevel"] = 687.375,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 741467738,
-["itemLevel"] = 685.125,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 397708373,
-["itemLevel"] = 688.0625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 508497932,
-["itemLevel"] = 687.75,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 469461900,
-["itemLevel"] = 692.3125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 792139242,
-["itemLevel"] = 699.3125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 535939330,
-["itemLevel"] = 691.25,
-["classId"] = 11,
-},
-["Tbonem"] = {
-["total"] = 913037853,
-["itemLevel"] = 696.4375,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 809639519,
-["itemLevel"] = 688.625,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 729328224,
-["itemLevel"] = 688.75,
-["classId"] = 11,
-},
-["Tiekenei"] = {
-["total"] = 747907747,
-["itemLevel"] = 693.6875,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 694288149,
-["itemLevel"] = 692.25,
-["classId"] = 5,
-},
-},
-["servertime"] = 1755715304,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 202260223,
-["itemLevel"] = 689.0625,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 421726466,
-["itemLevel"] = 672.6875,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 371210817,
-["itemLevel"] = 691.0625,
-["classId"] = 2,
-},
-},
-["date"] = "20:41 20/08/25",
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 669888217,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 585331297,
-["itemLevel"] = 711.25,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 619793872,
-["itemLevel"] = 703.1875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 316582853,
-["itemLevel"] = 703.0625,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 413851562,
-["itemLevel"] = 700.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 337590886,
-["itemLevel"] = 711.5,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 679610255,
-["itemLevel"] = 711.4375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 550650685,
-["itemLevel"] = 711.4375,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 582606156,
-["itemLevel"] = 705.625,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 634642360,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 606801372,
-["itemLevel"] = 705.8125,
-["classId"] = 4,
-},
-},
-["time"] = 1757528799,
-["date"] = "20:26 10/09/25",
-["elapsed"] = 125.2730000000011,
-["servertime"] = 1757528798,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 63944561,
-["itemLevel"] = 702.75,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 195250714,
-["itemLevel"] = 705.0625,
-["classId"] = 13,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["time"] = 1760294742,
-["guild"] = "Nox Terra",
-["elapsed"] = 254.8159999999998,
-["date"] = "20:45 12/10/25",
-["servertime"] = 1760294740,
-["HEALER"] = {
-["Wellric"] = {
-["total"] = 422905382,
-["itemLevel"] = 715.375,
-["classId"] = 7,
-},
-["Cidney"] = {
-["total"] = 618753415,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1033455624,
-["itemLevel"] = 717.125,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 477639783,
-["itemLevel"] = 715.625,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 795141472,
-["itemLevel"] = 707.625,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 585482389,
-["itemLevel"] = 710.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 500432843,
-["itemLevel"] = 716.5625,
-["classId"] = 10,
-},
-["Barrow"] = {
-["total"] = 679941732,
-["itemLevel"] = 716.5,
-["classId"] = 11,
-},
-["Cretino"] = {
-["total"] = 870762859,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 227841220,
-["itemLevel"] = 715.5,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 839200800,
-["itemLevel"] = 714.5625,
-["classId"] = 3,
-},
-["Angri"] = {
-["total"] = 652123331,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-},
-},
-},
-[3131] = {
-{
-["date"] = "20:17 20/08/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 629216047,
-["itemLevel"] = 696.1875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 623073857,
-["itemLevel"] = 687.1333333333333,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 577334166,
-["itemLevel"] = 685.125,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 263094083,
-["itemLevel"] = 688.0625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 538929918,
-["itemLevel"] = 687.75,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 361543860,
-["itemLevel"] = 692.3125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 649192100,
-["itemLevel"] = 699.3125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 475788990,
-["itemLevel"] = 691.25,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 590498222,
-["itemLevel"] = 693.5,
-["classId"] = 5,
-},
-["Tiekenei"] = {
-["total"] = 761289833,
-["itemLevel"] = 693.6875,
-["classId"] = 7,
-},
-["Beorrn"] = {
-["total"] = 660601236,
-["itemLevel"] = 688.75,
-["classId"] = 11,
-},
-["Shkia"] = {
-["total"] = 616301670,
-["itemLevel"] = 688.625,
-["classId"] = 9,
-},
-["Tbonem"] = {
-["total"] = 647449864,
-["itemLevel"] = 696.4375,
-["classId"] = 8,
-},
-},
-["elapsed"] = 176.7179999999935,
-["servertime"] = 1755713863,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 278874131,
-["itemLevel"] = 687.875,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 527871821,
-["itemLevel"] = 672.8,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 382093961,
-["itemLevel"] = 691.0625,
-["classId"] = 2,
-},
-},
-["time"] = 1755713864,
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 698579652,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 701360237,
-["itemLevel"] = 711.25,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 552210622,
-["itemLevel"] = 703.1875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 280528572,
-["itemLevel"] = 703.0625,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 455133486,
-["itemLevel"] = 700.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 268762966,
-["itemLevel"] = 711.5,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 555338258,
-["itemLevel"] = 711.5333333333333,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 605797577,
-["itemLevel"] = 711.4375,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 556726187,
-["itemLevel"] = 704.375,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 607491076,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 557957918,
-["itemLevel"] = 705.8125,
-["classId"] = 4,
-},
-},
-["time"] = 1757527795,
-["date"] = "20:09 10/09/25",
-["elapsed"] = 117.601999999999,
-["servertime"] = 1757527794,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 270188067,
-["itemLevel"] = 702.75,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 326808081,
-["itemLevel"] = 705.0625,
-["classId"] = 13,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["time"] = 1760293509,
-["guild"] = "Nox Terra",
-["elapsed"] = 135.9000000000006,
-["date"] = "20:25 12/10/25",
-["servertime"] = 1760293507,
-["HEALER"] = {
-["Wellric"] = {
-["total"] = 361130394,
-["itemLevel"] = 715.375,
-["classId"] = 7,
-},
-["Cidney"] = {
-["total"] = 407822058,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 748823898,
-["itemLevel"] = 717.125,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 780981071,
-["itemLevel"] = 715.625,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 491412800,
-["itemLevel"] = 707.625,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 456413771,
-["itemLevel"] = 710.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 331514054,
-["itemLevel"] = 716.5625,
-["classId"] = 10,
-},
-["Barrow"] = {
-["total"] = 624816705,
-["itemLevel"] = 716.2666666666667,
-["classId"] = 11,
-},
-["Cretino"] = {
-["total"] = 647330175,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 262689860,
-["itemLevel"] = 715.5,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 604423264,
-["itemLevel"] = 714.5625,
-["classId"] = 3,
-},
-["Angri"] = {
-["total"] = 473735792,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-},
-},
-},
-[3133] = {
-{
-["guild"] = "Nox Terra",
-["time"] = 1755716487,
-["elapsed"] = 156.0030000000261,
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 530586181,
-["itemLevel"] = 696.1875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 478010253,
-["itemLevel"] = 688.7333333333333,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 417387689,
-["itemLevel"] = 685.125,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 217252160,
-["itemLevel"] = 688.0625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 441561491,
-["itemLevel"] = 688.8666666666667,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 275678139,
-["itemLevel"] = 692.3125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 517260589,
-["itemLevel"] = 699.3125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 488317359,
-["itemLevel"] = 691.25,
-["classId"] = 11,
-},
-["Tbonem"] = {
-["total"] = 583106420,
-["itemLevel"] = 694.8666666666667,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 457450449,
-["itemLevel"] = 688.625,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 546669313,
-["itemLevel"] = 689.375,
-["classId"] = 11,
-},
-["Tiekenei"] = {
-["total"] = 489013055,
-["itemLevel"] = 693.6875,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 463580986,
-["itemLevel"] = 692.25,
-["classId"] = 5,
-},
-},
-["servertime"] = 1755716487,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 170347636,
-["itemLevel"] = 689.4375,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 313784657,
-["itemLevel"] = 674.3333333333334,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 314198039,
-["itemLevel"] = 691.0625,
-["classId"] = 2,
-},
-},
-["date"] = "21:01 20/08/25",
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 572575949,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 424566746,
-["itemLevel"] = 710.6666666666666,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 407048329,
-["itemLevel"] = 703.1875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 257818216,
-["itemLevel"] = 703.0625,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 370266288,
-["itemLevel"] = 700.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 264660663,
-["itemLevel"] = 711.5,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 535914377,
-["itemLevel"] = 711.4375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 460584484,
-["itemLevel"] = 711.4375,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 443073600,
-["itemLevel"] = 705.625,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 491261597,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 473119202,
-["itemLevel"] = 706.1875,
-["classId"] = 4,
-},
-},
-["time"] = 1757529481,
-["date"] = "20:38 10/09/25",
-["elapsed"] = 104.0929999999935,
-["servertime"] = 1757529480,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 120709232,
-["itemLevel"] = 702.75,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 140454311,
-["itemLevel"] = 705.0625,
-["classId"] = 13,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["time"] = 1760297533,
-["guild"] = "Nox Terra",
-["elapsed"] = 368.4069999999992,
-["date"] = "21:32 12/10/25",
-["servertime"] = 1760297531,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 887941642,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-["Wellric"] = {
-["total"] = 572964323,
-["itemLevel"] = 715.375,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 395077787,
-["itemLevel"] = 714.9333333333333,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1057864926,
-["itemLevel"] = 717.125,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 305710510,
-["itemLevel"] = 715.625,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 148160354,
-["itemLevel"] = 707.625,
-["classId"] = 9,
-},
-["Angri"] = {
-["total"] = 999784059,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 510495824,
-["itemLevel"] = 716.5625,
-["classId"] = 10,
-},
-["Cretino"] = {
-["total"] = 157421931,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 192177359,
-["itemLevel"] = 715.5,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 739552195,
-["itemLevel"] = 714.5625,
-["classId"] = 3,
-},
-["Bellætrix"] = {
-["total"] = 43281591,
-["itemLevel"] = 710.5625,
-["classId"] = 9,
-},
-},
-},
-},
-[3012] = {
-{
-["guild"] = "Nox Terra",
-["time"] = 1744569113,
-["elapsed"] = 225.4870000000228,
-["DAMAGER"] = {
-["Goozen"] = {
-["total"] = 194625576,
-["itemLevel"] = 625.75,
-["classId"] = 7,
-},
-["Cretino"] = {
-["total"] = 179127108,
-["itemLevel"] = 639.3125,
-["classId"] = 4,
-},
-["Misbaksel"] = {
-["total"] = 400587655,
-["itemLevel"] = 660.0625,
-["classId"] = 3,
-},
-["Benó"] = {
-["total"] = 217664644,
-["itemLevel"] = 649.5625,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 411568402,
-["itemLevel"] = 662.9375,
-["classId"] = 5,
-},
-["Vynarth"] = {
-["total"] = 392555912,
-["itemLevel"] = 658.625,
-["classId"] = 4,
-},
-["Garmín"] = {
-["total"] = 434775989,
-["itemLevel"] = 663.0625,
-["classId"] = 2,
-},
-["Barrow"] = {
-["total"] = 191047878,
-["itemLevel"] = 639.4,
-["classId"] = 11,
-},
-["Strathlor"] = {
-["total"] = 446281299,
-["itemLevel"] = 661.0625,
-["classId"] = 8,
-},
-},
-["servertime"] = 1744569112,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 211222973,
-["itemLevel"] = 658.75,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 182449119,
-["itemLevel"] = 631.1333333333333,
-["classId"] = 5,
-},
-},
-["date"] = "20:31 13/04/25",
-},
-{
-["time"] = 1745174540,
-["guild"] = "Nox Terra",
-["elapsed"] = 219.7900000000373,
-["date"] = "20:42 20/04/25",
-["servertime"] = 1745174540,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 183634316,
-["itemLevel"] = 662.5,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 116384917,
-["itemLevel"] = 637.5,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Angrilock"] = {
-["total"] = 132311293,
-["itemLevel"] = 623.875,
-["classId"] = 9,
-},
-["Vynarth"] = {
-["total"] = 559837895,
-["itemLevel"] = 663.5,
-["classId"] = 4,
-},
-["Barrow"] = {
-["total"] = 259868951,
-["itemLevel"] = 643.375,
-["classId"] = 11,
-},
-["Btheone"] = {
-["total"] = 305272576,
-["itemLevel"] = 647.375,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 270241419,
-["itemLevel"] = 645.8125,
-["classId"] = 4,
-},
-["Daveon-Stormscale"] = {
-["total"] = 146413588,
-["itemLevel"] = 641.1875,
-["classId"] = 6,
-},
-["Beorrn"] = {
-["total"] = 465343686,
-["itemLevel"] = 667.625,
-["classId"] = 11,
-},
-["Goozen"] = {
-["total"] = 225546076,
-["itemLevel"] = 627.4375,
-["classId"] = 7,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 326959888,
-["itemLevel"] = 677.125,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 421339176,
-["itemLevel"] = 671.9375,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 350394745,
-["itemLevel"] = 669.375,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 172513657,
-["itemLevel"] = 667.625,
-["classId"] = 1,
-},
-["Misbaksel"] = {
-["total"] = 258374591,
-["itemLevel"] = 666.5333333333333,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 257552907,
-["itemLevel"] = 667.875,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 516699632,
-["itemLevel"] = 671.875,
-["classId"] = 11,
-},
-["Barrow"] = {
-["total"] = 136916773,
-["itemLevel"] = 664.4375,
-["classId"] = 11,
-},
-["Velion"] = {
-["total"] = 271175593,
-["itemLevel"] = 665.8125,
-["classId"] = 6,
-},
-["Shambone"] = {
-["total"] = 250856345,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
-},
-["Angri"] = {
-["total"] = 270423347,
-["itemLevel"] = 665.8125,
-["classId"] = 3,
-},
-["Garanddor"] = {
-["total"] = 461457139,
-["itemLevel"] = 678.5,
-["classId"] = 2,
-},
-["Tiekenei"] = {
-["total"] = 297380369,
-["itemLevel"] = 664.3125,
-["classId"] = 7,
-},
-},
-["time"] = 1747852735,
-["date"] = "20:38 21/05/25",
-["elapsed"] = 217.6010000000242,
-["servertime"] = 1747852735,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 263762549,
-["itemLevel"] = 669.5625,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 361735079,
-["itemLevel"] = 670.0625,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1749062260,
-["elapsed"] = 177.4069999999992,
-["DAMAGER"] = {
-["Benosan"] = {
-["total"] = 235316235,
-["itemLevel"] = 672.8125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 315025299,
-["itemLevel"] = 673.2,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 232380319,
-["itemLevel"] = 673.0625,
-["classId"] = 11,
-},
-["Klanky"] = {
-["total"] = 429081286,
-["itemLevel"] = 674.75,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 279668660,
-["itemLevel"] = 670.1875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 202620050,
-["itemLevel"] = 673.4375,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 274143978,
-["itemLevel"] = 672.4375,
-["classId"] = 9,
-},
-["Sparrowbeast"] = {
-["total"] = 365278624,
-["itemLevel"] = 677.9375,
-["classId"] = 7,
-},
-},
-["servertime"] = 1749062258,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 180820719,
-["itemLevel"] = 671.5,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 120569645,
-["itemLevel"] = 675.125,
-["classId"] = 2,
-},
-},
-["date"] = "20:37 04/06/25",
-},
-},
-[3135] = {
-{
-["time"] = 1755720962,
-["guild"] = "Nox Terra",
-["elapsed"] = 430.2470000000003,
-["date"] = "22:16 20/08/25",
-["servertime"] = 1755720962,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 468045705,
-["itemLevel"] = 689.4375,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 876512494,
-["itemLevel"] = 679.0625,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 714888255,
-["itemLevel"] = 691.5,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 859879953,
-["itemLevel"] = 696.1875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 525812883,
-["itemLevel"] = 690.0625,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 725927812,
-["itemLevel"] = 685.5,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 408447104,
-["itemLevel"] = 688.3125,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 764579311,
-["itemLevel"] = 689.875,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 603826657,
-["itemLevel"] = 692.3125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 1182280020,
-["itemLevel"] = 700.8125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 600031004,
-["itemLevel"] = 691.25,
-["classId"] = 11,
-},
-["Tbonem"] = {
-["total"] = 928876248,
-["itemLevel"] = 695.4666666666667,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 928118082,
-["itemLevel"] = 689.6875,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 642136912,
-["itemLevel"] = 688.75,
-["classId"] = 11,
-},
-["Tiekenei"] = {
-["total"] = 982508761,
-["itemLevel"] = 693.6875,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 1005835418,
-["itemLevel"] = 692.875,
-["classId"] = 5,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1486424485,
-["itemLevel"] = 702.9375,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 1077280590,
-["itemLevel"] = 700.5,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 393360799,
-["itemLevel"] = 697.6875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 471218415,
-["itemLevel"] = 692.5625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 896460631,
-["itemLevel"] = 695.875,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 788644969,
-["itemLevel"] = 706.3125,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 310284755,
-["itemLevel"] = 698.9375,
-["classId"] = 5,
-},
-["Tiekenei"] = {
-["total"] = 1059694582,
-["itemLevel"] = 700.625,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 1009060781,
-["itemLevel"] = 705.8125,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 802537414,
-["itemLevel"] = 699.625,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 358417239,
-["itemLevel"] = 700.1875,
-["classId"] = 12,
-},
-["Beorrn"] = {
-["total"] = 359211982,
-["itemLevel"] = 700.0625,
-["classId"] = 11,
-},
-},
-["time"] = 1756322552,
-["date"] = "21:22 27/08/25",
-["elapsed"] = 400.0619999999981,
-["servertime"] = 1756322551,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 437111630,
-["itemLevel"] = 695.75,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 529615777,
-["itemLevel"] = 687.875,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 661809951,
-["itemLevel"] = 696.75,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["time"] = 1756927411,
-["guild"] = "Nox Terra",
-["elapsed"] = 320.6180000000168,
-["date"] = "21:23 03/09/25",
-["servertime"] = 1756927410,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 273354585,
-["itemLevel"] = 700.1875,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 572607389,
-["itemLevel"] = 699.9375,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 579662472,
-["itemLevel"] = 698.4375,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 863357471,
-["itemLevel"] = 709,
-["classId"] = 12,
-},
-["Tbonem"] = {
-["total"] = 953474542,
-["itemLevel"] = 709.1875,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 636681984,
-["itemLevel"] = 704.1875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 432743947,
-["itemLevel"] = 701.25,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 659488475,
-["itemLevel"] = 699.5,
-["classId"] = 3,
-},
-["Sparrowbeast"] = {
-["total"] = 1173929791,
-["itemLevel"] = 709,
-["classId"] = 7,
-},
-["Benosan"] = {
-["total"] = 430619462,
-["itemLevel"] = 708.6875,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 947750304,
-["itemLevel"] = 705.6875,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 295177394,
-["itemLevel"] = 702.0625,
-["classId"] = 5,
-},
-["Bellætrix"] = {
-["total"] = 492538896,
-["itemLevel"] = 690,
-["classId"] = 9,
-},
-["Klanky"] = {
-["total"] = 811170486,
-["itemLevel"] = 704.75,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 618857102,
-["itemLevel"] = 701.875,
-["classId"] = 9,
-},
-["Velion"] = {
-["total"] = 933663877,
-["itemLevel"] = 710.875,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 810415410,
-["itemLevel"] = 706.625,
-["classId"] = 11,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1105726379,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 735842376,
-["itemLevel"] = 711.25,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 654436488,
-["itemLevel"] = 703.1875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 366346484,
-["itemLevel"] = 703.0625,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 507646235,
-["itemLevel"] = 700.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 503210515,
-["itemLevel"] = 711.5,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 920582386,
-["itemLevel"] = 711.4375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 783792158,
-["itemLevel"] = 711.4375,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 732517461,
-["itemLevel"] = 705.625,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 844832375,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 543338575,
-["itemLevel"] = 705.625,
-["classId"] = 4,
-},
-},
-["time"] = 1757530546,
-["date"] = "20:55 10/09/25",
-["elapsed"] = 307.3600000000006,
-["servertime"] = 1757530545,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 436033680,
-["itemLevel"] = 702.75,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 476508376,
-["itemLevel"] = 705.0625,
-["classId"] = 13,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["time"] = 1760299611,
-["guild"] = "Nox Terra",
-["elapsed"] = 433.8549999999996,
-["date"] = "22:06 12/10/25",
-["servertime"] = 1760299609,
-["HEALER"] = {
-["Wellric"] = {
-["total"] = 922524412,
-["itemLevel"] = 715.375,
-["classId"] = 7,
-},
-["Cidney"] = {
-["total"] = 469477615,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1186562533,
-["itemLevel"] = 717.125,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 959752462,
-["itemLevel"] = 715.625,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 680743214,
-["itemLevel"] = 707.625,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 151767008,
-["itemLevel"] = 710.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 802322307,
-["itemLevel"] = 716.5625,
-["classId"] = 10,
-},
-["Barrow"] = {
-["total"] = 1010804352,
-["itemLevel"] = 716.5,
-["classId"] = 11,
-},
-["Cretino"] = {
-["total"] = 639504944,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 194563329,
-["itemLevel"] = 715.5,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 963914375,
-["itemLevel"] = 714.5625,
-["classId"] = 3,
-},
-["Angri"] = {
-["total"] = 840025796,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-},
-},
-},
-[3013] = {
-{
-["guild"] = "Nox Terra",
-["time"] = 1744569603,
-["elapsed"] = 161.6070000000182,
-["DAMAGER"] = {
-["Goozen"] = {
-["total"] = 156228719,
-["itemLevel"] = 625.75,
-["classId"] = 7,
-},
-["Cretino"] = {
-["total"] = 179149636,
-["itemLevel"] = 639.3125,
-["classId"] = 4,
-},
-["Misbaksel"] = {
-["total"] = 256873320,
-["itemLevel"] = 660.0625,
-["classId"] = 3,
-},
-["Benó"] = {
-["total"] = 142933279,
-["itemLevel"] = 649.5625,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 304252676,
-["itemLevel"] = 662.9375,
-["classId"] = 5,
-},
-["Vynarth"] = {
-["total"] = 293539623,
-["itemLevel"] = 658.625,
-["classId"] = 4,
-},
-["Garmín"] = {
-["total"] = 294627598,
-["itemLevel"] = 663.0625,
-["classId"] = 2,
-},
-["Barrow"] = {
-["total"] = 152288769,
-["itemLevel"] = 639.1875,
-["classId"] = 11,
-},
-["Strathlor"] = {
-["total"] = 270838431,
-["itemLevel"] = 661.0625,
-["classId"] = 8,
-},
-},
-["servertime"] = 1744569602,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 108314942,
-["itemLevel"] = 658.75,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 111019148,
-["itemLevel"] = 631,
-["classId"] = 5,
-},
-},
-["date"] = "20:40 13/04/25",
-},
-{
-["time"] = 1745175023,
-["guild"] = "Nox Terra",
-["elapsed"] = 173.7059999999474,
-["date"] = "20:50 20/04/25",
-["servertime"] = 1745175023,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 136774627,
-["itemLevel"] = 662.5,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 81760790,
-["itemLevel"] = 637.5,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Angrilock"] = {
-["total"] = 107600020,
-["itemLevel"] = 625.9333333333333,
-["classId"] = 9,
-},
-["Vynarth"] = {
-["total"] = 336484858,
-["itemLevel"] = 663.5,
-["classId"] = 4,
-},
-["Barrow"] = {
-["total"] = 189555958,
-["itemLevel"] = 643.375,
-["classId"] = 11,
-},
-["Btheone"] = {
-["total"] = 131935148,
-["itemLevel"] = 647.375,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 235609503,
-["itemLevel"] = 645.8125,
-["classId"] = 4,
-},
-["Daveon-Stormscale"] = {
-["total"] = 129930407,
-["itemLevel"] = 641.1875,
-["classId"] = 6,
-},
-["Beorrn"] = {
-["total"] = 387611339,
-["itemLevel"] = 667.625,
-["classId"] = 11,
-},
-["Goozen"] = {
-["total"] = 185144980,
-["itemLevel"] = 627.4375,
-["classId"] = 7,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 256611264,
-["itemLevel"] = 677.125,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 259922288,
-["itemLevel"] = 671.9375,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 230611282,
-["itemLevel"] = 669.375,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 108485989,
-["itemLevel"] = 667.625,
-["classId"] = 1,
-},
-["Misbaksel"] = {
-["total"] = 243284003,
-["itemLevel"] = 666.5333333333333,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 224418238,
-["itemLevel"] = 667.875,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 267216480,
-["itemLevel"] = 671.875,
-["classId"] = 11,
-},
-["Barrow"] = {
-["total"] = 80508786,
-["itemLevel"] = 664.4375,
-["classId"] = 11,
-},
-["Velion"] = {
-["total"] = 213125332,
-["itemLevel"] = 665.8125,
-["classId"] = 6,
-},
-["Shambone"] = {
-["total"] = 232233193,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
-},
-["Angri"] = {
-["total"] = 191234521,
-["itemLevel"] = 665.8125,
-["classId"] = 3,
-},
-["Garanddor"] = {
-["total"] = 259234129,
-["itemLevel"] = 678.5,
-["classId"] = 2,
-},
-["Tiekenei"] = {
-["total"] = 189565265,
-["itemLevel"] = 664.3125,
-["classId"] = 7,
-},
-},
-["time"] = 1747853224,
-["date"] = "20:47 21/05/25",
-["elapsed"] = 93.92300000000978,
-["servertime"] = 1747853224,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 131352125,
-["itemLevel"] = 669.5625,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 76505307,
-["itemLevel"] = 670.0625,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1749062582,
-["elapsed"] = 80.5580000000009,
-["DAMAGER"] = {
-["Benosan"] = {
-["total"] = 142897549,
-["itemLevel"] = 672.8125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 241035193,
-["itemLevel"] = 673.875,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 182354701,
-["itemLevel"] = 673.0625,
-["classId"] = 11,
-},
-["Klanky"] = {
-["total"] = 250494130,
-["itemLevel"] = 674.75,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 238110012,
-["itemLevel"] = 670.1875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 135401321,
-["itemLevel"] = 673.4375,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 208703710,
-["itemLevel"] = 672.4375,
-["classId"] = 9,
-},
-["Sparrowbeast"] = {
-["total"] = 280321202,
-["itemLevel"] = 677.9375,
-["classId"] = 7,
-},
-},
-["servertime"] = 1749062580,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 91391507,
-["itemLevel"] = 671.5,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 44894136,
-["itemLevel"] = 675.125,
-["classId"] = 2,
-},
-},
-["date"] = "20:43 04/06/25",
-},
-},
-[3014] = {
-{
-["guild"] = "Nox Terra",
-["time"] = 1744570285,
-["elapsed"] = 191.6670000000158,
-["DAMAGER"] = {
-["Goozen"] = {
-["total"] = 184685470,
-["itemLevel"] = 625.75,
-["classId"] = 7,
-},
-["Cretino"] = {
-["total"] = 206839858,
-["itemLevel"] = 639.3125,
-["classId"] = 4,
-},
-["Misbaksel"] = {
-["total"] = 312822223,
-["itemLevel"] = 660.0625,
-["classId"] = 3,
-},
-["Benó"] = {
-["total"] = 184402808,
-["itemLevel"] = 649.5625,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 385638985,
-["itemLevel"] = 662.9375,
-["classId"] = 5,
-},
-["Vynarth"] = {
-["total"] = 354898287,
-["itemLevel"] = 658.625,
-["classId"] = 4,
-},
-["Garmín"] = {
-["total"] = 323814251,
-["itemLevel"] = 662.9333333333333,
-["classId"] = 2,
-},
-["Barrow"] = {
-["total"] = 185939603,
-["itemLevel"] = 640.1875,
-["classId"] = 11,
-},
-["Strathlor"] = {
-["total"] = 353556955,
-["itemLevel"] = 661.0625,
-["classId"] = 8,
-},
-},
-["servertime"] = 1744570284,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 199699585,
-["itemLevel"] = 658.75,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 155581680,
-["itemLevel"] = 631,
-["classId"] = 5,
-},
-},
-["date"] = "20:51 13/04/25",
-},
-{
-["time"] = 1745175471,
-["guild"] = "Nox Terra",
-["elapsed"] = 203.7450000000536,
-["date"] = "20:57 20/04/25",
-["servertime"] = 1745175471,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 205397684,
-["itemLevel"] = 662.5,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 149674856,
-["itemLevel"] = 637.5,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Angrilock"] = {
-["total"] = 140750064,
-["itemLevel"] = 627,
-["classId"] = 9,
-},
-["Vynarth"] = {
-["total"] = 383299721,
-["itemLevel"] = 663.5,
-["classId"] = 4,
-},
-["Barrow"] = {
-["total"] = 260149258,
-["itemLevel"] = 643.375,
-["classId"] = 11,
-},
-["Btheone"] = {
-["total"] = 206707385,
-["itemLevel"] = 647.375,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 293213839,
-["itemLevel"] = 645.8125,
-["classId"] = 4,
-},
-["Daveon-Stormscale"] = {
-["total"] = 158620948,
-["itemLevel"] = 641.1875,
-["classId"] = 6,
-},
-["Beorrn"] = {
-["total"] = 475728233,
-["itemLevel"] = 667.625,
-["classId"] = 11,
-},
-["Goozen"] = {
-["total"] = 245475427,
-["itemLevel"] = 627.4375,
-["classId"] = 7,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 317901292,
-["itemLevel"] = 677.125,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 289693137,
-["itemLevel"] = 671.9375,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 282480972,
-["itemLevel"] = 669.375,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 139337786,
-["itemLevel"] = 667.625,
-["classId"] = 1,
-},
-["Misbaksel"] = {
-["total"] = 243373939,
-["itemLevel"] = 667,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 189861836,
-["itemLevel"] = 667.875,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 366579110,
-["itemLevel"] = 671.875,
-["classId"] = 11,
-},
-["Barrow"] = {
-["total"] = 104305804,
-["itemLevel"] = 664,
-["classId"] = 11,
-},
-["Velion"] = {
-["total"] = 249341728,
-["itemLevel"] = 665.8125,
-["classId"] = 6,
-},
-["Shambone"] = {
-["total"] = 228173881,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
-},
-["Angri"] = {
-["total"] = 229464709,
-["itemLevel"] = 665.8125,
-["classId"] = 3,
-},
-["Garanddor"] = {
-["total"] = 343742765,
-["itemLevel"] = 678.5,
-["classId"] = 2,
-},
-["Tiekenei"] = {
-["total"] = 252862262,
-["itemLevel"] = 664.3125,
-["classId"] = 7,
-},
-},
-["time"] = 1747853883,
-["date"] = "20:58 21/05/25",
-["elapsed"] = 122.9729999999981,
-["servertime"] = 1747853883,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 200973618,
-["itemLevel"] = 669.5625,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 182810860,
-["itemLevel"] = 670.0625,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1749063235,
-["elapsed"] = 204.0919999999969,
-["DAMAGER"] = {
-["Benosan"] = {
-["total"] = 263554316,
-["itemLevel"] = 672.8125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 366412242,
-["itemLevel"] = 673.875,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 317290380,
-["itemLevel"] = 673.0625,
-["classId"] = 11,
-},
-["Klanky"] = {
-["total"] = 554179982,
-["itemLevel"] = 674.75,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 403158585,
-["itemLevel"] = 670.1875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 308479084,
-["itemLevel"] = 673.4375,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 339183953,
-["itemLevel"] = 672.4375,
-["classId"] = 9,
-},
-["Sparrowbeast"] = {
-["total"] = 518896536,
-["itemLevel"] = 677.9375,
-["classId"] = 7,
-},
-},
-["servertime"] = 1749063233,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 295989759,
-["itemLevel"] = 671.5,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 341523662,
-["itemLevel"] = 675.125,
-["classId"] = 2,
-},
-},
-["date"] = "20:53 04/06/25",
-},
-},
-[3134] = {
-{
-["time"] = 1755717740,
-["guild"] = "Nox Terra",
-["elapsed"] = 253.5419999999999,
-["date"] = "21:22 20/08/25",
-["servertime"] = 1755717740,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 365995551,
-["itemLevel"] = 689.4375,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 638088794,
-["itemLevel"] = 679.0625,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 604986401,
-["itemLevel"] = 691.0625,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 899982622,
-["itemLevel"] = 696.1875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 332030090,
-["itemLevel"] = 688.875,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 679461221,
-["itemLevel"] = 685.125,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 363477269,
-["itemLevel"] = 688.3125,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 728925684,
-["itemLevel"] = 690,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 482625131,
-["itemLevel"] = 691.1333333333333,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 968594388,
-["itemLevel"] = 699.3125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 630115622,
-["itemLevel"] = 691.25,
-["classId"] = 11,
-},
-["Tbonem"] = {
-["total"] = 1076249075,
-["itemLevel"] = 697,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 691035890,
-["itemLevel"] = 689.6875,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 434743441,
-["itemLevel"] = 688.75,
-["classId"] = 11,
-},
-["Tiekenei"] = {
-["total"] = 826100907,
-["itemLevel"] = 693.6875,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 804639982,
-["itemLevel"] = 692.875,
-["classId"] = 5,
-},
-},
-},
-{
-["time"] = 1756925634,
-["guild"] = "Nox Terra",
-["elapsed"] = 152.9340000000084,
-["date"] = "20:53 03/09/25",
-["servertime"] = 1756925633,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 213602020,
-["itemLevel"] = 700.1875,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 497703640,
-["itemLevel"] = 699.9375,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 387569066,
-["itemLevel"] = 698.4375,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 781771930,
-["itemLevel"] = 709,
-["classId"] = 12,
-},
-["Tbonem"] = {
-["total"] = 796805180,
-["itemLevel"] = 708.4666666666667,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 623685419,
-["itemLevel"] = 704.1875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 376689006,
-["itemLevel"] = 701.25,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 634624791,
-["itemLevel"] = 699.5,
-["classId"] = 3,
-},
-["Sparrowbeast"] = {
-["total"] = 855646195,
-["itemLevel"] = 709,
-["classId"] = 7,
-},
-["Benosan"] = {
-["total"] = 465987367,
-["itemLevel"] = 708.6875,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 888875934,
-["itemLevel"] = 705.6875,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 716861856,
-["itemLevel"] = 702.0625,
-["classId"] = 5,
-},
-["Bellætrix"] = {
-["total"] = 544320179,
-["itemLevel"] = 690,
-["classId"] = 9,
-},
-["Klanky"] = {
-["total"] = 780106146,
-["itemLevel"] = 704.75,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 630557955,
-["itemLevel"] = 701.875,
-["classId"] = 9,
-},
-["Velion"] = {
-["total"] = 657305787,
-["itemLevel"] = 710.875,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 725966034,
-["itemLevel"] = 707.4375,
-["classId"] = 11,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 824476384,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 682657890,
-["itemLevel"] = 711.25,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 596314035,
-["itemLevel"] = 703.1875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 393493487,
-["itemLevel"] = 703.0625,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 643039127,
-["itemLevel"] = 700.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 516977315,
-["itemLevel"] = 711.5,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 687840415,
-["itemLevel"] = 711.4375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 729801111,
-["itemLevel"] = 711.4375,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 701945148,
-["itemLevel"] = 705.625,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 760807280,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 716941182,
-["itemLevel"] = 705.625,
-["classId"] = 4,
-},
-},
-["time"] = 1757530051,
-["date"] = "20:47 10/09/25",
-["elapsed"] = 147.9600000000064,
-["servertime"] = 1757530050,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 311514979,
-["itemLevel"] = 702.75,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 414247687,
-["itemLevel"] = 705.0625,
-["classId"] = 13,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["time"] = 1760298192,
-["guild"] = "Nox Terra",
-["elapsed"] = 160.6140000000014,
-["date"] = "21:43 12/10/25",
-["servertime"] = 1760298190,
-["HEALER"] = {
-["Wellric"] = {
-["total"] = 413510458,
-["itemLevel"] = 715.375,
-["classId"] = 7,
-},
-["Cidney"] = {
-["total"] = 545977978,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 896626174,
-["itemLevel"] = 717.125,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 949132376,
-["itemLevel"] = 715.625,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 788861389,
-["itemLevel"] = 707.625,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 662472347,
-["itemLevel"] = 710.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 165789309,
-["itemLevel"] = 716.5625,
-["classId"] = 10,
-},
-["Barrow"] = {
-["total"] = 674081356,
-["itemLevel"] = 716.5,
-["classId"] = 11,
-},
-["Cretino"] = {
-["total"] = 623890384,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 263670293,
-["itemLevel"] = 715.5,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 830148434,
-["itemLevel"] = 714.5625,
-["classId"] = 3,
-},
-["Angri"] = {
-["total"] = 677631242,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-},
-},
-},
-[3130] = {
-{
-["guild"] = "Nox Terra",
-["time"] = 1755714529,
-["elapsed"] = 203.3940000000293,
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 740316141,
-["itemLevel"] = 696.1875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 633704870,
-["itemLevel"] = 687.375,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 628346179,
-["itemLevel"] = 685.125,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 300234680,
-["itemLevel"] = 688.0625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 541857372,
-["itemLevel"] = 688.8666666666667,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 439474681,
-["itemLevel"] = 692.3125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 790254722,
-["itemLevel"] = 699.3125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 526221370,
-["itemLevel"] = 691.25,
-["classId"] = 11,
-},
-["Tbonem"] = {
-["total"] = 898251678,
-["itemLevel"] = 696.4375,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 756489172,
-["itemLevel"] = 688.625,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 699785844,
-["itemLevel"] = 688.75,
-["classId"] = 11,
-},
-["Tiekenei"] = {
-["total"] = 799892426,
-["itemLevel"] = 693.6875,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 781416942,
-["itemLevel"] = 692.25,
-["classId"] = 5,
-},
-},
-["servertime"] = 1755714528,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 176500619,
-["itemLevel"] = 689.0625,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 400696336,
-["itemLevel"] = 672.6875,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 383347107,
-["itemLevel"] = 691.0625,
-["classId"] = 2,
-},
-},
-["date"] = "20:28 20/08/25",
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 754596808,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 749042040,
-["itemLevel"] = 711.25,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 638532059,
-["itemLevel"] = 703.1875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 424681328,
-["itemLevel"] = 703.0625,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 416845528,
-["itemLevel"] = 700.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 379087434,
-["itemLevel"] = 711.5,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 755714125,
-["itemLevel"] = 711.4375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 587021401,
-["itemLevel"] = 711.4375,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 598439707,
-["itemLevel"] = 705.625,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 688576860,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 479447530,
-["itemLevel"] = 705.8125,
-["classId"] = 4,
-},
-},
-["time"] = 1757528257,
-["date"] = "20:17 10/09/25",
-["elapsed"] = 135.5240000000049,
-["servertime"] = 1757528256,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 192583852,
-["itemLevel"] = 702.75,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 246395424,
-["itemLevel"] = 705.0625,
-["classId"] = 13,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["time"] = 1760294052,
-["guild"] = "Nox Terra",
-["elapsed"] = 132.4250000000002,
-["date"] = "20:34 12/10/25",
-["servertime"] = 1760294050,
-["HEALER"] = {
-["Wellric"] = {
-["total"] = 262774197,
-["itemLevel"] = 715.375,
-["classId"] = 7,
-},
-["Cidney"] = {
-["total"] = 299114876,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 714643430,
-["itemLevel"] = 717.125,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 735169354,
-["itemLevel"] = 715.625,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 654290119,
-["itemLevel"] = 707.625,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 543170841,
-["itemLevel"] = 710.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 408832469,
-["itemLevel"] = 716.5625,
-["classId"] = 10,
-},
-["Barrow"] = {
-["total"] = 689635187,
-["itemLevel"] = 716.5,
-["classId"] = 11,
-},
-["Cretino"] = {
-["total"] = 661910790,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 424031366,
-["itemLevel"] = 715.5,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 510396061,
-["itemLevel"] = 714.5625,
-["classId"] = 3,
-},
-["Angri"] = {
-["total"] = 527783720,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-},
-},
-},
-[3015] = {
-{
-["guild"] = "Nox Terra",
-["time"] = 1744570719,
-["elapsed"] = 192.3920000000508,
-["DAMAGER"] = {
-["Goozen"] = {
-["total"] = 156064011,
-["itemLevel"] = 625.75,
-["classId"] = 7,
-},
-["Cretino"] = {
-["total"] = 183499416,
-["itemLevel"] = 639.3125,
-["classId"] = 4,
-},
-["Misbaksel"] = {
-["total"] = 335585806,
-["itemLevel"] = 660.0625,
-["classId"] = 3,
-},
-["Benó"] = {
-["total"] = 203143351,
-["itemLevel"] = 649.5625,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 261230183,
-["itemLevel"] = 662.9375,
-["classId"] = 5,
-},
-["Vynarth"] = {
-["total"] = 314542953,
-["itemLevel"] = 658.625,
-["classId"] = 4,
-},
-["Garmín"] = {
-["total"] = 323428936,
-["itemLevel"] = 663.0625,
-["classId"] = 2,
-},
-["Barrow"] = {
-["total"] = 194860485,
-["itemLevel"] = 640.1875,
-["classId"] = 11,
-},
-["Strathlor"] = {
-["total"] = 308509159,
-["itemLevel"] = 661.0625,
-["classId"] = 8,
-},
-},
-["servertime"] = 1744570718,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 159910159,
-["itemLevel"] = 658.75,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 121605747,
-["itemLevel"] = 631,
-["classId"] = 5,
-},
-},
-["date"] = "20:58 13/04/25",
-},
-{
-["time"] = 1745176236,
-["guild"] = "Nox Terra",
-["elapsed"] = 199.6739999999991,
-["date"] = "21:10 20/04/25",
-["servertime"] = 1745176236,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 213869905,
-["itemLevel"] = 662.5,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 95257125,
-["itemLevel"] = 637.5,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Angrilock"] = {
-["total"] = 106593786,
-["itemLevel"] = 627.9375,
-["classId"] = 9,
-},
-["Vynarth"] = {
-["total"] = 365734125,
-["itemLevel"] = 663.5,
-["classId"] = 4,
-},
-["Barrow"] = {
-["total"] = 203885945,
-["itemLevel"] = 643.375,
-["classId"] = 11,
-},
-["Btheone"] = {
-["total"] = 170361336,
-["itemLevel"] = 647.375,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 247554710,
-["itemLevel"] = 643.5625,
-["classId"] = 4,
-},
-["Daveon-Stormscale"] = {
-["total"] = 136832770,
-["itemLevel"] = 641.1875,
-["classId"] = 6,
-},
-["Beorrn"] = {
-["total"] = 450655024,
-["itemLevel"] = 667.625,
-["classId"] = 11,
-},
-["Goozen"] = {
-["total"] = 172369291,
-["itemLevel"] = 627.4375,
-["classId"] = 7,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 368858171,
-["itemLevel"] = 677.125,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 258791546,
-["itemLevel"] = 671.9375,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 160360014,
-["itemLevel"] = 669.375,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 162319709,
-["itemLevel"] = 667.625,
-["classId"] = 1,
-},
-["Misbaksel"] = {
-["total"] = 250910044,
-["itemLevel"] = 667,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 172218289,
-["itemLevel"] = 667.875,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 412168396,
-["itemLevel"] = 671.875,
-["classId"] = 11,
-},
-["Barrow"] = {
-["total"] = 97559711,
-["itemLevel"] = 664.4375,
-["classId"] = 11,
-},
-["Velion"] = {
-["total"] = 185865918,
-["itemLevel"] = 665.8125,
-["classId"] = 6,
-},
-["Shambone"] = {
-["total"] = 253285103,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
-},
-["Angri"] = {
-["total"] = 240563773,
-["itemLevel"] = 665.8125,
-["classId"] = 3,
-},
-["Garanddor"] = {
-["total"] = 208852390,
-["itemLevel"] = 678.5,
-["classId"] = 2,
-},
-["Tiekenei"] = {
-["total"] = 311916797,
-["itemLevel"] = 664.3125,
-["classId"] = 7,
-},
-},
-["time"] = 1747855513,
-["date"] = "21:25 21/05/25",
-["elapsed"] = 172.9039999999804,
-["servertime"] = 1747855513,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 287965685,
-["itemLevel"] = 669.5625,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 265277136,
-["itemLevel"] = 670.0625,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1749064049,
-["elapsed"] = 147.8320000000022,
-["DAMAGER"] = {
-["Benosan"] = {
-["total"] = 151036440,
-["itemLevel"] = 672.8125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 138973729,
-["itemLevel"] = 673.875,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 207631816,
-["itemLevel"] = 673.0625,
-["classId"] = 11,
-},
-["Klanky"] = {
-["total"] = 296425485,
-["itemLevel"] = 674.75,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 227671993,
-["itemLevel"] = 670.1875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 140728866,
-["itemLevel"] = 673.4375,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 177471524,
-["itemLevel"] = 671.8666666666667,
-["classId"] = 9,
-},
-["Sparrowbeast"] = {
-["total"] = 356489191,
-["itemLevel"] = 677.9375,
-["classId"] = 7,
-},
-},
-["servertime"] = 1749064047,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 172383774,
-["itemLevel"] = 671.5,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 155886696,
-["itemLevel"] = 675.125,
-["classId"] = 2,
-},
-},
-["date"] = "21:07 04/06/25",
-},
-},
-[3129] = {
-{
-["date"] = "20:07 20/08/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 368665881,
-["itemLevel"] = 696.1875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 487741587,
-["itemLevel"] = 688,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 536967786,
-["itemLevel"] = 685.125,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 280210842,
-["itemLevel"] = 688.0625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 368065727,
-["itemLevel"] = 687.75,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 296725079,
-["itemLevel"] = 692.3125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 601441888,
-["itemLevel"] = 698.9375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 441185547,
-["itemLevel"] = 691.25,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 486694072,
-["itemLevel"] = 693.5,
-["classId"] = 5,
-},
-["Tiekenei"] = {
-["total"] = 558166070,
-["itemLevel"] = 693.6875,
-["classId"] = 7,
-},
-["Beorrn"] = {
-["total"] = 564934294,
-["itemLevel"] = 688.75,
-["classId"] = 11,
-},
-["Shkia"] = {
-["total"] = 582400294,
-["itemLevel"] = 688.625,
-["classId"] = 9,
-},
-["Tbonem"] = {
-["total"] = 535450259,
-["itemLevel"] = 696.4375,
-["classId"] = 8,
-},
-},
-["elapsed"] = 170.6639999999898,
-["servertime"] = 1755713266,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 163899272,
-["itemLevel"] = 687.875,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 337141616,
-["itemLevel"] = 671.25,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 222814082,
-["itemLevel"] = 691.0625,
-["classId"] = 2,
-},
-},
-["time"] = 1755713267,
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 675782660,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 590328391,
-["itemLevel"] = 711.25,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 374247813,
-["itemLevel"] = 703.1875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 223676220,
-["itemLevel"] = 703.0625,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 359956580,
-["itemLevel"] = 700.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 287014351,
-["itemLevel"] = 711.5,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 549240683,
-["itemLevel"] = 711.8125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 558120956,
-["itemLevel"] = 710.8666666666667,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 458783042,
-["itemLevel"] = 705.625,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 442892171,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 418266009,
-["itemLevel"] = 705.8125,
-["classId"] = 4,
-},
-},
-["time"] = 1757527374,
-["date"] = "20:02 10/09/25",
-["elapsed"] = 115.6340000000055,
-["servertime"] = 1757527373,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 279676360,
-["itemLevel"] = 702.75,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 242752305,
-["itemLevel"] = 705.0625,
-["classId"] = 13,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["time"] = 1760293027,
-["guild"] = "Nox Terra",
-["elapsed"] = 393.04,
-["date"] = "20:17 12/10/25",
-["servertime"] = 1760293025,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 581058775,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-["Wellric"] = {
-["total"] = 691567437,
-["itemLevel"] = 715.375,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 436060729,
-["itemLevel"] = 715.25,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1690978567,
-["itemLevel"] = 717.125,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 437063453,
-["itemLevel"] = 715.625,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 381943349,
-["itemLevel"] = 707.625,
-["classId"] = 9,
-},
-["Angri"] = {
-["total"] = 236039568,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 721683427,
-["itemLevel"] = 716.5625,
-["classId"] = 10,
-},
-["Cretino"] = {
-["total"] = 657020578,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 408471594,
-["itemLevel"] = 715.5,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 501779207,
-["itemLevel"] = 714.5625,
-["classId"] = 3,
-},
-["Bellætrix"] = {
-["total"] = 53095862,
-["itemLevel"] = 710.5625,
-["classId"] = 9,
-},
-},
+["time"] = 1749060858,
 },
 },
 [3011] = {
 {
+["date"] = "20:24 13/04/25",
 ["guild"] = "Nox Terra",
-["time"] = 1744568643,
-["elapsed"] = 193.5579999999609,
 ["DAMAGER"] = {
 ["Goozen"] = {
 ["total"] = 177663289,
@@ -4142,10 +1150,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.9375,
 ["classId"] = 5,
 },
-["Vynarth"] = {
-["total"] = 304998606,
-["itemLevel"] = 658.625,
-["classId"] = 4,
+["Strathlor"] = {
+["total"] = 300553385,
+["itemLevel"] = 661.0625,
+["classId"] = 8,
 },
 ["Garmín"] = {
 ["total"] = 288861811,
@@ -4157,12 +1165,13 @@ DetailsDataStorage = {
 ["itemLevel"] = 636.75,
 ["classId"] = 11,
 },
-["Strathlor"] = {
-["total"] = 300553385,
-["itemLevel"] = 661.0625,
-["classId"] = 8,
+["Vynarth"] = {
+["total"] = 304998606,
+["itemLevel"] = 658.625,
+["classId"] = 4,
 },
 },
+["elapsed"] = 193.5579999999609,
 ["servertime"] = 1744568642,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -4176,13 +1185,54 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "20:24 13/04/25",
+["time"] = 1744568643,
 },
 {
+["DAMAGER"] = {
+["Barrow"] = {
+["total"] = 131746384,
+["itemLevel"] = 643.375,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 361202907,
+["itemLevel"] = 663.5,
+["classId"] = 4,
+},
+["Goozen"] = {
+["total"] = 239518931,
+["itemLevel"] = 626.4375,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 466467181,
+["itemLevel"] = 667.625,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 195860888,
+["itemLevel"] = 645.8125,
+["classId"] = 4,
+},
+["Daveon-Stormscale"] = {
+["total"] = 124741534,
+["itemLevel"] = 641.1875,
+["classId"] = 6,
+},
+["Btheone"] = {
+["total"] = 181808838,
+["itemLevel"] = 647.375,
+["classId"] = 12,
+},
+["Angrilock"] = {
+["total"] = 110122782,
+["itemLevel"] = 623.875,
+["classId"] = 9,
+},
+},
 ["time"] = 1745174063,
-["guild"] = "Nox Terra",
-["elapsed"] = 227.2320000000182,
 ["date"] = "20:34 20/04/25",
+["elapsed"] = 227.2320000000182,
 ["servertime"] = 1745174063,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -4196,50 +1246,12 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["DAMAGER"] = {
-["Angrilock"] = {
-["total"] = 110122782,
-["itemLevel"] = 623.875,
-["classId"] = 9,
-},
-["Vynarth"] = {
-["total"] = 361202907,
-["itemLevel"] = 663.5,
-["classId"] = 4,
-},
-["Barrow"] = {
-["total"] = 131746384,
-["itemLevel"] = 643.375,
-["classId"] = 11,
-},
-["Btheone"] = {
-["total"] = 181808838,
-["itemLevel"] = 647.375,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 195860888,
-["itemLevel"] = 645.8125,
-["classId"] = 4,
-},
-["Daveon-Stormscale"] = {
-["total"] = 124741534,
-["itemLevel"] = 641.1875,
-["classId"] = 6,
-},
-["Beorrn"] = {
-["total"] = 466467181,
-["itemLevel"] = 667.625,
-["classId"] = 11,
-},
-["Goozen"] = {
-["total"] = 239518931,
-["itemLevel"] = 626.4375,
-["classId"] = 7,
-},
-},
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1747851881,
+["elapsed"] = 179.5140000000247,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 348548053,
@@ -4266,10 +1278,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 666.8125,
 ["classId"] = 3,
 },
-["Shkia"] = {
-["total"] = 189463075,
-["itemLevel"] = 667.875,
-["classId"] = 9,
+["Tiekenei"] = {
+["total"] = 285259356,
+["itemLevel"] = 664.3125,
+["classId"] = 7,
 },
 ["Beorrn"] = {
 ["total"] = 328634164,
@@ -4281,10 +1293,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 664.4375,
 ["classId"] = 11,
 },
-["Velion"] = {
-["total"] = 204620551,
-["itemLevel"] = 665.8125,
-["classId"] = 6,
+["Garanddor"] = {
+["total"] = 265148820,
+["itemLevel"] = 678.5,
+["classId"] = 2,
 },
 ["Shambone"] = {
 ["total"] = 300070146,
@@ -4296,20 +1308,17 @@ DetailsDataStorage = {
 ["itemLevel"] = 665.8125,
 ["classId"] = 3,
 },
-["Garanddor"] = {
-["total"] = 265148820,
-["itemLevel"] = 678.5,
-["classId"] = 2,
+["Velion"] = {
+["total"] = 204620551,
+["itemLevel"] = 665.8125,
+["classId"] = 6,
 },
-["Tiekenei"] = {
-["total"] = 285259356,
-["itemLevel"] = 664.3125,
-["classId"] = 7,
+["Shkia"] = {
+["total"] = 189463075,
+["itemLevel"] = 667.875,
+["classId"] = 9,
 },
 },
-["time"] = 1747851881,
-["date"] = "20:24 21/05/25",
-["elapsed"] = 179.5140000000247,
 ["servertime"] = 1747851881,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -4323,12 +1332,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:24 21/05/25",
 },
 {
+["date"] = "20:21 04/06/25",
 ["guild"] = "Nox Terra",
-["time"] = 1749061306,
-["elapsed"] = 181.0869999999995,
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 171758374,
@@ -4371,6 +1379,7 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["elapsed"] = 181.0869999999995,
 ["servertime"] = 1749061304,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -4379,7 +1388,3566 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "20:21 04/06/25",
+["time"] = 1749061306,
+},
+},
+[3131] = {
+{
+["time"] = 1755713864,
+["guild"] = "Nox Terra",
+["elapsed"] = 176.7179999999935,
+["date"] = "20:17 20/08/25",
+["servertime"] = 1755713863,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 278874131,
+["itemLevel"] = 687.875,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 527871821,
+["itemLevel"] = 672.8,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 382093961,
+["itemLevel"] = 691.0625,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 629216047,
+["itemLevel"] = 696.1875,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 623073857,
+["itemLevel"] = 687.1333333333333,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 577334166,
+["itemLevel"] = 685.125,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 263094083,
+["itemLevel"] = 688.0625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 538929918,
+["itemLevel"] = 687.75,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 361543860,
+["itemLevel"] = 692.3125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 649192100,
+["itemLevel"] = 699.3125,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 475788990,
+["itemLevel"] = 691.25,
+["classId"] = 11,
+},
+["Tbonem"] = {
+["total"] = 647449864,
+["itemLevel"] = 696.4375,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 616301670,
+["itemLevel"] = 688.625,
+["classId"] = 9,
+},
+["Beorrn"] = {
+["total"] = 660601236,
+["itemLevel"] = 688.75,
+["classId"] = 11,
+},
+["Tiekenei"] = {
+["total"] = 761289833,
+["itemLevel"] = 693.6875,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 590498222,
+["itemLevel"] = 693.5,
+["classId"] = 5,
+},
+},
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1757527795,
+["elapsed"] = 117.601999999999,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 698579652,
+["itemLevel"] = 711,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 701360237,
+["itemLevel"] = 711.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 552210622,
+["itemLevel"] = 703.1875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 280528572,
+["itemLevel"] = 703.0625,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 455133486,
+["itemLevel"] = 700.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 268762966,
+["itemLevel"] = 711.5,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 555338258,
+["itemLevel"] = 711.5333333333333,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 605797577,
+["itemLevel"] = 711.4375,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 557957918,
+["itemLevel"] = 705.8125,
+["classId"] = 4,
+},
+["Garadh"] = {
+["total"] = 607491076,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Potdisc"] = {
+["total"] = 556726187,
+["itemLevel"] = 704.375,
+["classId"] = 5,
+},
+},
+["servertime"] = 1757527794,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 270188067,
+["itemLevel"] = 702.75,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 326808081,
+["itemLevel"] = 705.0625,
+["classId"] = 13,
+},
+},
+["date"] = "20:09 10/09/25",
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 748823898,
+["itemLevel"] = 717.125,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 780981071,
+["itemLevel"] = 715.625,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 491412800,
+["itemLevel"] = 707.625,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 456413771,
+["itemLevel"] = 710.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 331514054,
+["itemLevel"] = 716.5625,
+["classId"] = 10,
+},
+["Barrow"] = {
+["total"] = 624816705,
+["itemLevel"] = 716.2666666666667,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 473735792,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Klanky"] = {
+["total"] = 604423264,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Garadh"] = {
+["total"] = 262689860,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 647330175,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+},
+["time"] = 1760293509,
+["date"] = "20:25 12/10/25",
+["elapsed"] = 135.9000000000006,
+["servertime"] = 1760293507,
+["HEALER"] = {
+["Wellric"] = {
+["total"] = 361130394,
+["itemLevel"] = 715.375,
+["classId"] = 7,
+},
+["Cidney"] = {
+["total"] = 407822058,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 261648759,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 798229284,
+["itemLevel"] = 721.6875,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 585131340,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 609036386,
+["itemLevel"] = 711.75,
+["classId"] = 9,
+},
+["Velion"] = {
+["total"] = 323154966,
+["itemLevel"] = 719.8125,
+["classId"] = 6,
+},
+["Klanky"] = {
+["total"] = 827089903,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Beorrn"] = {
+["total"] = 771865100,
+["itemLevel"] = 708.875,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 487793387,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 669990100,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+},
+["time"] = 1761157159,
+["date"] = "20:19 22/10/25",
+["elapsed"] = 133.4670000000001,
+["servertime"] = 1761157154,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 315732524,
+["itemLevel"] = 716.5,
+["classId"] = 2,
+},
+["Barrow"] = {
+["total"] = 179131902,
+["itemLevel"] = 717.625,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 372704702,
+["itemLevel"] = 714.5,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
+},
+},
+[3129] = {
+{
+["time"] = 1755713267,
+["guild"] = "Nox Terra",
+["elapsed"] = 170.6639999999898,
+["date"] = "20:07 20/08/25",
+["servertime"] = 1755713266,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 163899272,
+["itemLevel"] = 687.875,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 337141616,
+["itemLevel"] = 671.25,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 222814082,
+["itemLevel"] = 691.0625,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 368665881,
+["itemLevel"] = 696.1875,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 487741587,
+["itemLevel"] = 688,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 536967786,
+["itemLevel"] = 685.125,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 280210842,
+["itemLevel"] = 688.0625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 368065727,
+["itemLevel"] = 687.75,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 296725079,
+["itemLevel"] = 692.3125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 601441888,
+["itemLevel"] = 698.9375,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 441185547,
+["itemLevel"] = 691.25,
+["classId"] = 11,
+},
+["Tbonem"] = {
+["total"] = 535450259,
+["itemLevel"] = 696.4375,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 582400294,
+["itemLevel"] = 688.625,
+["classId"] = 9,
+},
+["Beorrn"] = {
+["total"] = 564934294,
+["itemLevel"] = 688.75,
+["classId"] = 11,
+},
+["Tiekenei"] = {
+["total"] = 558166070,
+["itemLevel"] = 693.6875,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 486694072,
+["itemLevel"] = 693.5,
+["classId"] = 5,
+},
+},
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1757527374,
+["elapsed"] = 115.6340000000055,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 675782660,
+["itemLevel"] = 711,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 590328391,
+["itemLevel"] = 711.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 374247813,
+["itemLevel"] = 703.1875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 223676220,
+["itemLevel"] = 703.0625,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 359956580,
+["itemLevel"] = 700.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 287014351,
+["itemLevel"] = 711.5,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 549240683,
+["itemLevel"] = 711.8125,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 558120956,
+["itemLevel"] = 710.8666666666667,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 418266009,
+["itemLevel"] = 705.8125,
+["classId"] = 4,
+},
+["Garadh"] = {
+["total"] = 442892171,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Potdisc"] = {
+["total"] = 458783042,
+["itemLevel"] = 705.625,
+["classId"] = 5,
+},
+},
+["servertime"] = 1757527373,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 279676360,
+["itemLevel"] = 702.75,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 242752305,
+["itemLevel"] = 705.0625,
+["classId"] = 13,
+},
+},
+["date"] = "20:02 10/09/25",
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1690978567,
+["itemLevel"] = 717.125,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 437063453,
+["itemLevel"] = 715.625,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 381943349,
+["itemLevel"] = 707.625,
+["classId"] = 9,
+},
+["Angri"] = {
+["total"] = 236039568,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 721683427,
+["itemLevel"] = 716.5625,
+["classId"] = 10,
+},
+["Bellætrix"] = {
+["total"] = 53095862,
+["itemLevel"] = 710.5625,
+["classId"] = 9,
+},
+["Klanky"] = {
+["total"] = 501779207,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Garadh"] = {
+["total"] = 408471594,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 657020578,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+},
+["time"] = 1760293027,
+["date"] = "20:17 12/10/25",
+["elapsed"] = 393.04,
+["servertime"] = 1760293025,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 581058775,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+["Wellric"] = {
+["total"] = 691567437,
+["itemLevel"] = 715.375,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 436060729,
+["itemLevel"] = 715.25,
+["classId"] = 11,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 432630480,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 339421325,
+["itemLevel"] = 721.6875,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 489201576,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 691900656,
+["itemLevel"] = 711.75,
+["classId"] = 9,
+},
+["Velion"] = {
+["total"] = 409373251,
+["itemLevel"] = 719.8125,
+["classId"] = 6,
+},
+["Klanky"] = {
+["total"] = 828881243,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Beorrn"] = {
+["total"] = 822466506,
+["itemLevel"] = 708.875,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 544117437,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 590945124,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+},
+["time"] = 1761156668,
+["date"] = "20:11 22/10/25",
+["elapsed"] = 366.4470000000001,
+["servertime"] = 1761156663,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 600470246,
+["itemLevel"] = 716.5,
+["classId"] = 2,
+},
+["Barrow"] = {
+["total"] = 357428690,
+["itemLevel"] = 717.625,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 860611497,
+["itemLevel"] = 714.5,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
+},
+},
+[3132] = {
+{
+["date"] = "20:41 20/08/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 768917700,
+["itemLevel"] = 696.1875,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 680781565,
+["itemLevel"] = 687.375,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 741467738,
+["itemLevel"] = 685.125,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 397708373,
+["itemLevel"] = 688.0625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 508497932,
+["itemLevel"] = 687.75,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 469461900,
+["itemLevel"] = 692.3125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 792139242,
+["itemLevel"] = 699.3125,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 535939330,
+["itemLevel"] = 691.25,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 694288149,
+["itemLevel"] = 692.25,
+["classId"] = 5,
+},
+["Tiekenei"] = {
+["total"] = 747907747,
+["itemLevel"] = 693.6875,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 729328224,
+["itemLevel"] = 688.75,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 809639519,
+["itemLevel"] = 688.625,
+["classId"] = 9,
+},
+["Tbonem"] = {
+["total"] = 913037853,
+["itemLevel"] = 696.4375,
+["classId"] = 8,
+},
+},
+["elapsed"] = 241.8559999999707,
+["servertime"] = 1755715304,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 202260223,
+["itemLevel"] = 689.0625,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 421726466,
+["itemLevel"] = 672.6875,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 371210817,
+["itemLevel"] = 691.0625,
+["classId"] = 2,
+},
+},
+["time"] = 1755715305,
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1757528799,
+["elapsed"] = 125.2730000000011,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 669888217,
+["itemLevel"] = 711,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 585331297,
+["itemLevel"] = 711.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 619793872,
+["itemLevel"] = 703.1875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 316582853,
+["itemLevel"] = 703.0625,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 413851562,
+["itemLevel"] = 700.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 337590886,
+["itemLevel"] = 711.5,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 679610255,
+["itemLevel"] = 711.4375,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 550650685,
+["itemLevel"] = 711.4375,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 606801372,
+["itemLevel"] = 705.8125,
+["classId"] = 4,
+},
+["Garadh"] = {
+["total"] = 634642360,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Potdisc"] = {
+["total"] = 582606156,
+["itemLevel"] = 705.625,
+["classId"] = 5,
+},
+},
+["servertime"] = 1757528798,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 63944561,
+["itemLevel"] = 702.75,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 195250714,
+["itemLevel"] = 705.0625,
+["classId"] = 13,
+},
+},
+["date"] = "20:26 10/09/25",
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1033455624,
+["itemLevel"] = 717.125,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 477639783,
+["itemLevel"] = 715.625,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 795141472,
+["itemLevel"] = 707.625,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 585482389,
+["itemLevel"] = 710.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 500432843,
+["itemLevel"] = 716.5625,
+["classId"] = 10,
+},
+["Barrow"] = {
+["total"] = 679941732,
+["itemLevel"] = 716.5,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 652123331,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Klanky"] = {
+["total"] = 839200800,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Garadh"] = {
+["total"] = 227841220,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 870762859,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+},
+["time"] = 1760294742,
+["date"] = "20:45 12/10/25",
+["elapsed"] = 254.8159999999998,
+["servertime"] = 1760294740,
+["HEALER"] = {
+["Wellric"] = {
+["total"] = 422905382,
+["itemLevel"] = 715.375,
+["classId"] = 7,
+},
+["Cidney"] = {
+["total"] = 618753415,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 201604779,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 1131097361,
+["itemLevel"] = 721.6875,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 671210717,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 634666553,
+["itemLevel"] = 711.75,
+["classId"] = 9,
+},
+["Velion"] = {
+["total"] = 545487647,
+["itemLevel"] = 719.8125,
+["classId"] = 6,
+},
+["Klanky"] = {
+["total"] = 860271947,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Beorrn"] = {
+["total"] = 727484392,
+["itemLevel"] = 708.875,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 768816624,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1003187165,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+},
+["time"] = 1761158332,
+["date"] = "20:38 22/10/25",
+["elapsed"] = 238.4480000000003,
+["servertime"] = 1761158327,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 381891923,
+["itemLevel"] = 716.5,
+["classId"] = 2,
+},
+["Barrow"] = {
+["total"] = 194682350,
+["itemLevel"] = 717.625,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 440265517,
+["itemLevel"] = 714.5,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
+},
+},
+[3015] = {
+{
+["date"] = "20:58 13/04/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Goozen"] = {
+["total"] = 156064011,
+["itemLevel"] = 625.75,
+["classId"] = 7,
+},
+["Cretino"] = {
+["total"] = 183499416,
+["itemLevel"] = 639.3125,
+["classId"] = 4,
+},
+["Misbaksel"] = {
+["total"] = 335585806,
+["itemLevel"] = 660.0625,
+["classId"] = 3,
+},
+["Benó"] = {
+["total"] = 203143351,
+["itemLevel"] = 649.5625,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 261230183,
+["itemLevel"] = 662.9375,
+["classId"] = 5,
+},
+["Strathlor"] = {
+["total"] = 308509159,
+["itemLevel"] = 661.0625,
+["classId"] = 8,
+},
+["Garmín"] = {
+["total"] = 323428936,
+["itemLevel"] = 663.0625,
+["classId"] = 2,
+},
+["Barrow"] = {
+["total"] = 194860485,
+["itemLevel"] = 640.1875,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 314542953,
+["itemLevel"] = 658.625,
+["classId"] = 4,
+},
+},
+["elapsed"] = 192.3920000000508,
+["servertime"] = 1744570718,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 159910159,
+["itemLevel"] = 658.75,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 121605747,
+["itemLevel"] = 631,
+["classId"] = 5,
+},
+},
+["time"] = 1744570719,
+},
+{
+["DAMAGER"] = {
+["Barrow"] = {
+["total"] = 203885945,
+["itemLevel"] = 643.375,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 365734125,
+["itemLevel"] = 663.5,
+["classId"] = 4,
+},
+["Goozen"] = {
+["total"] = 172369291,
+["itemLevel"] = 627.4375,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 450655024,
+["itemLevel"] = 667.625,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 247554710,
+["itemLevel"] = 643.5625,
+["classId"] = 4,
+},
+["Daveon-Stormscale"] = {
+["total"] = 136832770,
+["itemLevel"] = 641.1875,
+["classId"] = 6,
+},
+["Btheone"] = {
+["total"] = 170361336,
+["itemLevel"] = 647.375,
+["classId"] = 12,
+},
+["Angrilock"] = {
+["total"] = 106593786,
+["itemLevel"] = 627.9375,
+["classId"] = 9,
+},
+},
+["time"] = 1745176236,
+["date"] = "21:10 20/04/25",
+["elapsed"] = 199.6739999999991,
+["servertime"] = 1745176236,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 213869905,
+["itemLevel"] = 662.5,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 95257125,
+["itemLevel"] = 637.5,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1747855513,
+["elapsed"] = 172.9039999999804,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 368858171,
+["itemLevel"] = 677.125,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 258791546,
+["itemLevel"] = 671.9375,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 160360014,
+["itemLevel"] = 669.375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 162319709,
+["itemLevel"] = 667.625,
+["classId"] = 1,
+},
+["Misbaksel"] = {
+["total"] = 250910044,
+["itemLevel"] = 667,
+["classId"] = 3,
+},
+["Tiekenei"] = {
+["total"] = 311916797,
+["itemLevel"] = 664.3125,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 412168396,
+["itemLevel"] = 671.875,
+["classId"] = 11,
+},
+["Barrow"] = {
+["total"] = 97559711,
+["itemLevel"] = 664.4375,
+["classId"] = 11,
+},
+["Garanddor"] = {
+["total"] = 208852390,
+["itemLevel"] = 678.5,
+["classId"] = 2,
+},
+["Shambone"] = {
+["total"] = 253285103,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
+},
+["Angri"] = {
+["total"] = 240563773,
+["itemLevel"] = 665.8125,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 185865918,
+["itemLevel"] = 665.8125,
+["classId"] = 6,
+},
+["Shkia"] = {
+["total"] = 172218289,
+["itemLevel"] = 667.875,
+["classId"] = 9,
+},
+},
+["servertime"] = 1747855513,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 287965685,
+["itemLevel"] = 669.5625,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 265277136,
+["itemLevel"] = 670.0625,
+["classId"] = 2,
+},
+},
+["date"] = "21:25 21/05/25",
+},
+{
+["date"] = "21:07 04/06/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Benosan"] = {
+["total"] = 151036440,
+["itemLevel"] = 672.8125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 138973729,
+["itemLevel"] = 673.875,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 207631816,
+["itemLevel"] = 673.0625,
+["classId"] = 11,
+},
+["Klanky"] = {
+["total"] = 296425485,
+["itemLevel"] = 674.75,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 227671993,
+["itemLevel"] = 670.1875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 140728866,
+["itemLevel"] = 673.4375,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 177471524,
+["itemLevel"] = 671.8666666666667,
+["classId"] = 9,
+},
+["Sparrowbeast"] = {
+["total"] = 356489191,
+["itemLevel"] = 677.9375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 147.8320000000022,
+["servertime"] = 1749064047,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 172383774,
+["itemLevel"] = 671.5,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 155886696,
+["itemLevel"] = 675.125,
+["classId"] = 2,
+},
+},
+["time"] = 1749064049,
+},
+},
+[3133] = {
+{
+["date"] = "21:01 20/08/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 530586181,
+["itemLevel"] = 696.1875,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 478010253,
+["itemLevel"] = 688.7333333333333,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 417387689,
+["itemLevel"] = 685.125,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 217252160,
+["itemLevel"] = 688.0625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 441561491,
+["itemLevel"] = 688.8666666666667,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 275678139,
+["itemLevel"] = 692.3125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 517260589,
+["itemLevel"] = 699.3125,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 488317359,
+["itemLevel"] = 691.25,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 463580986,
+["itemLevel"] = 692.25,
+["classId"] = 5,
+},
+["Tiekenei"] = {
+["total"] = 489013055,
+["itemLevel"] = 693.6875,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 546669313,
+["itemLevel"] = 689.375,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 457450449,
+["itemLevel"] = 688.625,
+["classId"] = 9,
+},
+["Tbonem"] = {
+["total"] = 583106420,
+["itemLevel"] = 694.8666666666667,
+["classId"] = 8,
+},
+},
+["elapsed"] = 156.0030000000261,
+["servertime"] = 1755716487,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 170347636,
+["itemLevel"] = 689.4375,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 313784657,
+["itemLevel"] = 674.3333333333334,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 314198039,
+["itemLevel"] = 691.0625,
+["classId"] = 2,
+},
+},
+["time"] = 1755716487,
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1757529481,
+["elapsed"] = 104.0929999999935,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 572575949,
+["itemLevel"] = 711,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 424566746,
+["itemLevel"] = 710.6666666666666,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 407048329,
+["itemLevel"] = 703.1875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 257818216,
+["itemLevel"] = 703.0625,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 370266288,
+["itemLevel"] = 700.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 264660663,
+["itemLevel"] = 711.5,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 535914377,
+["itemLevel"] = 711.4375,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 460584484,
+["itemLevel"] = 711.4375,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 473119202,
+["itemLevel"] = 706.1875,
+["classId"] = 4,
+},
+["Garadh"] = {
+["total"] = 491261597,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Potdisc"] = {
+["total"] = 443073600,
+["itemLevel"] = 705.625,
+["classId"] = 5,
+},
+},
+["servertime"] = 1757529480,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 120709232,
+["itemLevel"] = 702.75,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 140454311,
+["itemLevel"] = 705.0625,
+["classId"] = 13,
+},
+},
+["date"] = "20:38 10/09/25",
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1057864926,
+["itemLevel"] = 717.125,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 305710510,
+["itemLevel"] = 715.625,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 148160354,
+["itemLevel"] = 707.625,
+["classId"] = 9,
+},
+["Angri"] = {
+["total"] = 999784059,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 510495824,
+["itemLevel"] = 716.5625,
+["classId"] = 10,
+},
+["Bellætrix"] = {
+["total"] = 43281591,
+["itemLevel"] = 710.5625,
+["classId"] = 9,
+},
+["Klanky"] = {
+["total"] = 739552195,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Garadh"] = {
+["total"] = 192177359,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 157421931,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+},
+["time"] = 1760297533,
+["date"] = "21:32 12/10/25",
+["elapsed"] = 368.4069999999992,
+["servertime"] = 1760297531,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 887941642,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+["Wellric"] = {
+["total"] = 572964323,
+["itemLevel"] = 715.375,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 395077787,
+["itemLevel"] = 714.9333333333333,
+["classId"] = 11,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 279190468,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 115984953,
+["itemLevel"] = 721.3333333333334,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 165157002,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 555805760,
+["itemLevel"] = 711.75,
+["classId"] = 9,
+},
+["Velion"] = {
+["total"] = 430798461,
+["itemLevel"] = 719.8125,
+["classId"] = 6,
+},
+["Klanky"] = {
+["total"] = 826489300,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Beorrn"] = {
+["total"] = 429010479,
+["itemLevel"] = 708.875,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 779251707,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 521782748,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+},
+["time"] = 1761159537,
+["date"] = "20:58 22/10/25",
+["elapsed"] = 368.652,
+["servertime"] = 1761159532,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 707257056,
+["itemLevel"] = 716.5,
+["classId"] = 2,
+},
+["Barrow"] = {
+["total"] = 551316103,
+["itemLevel"] = 717.625,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 943658992,
+["itemLevel"] = 714.5,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
+},
+},
+[3130] = {
+{
+["date"] = "20:28 20/08/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 740316141,
+["itemLevel"] = 696.1875,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 633704870,
+["itemLevel"] = 687.375,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 628346179,
+["itemLevel"] = 685.125,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 300234680,
+["itemLevel"] = 688.0625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 541857372,
+["itemLevel"] = 688.8666666666667,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 439474681,
+["itemLevel"] = 692.3125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 790254722,
+["itemLevel"] = 699.3125,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 526221370,
+["itemLevel"] = 691.25,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 781416942,
+["itemLevel"] = 692.25,
+["classId"] = 5,
+},
+["Tiekenei"] = {
+["total"] = 799892426,
+["itemLevel"] = 693.6875,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 699785844,
+["itemLevel"] = 688.75,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 756489172,
+["itemLevel"] = 688.625,
+["classId"] = 9,
+},
+["Tbonem"] = {
+["total"] = 898251678,
+["itemLevel"] = 696.4375,
+["classId"] = 8,
+},
+},
+["elapsed"] = 203.3940000000293,
+["servertime"] = 1755714528,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 176500619,
+["itemLevel"] = 689.0625,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 400696336,
+["itemLevel"] = 672.6875,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 383347107,
+["itemLevel"] = 691.0625,
+["classId"] = 2,
+},
+},
+["time"] = 1755714529,
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1757528257,
+["elapsed"] = 135.5240000000049,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 754596808,
+["itemLevel"] = 711,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 749042040,
+["itemLevel"] = 711.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 638532059,
+["itemLevel"] = 703.1875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 424681328,
+["itemLevel"] = 703.0625,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 416845528,
+["itemLevel"] = 700.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 379087434,
+["itemLevel"] = 711.5,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 755714125,
+["itemLevel"] = 711.4375,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 587021401,
+["itemLevel"] = 711.4375,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 479447530,
+["itemLevel"] = 705.8125,
+["classId"] = 4,
+},
+["Garadh"] = {
+["total"] = 688576860,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Potdisc"] = {
+["total"] = 598439707,
+["itemLevel"] = 705.625,
+["classId"] = 5,
+},
+},
+["servertime"] = 1757528256,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 192583852,
+["itemLevel"] = 702.75,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 246395424,
+["itemLevel"] = 705.0625,
+["classId"] = 13,
+},
+},
+["date"] = "20:17 10/09/25",
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 714643430,
+["itemLevel"] = 717.125,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 735169354,
+["itemLevel"] = 715.625,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 654290119,
+["itemLevel"] = 707.625,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 543170841,
+["itemLevel"] = 710.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 408832469,
+["itemLevel"] = 716.5625,
+["classId"] = 10,
+},
+["Barrow"] = {
+["total"] = 689635187,
+["itemLevel"] = 716.5,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 527783720,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Klanky"] = {
+["total"] = 510396061,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Garadh"] = {
+["total"] = 424031366,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 661910790,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+},
+["time"] = 1760294052,
+["date"] = "20:34 12/10/25",
+["elapsed"] = 132.4250000000002,
+["servertime"] = 1760294050,
+["HEALER"] = {
+["Wellric"] = {
+["total"] = 262774197,
+["itemLevel"] = 715.375,
+["classId"] = 7,
+},
+["Cidney"] = {
+["total"] = 299114876,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 522271095,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 1200123749,
+["itemLevel"] = 721.6875,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 764157424,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 786339083,
+["itemLevel"] = 711.75,
+["classId"] = 9,
+},
+["Velion"] = {
+["total"] = 528907029,
+["itemLevel"] = 719.8125,
+["classId"] = 6,
+},
+["Klanky"] = {
+["total"] = 686672953,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Beorrn"] = {
+["total"] = 852360856,
+["itemLevel"] = 708.875,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 513223021,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 774585001,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+},
+["time"] = 1761157650,
+["date"] = "20:27 22/10/25",
+["elapsed"] = 168.1410000000001,
+["servertime"] = 1761157645,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 336286928,
+["itemLevel"] = 716.5,
+["classId"] = 2,
+},
+["Barrow"] = {
+["total"] = 189222921,
+["itemLevel"] = 717.625,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 356094517,
+["itemLevel"] = 714.5,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
+},
+},
+[3014] = {
+{
+["date"] = "20:51 13/04/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Goozen"] = {
+["total"] = 184685470,
+["itemLevel"] = 625.75,
+["classId"] = 7,
+},
+["Cretino"] = {
+["total"] = 206839858,
+["itemLevel"] = 639.3125,
+["classId"] = 4,
+},
+["Misbaksel"] = {
+["total"] = 312822223,
+["itemLevel"] = 660.0625,
+["classId"] = 3,
+},
+["Benó"] = {
+["total"] = 184402808,
+["itemLevel"] = 649.5625,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 385638985,
+["itemLevel"] = 662.9375,
+["classId"] = 5,
+},
+["Strathlor"] = {
+["total"] = 353556955,
+["itemLevel"] = 661.0625,
+["classId"] = 8,
+},
+["Garmín"] = {
+["total"] = 323814251,
+["itemLevel"] = 662.9333333333333,
+["classId"] = 2,
+},
+["Barrow"] = {
+["total"] = 185939603,
+["itemLevel"] = 640.1875,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 354898287,
+["itemLevel"] = 658.625,
+["classId"] = 4,
+},
+},
+["elapsed"] = 191.6670000000158,
+["servertime"] = 1744570284,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 199699585,
+["itemLevel"] = 658.75,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 155581680,
+["itemLevel"] = 631,
+["classId"] = 5,
+},
+},
+["time"] = 1744570285,
+},
+{
+["DAMAGER"] = {
+["Barrow"] = {
+["total"] = 260149258,
+["itemLevel"] = 643.375,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 383299721,
+["itemLevel"] = 663.5,
+["classId"] = 4,
+},
+["Goozen"] = {
+["total"] = 245475427,
+["itemLevel"] = 627.4375,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 475728233,
+["itemLevel"] = 667.625,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 293213839,
+["itemLevel"] = 645.8125,
+["classId"] = 4,
+},
+["Daveon-Stormscale"] = {
+["total"] = 158620948,
+["itemLevel"] = 641.1875,
+["classId"] = 6,
+},
+["Btheone"] = {
+["total"] = 206707385,
+["itemLevel"] = 647.375,
+["classId"] = 12,
+},
+["Angrilock"] = {
+["total"] = 140750064,
+["itemLevel"] = 627,
+["classId"] = 9,
+},
+},
+["time"] = 1745175471,
+["date"] = "20:57 20/04/25",
+["elapsed"] = 203.7450000000536,
+["servertime"] = 1745175471,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 205397684,
+["itemLevel"] = 662.5,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 149674856,
+["itemLevel"] = 637.5,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1747853883,
+["elapsed"] = 122.9729999999981,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 317901292,
+["itemLevel"] = 677.125,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 289693137,
+["itemLevel"] = 671.9375,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 282480972,
+["itemLevel"] = 669.375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 139337786,
+["itemLevel"] = 667.625,
+["classId"] = 1,
+},
+["Misbaksel"] = {
+["total"] = 243373939,
+["itemLevel"] = 667,
+["classId"] = 3,
+},
+["Tiekenei"] = {
+["total"] = 252862262,
+["itemLevel"] = 664.3125,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 366579110,
+["itemLevel"] = 671.875,
+["classId"] = 11,
+},
+["Barrow"] = {
+["total"] = 104305804,
+["itemLevel"] = 664,
+["classId"] = 11,
+},
+["Garanddor"] = {
+["total"] = 343742765,
+["itemLevel"] = 678.5,
+["classId"] = 2,
+},
+["Shambone"] = {
+["total"] = 228173881,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
+},
+["Angri"] = {
+["total"] = 229464709,
+["itemLevel"] = 665.8125,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 249341728,
+["itemLevel"] = 665.8125,
+["classId"] = 6,
+},
+["Shkia"] = {
+["total"] = 189861836,
+["itemLevel"] = 667.875,
+["classId"] = 9,
+},
+},
+["servertime"] = 1747853883,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 200973618,
+["itemLevel"] = 669.5625,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 182810860,
+["itemLevel"] = 670.0625,
+["classId"] = 2,
+},
+},
+["date"] = "20:58 21/05/25",
+},
+{
+["date"] = "20:53 04/06/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Benosan"] = {
+["total"] = 263554316,
+["itemLevel"] = 672.8125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 366412242,
+["itemLevel"] = 673.875,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 317290380,
+["itemLevel"] = 673.0625,
+["classId"] = 11,
+},
+["Klanky"] = {
+["total"] = 554179982,
+["itemLevel"] = 674.75,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 403158585,
+["itemLevel"] = 670.1875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 308479084,
+["itemLevel"] = 673.4375,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 339183953,
+["itemLevel"] = 672.4375,
+["classId"] = 9,
+},
+["Sparrowbeast"] = {
+["total"] = 518896536,
+["itemLevel"] = 677.9375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 204.0919999999969,
+["servertime"] = 1749063233,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 295989759,
+["itemLevel"] = 671.5,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 341523662,
+["itemLevel"] = 675.125,
+["classId"] = 2,
+},
+},
+["time"] = 1749063235,
+},
+},
+[3134] = {
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 899982622,
+["itemLevel"] = 696.1875,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 332030090,
+["itemLevel"] = 688.875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 679461221,
+["itemLevel"] = 685.125,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 363477269,
+["itemLevel"] = 688.3125,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 728925684,
+["itemLevel"] = 690,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 482625131,
+["itemLevel"] = 691.1333333333333,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 968594388,
+["itemLevel"] = 699.3125,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 630115622,
+["itemLevel"] = 691.25,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 804639982,
+["itemLevel"] = 692.875,
+["classId"] = 5,
+},
+["Tiekenei"] = {
+["total"] = 826100907,
+["itemLevel"] = 693.6875,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 434743441,
+["itemLevel"] = 688.75,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 691035890,
+["itemLevel"] = 689.6875,
+["classId"] = 9,
+},
+["Tbonem"] = {
+["total"] = 1076249075,
+["itemLevel"] = 697,
+["classId"] = 8,
+},
+},
+["time"] = 1755717740,
+["date"] = "21:22 20/08/25",
+["elapsed"] = 253.5419999999999,
+["servertime"] = 1755717740,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 365995551,
+["itemLevel"] = 689.4375,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 638088794,
+["itemLevel"] = 679.0625,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 604986401,
+["itemLevel"] = 691.0625,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 781771930,
+["itemLevel"] = 709,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 796805180,
+["itemLevel"] = 708.4666666666667,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 623685419,
+["itemLevel"] = 704.1875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 376689006,
+["itemLevel"] = 701.25,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 634624791,
+["itemLevel"] = 699.5,
+["classId"] = 3,
+},
+["Barrow"] = {
+["total"] = 725966034,
+["itemLevel"] = 707.4375,
+["classId"] = 11,
+},
+["Benosan"] = {
+["total"] = 465987367,
+["itemLevel"] = 708.6875,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 888875934,
+["itemLevel"] = 705.6875,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 716861856,
+["itemLevel"] = 702.0625,
+["classId"] = 5,
+},
+["Velion"] = {
+["total"] = 657305787,
+["itemLevel"] = 710.875,
+["classId"] = 6,
+},
+["Shkia"] = {
+["total"] = 630557955,
+["itemLevel"] = 701.875,
+["classId"] = 9,
+},
+["Klanky"] = {
+["total"] = 780106146,
+["itemLevel"] = 704.75,
+["classId"] = 3,
+},
+["Bellætrix"] = {
+["total"] = 544320179,
+["itemLevel"] = 690,
+["classId"] = 9,
+},
+["Sparrowbeast"] = {
+["total"] = 855646195,
+["itemLevel"] = 709,
+["classId"] = 7,
+},
+},
+["time"] = 1756925634,
+["date"] = "20:53 03/09/25",
+["elapsed"] = 152.9340000000084,
+["servertime"] = 1756925633,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 213602020,
+["itemLevel"] = 700.1875,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 497703640,
+["itemLevel"] = 699.9375,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 387569066,
+["itemLevel"] = 698.4375,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1757530051,
+["elapsed"] = 147.9600000000064,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 824476384,
+["itemLevel"] = 711,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 682657890,
+["itemLevel"] = 711.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 596314035,
+["itemLevel"] = 703.1875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 393493487,
+["itemLevel"] = 703.0625,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 643039127,
+["itemLevel"] = 700.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 516977315,
+["itemLevel"] = 711.5,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 687840415,
+["itemLevel"] = 711.4375,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 729801111,
+["itemLevel"] = 711.4375,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 716941182,
+["itemLevel"] = 705.625,
+["classId"] = 4,
+},
+["Garadh"] = {
+["total"] = 760807280,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Potdisc"] = {
+["total"] = 701945148,
+["itemLevel"] = 705.625,
+["classId"] = 5,
+},
+},
+["servertime"] = 1757530050,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 311514979,
+["itemLevel"] = 702.75,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 414247687,
+["itemLevel"] = 705.0625,
+["classId"] = 13,
+},
+},
+["date"] = "20:47 10/09/25",
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 896626174,
+["itemLevel"] = 717.125,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 949132376,
+["itemLevel"] = 715.625,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 788861389,
+["itemLevel"] = 707.625,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 662472347,
+["itemLevel"] = 710.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 165789309,
+["itemLevel"] = 716.5625,
+["classId"] = 10,
+},
+["Barrow"] = {
+["total"] = 674081356,
+["itemLevel"] = 716.5,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 677631242,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Klanky"] = {
+["total"] = 830148434,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Garadh"] = {
+["total"] = 263670293,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 623890384,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+},
+["time"] = 1760298192,
+["date"] = "21:43 12/10/25",
+["elapsed"] = 160.6140000000014,
+["servertime"] = 1760298190,
+["HEALER"] = {
+["Wellric"] = {
+["total"] = 413510458,
+["itemLevel"] = 715.375,
+["classId"] = 7,
+},
+["Cidney"] = {
+["total"] = 545977978,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 328199429,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 914570638,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 744411651,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+["Angri"] = {
+["total"] = 659537964,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Beorrn"] = {
+["total"] = 865442790,
+["itemLevel"] = 708.875,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 860489110,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Tbonem"] = {
+["total"] = 948148488,
+["itemLevel"] = 721.6875,
+["classId"] = 8,
+},
+["Bellætrix"] = {
+["total"] = 743561381,
+["itemLevel"] = 711.75,
+["classId"] = 9,
+},
+["Velion"] = {
+["total"] = 425120959,
+["itemLevel"] = 719.8125,
+["classId"] = 6,
+},
+},
+["time"] = 1761160502,
+["date"] = "21:15 22/10/25",
+["elapsed"] = 175.9739999999993,
+["servertime"] = 1761160497,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 387238546,
+["itemLevel"] = 716.5,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 477864484,
+["itemLevel"] = 714.5,
+["classId"] = 5,
+},
+["Barrow"] = {
+["total"] = 166390375,
+["itemLevel"] = 717.625,
+["classId"] = 11,
+},
+},
+["guild"] = "Nox Terra",
+},
+},
+[3135] = {
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 859879953,
+["itemLevel"] = 696.1875,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 525812883,
+["itemLevel"] = 690.0625,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 725927812,
+["itemLevel"] = 685.5,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 408447104,
+["itemLevel"] = 688.3125,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 764579311,
+["itemLevel"] = 689.875,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 603826657,
+["itemLevel"] = 692.3125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 1182280020,
+["itemLevel"] = 700.8125,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 600031004,
+["itemLevel"] = 691.25,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 1005835418,
+["itemLevel"] = 692.875,
+["classId"] = 5,
+},
+["Tiekenei"] = {
+["total"] = 982508761,
+["itemLevel"] = 693.6875,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 642136912,
+["itemLevel"] = 688.75,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 928118082,
+["itemLevel"] = 689.6875,
+["classId"] = 9,
+},
+["Tbonem"] = {
+["total"] = 928876248,
+["itemLevel"] = 695.4666666666667,
+["classId"] = 8,
+},
+},
+["time"] = 1755720962,
+["date"] = "22:16 20/08/25",
+["elapsed"] = 430.2470000000003,
+["servertime"] = 1755720962,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 468045705,
+["itemLevel"] = 689.4375,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 876512494,
+["itemLevel"] = 679.0625,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 714888255,
+["itemLevel"] = 691.5,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1756322552,
+["elapsed"] = 400.0619999999981,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1486424485,
+["itemLevel"] = 702.9375,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 1077280590,
+["itemLevel"] = 700.5,
+["classId"] = 3,
+},
+["Shkia"] = {
+["total"] = 393360799,
+["itemLevel"] = 697.6875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 471218415,
+["itemLevel"] = 692.5625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 896460631,
+["itemLevel"] = 695.875,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 788644969,
+["itemLevel"] = 706.3125,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 310284755,
+["itemLevel"] = 698.9375,
+["classId"] = 5,
+},
+["Beorrn"] = {
+["total"] = 359211982,
+["itemLevel"] = 700.0625,
+["classId"] = 11,
+},
+["Garadh"] = {
+["total"] = 358417239,
+["itemLevel"] = 700.1875,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 802537414,
+["itemLevel"] = 699.625,
+["classId"] = 4,
+},
+["Tbonem"] = {
+["total"] = 1009060781,
+["itemLevel"] = 705.8125,
+["classId"] = 8,
+},
+["Tiekenei"] = {
+["total"] = 1059694582,
+["itemLevel"] = 700.625,
+["classId"] = 7,
+},
+},
+["servertime"] = 1756322551,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 437111630,
+["itemLevel"] = 695.75,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 529615777,
+["itemLevel"] = 687.875,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 661809951,
+["itemLevel"] = 696.75,
+["classId"] = 2,
+},
+},
+["date"] = "21:22 27/08/25",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 863357471,
+["itemLevel"] = 709,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 953474542,
+["itemLevel"] = 709.1875,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 636681984,
+["itemLevel"] = 704.1875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 432743947,
+["itemLevel"] = 701.25,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 659488475,
+["itemLevel"] = 699.5,
+["classId"] = 3,
+},
+["Barrow"] = {
+["total"] = 810415410,
+["itemLevel"] = 706.625,
+["classId"] = 11,
+},
+["Benosan"] = {
+["total"] = 430619462,
+["itemLevel"] = 708.6875,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 947750304,
+["itemLevel"] = 705.6875,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 295177394,
+["itemLevel"] = 702.0625,
+["classId"] = 5,
+},
+["Velion"] = {
+["total"] = 933663877,
+["itemLevel"] = 710.875,
+["classId"] = 6,
+},
+["Shkia"] = {
+["total"] = 618857102,
+["itemLevel"] = 701.875,
+["classId"] = 9,
+},
+["Klanky"] = {
+["total"] = 811170486,
+["itemLevel"] = 704.75,
+["classId"] = 3,
+},
+["Bellætrix"] = {
+["total"] = 492538896,
+["itemLevel"] = 690,
+["classId"] = 9,
+},
+["Sparrowbeast"] = {
+["total"] = 1173929791,
+["itemLevel"] = 709,
+["classId"] = 7,
+},
+},
+["time"] = 1756927411,
+["date"] = "21:23 03/09/25",
+["elapsed"] = 320.6180000000168,
+["servertime"] = 1756927410,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 273354585,
+["itemLevel"] = 700.1875,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 572607389,
+["itemLevel"] = 699.9375,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 579662472,
+["itemLevel"] = 698.4375,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1757530546,
+["elapsed"] = 307.3600000000006,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1105726379,
+["itemLevel"] = 711,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 735842376,
+["itemLevel"] = 711.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 654436488,
+["itemLevel"] = 703.1875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 366346484,
+["itemLevel"] = 703.0625,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 507646235,
+["itemLevel"] = 700.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 503210515,
+["itemLevel"] = 711.5,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 920582386,
+["itemLevel"] = 711.4375,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 783792158,
+["itemLevel"] = 711.4375,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 543338575,
+["itemLevel"] = 705.625,
+["classId"] = 4,
+},
+["Garadh"] = {
+["total"] = 844832375,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Potdisc"] = {
+["total"] = 732517461,
+["itemLevel"] = 705.625,
+["classId"] = 5,
+},
+},
+["servertime"] = 1757530545,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 436033680,
+["itemLevel"] = 702.75,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 476508376,
+["itemLevel"] = 705.0625,
+["classId"] = 13,
+},
+},
+["date"] = "20:55 10/09/25",
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1186562533,
+["itemLevel"] = 717.125,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 959752462,
+["itemLevel"] = 715.625,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 680743214,
+["itemLevel"] = 707.625,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 151767008,
+["itemLevel"] = 710.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 802322307,
+["itemLevel"] = 716.5625,
+["classId"] = 10,
+},
+["Barrow"] = {
+["total"] = 1010804352,
+["itemLevel"] = 716.5,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 840025796,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Klanky"] = {
+["total"] = 963914375,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Garadh"] = {
+["total"] = 194563329,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 639504944,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+},
+["time"] = 1760299611,
+["date"] = "22:06 12/10/25",
+["elapsed"] = 433.8549999999996,
+["servertime"] = 1760299609,
+["HEALER"] = {
+["Wellric"] = {
+["total"] = 922524412,
+["itemLevel"] = 715.375,
+["classId"] = 7,
+},
+["Cidney"] = {
+["total"] = 469477615,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 333166151,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 1157639897,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1043077082,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+["Angri"] = {
+["total"] = 666880585,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Beorrn"] = {
+["total"] = 915501869,
+["itemLevel"] = 708.875,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 770781739,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Tbonem"] = {
+["total"] = 866108033,
+["itemLevel"] = 721.6875,
+["classId"] = 8,
+},
+["Bellætrix"] = {
+["total"] = 804399732,
+["itemLevel"] = 711.75,
+["classId"] = 9,
+},
+["Velion"] = {
+["total"] = 456747701,
+["itemLevel"] = 719.8125,
+["classId"] = 6,
+},
+},
+["time"] = 1761161333,
+["date"] = "21:28 22/10/25",
+["elapsed"] = 429.0150000000003,
+["servertime"] = 1761161328,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 515837874,
+["itemLevel"] = 716.5,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 712228395,
+["itemLevel"] = 714.5,
+["classId"] = 5,
+},
+["Barrow"] = {
+["total"] = 335293599,
+["itemLevel"] = 717.625,
+["classId"] = 11,
+},
+},
+["guild"] = "Nox Terra",
+},
+},
+[3013] = {
+{
+["date"] = "20:40 13/04/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Goozen"] = {
+["total"] = 156228719,
+["itemLevel"] = 625.75,
+["classId"] = 7,
+},
+["Cretino"] = {
+["total"] = 179149636,
+["itemLevel"] = 639.3125,
+["classId"] = 4,
+},
+["Misbaksel"] = {
+["total"] = 256873320,
+["itemLevel"] = 660.0625,
+["classId"] = 3,
+},
+["Benó"] = {
+["total"] = 142933279,
+["itemLevel"] = 649.5625,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 304252676,
+["itemLevel"] = 662.9375,
+["classId"] = 5,
+},
+["Strathlor"] = {
+["total"] = 270838431,
+["itemLevel"] = 661.0625,
+["classId"] = 8,
+},
+["Garmín"] = {
+["total"] = 294627598,
+["itemLevel"] = 663.0625,
+["classId"] = 2,
+},
+["Barrow"] = {
+["total"] = 152288769,
+["itemLevel"] = 639.1875,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 293539623,
+["itemLevel"] = 658.625,
+["classId"] = 4,
+},
+},
+["elapsed"] = 161.6070000000182,
+["servertime"] = 1744569602,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 108314942,
+["itemLevel"] = 658.75,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 111019148,
+["itemLevel"] = 631,
+["classId"] = 5,
+},
+},
+["time"] = 1744569603,
+},
+{
+["DAMAGER"] = {
+["Barrow"] = {
+["total"] = 189555958,
+["itemLevel"] = 643.375,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 336484858,
+["itemLevel"] = 663.5,
+["classId"] = 4,
+},
+["Goozen"] = {
+["total"] = 185144980,
+["itemLevel"] = 627.4375,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 387611339,
+["itemLevel"] = 667.625,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 235609503,
+["itemLevel"] = 645.8125,
+["classId"] = 4,
+},
+["Daveon-Stormscale"] = {
+["total"] = 129930407,
+["itemLevel"] = 641.1875,
+["classId"] = 6,
+},
+["Btheone"] = {
+["total"] = 131935148,
+["itemLevel"] = 647.375,
+["classId"] = 12,
+},
+["Angrilock"] = {
+["total"] = 107600020,
+["itemLevel"] = 625.9333333333333,
+["classId"] = 9,
+},
+},
+["time"] = 1745175023,
+["date"] = "20:50 20/04/25",
+["elapsed"] = 173.7059999999474,
+["servertime"] = 1745175023,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 136774627,
+["itemLevel"] = 662.5,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 81760790,
+["itemLevel"] = 637.5,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1747853224,
+["elapsed"] = 93.92300000000978,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 256611264,
+["itemLevel"] = 677.125,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 259922288,
+["itemLevel"] = 671.9375,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 230611282,
+["itemLevel"] = 669.375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 108485989,
+["itemLevel"] = 667.625,
+["classId"] = 1,
+},
+["Misbaksel"] = {
+["total"] = 243284003,
+["itemLevel"] = 666.5333333333333,
+["classId"] = 3,
+},
+["Tiekenei"] = {
+["total"] = 189565265,
+["itemLevel"] = 664.3125,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 267216480,
+["itemLevel"] = 671.875,
+["classId"] = 11,
+},
+["Barrow"] = {
+["total"] = 80508786,
+["itemLevel"] = 664.4375,
+["classId"] = 11,
+},
+["Garanddor"] = {
+["total"] = 259234129,
+["itemLevel"] = 678.5,
+["classId"] = 2,
+},
+["Shambone"] = {
+["total"] = 232233193,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
+},
+["Angri"] = {
+["total"] = 191234521,
+["itemLevel"] = 665.8125,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 213125332,
+["itemLevel"] = 665.8125,
+["classId"] = 6,
+},
+["Shkia"] = {
+["total"] = 224418238,
+["itemLevel"] = 667.875,
+["classId"] = 9,
+},
+},
+["servertime"] = 1747853224,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 131352125,
+["itemLevel"] = 669.5625,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 76505307,
+["itemLevel"] = 670.0625,
+["classId"] = 2,
+},
+},
+["date"] = "20:47 21/05/25",
+},
+{
+["date"] = "20:43 04/06/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Benosan"] = {
+["total"] = 142897549,
+["itemLevel"] = 672.8125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 241035193,
+["itemLevel"] = 673.875,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 182354701,
+["itemLevel"] = 673.0625,
+["classId"] = 11,
+},
+["Klanky"] = {
+["total"] = 250494130,
+["itemLevel"] = 674.75,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 238110012,
+["itemLevel"] = 670.1875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 135401321,
+["itemLevel"] = 673.4375,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 208703710,
+["itemLevel"] = 672.4375,
+["classId"] = 9,
+},
+["Sparrowbeast"] = {
+["total"] = 280321202,
+["itemLevel"] = 677.9375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 80.5580000000009,
+["servertime"] = 1749062580,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 91391507,
+["itemLevel"] = 671.5,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 44894136,
+["itemLevel"] = 675.125,
+["classId"] = 2,
+},
+},
+["time"] = 1749062582,
+},
+},
+[3012] = {
+{
+["date"] = "20:31 13/04/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Goozen"] = {
+["total"] = 194625576,
+["itemLevel"] = 625.75,
+["classId"] = 7,
+},
+["Cretino"] = {
+["total"] = 179127108,
+["itemLevel"] = 639.3125,
+["classId"] = 4,
+},
+["Misbaksel"] = {
+["total"] = 400587655,
+["itemLevel"] = 660.0625,
+["classId"] = 3,
+},
+["Benó"] = {
+["total"] = 217664644,
+["itemLevel"] = 649.5625,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 411568402,
+["itemLevel"] = 662.9375,
+["classId"] = 5,
+},
+["Strathlor"] = {
+["total"] = 446281299,
+["itemLevel"] = 661.0625,
+["classId"] = 8,
+},
+["Garmín"] = {
+["total"] = 434775989,
+["itemLevel"] = 663.0625,
+["classId"] = 2,
+},
+["Barrow"] = {
+["total"] = 191047878,
+["itemLevel"] = 639.4,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 392555912,
+["itemLevel"] = 658.625,
+["classId"] = 4,
+},
+},
+["elapsed"] = 225.4870000000228,
+["servertime"] = 1744569112,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 211222973,
+["itemLevel"] = 658.75,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 182449119,
+["itemLevel"] = 631.1333333333333,
+["classId"] = 5,
+},
+},
+["time"] = 1744569113,
+},
+{
+["DAMAGER"] = {
+["Barrow"] = {
+["total"] = 259868951,
+["itemLevel"] = 643.375,
+["classId"] = 11,
+},
+["Vynarth"] = {
+["total"] = 559837895,
+["itemLevel"] = 663.5,
+["classId"] = 4,
+},
+["Goozen"] = {
+["total"] = 225546076,
+["itemLevel"] = 627.4375,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 465343686,
+["itemLevel"] = 667.625,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 270241419,
+["itemLevel"] = 645.8125,
+["classId"] = 4,
+},
+["Daveon-Stormscale"] = {
+["total"] = 146413588,
+["itemLevel"] = 641.1875,
+["classId"] = 6,
+},
+["Btheone"] = {
+["total"] = 305272576,
+["itemLevel"] = 647.375,
+["classId"] = 12,
+},
+["Angrilock"] = {
+["total"] = 132311293,
+["itemLevel"] = 623.875,
+["classId"] = 9,
+},
+},
+["time"] = 1745174540,
+["date"] = "20:42 20/04/25",
+["elapsed"] = 219.7900000000373,
+["servertime"] = 1745174540,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 183634316,
+["itemLevel"] = 662.5,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 116384917,
+["itemLevel"] = 637.5,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1747852735,
+["elapsed"] = 217.6010000000242,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 326959888,
+["itemLevel"] = 677.125,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 421339176,
+["itemLevel"] = 671.9375,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 350394745,
+["itemLevel"] = 669.375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 172513657,
+["itemLevel"] = 667.625,
+["classId"] = 1,
+},
+["Misbaksel"] = {
+["total"] = 258374591,
+["itemLevel"] = 666.5333333333333,
+["classId"] = 3,
+},
+["Tiekenei"] = {
+["total"] = 297380369,
+["itemLevel"] = 664.3125,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 516699632,
+["itemLevel"] = 671.875,
+["classId"] = 11,
+},
+["Barrow"] = {
+["total"] = 136916773,
+["itemLevel"] = 664.4375,
+["classId"] = 11,
+},
+["Garanddor"] = {
+["total"] = 461457139,
+["itemLevel"] = 678.5,
+["classId"] = 2,
+},
+["Shambone"] = {
+["total"] = 250856345,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
+},
+["Angri"] = {
+["total"] = 270423347,
+["itemLevel"] = 665.8125,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 271175593,
+["itemLevel"] = 665.8125,
+["classId"] = 6,
+},
+["Shkia"] = {
+["total"] = 257552907,
+["itemLevel"] = 667.875,
+["classId"] = 9,
+},
+},
+["servertime"] = 1747852735,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 263762549,
+["itemLevel"] = 669.5625,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 361735079,
+["itemLevel"] = 670.0625,
+["classId"] = 2,
+},
+},
+["date"] = "20:38 21/05/25",
+},
+{
+["date"] = "20:37 04/06/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Benosan"] = {
+["total"] = 235316235,
+["itemLevel"] = 672.8125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 315025299,
+["itemLevel"] = 673.2,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 232380319,
+["itemLevel"] = 673.0625,
+["classId"] = 11,
+},
+["Klanky"] = {
+["total"] = 429081286,
+["itemLevel"] = 674.75,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 279668660,
+["itemLevel"] = 670.1875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 202620050,
+["itemLevel"] = 673.4375,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 274143978,
+["itemLevel"] = 672.4375,
+["classId"] = 9,
+},
+["Sparrowbeast"] = {
+["total"] = 365278624,
+["itemLevel"] = 677.9375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 177.4069999999992,
+["servertime"] = 1749062258,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 180820719,
+["itemLevel"] = 671.5,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 120569645,
+["itemLevel"] = 675.125,
+["classId"] = 2,
+},
+},
+["time"] = 1749062260,
 },
 },
 },
@@ -4395,10 +4963,10 @@ DetailsDataStorage = {
 ["wipes"] = 83,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid"] = 0,
+["dps_best_raid_when"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
 },
 [3129] = {
 ["time_incombat"] = 0,
@@ -4406,10 +4974,10 @@ DetailsDataStorage = {
 ["wipes"] = 8,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [3122] = {
 ["time_incombat"] = 0,
@@ -4417,10 +4985,10 @@ DetailsDataStorage = {
 ["wipes"] = 3,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid"] = 0,
+["dps_best_raid_when"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
 },
 [3130] = {
 ["time_incombat"] = 0,
@@ -4428,10 +4996,10 @@ DetailsDataStorage = {
 ["wipes"] = 11,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [3131] = {
 ["time_incombat"] = 0,
@@ -4439,10 +5007,10 @@ DetailsDataStorage = {
 ["wipes"] = 9,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [3012] = {
 ["time_incombat"] = 0,
@@ -4450,15 +5018,15 @@ DetailsDataStorage = {
 ["wipes"] = 3,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid"] = 0,
+["dps_best_raid_when"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
 },
-[3132] = {
+[3133] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 14,
+["wipes"] = 2,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid_when"] = 0,
@@ -4472,26 +5040,37 @@ DetailsDataStorage = {
 ["wipes"] = 4,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid"] = 0,
+["dps_best_raid_when"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
 },
-[3011] = {
+[3134] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 2,
+["wipes"] = 12,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
 },
 [3014] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
 ["wipes"] = 7,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3135] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 69,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
@@ -4505,115 +5084,104 @@ DetailsDataStorage = {
 ["wipes"] = 11,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3135] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 66,
-["kills"] = 0,
-["dps_best"] = 0,
 ["dps_best_raid_when"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
 },
-[3134] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 11,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
-},
-[3133] = {
+[3011] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
 ["wipes"] = 2,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid"] = 0,
+["dps_best_raid_when"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3132] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 14,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 },
 [3129] = {
 ["heroic"] = {
-["time_incombat"] = 2476.832000000044,
+["time_incombat"] = 2663.978000000045,
 ["time_fasterkill"] = 169.8530000000005,
 ["wipes"] = 0,
-["kills"] = 10,
+["kills"] = 11,
 ["dps_best"] = 4264240.153882936,
-["dps_best_when"] = 1759946810,
-["time_fasterkill_when"] = 1760551491,
-["dps_best_raid_when"] = 1760551491,
 ["dps_best_raid"] = 50158343.37927487,
+["time_fasterkill_when"] = 1760551491,
+["dps_best_when"] = 1759946810,
+["dps_best_raid_when"] = 1760551491,
 },
 ["normal"] = {
-["time_incombat"] = 679.3379999999952,
+["time_incombat"] = 1045.784999999995,
 ["time_fasterkill"] = 115.6340000000055,
 ["wipes"] = 0,
-["kills"] = 3,
+["kills"] = 4,
 ["dps_best"] = 3617154.202069012,
-["dps_best_raid"] = 43445313.72260548,
+["dps_best_when"] = 1757527374,
 ["time_fasterkill_when"] = 1757527374,
 ["dps_best_raid_when"] = 1757527374,
-["dps_best_when"] = 1757527374,
+["dps_best_raid"] = 43445313.72260548,
 },
 },
 [3131] = {
 ["heroic"] = {
-["time_incombat"] = 2238.895999999968,
+["time_incombat"] = 2442.056999999968,
 ["time_fasterkill"] = 199.2069999999994,
 ["wipes"] = 0,
-["kills"] = 9,
-["dps_best"] = 5307232.707724794,
-["dps_best_when"] = 1760551990,
-["time_fasterkill_when"] = 1760551990,
-["dps_best_raid_when"] = 1758737899,
+["kills"] = 10,
+["dps_best"] = 5691071.839607501,
 ["dps_best_raid"] = 66301190.47152907,
+["time_fasterkill_when"] = 1760551990,
+["dps_best_when"] = 1761506096,
+["dps_best_raid_when"] = 1758737899,
 },
 ["normal"] = {
-["time_incombat"] = 430.2199999999929,
+["time_incombat"] = 563.6869999999931,
 ["time_fasterkill"] = 117.601999999999,
 ["wipes"] = 0,
-["kills"] = 3,
-["dps_best"] = 4763283.112594513,
-["dps_best_raid"] = 50604112.24298952,
+["kills"] = 4,
+["dps_best"] = 5019893.306994961,
+["dps_best_when"] = 1761157159,
 ["time_fasterkill_when"] = 1757527795,
 ["dps_best_raid_when"] = 1757527795,
-["dps_best_when"] = 1760293509,
+["dps_best_raid"] = 50604112.24298952,
 },
 },
 [3133] = {
 ["normal"] = {
-["time_incombat"] = 628.5030000000188,
+["time_incombat"] = 997.1550000000188,
 ["time_fasterkill"] = 104.0929999999935,
 ["wipes"] = 0,
-["kills"] = 3,
+["kills"] = 4,
 ["dps_best"] = 4545158.67549171,
-["dps_best_raid_when"] = 1757529481,
-["time_fasterkill_when"] = 1757529481,
-["dps_best_when"] = 1757529481,
 ["dps_best_raid"] = 45813248.47012094,
+["time_fasterkill_when"] = 1757529481,
+["dps_best_raid_when"] = 1757529481,
+["dps_best_when"] = 1757529481,
 },
 ["heroic"] = {
-["time_incombat"] = 1568.349999999973,
+["time_incombat"] = 1759.602999999974,
 ["time_fasterkill"] = 181.6750000000002,
 ["wipes"] = 0,
-["kills"] = 7,
-["dps_best"] = 5042709.316130316,
-["dps_best_raid"] = 60015592.75552112,
-["time_fasterkill_when"] = 1760554195,
-["dps_best_when"] = 1760554195,
+["kills"] = 8,
+["dps_best"] = 5109343.351484301,
 ["dps_best_raid_when"] = 1758740509,
+["time_fasterkill_when"] = 1760554195,
+["dps_best_when"] = 1761508160,
+["dps_best_raid"] = 60015592.75552112,
 },
 },
 [3011] = {
@@ -4623,10 +5191,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 4,
 ["dps_best"] = 861942.3672933273,
-["dps_best_raid_when"] = 1747851881,
-["time_fasterkill_when"] = 1747851881,
-["dps_best_when"] = 1745174063,
 ["dps_best_raid"] = 12204630.24610726,
+["time_fasterkill_when"] = 1747851881,
+["dps_best_raid_when"] = 1747851881,
+["dps_best_when"] = 1745174063,
 },
 ["heroic"] = {
 ["time_incombat"] = 1835.193000000226,
@@ -4634,10 +5202,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 10,
 ["dps_best"] = 1975714.115957737,
-["dps_best_raid"] = 19419424.15536974,
+["dps_best_raid_when"] = 1744827769,
 ["time_fasterkill_when"] = 1749665712,
 ["dps_best_when"] = 1747857720,
-["dps_best_raid_when"] = 1744827769,
+["dps_best_raid"] = 19419424.15536974,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 260.2799999999988,
@@ -4645,10 +5213,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 567438.9811300471,
-["dps_best_raid"] = 13483093.95266642,
+["dps_best_when"] = 1744063512,
 ["time_fasterkill_when"] = 1744063512,
 ["dps_best_raid_when"] = 1744063512,
-["dps_best_when"] = 1744063512,
+["dps_best_raid"] = 13483093.95266642,
 },
 },
 [3013] = {
@@ -4658,10 +5226,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 4,
 ["dps_best"] = 2955758.732925424,
-["dps_best_raid_when"] = 1747853224,
-["time_fasterkill_when"] = 1749062582,
-["dps_best_when"] = 1749062582,
 ["dps_best_raid"] = 22575505.78665268,
+["time_fasterkill_when"] = 1749062582,
+["dps_best_raid_when"] = 1747853224,
+["dps_best_when"] = 1749062582,
 },
 ["heroic"] = {
 ["time_incombat"] = 2177.768000000008,
@@ -4669,10 +5237,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 10,
 ["dps_best"] = 2466433.101566971,
-["dps_best_raid"] = 20532097.00737827,
+["dps_best_raid_when"] = 1744829360,
 ["time_fasterkill_when"] = 1749666543,
 ["dps_best_when"] = 1749666543,
-["dps_best_raid_when"] = 1744829360,
+["dps_best_raid"] = 20532097.00737827,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 193.0020000000077,
@@ -4680,10 +5248,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 783743.3291096826,
-["dps_best_raid"] = 16902730.31885613,
+["dps_best_when"] = 1744062530,
 ["time_fasterkill_when"] = 1744062530,
 ["dps_best_raid_when"] = 1744062530,
-["dps_best_when"] = 1744062530,
+["dps_best_raid"] = 16902730.31885613,
 },
 },
 [3015] = {
@@ -4693,10 +5261,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 4,
 ["dps_best"] = 1540072.467406182,
-["dps_best_raid_when"] = 1747855513,
-["time_fasterkill_when"] = 1749064049,
-["dps_best_when"] = 1749064049,
 ["dps_best_raid"] = 13868071.08569074,
+["time_fasterkill_when"] = 1749064049,
+["dps_best_raid_when"] = 1747855513,
+["dps_best_when"] = 1749064049,
 },
 ["heroic"] = {
 ["time_incombat"] = 2665.460000000172,
@@ -4704,10 +5272,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 10,
 ["dps_best"] = 2388893.080365742,
-["dps_best_raid"] = 18255698.0999005,
+["dps_best_raid_when"] = 1749667333,
 ["time_fasterkill_when"] = 1749667333,
 ["dps_best_when"] = 1749667333,
-["dps_best_raid_when"] = 1749667333,
+["dps_best_raid"] = 18255698.0999005,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 359.8520000000135,
@@ -4715,10 +5283,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 1050113.06317174,
-["dps_best_when"] = 1744060782,
-["time_fasterkill_when"] = 1744060782,
-["dps_best_raid_when"] = 1744060782,
 ["dps_best_raid"] = 11134453.48643289,
+["time_fasterkill_when"] = 1744060782,
+["dps_best_when"] = 1744060782,
+["dps_best_raid_when"] = 1744060782,
 },
 },
 ["normal"] = {
@@ -4728,10 +5296,10 @@ DetailsDataStorage = {
 ["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 [3129] = {
 ["time_incombat"] = 0,
@@ -4739,10 +5307,10 @@ DetailsDataStorage = {
 ["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [3010] = {
 ["time_incombat"] = 0,
@@ -4750,10 +5318,10 @@ DetailsDataStorage = {
 ["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [3012] = {
 ["time_incombat"] = 0,
@@ -4761,15 +5329,48 @@ DetailsDataStorage = {
 ["wipes"] = 4,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [3013] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
 ["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3009] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3135] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 9,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[3015] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid_when"] = 0,
@@ -4783,303 +5384,45 @@ DetailsDataStorage = {
 ["wipes"] = 2,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3135] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 8,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3015] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 2,
-["kills"] = 0,
-["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
 },
-[3009] = {
+[3132] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
 ["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
-["dps_best_raid"] = 0,
+["dps_best_raid_when"] = 0,
 },
 },
 [3122] = {
 ["normal"] = {
-["time_incombat"] = 691.9130000000088,
+["time_incombat"] = 932.847000000009,
 ["time_fasterkill"] = 187.573000000004,
 ["wipes"] = 0,
-["kills"] = 3,
-["dps_best"] = 6094220.166774146,
-["dps_best_raid_when"] = 1757529163,
-["time_fasterkill_when"] = 1757529163,
-["dps_best_when"] = 1760295248,
+["kills"] = 4,
+["dps_best"] = 6499128.151284936,
 ["dps_best_raid"] = 57316164.38932988,
+["time_fasterkill_when"] = 1757529163,
+["dps_best_raid_when"] = 1757529163,
+["dps_best_when"] = 1761158909,
 },
 ["heroic"] = {
-["time_incombat"] = 2110.852000000028,
+["time_incombat"] = 2438.190000000028,
 ["time_fasterkill"] = 287.0529999999999,
 ["wipes"] = 0,
-["kills"] = 6,
-["dps_best"] = 6972532.319832563,
-["dps_best_raid"] = 74027064.48744057,
+["kills"] = 7,
+["dps_best"] = 7146746.179808791,
+["dps_best_when"] = 1761507725,
 ["time_fasterkill_when"] = 1760553852,
 ["dps_best_raid_when"] = 1758739832,
-["dps_best_when"] = 1760553852,
-},
-},
-[3135] = {
-["normal"] = {
-["time_incombat"] = 1892.142000000016,
-["time_fasterkill"] = 307.3600000000006,
-["wipes"] = 0,
-["kills"] = 5,
-["dps_best"] = 2006032.599960801,
-["dps_best_when"] = 1756322552,
-["time_fasterkill_when"] = 1757530546,
-["dps_best_raid_when"] = 1756927411,
-["dps_best_raid"] = 32194897.72875965,
-},
-["heroic"] = {
-["time_incombat"] = 2020.956000000011,
-["time_fasterkill"] = 489.6350000000093,
-["wipes"] = 0,
-["kills"] = 4,
-["dps_best"] = 3034683.864876783,
-["dps_best_raid"] = 37677770.29346228,
-["time_fasterkill_when"] = 1759954406,
-["dps_best_raid_when"] = 1758744221,
-["dps_best_when"] = 1758744221,
-},
-},
-[3134] = {
-["normal"] = {
-["time_incombat"] = 715.0500000000161,
-["time_fasterkill"] = 147.9600000000064,
-["wipes"] = 0,
-["kills"] = 4,
-["dps_best"] = 4845506.772113876,
-["dps_best_when"] = 1757530051,
-["time_fasterkill_when"] = 1757530051,
-["dps_best_raid_when"] = 1756925634,
-["dps_best_raid"] = 63110129.20605929,
-},
-["heroic"] = {
-["time_incombat"] = 2139.775000000016,
-["time_fasterkill"] = 309.3299999999999,
-["wipes"] = 0,
-["kills"] = 6,
-["dps_best"] = 5102995.085063715,
-["dps_best_raid"] = 64249200.22067799,
-["time_fasterkill_when"] = 1760555351,
-["dps_best_raid_when"] = 1758137044,
-["dps_best_when"] = 1759952759,
-},
-},
-[3130] = {
-["normal"] = {
-["time_incombat"] = 471.3430000000344,
-["time_fasterkill"] = 132.4250000000002,
-["wipes"] = 0,
-["kills"] = 3,
-["dps_best"] = 4998382.405165597,
-["dps_best_raid_when"] = 1757528257,
-["time_fasterkill_when"] = 1760294052,
-["dps_best_when"] = 1760294052,
-["dps_best_raid"] = 48727549.93949235,
-},
-["heroic"] = {
-["time_incombat"] = 2220.095000000003,
-["time_fasterkill"] = 190.1950000000006,
-["wipes"] = 0,
-["kills"] = 9,
-["dps_best"] = 6735948.077461609,
-["dps_best_raid_when"] = 1758738513,
-["time_fasterkill_when"] = 1760552501,
-["dps_best_when"] = 1758738513,
-["dps_best_raid"] = 76707400.2865743,
-},
-},
-[3132] = {
-["normal"] = {
-["time_incombat"] = 621.9449999999715,
-["time_fasterkill"] = 125.2730000000011,
-["wipes"] = 0,
-["kills"] = 3,
-["dps_best"] = 4843832.046862851,
-["dps_best_raid_when"] = 1757528799,
-["time_fasterkill_when"] = 1757528799,
-["dps_best_when"] = 1757528799,
-["dps_best_raid"] = 48595563.52126914,
-},
-["heroic"] = {
-["time_incombat"] = 2487.399000000046,
-["time_fasterkill"] = 239.0750000000007,
-["wipes"] = 0,
-["kills"] = 8,
-["dps_best"] = 5179378.333591636,
-["dps_best_raid_when"] = 1758739215,
-["time_fasterkill_when"] = 1760553413,
-["dps_best_when"] = 1758739215,
-["dps_best_raid"] = 65610018.28048436,
-},
-},
-[3010] = {
-["normal"] = {
-["time_incombat"] = 731.7239999999983,
-["time_fasterkill"] = 162.9660000000149,
-["wipes"] = 0,
-["kills"] = 4,
-["dps_best"] = 1097339.242083461,
-["dps_best_raid_when"] = 1747851374,
-["time_fasterkill_when"] = 1747851374,
-["dps_best_when"] = 1749060858,
-["dps_best_raid"] = 12574459.85051982,
-},
-["heroic"] = {
-["time_incombat"] = 1962.167999999999,
-["time_fasterkill"] = 161.3449999999721,
-["wipes"] = 0,
-["kills"] = 10,
-["dps_best"] = 2408241.36478636,
-["dps_best_raid"] = 20311844.31517433,
-["time_fasterkill_when"] = 1749665283,
-["dps_best_when"] = 1749665283,
-["dps_best_raid_when"] = 1744827320,
-},
-["raidfinder"] = {
-["time_incombat"] = 195.112999999983,
-["time_fasterkill"] = 195.112999999983,
-["wipes"] = 0,
-["kills"] = 1,
-["dps_best"] = 780972.1956198371,
-["dps_best_raid"] = 17087722.23788415,
-["time_fasterkill_when"] = 1744063029,
-["dps_best_raid_when"] = 1744063029,
-["dps_best_when"] = 1744063029,
-},
-},
-[3012] = {
-["normal"] = {
-["time_incombat"] = 840.2850000000835,
-["time_fasterkill"] = 177.4069999999992,
-["wipes"] = 0,
-["kills"] = 4,
-["dps_best"] = 1610262.567739225,
-["dps_best_raid_when"] = 1747852735,
-["time_fasterkill_when"] = 1749062260,
-["dps_best_when"] = 1747852735,
-["dps_best_raid"] = 15238936.42951839,
-},
-["heroic"] = {
-["time_incombat"] = 2881.010000000089,
-["time_fasterkill"] = 234.3239999999933,
-["wipes"] = 0,
-["kills"] = 10,
-["dps_best"] = 3070656.916937714,
-["dps_best_raid"] = 22339689.16418089,
-["time_fasterkill_when"] = 1750271552,
-["dps_best_when"] = 1747858542,
-["dps_best_raid_when"] = 1744828800,
-},
-["raidfinder"] = {
-["time_incombat"] = 249.3589999999967,
-["time_fasterkill"] = 249.3589999999967,
-["wipes"] = 0,
-["kills"] = 1,
-["dps_best"] = 1073644.095481926,
-["dps_best_when"] = 1744061746,
-["time_fasterkill_when"] = 1744061746,
-["dps_best_raid_when"] = 1744061746,
-["dps_best_raid"] = 18532602.10780465,
-},
-},
-[3014] = {
-["normal"] = {
-["time_incombat"] = 722.4770000000644,
-["time_fasterkill"] = 122.9729999999981,
-["wipes"] = 0,
-["kills"] = 4,
-["dps_best"] = 2297097.50925644,
-["dps_best_raid_when"] = 1747853883,
-["time_fasterkill_when"] = 1747853883,
-["dps_best_when"] = 1747853883,
-["dps_best_raid"] = 20609878.77013684,
-},
-["heroic"] = {
-["time_incombat"] = 2603.298000000195,
-["time_fasterkill"] = 207.9370000000054,
-["wipes"] = 0,
-["kills"] = 10,
-["dps_best"] = 2383967.143924079,
-["dps_best_raid"] = 22055171.55293632,
-["time_fasterkill_when"] = 1750272371,
-["dps_best_when"] = 1750272371,
-["dps_best_raid_when"] = 1746644185,
-},
-["raidfinder"] = {
-["time_incombat"] = 262.6000000000058,
-["time_fasterkill"] = 262.6000000000058,
-["wipes"] = 0,
-["kills"] = 1,
-["dps_best"] = 878965.1218703537,
-["dps_best_when"] = 1744060190,
-["time_fasterkill_when"] = 1744060190,
-["dps_best_raid_when"] = 1744060190,
-["dps_best_raid"] = 14561861.58035002,
-},
-},
-[3016] = {
-["normal"] = {
-["time_incombat"] = 1114.521000000008,
-["time_fasterkill"] = 241.5760000000009,
-["wipes"] = 0,
-["kills"] = 4,
-["dps_best"] = 1326294.566847206,
-["dps_best_raid_when"] = 1747856230,
-["time_fasterkill_when"] = 1749064591,
-["dps_best_when"] = 1745176794,
-["dps_best_raid"] = 13819768.94719373,
-},
-["heroic"] = {
-["time_incombat"] = 3377.969000000077,
-["time_fasterkill"] = 353.5,
-["wipes"] = 0,
-["kills"] = 8,
-["dps_best"] = 1959087.870610011,
-["dps_best_when"] = 1752694071,
-["time_fasterkill_when"] = 1750273991,
-["dps_best_raid_when"] = 1750273991,
-["dps_best_raid"] = 17476292.42432815,
-},
-["raidfinder"] = {
-["time_incombat"] = 333.4210000000021,
-["time_fasterkill"] = 333.4210000000021,
-["wipes"] = 0,
-["kills"] = 1,
-["dps_best"] = 589454.6234484024,
-["dps_best_when"] = 1744061267,
-["time_fasterkill_when"] = 1744061267,
-["dps_best_raid_when"] = 1744061267,
-["dps_best_raid"] = 16669508.90615758,
+["dps_best_raid"] = 74027064.48744057,
 },
 },
 [3009] = {
@@ -5089,10 +5432,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 4,
 ["dps_best"] = 2843480.75109523,
-["dps_best_raid_when"] = 1747850825,
-["time_fasterkill_when"] = 1749060450,
-["dps_best_when"] = 1749060450,
 ["dps_best_raid"] = 19793260.94936931,
+["time_fasterkill_when"] = 1749060450,
+["dps_best_raid_when"] = 1747850825,
+["dps_best_when"] = 1749060450,
 },
 ["heroic"] = {
 ["time_incombat"] = 1763.214999999924,
@@ -5100,10 +5443,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 10,
 ["dps_best"] = 3692102.000585001,
-["dps_best_raid"] = 29355196.93886278,
+["dps_best_raid_when"] = 1750270332,
 ["time_fasterkill_when"] = 1750270332,
 ["dps_best_when"] = 1749664920,
-["dps_best_raid_when"] = 1750270332,
+["dps_best_raid"] = 29355196.93886278,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 239.55799999999,
@@ -5111,56 +5454,253 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 1315421.981352608,
-["dps_best_when"] = 1744059473,
-["time_fasterkill_when"] = 1744059473,
-["dps_best_raid_when"] = 1744059473,
 ["dps_best_raid"] = 17244482.98115769,
+["time_fasterkill_when"] = 1744059473,
+["dps_best_when"] = 1744059473,
+["dps_best_raid_when"] = 1744059473,
+},
+},
+[3010] = {
+["normal"] = {
+["time_incombat"] = 731.7239999999983,
+["time_fasterkill"] = 162.9660000000149,
+["wipes"] = 0,
+["kills"] = 4,
+["dps_best"] = 1097339.242083461,
+["dps_best_raid"] = 12574459.85051982,
+["time_fasterkill_when"] = 1747851374,
+["dps_best_raid_when"] = 1747851374,
+["dps_best_when"] = 1749060858,
+},
+["heroic"] = {
+["time_incombat"] = 1962.167999999999,
+["time_fasterkill"] = 161.3449999999721,
+["wipes"] = 0,
+["kills"] = 10,
+["dps_best"] = 2408241.36478636,
+["dps_best_raid_when"] = 1744827320,
+["time_fasterkill_when"] = 1749665283,
+["dps_best_when"] = 1749665283,
+["dps_best_raid"] = 20311844.31517433,
+},
+["raidfinder"] = {
+["time_incombat"] = 195.112999999983,
+["time_fasterkill"] = 195.112999999983,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 780972.1956198371,
+["dps_best_when"] = 1744063029,
+["time_fasterkill_when"] = 1744063029,
+["dps_best_raid_when"] = 1744063029,
+["dps_best_raid"] = 17087722.23788415,
+},
+},
+[3130] = {
+["normal"] = {
+["time_incombat"] = 639.4840000000345,
+["time_fasterkill"] = 132.4250000000002,
+["wipes"] = 0,
+["kills"] = 4,
+["dps_best"] = 4998382.405165597,
+["dps_best_raid"] = 48727549.93949235,
+["time_fasterkill_when"] = 1760294052,
+["dps_best_raid_when"] = 1757528257,
+["dps_best_when"] = 1760294052,
+},
+["heroic"] = {
+["time_incombat"] = 2421.720000000003,
+["time_fasterkill"] = 190.1950000000006,
+["wipes"] = 0,
+["kills"] = 10,
+["dps_best"] = 6735948.077461609,
+["dps_best_raid"] = 76707400.2865743,
+["time_fasterkill_when"] = 1760552501,
+["dps_best_raid_when"] = 1758738513,
+["dps_best_when"] = 1758738513,
+},
+},
+[3132] = {
+["normal"] = {
+["time_incombat"] = 860.3929999999718,
+["time_fasterkill"] = 125.2730000000011,
+["wipes"] = 0,
+["kills"] = 4,
+["dps_best"] = 4843832.046862851,
+["dps_best_raid"] = 48595563.52126914,
+["time_fasterkill_when"] = 1757528799,
+["dps_best_raid_when"] = 1757528799,
+["dps_best_when"] = 1757528799,
+},
+["heroic"] = {
+["time_incombat"] = 2740.486000000045,
+["time_fasterkill"] = 239.0750000000007,
+["wipes"] = 0,
+["kills"] = 9,
+["dps_best"] = 5620343.597294356,
+["dps_best_raid"] = 65610018.28048436,
+["time_fasterkill_when"] = 1760553413,
+["dps_best_raid_when"] = 1758739215,
+["dps_best_when"] = 1761507248,
+},
+},
+[3134] = {
+["normal"] = {
+["time_incombat"] = 891.0240000000153,
+["time_fasterkill"] = 147.9600000000064,
+["wipes"] = 0,
+["kills"] = 5,
+["dps_best"] = 4845506.772113876,
+["dps_best_raid"] = 63110129.20605929,
+["time_fasterkill_when"] = 1757530051,
+["dps_best_when"] = 1757530051,
+["dps_best_raid_when"] = 1756925634,
+},
+["heroic"] = {
+["time_incombat"] = 2467.516000000018,
+["time_fasterkill"] = 309.3299999999999,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 5102995.085063715,
+["dps_best_when"] = 1759952759,
+["time_fasterkill_when"] = 1760555351,
+["dps_best_raid_when"] = 1758137044,
+["dps_best_raid"] = 64249200.22067799,
+},
+},
+[3012] = {
+["normal"] = {
+["time_incombat"] = 840.2850000000835,
+["time_fasterkill"] = 177.4069999999992,
+["wipes"] = 0,
+["kills"] = 4,
+["dps_best"] = 1610262.567739225,
+["dps_best_raid"] = 15238936.42951839,
+["time_fasterkill_when"] = 1749062260,
+["dps_best_raid_when"] = 1747852735,
+["dps_best_when"] = 1747852735,
+},
+["heroic"] = {
+["time_incombat"] = 2881.010000000089,
+["time_fasterkill"] = 234.3239999999933,
+["wipes"] = 0,
+["kills"] = 10,
+["dps_best"] = 3070656.916937714,
+["dps_best_raid_when"] = 1744828800,
+["time_fasterkill_when"] = 1750271552,
+["dps_best_when"] = 1747858542,
+["dps_best_raid"] = 22339689.16418089,
+},
+["raidfinder"] = {
+["time_incombat"] = 249.3589999999967,
+["time_fasterkill"] = 249.3589999999967,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 1073644.095481926,
+["dps_best_raid"] = 18532602.10780465,
+["time_fasterkill_when"] = 1744061746,
+["dps_best_when"] = 1744061746,
+["dps_best_raid_when"] = 1744061746,
+},
+},
+[3014] = {
+["normal"] = {
+["time_incombat"] = 722.4770000000644,
+["time_fasterkill"] = 122.9729999999981,
+["wipes"] = 0,
+["kills"] = 4,
+["dps_best"] = 2297097.50925644,
+["dps_best_raid"] = 20609878.77013684,
+["time_fasterkill_when"] = 1747853883,
+["dps_best_raid_when"] = 1747853883,
+["dps_best_when"] = 1747853883,
+},
+["heroic"] = {
+["time_incombat"] = 2603.298000000195,
+["time_fasterkill"] = 207.9370000000054,
+["wipes"] = 0,
+["kills"] = 10,
+["dps_best"] = 2383967.143924079,
+["dps_best_raid_when"] = 1746644185,
+["time_fasterkill_when"] = 1750272371,
+["dps_best_when"] = 1750272371,
+["dps_best_raid"] = 22055171.55293632,
+},
+["raidfinder"] = {
+["time_incombat"] = 262.6000000000058,
+["time_fasterkill"] = 262.6000000000058,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 878965.1218703537,
+["dps_best_raid"] = 14561861.58035002,
+["time_fasterkill_when"] = 1744060190,
+["dps_best_when"] = 1744060190,
+["dps_best_raid_when"] = 1744060190,
+},
+},
+[3016] = {
+["normal"] = {
+["time_incombat"] = 1114.521000000008,
+["time_fasterkill"] = 241.5760000000009,
+["wipes"] = 0,
+["kills"] = 4,
+["dps_best"] = 1326294.566847206,
+["dps_best_raid"] = 13819768.94719373,
+["time_fasterkill_when"] = 1749064591,
+["dps_best_raid_when"] = 1747856230,
+["dps_best_when"] = 1745176794,
+},
+["heroic"] = {
+["time_incombat"] = 3377.969000000077,
+["time_fasterkill"] = 353.5,
+["wipes"] = 0,
+["kills"] = 8,
+["dps_best"] = 1959087.870610011,
+["dps_best_raid"] = 17476292.42432815,
+["time_fasterkill_when"] = 1750273991,
+["dps_best_when"] = 1752694071,
+["dps_best_raid_when"] = 1750273991,
+},
+["raidfinder"] = {
+["time_incombat"] = 333.4210000000021,
+["time_fasterkill"] = 333.4210000000021,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 589454.6234484024,
+["dps_best_raid"] = 16669508.90615758,
+["time_fasterkill_when"] = 1744061267,
+["dps_best_when"] = 1744061267,
+["dps_best_raid_when"] = 1744061267,
+},
+},
+[3135] = {
+["normal"] = {
+["time_incombat"] = 2321.157000000017,
+["time_fasterkill"] = 307.3600000000006,
+["wipes"] = 0,
+["kills"] = 6,
+["dps_best"] = 2431330.098029177,
+["dps_best_raid"] = 32194897.72875965,
+["time_fasterkill_when"] = 1757530546,
+["dps_best_when"] = 1761161333,
+["dps_best_raid_when"] = 1756927411,
+},
+["heroic"] = {
+["time_incombat"] = 2514.318000000012,
+["time_fasterkill"] = 489.6350000000093,
+["wipes"] = 0,
+["kills"] = 5,
+["dps_best"] = 3034683.864876783,
+["dps_best_when"] = 1758744221,
+["time_fasterkill_when"] = 1759954406,
+["dps_best_raid_when"] = 1758744221,
+["dps_best_raid"] = 37677770.29346228,
 },
 },
 },
 ["VERSION"] = 7,
-["raidfinder"] = {
-[3015] = {
-},
-[3009] = {
-},
-[3010] = {
-},
-[3011] = {
-},
-[3012] = {
-},
-[3013] = {
-},
-[3014] = {
-},
-[3016] = {
-},
-},
-["Data"] = {
-},
-["saved_encounters"] = {
-},
 ["heroic"] = {
 [3016] = {
 {
-["time"] = 1746387085,
-["guild"] = "Nox Terra",
-["elapsed"] = 500,
-["date"] = "21:31 04/05/25",
-["servertime"] = 1746387086,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 1179933839,
-["itemLevel"] = 665.8125,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 1265016996,
-["itemLevel"] = 662.875,
-["classId"] = 2,
-},
-},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 1089592313,
@@ -5197,21 +5737,63 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.625,
 ["classId"] = 2,
 },
-["Shkia"] = {
-["total"] = 616954132,
-["itemLevel"] = 663.4375,
-["classId"] = 9,
-},
 ["Angri"] = {
 ["total"] = 620291080,
 ["itemLevel"] = 662.0625,
 ["classId"] = 3,
 },
+["Shkia"] = {
+["total"] = 616954132,
+["itemLevel"] = 663.4375,
+["classId"] = 9,
 },
+},
+["time"] = 1746387085,
+["date"] = "21:31 04/05/25",
+["elapsed"] = 500,
+["servertime"] = 1746387086,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 1179933839,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 1265016996,
+["itemLevel"] = 662.875,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
 },
 {
-["date"] = "21:56 07/05/25",
+["time"] = 1746647788,
 ["guild"] = "Nox Terra",
+["elapsed"] = 489.0109999999986,
+["date"] = "21:56 07/05/25",
+["servertime"] = 1746647786,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 1145227184,
+["itemLevel"] = 664.6875,
+["classId"] = 2,
+},
+["Nitenurse"] = {
+["total"] = 978967297,
+["itemLevel"] = 657,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 691022037,
+["itemLevel"] = 659.125,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 1037245589,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 1013826095,
@@ -5248,15 +5830,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 669.25,
 ["classId"] = 11,
 },
-["Bellætrix"] = {
-["total"] = 535012264,
-["itemLevel"] = 665.875,
-["classId"] = 9,
+["Angri"] = {
+["total"] = 329819419,
+["itemLevel"] = 663.125,
+["classId"] = 3,
 },
-["Shkia"] = {
-["total"] = 730882637,
-["itemLevel"] = 664.25,
-["classId"] = 9,
+["Shambone"] = {
+["total"] = 855305787,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
 },
 ["Garanddor"] = {
 ["total"] = 1042533385,
@@ -5268,66 +5850,19 @@ DetailsDataStorage = {
 ["itemLevel"] = 666.625,
 ["classId"] = 2,
 },
-["Shambone"] = {
-["total"] = 855305787,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
+["Shkia"] = {
+["total"] = 730882637,
+["itemLevel"] = 664.25,
+["classId"] = 9,
 },
-["Angri"] = {
-["total"] = 329819419,
-["itemLevel"] = 663.125,
-["classId"] = 3,
-},
-},
-["elapsed"] = 489.0109999999986,
-["servertime"] = 1746647786,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 1145227184,
-["itemLevel"] = 664.6875,
-["classId"] = 2,
-},
-["Nitenurse"] = {
-["total"] = 978967297,
-["itemLevel"] = 657,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 691022037,
-["itemLevel"] = 659.125,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 1037245589,
-["itemLevel"] = 665.8125,
-["classId"] = 5,
+["Bellætrix"] = {
+["total"] = 535012264,
+["itemLevel"] = 665.875,
+["classId"] = 9,
 },
 },
-["time"] = 1746647788,
 },
 {
-["time"] = 1747251326,
-["guild"] = "Nox Terra",
-["elapsed"] = 450.3369999999995,
-["date"] = "21:35 14/05/25",
-["servertime"] = 1747251326,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 1028655989,
-["itemLevel"] = 668.5,
-["classId"] = 2,
-},
-["Nitenurse"] = {
-["total"] = 1059992563,
-["itemLevel"] = 662.0625,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 1010351830,
-["itemLevel"] = 669,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 1203421771,
@@ -5364,38 +5899,101 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.4375,
 ["classId"] = 11,
 },
-["Misbaksel"] = {
-["total"] = 783987599,
-["itemLevel"] = 663.625,
-["classId"] = 3,
+["Bellætrix"] = {
+["total"] = 409597090,
+["itemLevel"] = 667.25,
+["classId"] = 9,
 },
 ["Garanddor"] = {
 ["total"] = 1104104784,
 ["itemLevel"] = 677.5,
 ["classId"] = 2,
 },
-["Beorrn"] = {
-["total"] = 1031569620,
-["itemLevel"] = 671.5,
-["classId"] = 11,
-},
 ["Shkia"] = {
 ["total"] = 722778687,
 ["itemLevel"] = 666.6875,
 ["classId"] = 9,
 },
-["Bellætrix"] = {
-["total"] = 409597090,
-["itemLevel"] = 667.25,
-["classId"] = 9,
+["Beorrn"] = {
+["total"] = 1031569620,
+["itemLevel"] = 671.5,
+["classId"] = 11,
+},
+["Misbaksel"] = {
+["total"] = 783987599,
+["itemLevel"] = 663.625,
+["classId"] = 3,
 },
 },
+["time"] = 1747251326,
+["date"] = "21:35 14/05/25",
+["elapsed"] = 450.3369999999995,
+["servertime"] = 1747251326,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 1028655989,
+["itemLevel"] = 668.5,
+["classId"] = 2,
+},
+["Nitenurse"] = {
+["total"] = 1059992563,
+["itemLevel"] = 662.0625,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 1010351830,
+["itemLevel"] = 669,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
 },
 {
+["DAMAGER"] = {
+["Garanddor"] = {
+["total"] = 347291710,
+["itemLevel"] = 677.25,
+["classId"] = 2,
+},
+["Sparrowbeast"] = {
+["total"] = 1078203112,
+["itemLevel"] = 677.125,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 346317851,
+["itemLevel"] = 668.125,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 617311899,
+["itemLevel"] = 665.8125,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 747648689,
+["itemLevel"] = 669.375,
+["classId"] = 4,
+},
+["Shkia"] = {
+["total"] = 755310061,
+["itemLevel"] = 668.0625,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 738988343,
+["itemLevel"] = 668.75,
+["classId"] = 9,
+},
+["Velion"] = {
+["total"] = 802040745,
+["itemLevel"] = 669.8125,
+["classId"] = 6,
+},
+},
 ["time"] = 1748201337,
-["guild"] = "Nox Terra",
-["elapsed"] = 451.1980000000003,
 ["date"] = "21:28 25/05/25",
+["elapsed"] = 451.1980000000003,
 ["servertime"] = 1748201337,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -5409,53 +6007,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1078203112,
-["itemLevel"] = 677.125,
-["classId"] = 7,
-},
-["Velion"] = {
-["total"] = 802040745,
-["itemLevel"] = 669.8125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 346317851,
-["itemLevel"] = 668.125,
-["classId"] = 11,
-},
-["Bellætrix"] = {
-["total"] = 738988343,
-["itemLevel"] = 668.75,
-["classId"] = 9,
-},
-["Cretino"] = {
-["total"] = 747648689,
-["itemLevel"] = 669.375,
-["classId"] = 4,
-},
-["Shkia"] = {
-["total"] = 755310061,
-["itemLevel"] = 668.0625,
-["classId"] = 9,
-},
-["Angri"] = {
-["total"] = 617311899,
-["itemLevel"] = 665.8125,
-["classId"] = 3,
-},
-["Garanddor"] = {
-["total"] = 347291710,
-["itemLevel"] = 677.25,
-["classId"] = 2,
-},
-},
+["guild"] = "Nox Terra",
 },
 {
+["date"] = "22:27 04/06/25",
 ["guild"] = "Nox Terra",
-["time"] = 1749068828,
-["elapsed"] = 389.1640000000007,
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 459166683,
@@ -5498,6 +6054,7 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["elapsed"] = 389.1640000000007,
 ["servertime"] = 1749068826,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -5511,9 +6068,12 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["date"] = "22:27 04/06/25",
+["time"] = 1749068828,
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1749669101,
+["elapsed"] = 374.9880000000121,
 ["DAMAGER"] = {
 ["Cretino"] = {
 ["total"] = 698060880,
@@ -5550,25 +6110,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 679.625,
 ["classId"] = 2,
 },
-["Passeridae"] = {
-["total"] = 756449744,
-["itemLevel"] = 653.0625,
-["classId"] = 12,
+["Angri"] = {
+["total"] = 648223506,
+["itemLevel"] = 669.375,
+["classId"] = 3,
 },
 ["Tiekenei"] = {
 ["total"] = 788827448,
 ["itemLevel"] = 669.3125,
 ["classId"] = 7,
 },
-["Angri"] = {
-["total"] = 648223506,
-["itemLevel"] = 669.375,
-["classId"] = 3,
+["Passeridae"] = {
+["total"] = 756449744,
+["itemLevel"] = 653.0625,
+["classId"] = 12,
 },
 },
-["time"] = 1749669101,
-["date"] = "21:11 11/06/25",
-["elapsed"] = 374.9880000000121,
 ["servertime"] = 1749669101,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -5582,11 +6139,26 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "21:11 11/06/25",
 },
 {
-["date"] = "21:13 18/06/25",
+["time"] = 1750273991,
 ["guild"] = "Nox Terra",
+["elapsed"] = 353.5,
+["date"] = "21:13 18/06/25",
+["servertime"] = 1750273992,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 882028529,
+["itemLevel"] = 674.75,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 968993305,
+["itemLevel"] = 680.4375,
+["classId"] = 2,
+},
+},
 ["DAMAGER"] = {
 ["Asplor"] = {
 ["total"] = 498901599,
@@ -5628,36 +6200,36 @@ DetailsDataStorage = {
 ["itemLevel"] = 681.0625,
 ["classId"] = 2,
 },
-["Angri"] = {
-["total"] = 698786443,
-["itemLevel"] = 672.125,
-["classId"] = 3,
-},
 ["Passeridae"] = {
 ["total"] = 695881163,
 ["itemLevel"] = 657.5,
 ["classId"] = 12,
 },
+["Angri"] = {
+["total"] = 698786443,
+["itemLevel"] = 672.125,
+["classId"] = 3,
 },
-["elapsed"] = 353.5,
-["servertime"] = 1750273992,
+},
+},
+{
+["time"] = 1752694071,
+["guild"] = "Nox Terra",
+["elapsed"] = 369.7710000000661,
+["date"] = "21:27 16/07/25",
+["servertime"] = 1752694071,
 ["HEALER"] = {
 ["Potdisc"] = {
-["total"] = 882028529,
-["itemLevel"] = 674.75,
+["total"] = 923858335,
+["itemLevel"] = 677,
 ["classId"] = 5,
 },
 ["Cidney"] = {
-["total"] = 968993305,
-["itemLevel"] = 680.4375,
+["total"] = 1046691122,
+["itemLevel"] = 682.25,
 ["classId"] = 2,
 },
 },
-["time"] = 1750273991,
-},
-{
-["date"] = "21:27 16/07/25",
-["guild"] = "Nox Terra",
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 464683477,
@@ -5679,41 +6251,29 @@ DetailsDataStorage = {
 ["itemLevel"] = 678.1875,
 ["classId"] = 4,
 },
-["Garrandor"] = {
-["total"] = 864575694,
-["itemLevel"] = 670.5,
-["classId"] = 3,
+["Shkia"] = {
+["total"] = 722117827,
+["itemLevel"] = 674.125,
+["classId"] = 9,
 },
 ["Angri"] = {
 ["total"] = 765846622,
 ["itemLevel"] = 677.5,
 ["classId"] = 3,
 },
-["Shkia"] = {
-["total"] = 722117827,
-["itemLevel"] = 674.125,
-["classId"] = 9,
+["Garrandor"] = {
+["total"] = 864575694,
+["itemLevel"] = 670.5,
+["classId"] = 3,
 },
 },
-["elapsed"] = 369.7710000000661,
-["servertime"] = 1752694071,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 923858335,
-["itemLevel"] = 677,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 1046691122,
-["itemLevel"] = 682.25,
-["classId"] = 2,
-},
-},
-["time"] = 1752694071,
 },
 },
 [3009] = {
 {
+["guild"] = "Nox Terra",
+["time"] = 1744826875,
+["elapsed"] = 188.6470000000008,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 560142732,
@@ -5755,35 +6315,32 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.875,
 ["classId"] = 8,
 },
-["Angri"] = {
-["total"] = 319152648,
-["itemLevel"] = 657.875,
-["classId"] = 3,
+["Vynarth"] = {
+["total"] = 413609423,
+["itemLevel"] = 661.5625,
+["classId"] = 4,
 },
 ["Shambone"] = {
 ["total"] = 476524943,
 ["itemLevel"] = 664.75,
 ["classId"] = 7,
 },
-["Potdisc"] = {
-["total"] = 442167167,
-["itemLevel"] = 665.375,
-["classId"] = 5,
-},
 ["Garanddor"] = {
 ["total"] = 511571261,
 ["itemLevel"] = 667.625,
 ["classId"] = 2,
 },
-["Vynarth"] = {
-["total"] = 413609423,
-["itemLevel"] = 661.5625,
-["classId"] = 4,
+["Potdisc"] = {
+["total"] = 442167167,
+["itemLevel"] = 665.375,
+["classId"] = 5,
+},
+["Angri"] = {
+["total"] = 319152648,
+["itemLevel"] = 657.875,
+["classId"] = 3,
 },
 },
-["time"] = 1744826875,
-["date"] = "20:07 16/04/25",
-["elapsed"] = 188.6470000000008,
 ["servertime"] = 1744826873,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -5797,14 +6354,17 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:07 16/04/25",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1745431631,
+["elapsed"] = 183.0679999999702,
 ["DAMAGER"] = {
-["Angri"] = {
-["total"] = 189298271,
-["itemLevel"] = 660.125,
-["classId"] = 3,
+["Bellætrix"] = {
+["total"] = 402263823,
+["itemLevel"] = 660.875,
+["classId"] = 9,
 },
 ["Klanky"] = {
 ["total"] = 520890320,
@@ -5821,9 +6381,44 @@ DetailsDataStorage = {
 ["itemLevel"] = 663.4375,
 ["classId"] = 1,
 },
-["Bellætrix"] = {
-["total"] = 402263823,
-["itemLevel"] = 660.875,
+["Misbaksel"] = {
+["total"] = 360065833,
+["itemLevel"] = 660.6875,
+["classId"] = 3,
+},
+["Tiekenei"] = {
+["total"] = 469621652,
+["itemLevel"] = 663.0625,
+["classId"] = 7,
+},
+["Benosan"] = {
+["total"] = 308099191,
+["itemLevel"] = 664.875,
+["classId"] = 10,
+},
+["Beorrn"] = {
+["total"] = 548794991,
+["itemLevel"] = 667.625,
+["classId"] = 11,
+},
+["Barrow"] = {
+["total"] = 318174240,
+["itemLevel"] = 649.625,
+["classId"] = 11,
+},
+["Shambone"] = {
+["total"] = 484069098,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
+},
+["Garanddor"] = {
+["total"] = 550052295,
+["itemLevel"] = 667.625,
+["classId"] = 2,
+},
+["Shkia"] = {
+["total"] = 357572538,
+["itemLevel"] = 662.625,
 ["classId"] = 9,
 },
 ["Vynarth"] = {
@@ -5831,50 +6426,12 @@ DetailsDataStorage = {
 ["itemLevel"] = 663.5,
 ["classId"] = 4,
 },
-["Benosan"] = {
-["total"] = 308099191,
-["itemLevel"] = 664.875,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 469621652,
-["itemLevel"] = 663.0625,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 318174240,
-["itemLevel"] = 649.625,
-["classId"] = 11,
-},
-["Shkia"] = {
-["total"] = 357572538,
-["itemLevel"] = 662.625,
-["classId"] = 9,
-},
-["Garanddor"] = {
-["total"] = 550052295,
-["itemLevel"] = 667.625,
-["classId"] = 2,
-},
-["Shambone"] = {
-["total"] = 484069098,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
-},
-["Beorrn"] = {
-["total"] = 548794991,
-["itemLevel"] = 667.625,
-["classId"] = 11,
-},
-["Misbaksel"] = {
-["total"] = 360065833,
-["itemLevel"] = 660.6875,
+["Angri"] = {
+["total"] = 189298271,
+["itemLevel"] = 660.125,
 ["classId"] = 3,
 },
 },
-["time"] = 1745431631,
-["date"] = "20:07 23/04/25",
-["elapsed"] = 183.0679999999702,
 ["servertime"] = 1745431632,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -5888,12 +6445,11 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:07 23/04/25",
 },
 {
+["date"] = "20:08 30/04/25",
 ["guild"] = "Nox Terra",
-["time"] = 1746036524,
-["elapsed"] = 215.2069999999949,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 664341331,
@@ -5940,17 +6496,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 665.75,
 ["classId"] = 2,
 },
-["Angri"] = {
-["total"] = 257370485,
-["itemLevel"] = 661.6666666666666,
-["classId"] = 3,
-},
 ["Bellætrix"] = {
 ["total"] = 438517981,
 ["itemLevel"] = 664.3125,
 ["classId"] = 9,
 },
+["Angri"] = {
+["total"] = 257370485,
+["itemLevel"] = 661.6666666666666,
+["classId"] = 3,
 },
+},
+["elapsed"] = 215.2069999999949,
 ["servertime"] = 1746036524,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -5969,11 +6526,31 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "20:08 30/04/25",
+["time"] = 1746036524,
 },
 {
-["date"] = "20:06 07/05/25",
+["time"] = 1746641179,
 ["guild"] = "Nox Terra",
+["elapsed"] = 179.8889999999956,
+["date"] = "20:06 07/05/25",
+["servertime"] = 1746641177,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 262895117,
+["itemLevel"] = 664.6875,
+["classId"] = 2,
+},
+["Nitenurse"] = {
+["total"] = 328272571,
+["itemLevel"] = 657,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 319517735,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 646126989,
@@ -6025,61 +6602,19 @@ DetailsDataStorage = {
 ["itemLevel"] = 666.625,
 ["classId"] = 2,
 },
-["Shkia"] = {
-["total"] = 460303254,
-["itemLevel"] = 664.25,
-["classId"] = 9,
-},
 ["Angri"] = {
 ["total"] = 336804647,
 ["itemLevel"] = 662.9375,
 ["classId"] = 3,
 },
-},
-["elapsed"] = 179.8889999999956,
-["servertime"] = 1746641177,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 262895117,
-["itemLevel"] = 664.6875,
-["classId"] = 2,
-},
-["Nitenurse"] = {
-["total"] = 328272571,
-["itemLevel"] = 657,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 319517735,
-["itemLevel"] = 665.8125,
-["classId"] = 5,
+["Shkia"] = {
+["total"] = 460303254,
+["itemLevel"] = 664.25,
+["classId"] = 9,
 },
 },
-["time"] = 1746641179,
 },
 {
-["time"] = 1747245942,
-["guild"] = "Nox Terra",
-["elapsed"] = 194.1649999999791,
-["date"] = "20:05 14/05/25",
-["servertime"] = 1747245942,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 290760549,
-["itemLevel"] = 668.5,
-["classId"] = 2,
-},
-["Discotonic"] = {
-["total"] = 232328763,
-["itemLevel"] = 643.9375,
-["classId"] = 5,
-},
-["Potdisc"] = {
-["total"] = 390963422,
-["itemLevel"] = 668.625,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 597022879,
@@ -6121,24 +6656,49 @@ DetailsDataStorage = {
 ["itemLevel"] = 676.5625,
 ["classId"] = 2,
 },
-["Beorrn"] = {
-["total"] = 614536688,
-["itemLevel"] = 671.125,
-["classId"] = 11,
+["Bellætrix"] = {
+["total"] = 382030745,
+["itemLevel"] = 667.0625,
+["classId"] = 9,
 },
 ["Misbaksel"] = {
 ["total"] = 443635786,
 ["itemLevel"] = 662.8125,
 ["classId"] = 3,
 },
-["Bellætrix"] = {
-["total"] = 382030745,
-["itemLevel"] = 667.0625,
-["classId"] = 9,
+["Beorrn"] = {
+["total"] = 614536688,
+["itemLevel"] = 671.125,
+["classId"] = 11,
 },
 },
+["time"] = 1747245942,
+["date"] = "20:05 14/05/25",
+["elapsed"] = 194.1649999999791,
+["servertime"] = 1747245942,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 290760549,
+["itemLevel"] = 668.5,
+["classId"] = 2,
+},
+["Discotonic"] = {
+["total"] = 232328763,
+["itemLevel"] = 643.9375,
+["classId"] = 5,
+},
+["Potdisc"] = {
+["total"] = 390963422,
+["itemLevel"] = 668.625,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1747856842,
+["elapsed"] = 152.2729999999865,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 564158790,
@@ -6180,25 +6740,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.0625,
 ["classId"] = 7,
 },
-["Garanddor"] = {
-["total"] = 589698997,
-["itemLevel"] = 678.5,
-["classId"] = 2,
+["Beorrn"] = {
+["total"] = 575362037,
+["itemLevel"] = 671.875,
+["classId"] = 11,
 },
 ["Shkia"] = {
 ["total"] = 315350314,
 ["itemLevel"] = 667.875,
 ["classId"] = 9,
 },
-["Beorrn"] = {
-["total"] = 575362037,
-["itemLevel"] = 671.875,
-["classId"] = 11,
+["Garanddor"] = {
+["total"] = 589698997,
+["itemLevel"] = 678.5,
+["classId"] = 2,
 },
 },
-["time"] = 1747856842,
-["date"] = "21:47 21/05/25",
-["elapsed"] = 152.2729999999865,
 ["servertime"] = 1747856842,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -6212,12 +6769,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "21:47 21/05/25",
 },
 {
+["date"] = "21:25 04/06/25",
 ["guild"] = "Nox Terra",
-["time"] = 1749065111,
-["elapsed"] = 188.2590000000018,
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 322877604,
@@ -6260,6 +6816,7 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["elapsed"] = 188.2590000000018,
 ["servertime"] = 1749065109,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -6273,9 +6830,12 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["date"] = "21:25 04/06/25",
+["time"] = 1749065111,
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1749664920,
+["elapsed"] = 140.3130000000238,
 ["DAMAGER"] = {
 ["Cretino"] = {
 ["total"] = 518049908,
@@ -6312,25 +6872,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 679.5333333333333,
 ["classId"] = 2,
 },
-["Passeridae"] = {
-["total"] = 397333623,
-["itemLevel"] = 653.0625,
-["classId"] = 12,
+["Angri"] = {
+["total"] = 361509597,
+["itemLevel"] = 669.2666666666667,
+["classId"] = 3,
 },
 ["Velion"] = {
 ["total"] = 629943405,
 ["itemLevel"] = 676.125,
 ["classId"] = 6,
 },
-["Angri"] = {
-["total"] = 361509597,
-["itemLevel"] = 669.2666666666667,
-["classId"] = 3,
+["Passeridae"] = {
+["total"] = 397333623,
+["itemLevel"] = 653.0625,
+["classId"] = 12,
 },
 },
-["time"] = 1749664920,
-["date"] = "20:02 11/06/25",
-["elapsed"] = 140.3130000000238,
 ["servertime"] = 1749664920,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -6344,11 +6901,26 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:02 11/06/25",
 },
 {
-["date"] = "20:12 18/06/25",
+["time"] = 1750270332,
 ["guild"] = "Nox Terra",
+["elapsed"] = 137.0729999999749,
+["date"] = "20:12 18/06/25",
+["servertime"] = 1750270333,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 254544417,
+["itemLevel"] = 680.4375,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 187997473,
+["itemLevel"] = 651.3125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Cretino"] = {
 ["total"] = 374911650,
@@ -6385,41 +6957,36 @@ DetailsDataStorage = {
 ["itemLevel"] = 681.0625,
 ["classId"] = 2,
 },
-["Misbaksel"] = {
-["total"] = 528309063,
-["itemLevel"] = 669.375,
-["classId"] = 3,
+["Potdisc"] = {
+["total"] = 450213023,
+["itemLevel"] = 675.5625,
+["classId"] = 5,
 },
 ["Passeridae"] = {
 ["total"] = 422516132,
 ["itemLevel"] = 656.6875,
 ["classId"] = 12,
 },
-["Potdisc"] = {
-["total"] = 450213023,
-["itemLevel"] = 675.5625,
-["classId"] = 5,
+["Misbaksel"] = {
+["total"] = 528309063,
+["itemLevel"] = 669.375,
+["classId"] = 3,
 },
 },
-["elapsed"] = 137.0729999999749,
-["servertime"] = 1750270333,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 254544417,
-["itemLevel"] = 680.4375,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 187997473,
-["itemLevel"] = 651.3125,
-["classId"] = 5,
-},
-},
-["time"] = 1750270332,
 },
 {
-["date"] = "20:15 16/07/25",
+["time"] = 1752689718,
 ["guild"] = "Nox Terra",
+["elapsed"] = 184.3209999999963,
+["date"] = "20:15 16/07/25",
+["servertime"] = 1752689718,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 466358252,
+["itemLevel"] = 682.25,
+["classId"] = 2,
+},
+},
 ["DAMAGER"] = {
 ["Velion"] = {
 ["total"] = 512432634,
@@ -6431,10 +6998,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 677.8125,
 ["classId"] = 5,
 },
-["Barrow"] = {
-["total"] = 282886957,
-["itemLevel"] = 675.3125,
-["classId"] = 11,
+["Cretino"] = {
+["total"] = 559775161,
+["itemLevel"] = 678.1875,
+["classId"] = 4,
 },
 ["Shkia"] = {
 ["total"] = 497485929,
@@ -6451,28 +7018,38 @@ DetailsDataStorage = {
 ["itemLevel"] = 677.9333333333333,
 ["classId"] = 3,
 },
-["Cretino"] = {
-["total"] = 559775161,
-["itemLevel"] = 678.1875,
-["classId"] = 4,
+["Barrow"] = {
+["total"] = 282886957,
+["itemLevel"] = 675.3125,
+["classId"] = 11,
 },
 },
-["elapsed"] = 184.3209999999963,
-["servertime"] = 1752689718,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 466358252,
-["itemLevel"] = 682.25,
-["classId"] = 2,
-},
-},
-["time"] = 1752689718,
 },
 },
 [3122] = {
 {
-["date"] = "22:24 03/09/25",
+["time"] = 1756931071,
 ["guild"] = "Nox Terra",
+["elapsed"] = 401.8130000000238,
+["date"] = "22:24 03/09/25",
+["servertime"] = 1756931070,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 1511790203,
+["itemLevel"] = 698.8125,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 1520409068,
+["itemLevel"] = 701.9375,
+["classId"] = 13,
+},
+["Potdisc"] = {
+["total"] = 1763444252,
+["itemLevel"] = 702.0625,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Garadh"] = {
 ["total"] = 2124699116,
@@ -6514,54 +7091,37 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.625,
 ["classId"] = 11,
 },
-["Velion"] = {
-["total"] = 2231859611,
-["itemLevel"] = 710.875,
-["classId"] = 6,
-},
-["Oplichter"] = {
-["total"] = 1514333186,
-["itemLevel"] = 700.5625,
-["classId"] = 2,
-},
-["Klanky"] = {
-["total"] = 1767845472,
-["itemLevel"] = 704.75,
-["classId"] = 3,
+["Sparrowbeast"] = {
+["total"] = 2273881413,
+["itemLevel"] = 709,
+["classId"] = 7,
 },
 ["Shkia"] = {
 ["total"] = 1762865711,
 ["itemLevel"] = 701.875,
 ["classId"] = 9,
 },
-["Sparrowbeast"] = {
-["total"] = 2273881413,
-["itemLevel"] = 709,
-["classId"] = 7,
+["Klanky"] = {
+["total"] = 1767845472,
+["itemLevel"] = 704.75,
+["classId"] = 3,
 },
-},
-["elapsed"] = 401.8130000000238,
-["servertime"] = 1756931070,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 1511790203,
-["itemLevel"] = 698.8125,
+["Oplichter"] = {
+["total"] = 1514333186,
+["itemLevel"] = 700.5625,
 ["classId"] = 2,
 },
-["Khalheessi"] = {
-["total"] = 1520409068,
-["itemLevel"] = 701.9375,
-["classId"] = 13,
-},
-["Potdisc"] = {
-["total"] = 1763444252,
-["itemLevel"] = 702.0625,
-["classId"] = 5,
+["Velion"] = {
+["total"] = 2231859611,
+["itemLevel"] = 710.875,
+["classId"] = 6,
 },
 },
-["time"] = 1756931071,
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1757534263,
+["elapsed"] = 414.5230000000011,
 ["DAMAGER"] = {
 ["Garadh"] = {
 ["total"] = 2198180152,
@@ -6603,25 +7163,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 711.4375,
 ["classId"] = 11,
 },
-["Sparrowbeast"] = {
-["total"] = 2464245396,
-["itemLevel"] = 711,
-["classId"] = 7,
+["Angri"] = {
+["total"] = 1122198816,
+["itemLevel"] = 703.875,
+["classId"] = 3,
 },
 ["Cretino"] = {
 ["total"] = 1897493285,
 ["itemLevel"] = 705.8125,
 ["classId"] = 4,
 },
-["Angri"] = {
-["total"] = 1122198816,
-["itemLevel"] = 703.875,
-["classId"] = 3,
+["Sparrowbeast"] = {
+["total"] = 2464245396,
+["itemLevel"] = 711,
+["classId"] = 7,
 },
 },
-["time"] = 1757534263,
-["date"] = "21:57 10/09/25",
-["elapsed"] = 414.5230000000011,
 ["servertime"] = 1757534262,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -6640,31 +7197,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "21:57 10/09/25",
 },
 {
-["time"] = 1758134985,
-["guild"] = "Nox Terra",
-["elapsed"] = 348.5060000000012,
-["date"] = "20:49 17/09/25",
-["servertime"] = 1758134985,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 1140064638,
-["itemLevel"] = 703,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 1466425249,
-["itemLevel"] = 707.25,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 1285726463,
-["itemLevel"] = 705.625,
-["classId"] = 2,
-},
-},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 2253530331,
@@ -6691,10 +7226,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.5,
 ["classId"] = 3,
 },
-["Garadh"] = {
-["total"] = 2013086824,
-["itemLevel"] = 710.875,
-["classId"] = 12,
+["Tbonem"] = {
+["total"] = 2024849049,
+["itemLevel"] = 712.625,
+["classId"] = 8,
 },
 ["Benosan"] = {
 ["total"] = 1174616501,
@@ -6711,56 +7246,56 @@ DetailsDataStorage = {
 ["itemLevel"] = 712.8125,
 ["classId"] = 11,
 },
-["Bellætrix"] = {
-["total"] = 1463888864,
-["itemLevel"] = 701.8125,
-["classId"] = 9,
-},
-["Shkia"] = {
-["total"] = 1844635456,
-["itemLevel"] = 704.25,
-["classId"] = 9,
+["Velion"] = {
+["total"] = 2117334356,
+["itemLevel"] = 712.8125,
+["classId"] = 6,
 },
 ["Potdisc"] = {
 ["total"] = 2082912836,
 ["itemLevel"] = 707.375,
 ["classId"] = 5,
 },
-["Velion"] = {
-["total"] = 2117334356,
-["itemLevel"] = 712.8125,
-["classId"] = 6,
+["Shkia"] = {
+["total"] = 1844635456,
+["itemLevel"] = 704.25,
+["classId"] = 9,
 },
-["Tbonem"] = {
-["total"] = 2024849049,
-["itemLevel"] = 712.625,
-["classId"] = 8,
+["Bellætrix"] = {
+["total"] = 1463888864,
+["itemLevel"] = 701.8125,
+["classId"] = 9,
+},
+["Garadh"] = {
+["total"] = 2013086824,
+["itemLevel"] = 710.875,
+["classId"] = 12,
 },
 },
-},
-{
-["time"] = 1758739832,
-["guild"] = "Nox Terra",
-["elapsed"] = 332.8400000000038,
-["date"] = "20:50 24/09/25",
-["servertime"] = 1758739832,
+["time"] = 1758134985,
+["date"] = "20:49 17/09/25",
+["elapsed"] = 348.5060000000012,
+["servertime"] = 1758134985,
 ["HEALER"] = {
-["Cidney"] = {
-["total"] = 1368698393,
-["itemLevel"] = 707.5625,
+["Oplichter"] = {
+["total"] = 1140064638,
+["itemLevel"] = 703,
 ["classId"] = 2,
 },
 ["Khalheessi"] = {
-["total"] = 1143718129,
-["itemLevel"] = 710.1875,
+["total"] = 1466425249,
+["itemLevel"] = 707.25,
 ["classId"] = 13,
 },
-["Oplichter"] = {
-["total"] = 1206479565,
-["itemLevel"] = 706.75,
+["Cidney"] = {
+["total"] = 1285726463,
+["itemLevel"] = 705.625,
 ["classId"] = 2,
 },
 },
+["guild"] = "Nox Terra",
+},
+{
 ["DAMAGER"] = {
 ["Garadh"] = {
 ["total"] = 2028668776,
@@ -6787,10 +7322,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 708.4375,
 ["classId"] = 3,
 },
-["Bellætrix"] = {
-["total"] = 1536082469,
-["itemLevel"] = 707.375,
-["classId"] = 9,
+["Velion"] = {
+["total"] = 2409168429,
+["itemLevel"] = 715.8125,
+["classId"] = 6,
 },
 ["Benosan"] = {
 ["total"] = 1036729747,
@@ -6807,34 +7342,59 @@ DetailsDataStorage = {
 ["itemLevel"] = 712.875,
 ["classId"] = 11,
 },
-["Potdisc"] = {
-["total"] = 2059077531,
-["itemLevel"] = 709.125,
-["classId"] = 5,
-},
-["Tbonem"] = {
-["total"] = 2305743758,
-["itemLevel"] = 714.0625,
-["classId"] = 8,
+["Sparrowbeast"] = {
+["total"] = 2131353094,
+["itemLevel"] = 713.375,
+["classId"] = 7,
 },
 ["Beorrn"] = {
 ["total"] = 1506772682,
 ["itemLevel"] = 707,
 ["classId"] = 11,
 },
-["Sparrowbeast"] = {
-["total"] = 2131353094,
-["itemLevel"] = 713.375,
-["classId"] = 7,
+["Tbonem"] = {
+["total"] = 2305743758,
+["itemLevel"] = 714.0625,
+["classId"] = 8,
 },
-["Velion"] = {
-["total"] = 2409168429,
-["itemLevel"] = 715.8125,
-["classId"] = 6,
+["Potdisc"] = {
+["total"] = 2059077531,
+["itemLevel"] = 709.125,
+["classId"] = 5,
+},
+["Bellætrix"] = {
+["total"] = 1536082469,
+["itemLevel"] = 707.375,
+["classId"] = 9,
 },
 },
+["time"] = 1758739832,
+["date"] = "20:50 24/09/25",
+["elapsed"] = 332.8400000000038,
+["servertime"] = 1758739832,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 1368698393,
+["itemLevel"] = 707.5625,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 1143718129,
+["itemLevel"] = 710.1875,
+["classId"] = 13,
+},
+["Oplichter"] = {
+["total"] = 1206479565,
+["itemLevel"] = 706.75,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1759949340,
+["elapsed"] = 326.1169999999984,
 ["DAMAGER"] = {
 ["Tbonem"] = {
 ["total"] = 2180811908,
@@ -6866,9 +7426,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 716.6875,
 ["classId"] = 11,
 },
-["Klanky"] = {
-["total"] = 1742686663,
-["itemLevel"] = 711.875,
+["Cretino"] = {
+["total"] = 1879165249,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+["Angri"] = {
+["total"] = 1462130923,
+["itemLevel"] = 712,
 ["classId"] = 3,
 },
 ["Velion"] = {
@@ -6876,20 +7441,12 @@ DetailsDataStorage = {
 ["itemLevel"] = 718.375,
 ["classId"] = 6,
 },
-["Angri"] = {
-["total"] = 1462130923,
-["itemLevel"] = 712,
+["Klanky"] = {
+["total"] = 1742686663,
+["itemLevel"] = 711.875,
 ["classId"] = 3,
 },
-["Cretino"] = {
-["total"] = 1879165249,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
 },
-},
-["time"] = 1759949340,
-["date"] = "20:49 08/10/25",
-["elapsed"] = 326.1169999999984,
 ["servertime"] = 1759949339,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -6903,12 +7460,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:49 08/10/25",
 },
 {
+["date"] = "20:44 15/10/25",
 ["guild"] = "Nox Terra",
-["time"] = 1760553852,
-["elapsed"] = 287.0529999999999,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 1874901846,
@@ -6940,32 +7496,33 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.25,
 ["classId"] = 6,
 },
-["Benó"] = {
-["total"] = 1127546350,
-["itemLevel"] = 714.625,
-["classId"] = 6,
-},
-["Shkia"] = {
-["total"] = 1561083153,
-["itemLevel"] = 708,
-["classId"] = 9,
-},
-["Tbonem"] = {
-["total"] = 2006550106,
-["itemLevel"] = 717.6666666666666,
-["classId"] = 8,
+["Garadh"] = {
+["total"] = 1707415948,
+["itemLevel"] = 715.5,
+["classId"] = 12,
 },
 ["Tiekenei"] = {
 ["total"] = 1657128074,
 ["itemLevel"] = 715.9375,
 ["classId"] = 7,
 },
-["Garadh"] = {
-["total"] = 1707415948,
-["itemLevel"] = 715.5,
-["classId"] = 12,
+["Tbonem"] = {
+["total"] = 2006550106,
+["itemLevel"] = 717.6666666666666,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 1561083153,
+["itemLevel"] = 708,
+["classId"] = 9,
+},
+["Benó"] = {
+["total"] = 1127546350,
+["itemLevel"] = 714.625,
+["classId"] = 6,
 },
 },
+["elapsed"] = 287.0529999999999,
 ["servertime"] = 1760553849,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -6979,11 +7536,85 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["date"] = "20:44 15/10/25",
+["time"] = 1760553852,
+},
+{
+["date"] = "20:42 26/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 586810090,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 2533686965,
+["itemLevel"] = 722.5,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 2339401601,
+["itemLevel"] = 718.75,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 942140724,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 1505896349,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Lightflicker"] = {
+["total"] = 586633501,
+["itemLevel"] = 664.125,
+["classId"] = 2,
+},
+["Velion"] = {
+["total"] = 2241169018,
+["itemLevel"] = 727.25,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 1634377261,
+["itemLevel"] = 722.6,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 1672541176,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Tiekenei"] = {
+["total"] = 2116644866,
+["itemLevel"] = 717.4375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 327.3379999999997,
+["servertime"] = 1761507724,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 1259632283,
+["itemLevel"] = 716.9375,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 1779852700,
+["itemLevel"] = 715.4375,
+["classId"] = 5,
+},
+},
+["time"] = 1761507725,
 },
 },
 [3010] = {
 {
+["guild"] = "Nox Terra",
+["time"] = 1744827320,
+["elapsed"] = 190.8150000000005,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 398066519,
@@ -7010,10 +7641,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 660,
 ["classId"] = 9,
 },
-["Angri"] = {
-["total"] = 262349498,
-["itemLevel"] = 657.875,
-["classId"] = 3,
+["Vynarth"] = {
+["total"] = 345401838,
+["itemLevel"] = 661.5625,
+["classId"] = 4,
 },
 ["Benosan"] = {
 ["total"] = 224669533,
@@ -7030,10 +7661,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.875,
 ["classId"] = 8,
 },
-["Potdisc"] = {
-["total"] = 328881702,
-["itemLevel"] = 665.375,
-["classId"] = 5,
+["Beorrn"] = {
+["total"] = 409198923,
+["itemLevel"] = 666.375,
+["classId"] = 11,
 },
 ["Shambone"] = {
 ["total"] = 364941969,
@@ -7045,20 +7676,17 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.625,
 ["classId"] = 2,
 },
-["Beorrn"] = {
-["total"] = 409198923,
-["itemLevel"] = 666.375,
-["classId"] = 11,
+["Potdisc"] = {
+["total"] = 328881702,
+["itemLevel"] = 665.375,
+["classId"] = 5,
 },
-["Vynarth"] = {
-["total"] = 345401838,
-["itemLevel"] = 661.5625,
-["classId"] = 4,
+["Angri"] = {
+["total"] = 262349498,
+["itemLevel"] = 657.875,
+["classId"] = 3,
 },
 },
-["time"] = 1744827320,
-["date"] = "20:15 16/04/25",
-["elapsed"] = 190.8150000000005,
 ["servertime"] = 1744827318,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -7072,14 +7700,17 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:15 16/04/25",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1745432166,
+["elapsed"] = 217.1210000000428,
 ["DAMAGER"] = {
-["Tiekenei"] = {
-["total"] = 436499604,
-["itemLevel"] = 663.0625,
-["classId"] = 7,
+["Angri"] = {
+["total"] = 174850484,
+["itemLevel"] = 660.125,
+["classId"] = 3,
 },
 ["Klanky"] = {
 ["total"] = 225828992,
@@ -7101,10 +7732,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 660.875,
 ["classId"] = 9,
 },
-["Vynarth"] = {
-["total"] = 458520151,
-["itemLevel"] = 663.5,
-["classId"] = 4,
+["Shkia"] = {
+["total"] = 327109662,
+["itemLevel"] = 662.625,
+["classId"] = 9,
 },
 ["Benosan"] = {
 ["total"] = 298858322,
@@ -7121,35 +7752,32 @@ DetailsDataStorage = {
 ["itemLevel"] = 649.625,
 ["classId"] = 11,
 },
-["Misbaksel"] = {
-["total"] = 316236452,
-["itemLevel"] = 660.6875,
-["classId"] = 3,
+["Garanddor"] = {
+["total"] = 449574745,
+["itemLevel"] = 667.625,
+["classId"] = 2,
 },
 ["Shambone"] = {
 ["total"] = 467160868,
 ["itemLevel"] = 667.0625,
 ["classId"] = 7,
 },
-["Garanddor"] = {
-["total"] = 449574745,
-["itemLevel"] = 667.625,
-["classId"] = 2,
-},
-["Shkia"] = {
-["total"] = 327109662,
-["itemLevel"] = 662.625,
-["classId"] = 9,
-},
-["Angri"] = {
-["total"] = 174850484,
-["itemLevel"] = 660.125,
+["Misbaksel"] = {
+["total"] = 316236452,
+["itemLevel"] = 660.6875,
 ["classId"] = 3,
 },
+["Vynarth"] = {
+["total"] = 458520151,
+["itemLevel"] = 663.5,
+["classId"] = 4,
 },
-["time"] = 1745432166,
-["date"] = "20:16 23/04/25",
-["elapsed"] = 217.1210000000428,
+["Tiekenei"] = {
+["total"] = 436499604,
+["itemLevel"] = 663.0625,
+["classId"] = 7,
+},
+},
 ["servertime"] = 1745432167,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -7163,12 +7791,11 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:16 23/04/25",
 },
 {
+["date"] = "20:17 30/04/25",
 ["guild"] = "Nox Terra",
-["time"] = 1746037066,
-["elapsed"] = 233.3690000000061,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 539986620,
@@ -7215,17 +7842,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 665.75,
 ["classId"] = 2,
 },
-["Angri"] = {
-["total"] = 285928652,
-["itemLevel"] = 661.6875,
-["classId"] = 3,
-},
 ["Bellætrix"] = {
 ["total"] = 308559209,
 ["itemLevel"] = 664.3125,
 ["classId"] = 9,
 },
+["Angri"] = {
+["total"] = 285928652,
+["itemLevel"] = 661.6875,
+["classId"] = 3,
 },
+},
+["elapsed"] = 233.3690000000061,
 ["servertime"] = 1746037066,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -7244,11 +7872,31 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "20:17 30/04/25",
+["time"] = 1746037066,
 },
 {
-["date"] = "20:14 07/05/25",
+["time"] = 1746641646,
 ["guild"] = "Nox Terra",
+["elapsed"] = 196.1100000000006,
+["date"] = "20:14 07/05/25",
+["servertime"] = 1746641644,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 130420949,
+["itemLevel"] = 664.6875,
+["classId"] = 2,
+},
+["Nitenurse"] = {
+["total"] = 309852001,
+["itemLevel"] = 657,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 334849207,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 463253653,
@@ -7290,10 +7938,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 659.125,
 ["classId"] = 11,
 },
-["Shkia"] = {
-["total"] = 330288350,
-["itemLevel"] = 664.25,
-["classId"] = 9,
+["Shambone"] = {
+["total"] = 402959369,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
 },
 ["Garanddor"] = {
 ["total"] = 407898279,
@@ -7310,56 +7958,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.9375,
 ["classId"] = 3,
 },
-["Shambone"] = {
-["total"] = 402959369,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
+["Shkia"] = {
+["total"] = 330288350,
+["itemLevel"] = 664.25,
+["classId"] = 9,
 },
 },
-["elapsed"] = 196.1100000000006,
-["servertime"] = 1746641644,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 130420949,
-["itemLevel"] = 664.6875,
-["classId"] = 2,
-},
-["Nitenurse"] = {
-["total"] = 309852001,
-["itemLevel"] = 657,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 334849207,
-["itemLevel"] = 665.8125,
-["classId"] = 5,
-},
-},
-["time"] = 1746641646,
 },
 {
-["time"] = 1747246418,
-["guild"] = "Nox Terra",
-["elapsed"] = 207.4569999999949,
-["date"] = "20:13 14/05/25",
-["servertime"] = 1747246418,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 214030068,
-["itemLevel"] = 668.5,
-["classId"] = 2,
-},
-["Discotonic"] = {
-["total"] = 224078282,
-["itemLevel"] = 643.9375,
-["classId"] = 5,
-},
-["Potdisc"] = {
-["total"] = 360233314,
-["itemLevel"] = 668.625,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 550215675,
@@ -7396,34 +8002,59 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.8125,
 ["classId"] = 11,
 },
-["Misbaksel"] = {
-["total"] = 385308684,
-["itemLevel"] = 662.8125,
-["classId"] = 3,
+["Bellætrix"] = {
+["total"] = 252105363,
+["itemLevel"] = 667.0625,
+["classId"] = 9,
 },
 ["Garanddor"] = {
 ["total"] = 560164462,
 ["itemLevel"] = 676.5625,
 ["classId"] = 2,
 },
-["Beorrn"] = {
-["total"] = 510916830,
-["itemLevel"] = 671.125,
-["classId"] = 11,
-},
 ["Shkia"] = {
 ["total"] = 299701362,
 ["itemLevel"] = 666.6875,
 ["classId"] = 9,
 },
-["Bellætrix"] = {
-["total"] = 252105363,
-["itemLevel"] = 667.0625,
-["classId"] = 9,
+["Beorrn"] = {
+["total"] = 510916830,
+["itemLevel"] = 671.125,
+["classId"] = 11,
+},
+["Misbaksel"] = {
+["total"] = 385308684,
+["itemLevel"] = 662.8125,
+["classId"] = 3,
 },
 },
+["time"] = 1747246418,
+["date"] = "20:13 14/05/25",
+["elapsed"] = 207.4569999999949,
+["servertime"] = 1747246418,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 214030068,
+["itemLevel"] = 668.5,
+["classId"] = 2,
+},
+["Discotonic"] = {
+["total"] = 224078282,
+["itemLevel"] = 643.9375,
+["classId"] = 5,
+},
+["Potdisc"] = {
+["total"] = 360233314,
+["itemLevel"] = 668.625,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1747857274,
+["elapsed"] = 179.2600000000093,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 403388313,
@@ -7465,25 +8096,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.0625,
 ["classId"] = 7,
 },
-["Garanddor"] = {
-["total"] = 471173463,
-["itemLevel"] = 678.5,
-["classId"] = 2,
+["Beorrn"] = {
+["total"] = 439065584,
+["itemLevel"] = 671.875,
+["classId"] = 11,
 },
 ["Shkia"] = {
 ["total"] = 293929280,
 ["itemLevel"] = 667.875,
 ["classId"] = 9,
 },
-["Beorrn"] = {
-["total"] = 439065584,
-["itemLevel"] = 671.875,
-["classId"] = 11,
+["Garanddor"] = {
+["total"] = 471173463,
+["itemLevel"] = 678.5,
+["classId"] = 2,
 },
 },
-["time"] = 1747857274,
-["date"] = "21:54 21/05/25",
-["elapsed"] = 179.2600000000093,
 ["servertime"] = 1747857274,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -7497,12 +8125,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "21:54 21/05/25",
 },
 {
+["date"] = "21:30 04/06/25",
 ["guild"] = "Nox Terra",
-["time"] = 1749065440,
-["elapsed"] = 182.780999999999,
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 291660543,
@@ -7545,6 +8172,7 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["elapsed"] = 182.780999999999,
 ["servertime"] = 1749065438,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -7558,9 +8186,12 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["date"] = "21:30 04/06/25",
+["time"] = 1749065440,
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1749665283,
+["elapsed"] = 161.3449999999721,
 ["DAMAGER"] = {
 ["Cretino"] = {
 ["total"] = 388557703,
@@ -7597,25 +8228,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 679.625,
 ["classId"] = 2,
 },
-["Passeridae"] = {
-["total"] = 280583324,
-["itemLevel"] = 653.0625,
-["classId"] = 12,
+["Angri"] = {
+["total"] = 257827731,
+["itemLevel"] = 669.2666666666667,
+["classId"] = 3,
 },
 ["Tiekenei"] = {
 ["total"] = 396601874,
 ["itemLevel"] = 669.3125,
 ["classId"] = 7,
 },
-["Angri"] = {
-["total"] = 257827731,
-["itemLevel"] = 669.2666666666667,
-["classId"] = 3,
+["Passeridae"] = {
+["total"] = 280583324,
+["itemLevel"] = 653.0625,
+["classId"] = 12,
 },
 },
-["time"] = 1749665283,
-["date"] = "20:08 11/06/25",
-["elapsed"] = 161.3449999999721,
 ["servertime"] = 1749665283,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -7629,11 +8257,26 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:08 11/06/25",
 },
 {
-["date"] = "20:18 18/06/25",
+["time"] = 1750270716,
 ["guild"] = "Nox Terra",
+["elapsed"] = 162.945000000007,
+["date"] = "20:18 18/06/25",
+["servertime"] = 1750270717,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 275788459,
+["itemLevel"] = 680.4375,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 194914218,
+["itemLevel"] = 651.3125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Cretino"] = {
 ["total"] = 333981523,
@@ -7670,41 +8313,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 681.0625,
 ["classId"] = 2,
 },
-["Misbaksel"] = {
-["total"] = 335001708,
-["itemLevel"] = 669.375,
-["classId"] = 3,
+["Potdisc"] = {
+["total"] = 382340762,
+["itemLevel"] = 675.5625,
+["classId"] = 5,
 },
 ["Passeridae"] = {
 ["total"] = 302436188,
 ["itemLevel"] = 656.6875,
 ["classId"] = 12,
 },
-["Potdisc"] = {
-["total"] = 382340762,
-["itemLevel"] = 675.5625,
-["classId"] = 5,
+["Misbaksel"] = {
+["total"] = 335001708,
+["itemLevel"] = 669.375,
+["classId"] = 3,
 },
 },
-["elapsed"] = 162.945000000007,
-["servertime"] = 1750270717,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 275788459,
-["itemLevel"] = 680.4375,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 194914218,
-["itemLevel"] = 651.3125,
-["classId"] = 5,
-},
-},
-["time"] = 1750270716,
 },
 {
-["date"] = "20:22 16/07/25",
+["time"] = 1752690142,
 ["guild"] = "Nox Terra",
+["elapsed"] = 230.9649999999674,
+["date"] = "20:22 16/07/25",
+["servertime"] = 1752690142,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 334842534,
+["itemLevel"] = 677,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 331550579,
+["itemLevel"] = 682.25,
+["classId"] = 2,
+},
+},
 ["DAMAGER"] = {
 ["Garrandor"] = {
 ["total"] = 456999574,
@@ -7721,802 +8364,942 @@ DetailsDataStorage = {
 ["itemLevel"] = 678.1875,
 ["classId"] = 4,
 },
-["Velion"] = {
-["total"] = 462593178,
-["itemLevel"] = 680.4375,
-["classId"] = 6,
+["Shkia"] = {
+["total"] = 393497005,
+["itemLevel"] = 674.125,
+["classId"] = 9,
 },
 ["Angri"] = {
 ["total"] = 436490155,
 ["itemLevel"] = 677.5,
 ["classId"] = 3,
 },
-["Shkia"] = {
-["total"] = 393497005,
-["itemLevel"] = 674.125,
-["classId"] = 9,
+["Velion"] = {
+["total"] = 462593178,
+["itemLevel"] = 680.4375,
+["classId"] = 6,
 },
 },
-["elapsed"] = 230.9649999999674,
-["servertime"] = 1752690142,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 334842534,
-["itemLevel"] = 677,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 331550579,
-["itemLevel"] = 682.25,
-["classId"] = 2,
 },
 },
-["time"] = 1752690142,
-},
-},
-[3130] = {
+[3129] = {
 {
-["guild"] = "Nox Terra",
-["time"] = 1756061911,
-["elapsed"] = 370.9619999999995,
 ["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 1719905179,
-["itemLevel"] = 697.9375,
-["classId"] = 12,
-},
 ["Klanky"] = {
-["total"] = 788873567,
-["itemLevel"] = 699.875,
+["total"] = 1154789135,
+["itemLevel"] = 685.5625,
 ["classId"] = 3,
 },
 ["Shkia"] = {
-["total"] = 1758818074,
-["itemLevel"] = 689.6875,
+["total"] = 810559466,
+["itemLevel"] = 679.4375,
 ["classId"] = 9,
 },
 ["Daveus-Draenor"] = {
-["total"] = 809412591,
-["itemLevel"] = 689.3125,
+["total"] = 465941698,
+["itemLevel"] = 684.9375,
 ["classId"] = 1,
 },
 ["Angri"] = {
-["total"] = 453241323,
-["itemLevel"] = 692.6875,
+["total"] = 845642039,
+["itemLevel"] = 686.4375,
 ["classId"] = 3,
 },
 ["Benosan"] = {
-["total"] = 1213322451,
-["itemLevel"] = 700.625,
+["total"] = 459418103,
+["itemLevel"] = 687.625,
 ["classId"] = 10,
 },
 ["Velion"] = {
-["total"] = 1676284241,
-["itemLevel"] = 704.1875,
+["total"] = 1010455449,
+["itemLevel"] = 696.5625,
 ["classId"] = 6,
 },
 ["Barrow"] = {
-["total"] = 1311284950,
-["itemLevel"] = 703.1875,
-["classId"] = 11,
-},
-["Beorrn"] = {
-["total"] = 1552286439,
-["itemLevel"] = 699.4375,
+["total"] = 730281056,
+["itemLevel"] = 687.75,
 ["classId"] = 11,
 },
 ["Cretino"] = {
-["total"] = 1811231245,
-["itemLevel"] = 697.0625,
+["total"] = 947806367,
+["itemLevel"] = 684.5,
 ["classId"] = 4,
 },
-["Tbonem"] = {
-["total"] = 2211898426,
-["itemLevel"] = 703.5625,
-["classId"] = 8,
-},
-["Sparrowbeast"] = {
-["total"] = 1390960837,
-["itemLevel"] = 686.8125,
-["classId"] = 7,
-},
-},
-["servertime"] = 1756061909,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 1296187301,
-["itemLevel"] = 692.3125,
+["Oplichter"] = {
+["total"] = 719819152,
+["itemLevel"] = 687.8125,
 ["classId"] = 2,
 },
-["Khalheessi"] = {
-["total"] = 658678171,
-["itemLevel"] = 680.875,
-["classId"] = 13,
+["Beorrn"] = {
+["total"] = 1095297823,
+["itemLevel"] = 687.75,
+["classId"] = 11,
 },
+},
+["time"] = 1755457074,
+["date"] = "20:57 17/08/25",
+["elapsed"] = 395.9500000000116,
+["servertime"] = 1755457074,
+["HEALER"] = {
 ["Potdisc"] = {
-["total"] = 1066683254,
-["itemLevel"] = 696.375,
+["total"] = 1192133015,
+["itemLevel"] = 687.75,
 ["classId"] = 5,
 },
+["Cidney"] = {
+["total"] = 1325123528,
+["itemLevel"] = 686.4375,
+["classId"] = 2,
 },
-["date"] = "20:58 24/08/25",
+},
+["guild"] = "Nox Terra",
 },
 {
 ["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 880851170,
+["itemLevel"] = 696.1875,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 956379862,
+["itemLevel"] = 690.0625,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 783759786,
+["itemLevel"] = 685.5,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 354800608,
+["itemLevel"] = 688.3125,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 812438173,
+["itemLevel"] = 690.5,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 477888725,
+["itemLevel"] = 692.3125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 948943825,
+["itemLevel"] = 700.8125,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 684781923,
+["itemLevel"] = 691.25,
+["classId"] = 11,
+},
+["Potdisc"] = {
+["total"] = 871717331,
+["itemLevel"] = 692.875,
+["classId"] = 5,
+},
+["Tiekenei"] = {
+["total"] = 916172226,
+["itemLevel"] = 693.6875,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 869833243,
+["itemLevel"] = 689.375,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 927118781,
+["itemLevel"] = 689.6875,
+["classId"] = 9,
+},
+["Tbonem"] = {
+["total"] = 970340782,
+["itemLevel"] = 697,
+["classId"] = 8,
+},
+},
+["time"] = 1755721842,
+["date"] = "22:30 20/08/25",
+["elapsed"] = 305.2480000000005,
+["servertime"] = 1755721842,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 655404152,
+["itemLevel"] = 689.4375,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 834931250,
+["itemLevel"] = 679.0625,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 939800333,
+["itemLevel"] = 691.875,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1756323264,
+["elapsed"] = 265.8510000000024,
+["DAMAGER"] = {
 ["Sparrowbeast"] = {
-["total"] = 1695175398,
+["total"] = 1075979861,
 ["itemLevel"] = 702.9375,
 ["classId"] = 7,
 },
 ["Klanky"] = {
-["total"] = 1531057155,
+["total"] = 947241275,
 ["itemLevel"] = 700.5,
 ["classId"] = 3,
 },
 ["Shkia"] = {
-["total"] = 1869988759,
+["total"] = 826316713,
 ["itemLevel"] = 697.6875,
 ["classId"] = 9,
 },
 ["Daveus-Draenor"] = {
-["total"] = 817477584,
-["itemLevel"] = 694.625,
+["total"] = 331231428,
+["itemLevel"] = 693,
 ["classId"] = 1,
 },
 ["Angri"] = {
-["total"] = 540797524,
+["total"] = 640501131,
 ["itemLevel"] = 695.875,
 ["classId"] = 3,
 },
 ["Velion"] = {
-["total"] = 1824455605,
+["total"] = 978610114,
 ["itemLevel"] = 706.3125,
 ["classId"] = 6,
 },
 ["Potdisc"] = {
-["total"] = 445913554,
+["total"] = 924459963,
 ["itemLevel"] = 698.9375,
 ["classId"] = 5,
 },
-["Tiekenei"] = {
-["total"] = 1788672102,
-["itemLevel"] = 700.625,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 1515847579,
-["itemLevel"] = 705.8125,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 1502084318,
-["itemLevel"] = 699.625,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 626801124,
-["itemLevel"] = 700.1875,
-["classId"] = 12,
-},
 ["Beorrn"] = {
-["total"] = 1546184542,
+["total"] = 1027506572,
 ["itemLevel"] = 702.375,
 ["classId"] = 11,
 },
+["Garadh"] = {
+["total"] = 328988727,
+["itemLevel"] = 700.1875,
+["classId"] = 12,
 },
-["time"] = 1756325484,
-["date"] = "22:11 27/08/25",
-["elapsed"] = 335.7489999999962,
-["servertime"] = 1756325483,
+["Cretino"] = {
+["total"] = 761483095,
+["itemLevel"] = 699.625,
+["classId"] = 4,
+},
+["Tbonem"] = {
+["total"] = 903270591,
+["itemLevel"] = 705.8125,
+["classId"] = 8,
+},
+["Tiekenei"] = {
+["total"] = 919648878,
+["itemLevel"] = 700.625,
+["classId"] = 7,
+},
+},
+["servertime"] = 1756323263,
 ["HEALER"] = {
 ["Oplichter"] = {
-["total"] = 1027301732,
-["itemLevel"] = 696.1875,
+["total"] = 610950981,
+["itemLevel"] = 695.3125,
 ["classId"] = 2,
 },
 ["Khalheessi"] = {
-["total"] = 1094883453,
-["itemLevel"] = 688.25,
+["total"] = 774744174,
+["itemLevel"] = 687.875,
 ["classId"] = 13,
 },
 ["Cidney"] = {
-["total"] = 1177329935,
+["total"] = 843898651,
 ["itemLevel"] = 696.75,
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "21:34 27/08/25",
 },
 {
-["date"] = "21:55 03/09/25",
+["time"] = 1756927999,
 ["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 1437824956,
-["itemLevel"] = 709,
-["classId"] = 12,
-},
-["Tbonem"] = {
-["total"] = 1284200194,
-["itemLevel"] = 709.1875,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 1083108534,
-["itemLevel"] = 704.1875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 591229456,
-["itemLevel"] = 701.6875,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 873306411,
-["itemLevel"] = 699.5,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 885503471,
-["itemLevel"] = 708.6875,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 1314170927,
-["itemLevel"] = 705.6875,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 1003627279,
-["itemLevel"] = 706.625,
-["classId"] = 11,
-},
-["Velion"] = {
-["total"] = 1183758134,
-["itemLevel"] = 710.875,
-["classId"] = 6,
-},
-["Oplichter"] = {
-["total"] = 1055922387,
-["itemLevel"] = 700.5625,
-["classId"] = 2,
-},
-["Klanky"] = {
-["total"] = 1243550894,
-["itemLevel"] = 704.75,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 1253894238,
-["itemLevel"] = 701.875,
-["classId"] = 9,
-},
-["Sparrowbeast"] = {
-["total"] = 1463740012,
-["itemLevel"] = 709,
-["classId"] = 7,
-},
-},
-["elapsed"] = 244.8969999999972,
-["servertime"] = 1756929307,
+["elapsed"] = 239.2690000000293,
+["date"] = "21:33 03/09/25",
+["servertime"] = 1756927998,
 ["HEALER"] = {
 ["Cidney"] = {
-["total"] = 668601963,
+["total"] = 649723052,
 ["itemLevel"] = 698.8125,
 ["classId"] = 2,
 },
 ["Khalheessi"] = {
-["total"] = 961802607,
-["itemLevel"] = 701.9375,
+["total"] = 658063647,
+["itemLevel"] = 699.9375,
 ["classId"] = 13,
 },
 ["Potdisc"] = {
-["total"] = 897642428,
+["total"] = 814747727,
 ["itemLevel"] = 703.3125,
 ["classId"] = 5,
 },
 },
-["time"] = 1756929308,
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 842583130,
+["itemLevel"] = 709,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 906636060,
+["itemLevel"] = 709.1875,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 818807884,
+["itemLevel"] = 704.1875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 422720901,
+["itemLevel"] = 701.6875,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 693720934,
+["itemLevel"] = 699.5,
+["classId"] = 3,
+},
+["Sparrowbeast"] = {
+["total"] = 1073615103,
+["itemLevel"] = 709,
+["classId"] = 7,
+},
+["Benosan"] = {
+["total"] = 542591913,
+["itemLevel"] = 708.6875,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 931527277,
+["itemLevel"] = 710.875,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 837913515,
+["itemLevel"] = 706.625,
+["classId"] = 11,
+},
+["Bellætrix"] = {
+["total"] = 647959492,
+["itemLevel"] = 691.3125,
+["classId"] = 9,
+},
+["Klanky"] = {
+["total"] = 901312287,
+["itemLevel"] = 704.75,
+["classId"] = 3,
+},
+["Shkia"] = {
+["total"] = 879020251,
+["itemLevel"] = 701.875,
+["classId"] = 9,
+},
+["Oplichter"] = {
+["total"] = 714115501,
+["itemLevel"] = 700.5625,
+["classId"] = 2,
+},
+["Tiekenei"] = {
+["total"] = 845220219,
+["itemLevel"] = 705.6875,
+["classId"] = 7,
+},
+},
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1757531477,
+["elapsed"] = 218.3540000000066,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
-["total"] = 1420970634,
+["total"] = 971589903,
 ["itemLevel"] = 711,
 ["classId"] = 7,
 },
 ["Tbonem"] = {
-["total"] = 1334295740,
+["total"] = 866204704,
 ["itemLevel"] = 711.25,
 ["classId"] = 8,
 },
 ["Shkia"] = {
-["total"] = 1086556229,
+["total"] = 795917087,
 ["itemLevel"] = 703.1875,
 ["classId"] = 9,
 },
 ["Daveus-Draenor"] = {
-["total"] = 620270426,
+["total"] = 445318871,
 ["itemLevel"] = 703.0625,
 ["classId"] = 1,
 },
 ["Bellætrix"] = {
-["total"] = 920354022,
+["total"] = 625971455,
 ["itemLevel"] = 700.5625,
 ["classId"] = 9,
 },
 ["Benosan"] = {
-["total"] = 906165303,
-["itemLevel"] = 710.7333333333333,
+["total"] = 574191998,
+["itemLevel"] = 711.5,
 ["classId"] = 10,
 },
 ["Velion"] = {
-["total"] = 1436917390,
-["itemLevel"] = 711.7333333333333,
+["total"] = 983421132,
+["itemLevel"] = 711.625,
 ["classId"] = 6,
 },
 ["Barrow"] = {
-["total"] = 759594576,
+["total"] = 704589478,
 ["itemLevel"] = 711.4375,
 ["classId"] = 11,
 },
-["Potdisc"] = {
-["total"] = 848642809,
-["itemLevel"] = 705.625,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 1513030000,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 1351991644,
-["itemLevel"] = 705.8125,
-["classId"] = 4,
-},
 ["Angri"] = {
-["total"] = 563577110,
+["total"] = 508446499,
 ["itemLevel"] = 702.8125,
 ["classId"] = 3,
 },
+["Cretino"] = {
+["total"] = 840933623,
+["itemLevel"] = 706.1875,
+["classId"] = 4,
 },
-["time"] = 1757532665,
-["date"] = "21:31 10/09/25",
-["elapsed"] = 233.0740000000078,
-["servertime"] = 1757532664,
+["Garadh"] = {
+["total"] = 924849001,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Potdisc"] = {
+["total"] = 912610810,
+["itemLevel"] = 705.625,
+["classId"] = 5,
+},
+},
+["servertime"] = 1757531476,
 ["HEALER"] = {
 ["Cidney"] = {
-["total"] = 736327943,
+["total"] = 862990991,
 ["itemLevel"] = 702.75,
 ["classId"] = 2,
 },
 ["Khalheessi"] = {
-["total"] = 918227875,
+["total"] = 571586134,
 ["itemLevel"] = 705.0625,
 ["classId"] = 13,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "21:11 10/09/25",
 },
 {
-["time"] = 1758133596,
 ["guild"] = "Nox Terra",
-["elapsed"] = 229.7739999999976,
-["date"] = "20:26 17/09/25",
-["servertime"] = 1758133596,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 626589092,
-["itemLevel"] = 703,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 859078246,
-["itemLevel"] = 707.25,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 728831631,
-["itemLevel"] = 705.625,
-["classId"] = 2,
-},
-},
+["time"] = 1758132384,
+["elapsed"] = 229.0720000000001,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
-["total"] = 1482463089,
+["total"] = 1135283887,
 ["itemLevel"] = 712.1875,
 ["classId"] = 7,
 },
 ["Klanky"] = {
-["total"] = 797176999,
+["total"] = 282854571,
 ["itemLevel"] = 710.1875,
 ["classId"] = 3,
 },
 ["Cretino"] = {
-["total"] = 1377804649,
-["itemLevel"] = 708.9375,
+["total"] = 813040473,
+["itemLevel"] = 709.25,
 ["classId"] = 4,
 },
 ["Daveus-Draenor"] = {
-["total"] = 732293528,
+["total"] = 477492527,
 ["itemLevel"] = 706.8125,
 ["classId"] = 1,
 },
 ["Angri"] = {
-["total"] = 597104441,
-["itemLevel"] = 706.4666666666667,
+["total"] = 685581984,
+["itemLevel"] = 706.5,
 ["classId"] = 3,
 },
 ["Garadh"] = {
-["total"] = 1491412573,
+["total"] = 943959246,
 ["itemLevel"] = 710.875,
 ["classId"] = 12,
 },
 ["Benosan"] = {
-["total"] = 908035873,
+["total"] = 575470982,
 ["itemLevel"] = 713.0625,
 ["classId"] = 10,
 },
 ["Tiekenei"] = {
-["total"] = 1188512379,
+["total"] = 841130461,
 ["itemLevel"] = 711.8125,
 ["classId"] = 7,
 },
 ["Barrow"] = {
-["total"] = 1164678799,
+["total"] = 959980764,
 ["itemLevel"] = 712.8125,
 ["classId"] = 11,
 },
 ["Bellætrix"] = {
-["total"] = 555166853,
+["total"] = 708747216,
 ["itemLevel"] = 701.8125,
 ["classId"] = 9,
 },
 ["Shkia"] = {
-["total"] = 1386286013,
+["total"] = 806415525,
 ["itemLevel"] = 704.25,
 ["classId"] = 9,
 },
 ["Potdisc"] = {
-["total"] = 1433946460,
+["total"] = 936226365,
 ["itemLevel"] = 707.375,
 ["classId"] = 5,
 },
 ["Velion"] = {
-["total"] = 1287037818,
-["itemLevel"] = 712.8125,
+["total"] = 992329592,
+["itemLevel"] = 712.4375,
 ["classId"] = 6,
 },
 ["Tbonem"] = {
-["total"] = 1396210890,
+["total"] = 910203685,
 ["itemLevel"] = 712.625,
 ["classId"] = 8,
 },
 },
-},
-{
-["time"] = 1758738513,
-["guild"] = "Nox Terra",
-["elapsed"] = 194.7130000000034,
-["date"] = "20:28 24/09/25",
-["servertime"] = 1758738513,
+["servertime"] = 1758132384,
 ["HEALER"] = {
-["Cidney"] = {
-["total"] = 597959443,
-["itemLevel"] = 707.5625,
+["Oplichter"] = {
+["total"] = 477321342,
+["itemLevel"] = 703,
 ["classId"] = 2,
 },
 ["Khalheessi"] = {
-["total"] = 732863419,
-["itemLevel"] = 710.1875,
+["total"] = 805863562,
+["itemLevel"] = 707.25,
 ["classId"] = 13,
 },
-["Oplichter"] = {
-["total"] = 391922541,
-["itemLevel"] = 706.5625,
+["Cidney"] = {
+["total"] = 650213297,
+["itemLevel"] = 705.625,
 ["classId"] = 2,
 },
 },
+["date"] = "20:06 17/09/25",
+},
+{
 ["DAMAGER"] = {
 ["Garadh"] = {
-["total"] = 1132715045,
+["total"] = 1020374614,
 ["itemLevel"] = 712.6875,
 ["classId"] = 12,
 },
 ["Klanky"] = {
-["total"] = 1048936651,
+["total"] = 1010103559,
 ["itemLevel"] = 711.125,
 ["classId"] = 3,
 },
 ["Cretino"] = {
-["total"] = 1311576658,
+["total"] = 895781484,
 ["itemLevel"] = 712.0625,
 ["classId"] = 4,
 },
 ["Daveus-Draenor"] = {
-["total"] = 579061133,
+["total"] = 454834253,
 ["itemLevel"] = 708.8125,
 ["classId"] = 1,
 },
 ["Angri"] = {
-["total"] = 716169606,
+["total"] = 194956113,
 ["itemLevel"] = 708.4375,
 ["classId"] = 3,
 },
-["Bellætrix"] = {
-["total"] = 951781332,
-["itemLevel"] = 707.375,
-["classId"] = 9,
+["Velion"] = {
+["total"] = 1064397966,
+["itemLevel"] = 715.8125,
+["classId"] = 6,
 },
 ["Benosan"] = {
-["total"] = 885496256,
+["total"] = 563998391,
 ["itemLevel"] = 714.5,
 ["classId"] = 10,
 },
 ["Tiekenei"] = {
-["total"] = 1256474485,
+["total"] = 984781283,
 ["itemLevel"] = 712.625,
 ["classId"] = 7,
 },
 ["Barrow"] = {
-["total"] = 891017169,
+["total"] = 947073354,
 ["itemLevel"] = 712.875,
 ["classId"] = 11,
 },
-["Potdisc"] = {
-["total"] = 1370733987,
-["itemLevel"] = 709.125,
-["classId"] = 5,
+["Sparrowbeast"] = {
+["total"] = 384167650,
+["itemLevel"] = 713.375,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 977738770,
+["itemLevel"] = 706.1333333333333,
+["classId"] = 11,
 },
 ["Tbonem"] = {
-["total"] = 1216444035,
+["total"] = 964479675,
 ["itemLevel"] = 713.6666666666666,
 ["classId"] = 8,
 },
-["Beorrn"] = {
-["total"] = 988025785,
-["itemLevel"] = 707,
-["classId"] = 11,
-},
-["Sparrowbeast"] = {
-["total"] = 1212961116,
-["itemLevel"] = 713.375,
-["classId"] = 7,
-},
-["Velion"] = {
-["total"] = 1187130772,
-["itemLevel"] = 715.8125,
-["classId"] = 6,
-},
-},
-},
-{
-["date"] = "20:32 01/10/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1290925229,
-["itemLevel"] = 713.375,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 1173981188,
-["itemLevel"] = 715.25,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 1142410601,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 724401631,
-["itemLevel"] = 712.5625,
-["classId"] = 1,
-},
-["Benosan"] = {
-["total"] = 738395248,
-["itemLevel"] = 715.4375,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 1193542524,
-["itemLevel"] = 716.25,
-["classId"] = 6,
-},
 ["Potdisc"] = {
-["total"] = 1209646952,
-["itemLevel"] = 712.9375,
+["total"] = 955579768,
+["itemLevel"] = 709.125,
 ["classId"] = 5,
 },
-["Garadh"] = {
-["total"] = 1316354839,
-["itemLevel"] = 715.3125,
-["classId"] = 12,
-},
-["Barrow"] = {
-["total"] = 948963389,
-["itemLevel"] = 715.25,
-["classId"] = 11,
-},
-["Beorrn"] = {
-["total"] = 1044626535,
-["itemLevel"] = 708.4375,
-["classId"] = 11,
+["Bellætrix"] = {
+["total"] = 679627901,
+["itemLevel"] = 707.375,
+["classId"] = 9,
 },
 },
-["elapsed"] = 191.9780000000028,
-["servertime"] = 1759343559,
+["time"] = 1758737336,
+["date"] = "20:08 24/09/25",
+["elapsed"] = 225.6729999999952,
+["servertime"] = 1758737336,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 749566378,
+["itemLevel"] = 707.5625,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 176880964,
+["itemLevel"] = 710.1875,
+["classId"] = 13,
+},
+["Oplichter"] = {
+["total"] = 722404945,
+["itemLevel"] = 706.5625,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["time"] = 1759342458,
+["guild"] = "Nox Terra",
+["elapsed"] = 210.9800000000032,
+["date"] = "20:14 01/10/25",
+["servertime"] = 1759342456,
 ["HEALER"] = {
 ["Khalheessi"] = {
-["total"] = 672881327,
+["total"] = 683031559,
 ["itemLevel"] = 710.375,
 ["classId"] = 13,
 },
 ["Cidney"] = {
-["total"] = 659322709,
+["total"] = 619152221,
 ["itemLevel"] = 711.875,
 ["classId"] = 2,
 },
 },
-["time"] = 1759343561,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1082164633,
+["itemLevel"] = 713.375,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 300648579,
+["itemLevel"] = 715.25,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 835261362,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 535405761,
+["itemLevel"] = 712.5625,
+["classId"] = 1,
+},
+["Benosan"] = {
+["total"] = 546285254,
+["itemLevel"] = 715.4375,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 926748507,
+["itemLevel"] = 716.25,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 860440808,
+["itemLevel"] = 712.9375,
+["classId"] = 5,
+},
+["Beorrn"] = {
+["total"] = 893403526,
+["itemLevel"] = 708.4375,
+["classId"] = 11,
+},
+["Barrow"] = {
+["total"] = 693316812,
+["itemLevel"] = 715.25,
+["classId"] = 11,
+},
+["Garadh"] = {
+["total"] = 866638667,
+["itemLevel"] = 715.3125,
+["classId"] = 12,
+},
+},
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1759946810,
+["elapsed"] = 216.5819999999949,
 ["DAMAGER"] = {
 ["Tbonem"] = {
-["total"] = 889217968,
+["total"] = 842554138,
 ["itemLevel"] = 715.625,
 ["classId"] = 8,
 },
 ["Shkia"] = {
-["total"] = 931701510,
+["total"] = 814198778,
 ["itemLevel"] = 707.625,
 ["classId"] = 9,
 },
 ["Daveus-Draenor"] = {
-["total"] = 645043951,
+["total"] = 456683262,
 ["itemLevel"] = 714.75,
 ["classId"] = 1,
 },
 ["Bellætrix"] = {
-["total"] = 1152986650,
+["total"] = 732708201,
 ["itemLevel"] = 707.9375,
 ["classId"] = 9,
 },
 ["Benó"] = {
-["total"] = 856460741,
+["total"] = 484801073,
 ["itemLevel"] = 712.4375,
 ["classId"] = 6,
 },
 ["Barrow"] = {
-["total"] = 1041858270,
-["itemLevel"] = 716.6875,
+["total"] = 897624867,
+["itemLevel"] = 716.5,
 ["classId"] = 11,
 },
-["Klanky"] = {
-["total"] = 1349503367,
-["itemLevel"] = 711.875,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 1286043291,
-["itemLevel"] = 718.375,
-["classId"] = 6,
-},
-["Angri"] = {
-["total"] = 1128844577,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
 ["Cretino"] = {
-["total"] = 1233983945,
+["total"] = 923557661,
 ["itemLevel"] = 712.8125,
 ["classId"] = 4,
 },
+["Angri"] = {
+["total"] = 632013794,
+["itemLevel"] = 712,
+["classId"] = 3,
 },
-["time"] = 1759948109,
-["date"] = "20:28 08/10/25",
-["elapsed"] = 228.752999999997,
-["servertime"] = 1759948108,
+["Velion"] = {
+["total"] = 967004558,
+["itemLevel"] = 718.375,
+["classId"] = 6,
+},
+["Klanky"] = {
+["total"] = 885180129,
+["itemLevel"] = 711.875,
+["classId"] = 3,
+},
+},
+["servertime"] = 1759946809,
 ["HEALER"] = {
 ["Potdisc"] = {
-["total"] = 777974083,
+["total"] = 747943063,
 ["itemLevel"] = 712.375,
 ["classId"] = 5,
 },
 ["Cidney"] = {
-["total"] = 774387188,
+["total"] = 756110763,
 ["itemLevel"] = 714.125,
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:06 08/10/25",
 },
 {
+["date"] = "20:04 15/10/25",
 ["guild"] = "Nox Terra",
-["time"] = 1760552501,
-["elapsed"] = 190.1950000000006,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
-["total"] = 1404899448,
+["total"] = 851533568,
 ["itemLevel"] = 718.75,
 ["classId"] = 7,
 },
 ["Klanky"] = {
-["total"] = 1130697529,
+["total"] = 827690793,
 ["itemLevel"] = 714.5625,
 ["classId"] = 3,
 },
 ["Cretino"] = {
-["total"] = 982314237,
+["total"] = 701010597,
 ["itemLevel"] = 715.25,
 ["classId"] = 4,
 },
 ["Daveus-Draenor"] = {
-["total"] = 582277077,
+["total"] = 405048287,
 ["itemLevel"] = 0,
 ["classId"] = 1,
 },
 ["Angri"] = {
-["total"] = 655090554,
+["total"] = 619558750,
 ["itemLevel"] = 712,
 ["classId"] = 3,
 },
 ["Velion"] = {
-["total"] = 1159160001,
+["total"] = 811547664,
 ["itemLevel"] = 719.25,
 ["classId"] = 6,
 },
-["Benó"] = {
-["total"] = 729636645,
-["itemLevel"] = 714.625,
-["classId"] = 6,
-},
-["Shkia"] = {
-["total"] = 1031100659,
-["itemLevel"] = 708,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 776067114,
-["itemLevel"] = 711.5625,
-["classId"] = 9,
-},
-["Tbonem"] = {
-["total"] = 1014072309,
-["itemLevel"] = 718.25,
-["classId"] = 8,
-},
-["Tiekenei"] = {
-["total"] = 1192234339,
-["itemLevel"] = 715.9375,
-["classId"] = 7,
-},
 ["Garadh"] = {
-["total"] = 1286225900,
+["total"] = 658047110,
 ["itemLevel"] = 715.5,
 ["classId"] = 12,
 },
+["Tiekenei"] = {
+["total"] = 878800230,
+["itemLevel"] = 715.9375,
+["classId"] = 7,
 },
-["servertime"] = 1760552498,
+["Tbonem"] = {
+["total"] = 747411532,
+["itemLevel"] = 718.25,
+["classId"] = 8,
+},
+["Bellætrix"] = {
+["total"] = 645854199,
+["itemLevel"] = 711.5625,
+["classId"] = 9,
+},
+["Shkia"] = {
+["total"] = 758716209,
+["itemLevel"] = 708,
+["classId"] = 9,
+},
+["Benó"] = {
+["total"] = 424499147,
+["itemLevel"] = 714.625,
+["classId"] = 6,
+},
+},
+["elapsed"] = 169.8530000000005,
+["servertime"] = 1760551488,
 ["HEALER"] = {
 ["Potdisc"] = {
-["total"] = 838156075,
+["total"] = 607038360,
 ["itemLevel"] = 713.875,
 ["classId"] = 5,
 },
 ["Cidney"] = {
-["total"] = 648985425,
+["total"] = 593930576,
 ["itemLevel"] = 714.125,
 ["classId"] = 2,
 },
 },
-["date"] = "20:21 15/10/25",
+["time"] = 1760551491,
+},
+{
+["date"] = "20:06 26/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 396245791,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 767556585,
+["itemLevel"] = 722.5,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 762023351,
+["itemLevel"] = 718.75,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 417535413,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 642513809,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Lightflicker"] = {
+["total"] = 399701094,
+["itemLevel"] = 658.0625,
+["classId"] = 2,
+},
+["Velion"] = {
+["total"] = 949247862,
+["itemLevel"] = 727.25,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 933916206,
+["itemLevel"] = 722.4375,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 837253463,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Tiekenei"] = {
+["total"] = 953030763,
+["itemLevel"] = 717.4375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 187.1460000000006,
+["servertime"] = 1761505577,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 564898637,
+["itemLevel"] = 716.9375,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 712421177,
+["itemLevel"] = 715.4375,
+["classId"] = 5,
+},
+},
+["time"] = 1761505578,
 },
 },
 [3011] = {
 {
+["guild"] = "Nox Terra",
+["time"] = 1744827769,
+["elapsed"] = 184.4889999999996,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 360472676,
@@ -8543,10 +9326,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 660,
 ["classId"] = 9,
 },
-["Angri"] = {
-["total"] = 205602366,
-["itemLevel"] = 657.875,
-["classId"] = 3,
+["Vynarth"] = {
+["total"] = 282742726,
+["itemLevel"] = 661.5625,
+["classId"] = 4,
 },
 ["Benosan"] = {
 ["total"] = 204173824,
@@ -8563,10 +9346,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.875,
 ["classId"] = 8,
 },
-["Potdisc"] = {
-["total"] = 308212483,
-["itemLevel"] = 665.375,
-["classId"] = 5,
+["Beorrn"] = {
+["total"] = 383797243,
+["itemLevel"] = 665.8,
+["classId"] = 11,
 },
 ["Shambone"] = {
 ["total"] = 321256931,
@@ -8578,20 +9361,17 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.625,
 ["classId"] = 2,
 },
-["Beorrn"] = {
-["total"] = 383797243,
-["itemLevel"] = 665.8,
-["classId"] = 11,
+["Potdisc"] = {
+["total"] = 308212483,
+["itemLevel"] = 665.375,
+["classId"] = 5,
 },
-["Vynarth"] = {
-["total"] = 282742726,
-["itemLevel"] = 661.5625,
-["classId"] = 4,
+["Angri"] = {
+["total"] = 205602366,
+["itemLevel"] = 657.875,
+["classId"] = 3,
 },
 },
-["time"] = 1744827769,
-["date"] = "20:22 16/04/25",
-["elapsed"] = 184.4889999999996,
 ["servertime"] = 1744827767,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -8605,14 +9385,17 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:22 16/04/25",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1745432918,
+["elapsed"] = 190.2820000000065,
 ["DAMAGER"] = {
-["Misbaksel"] = {
-["total"] = 277087762,
-["itemLevel"] = 660.6875,
-["classId"] = 3,
+["Bellætrix"] = {
+["total"] = 283620003,
+["itemLevel"] = 660.875,
+["classId"] = 9,
 },
 ["Klanky"] = {
 ["total"] = 373543298,
@@ -8629,15 +9412,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 663.4375,
 ["classId"] = 1,
 },
-["Bellætrix"] = {
-["total"] = 283620003,
-["itemLevel"] = 660.875,
-["classId"] = 9,
+["Angri"] = {
+["total"] = 162162916,
+["itemLevel"] = 660,
+["classId"] = 3,
 },
-["Shkia"] = {
-["total"] = 343764882,
-["itemLevel"] = 662.625,
-["classId"] = 9,
+["Tiekenei"] = {
+["total"] = 364168921,
+["itemLevel"] = 663.0625,
+["classId"] = 7,
 },
 ["Benosan"] = {
 ["total"] = 204154800,
@@ -8654,35 +9437,32 @@ DetailsDataStorage = {
 ["itemLevel"] = 649.625,
 ["classId"] = 11,
 },
-["Beorrn"] = {
-["total"] = 389890561,
+["Garanddor"] = {
+["total"] = 330478133,
 ["itemLevel"] = 667.625,
-["classId"] = 11,
+["classId"] = 2,
 },
 ["Shambone"] = {
 ["total"] = 336723085,
 ["itemLevel"] = 667.0625,
 ["classId"] = 7,
 },
-["Garanddor"] = {
-["total"] = 330478133,
+["Beorrn"] = {
+["total"] = 389890561,
 ["itemLevel"] = 667.625,
-["classId"] = 2,
+["classId"] = 11,
 },
-["Tiekenei"] = {
-["total"] = 364168921,
-["itemLevel"] = 663.0625,
-["classId"] = 7,
+["Shkia"] = {
+["total"] = 343764882,
+["itemLevel"] = 662.625,
+["classId"] = 9,
 },
-["Angri"] = {
-["total"] = 162162916,
-["itemLevel"] = 660,
+["Misbaksel"] = {
+["total"] = 277087762,
+["itemLevel"] = 660.6875,
 ["classId"] = 3,
 },
 },
-["time"] = 1745432918,
-["date"] = "20:28 23/04/25",
-["elapsed"] = 190.2820000000065,
 ["servertime"] = 1745432918,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -8696,12 +9476,11 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:28 23/04/25",
 },
 {
+["date"] = "20:26 30/04/25",
 ["guild"] = "Nox Terra",
-["time"] = 1746037568,
-["elapsed"] = 200.3690000000061,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 470954712,
@@ -8748,17 +9527,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 665.75,
 ["classId"] = 2,
 },
-["Angri"] = {
-["total"] = 229676924,
-["itemLevel"] = 661.6875,
-["classId"] = 3,
-},
 ["Bellætrix"] = {
 ["total"] = 349085119,
 ["itemLevel"] = 664.3125,
 ["classId"] = 9,
 },
+["Angri"] = {
+["total"] = 229676924,
+["itemLevel"] = 661.6875,
+["classId"] = 3,
 },
+},
+["elapsed"] = 200.3690000000061,
 ["servertime"] = 1746037568,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -8777,11 +9557,31 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "20:26 30/04/25",
+["time"] = 1746037568,
 },
 {
-["date"] = "20:21 07/05/25",
+["time"] = 1746642098,
 ["guild"] = "Nox Terra",
+["elapsed"] = 183.9220000000059,
+["date"] = "20:21 07/05/25",
+["servertime"] = 1746642096,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 235517632,
+["itemLevel"] = 664.6875,
+["classId"] = 2,
+},
+["Nitenurse"] = {
+["total"] = 300670394,
+["itemLevel"] = 657,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 297257773,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 464224202,
@@ -8823,10 +9623,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 658.6875,
 ["classId"] = 11,
 },
-["Shkia"] = {
-["total"] = 292415904,
-["itemLevel"] = 664.25,
-["classId"] = 9,
+["Shambone"] = {
+["total"] = 297625516,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
 },
 ["Garanddor"] = {
 ["total"] = 367840705,
@@ -8843,56 +9643,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.9375,
 ["classId"] = 3,
 },
-["Shambone"] = {
-["total"] = 297625516,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
+["Shkia"] = {
+["total"] = 292415904,
+["itemLevel"] = 664.25,
+["classId"] = 9,
 },
 },
-["elapsed"] = 183.9220000000059,
-["servertime"] = 1746642096,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 235517632,
-["itemLevel"] = 664.6875,
-["classId"] = 2,
-},
-["Nitenurse"] = {
-["total"] = 300670394,
-["itemLevel"] = 657,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 297257773,
-["itemLevel"] = 665.8125,
-["classId"] = 5,
-},
-},
-["time"] = 1746642098,
 },
 {
-["time"] = 1747246903,
-["guild"] = "Nox Terra",
-["elapsed"] = 183.0030000000261,
-["date"] = "20:21 14/05/25",
-["servertime"] = 1747246903,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 248436202,
-["itemLevel"] = 668.5,
-["classId"] = 2,
-},
-["Discotonic"] = {
-["total"] = 191199214,
-["itemLevel"] = 643.9375,
-["classId"] = 5,
-},
-["Potdisc"] = {
-["total"] = 304144374,
-["itemLevel"] = 668.625,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 424849655,
@@ -8929,34 +9687,59 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.8125,
 ["classId"] = 11,
 },
-["Misbaksel"] = {
-["total"] = 306861114,
-["itemLevel"] = 662.8125,
-["classId"] = 3,
+["Bellætrix"] = {
+["total"] = 294592599,
+["itemLevel"] = 667.0625,
+["classId"] = 9,
 },
 ["Garanddor"] = {
 ["total"] = 429069318,
 ["itemLevel"] = 676.5625,
 ["classId"] = 2,
 },
-["Beorrn"] = {
-["total"] = 446250153,
-["itemLevel"] = 671.3125,
-["classId"] = 11,
-},
 ["Shkia"] = {
 ["total"] = 310724919,
 ["itemLevel"] = 666.1333333333333,
 ["classId"] = 9,
 },
-["Bellætrix"] = {
-["total"] = 294592599,
-["itemLevel"] = 667.0625,
-["classId"] = 9,
+["Beorrn"] = {
+["total"] = 446250153,
+["itemLevel"] = 671.3125,
+["classId"] = 11,
+},
+["Misbaksel"] = {
+["total"] = 306861114,
+["itemLevel"] = 662.8125,
+["classId"] = 3,
 },
 },
+["time"] = 1747246903,
+["date"] = "20:21 14/05/25",
+["elapsed"] = 183.0030000000261,
+["servertime"] = 1747246903,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 248436202,
+["itemLevel"] = 668.5,
+["classId"] = 2,
+},
+["Discotonic"] = {
+["total"] = 191199214,
+["itemLevel"] = 643.9375,
+["classId"] = 5,
+},
+["Potdisc"] = {
+["total"] = 304144374,
+["itemLevel"] = 668.625,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1747857720,
+["elapsed"] = 172.4930000000168,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 394308221,
@@ -8998,25 +9781,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.0625,
 ["classId"] = 7,
 },
-["Garanddor"] = {
-["total"] = 350472923,
-["itemLevel"] = 678.5,
-["classId"] = 2,
+["Beorrn"] = {
+["total"] = 387155266,
+["itemLevel"] = 671.875,
+["classId"] = 11,
 },
 ["Shkia"] = {
 ["total"] = 272025946,
 ["itemLevel"] = 667.875,
 ["classId"] = 9,
 },
-["Beorrn"] = {
-["total"] = 387155266,
-["itemLevel"] = 671.875,
-["classId"] = 11,
+["Garanddor"] = {
+["total"] = 350472923,
+["itemLevel"] = 678.5,
+["classId"] = 2,
 },
 },
-["time"] = 1747857720,
-["date"] = "22:02 21/05/25",
-["elapsed"] = 172.4930000000168,
 ["servertime"] = 1747857720,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -9030,12 +9810,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "22:02 21/05/25",
 },
 {
+["date"] = "21:37 04/06/25",
 ["guild"] = "Nox Terra",
-["time"] = 1749065823,
-["elapsed"] = 176.9710000000014,
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 245923105,
@@ -9078,6 +9857,7 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["elapsed"] = 176.9710000000014,
 ["servertime"] = 1749065821,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -9091,9 +9871,12 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["date"] = "21:37 04/06/25",
+["time"] = 1749065823,
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1749665712,
+["elapsed"] = 161.6190000000643,
 ["DAMAGER"] = {
 ["Cretino"] = {
 ["total"] = 295442883,
@@ -9130,25 +9913,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 679.625,
 ["classId"] = 2,
 },
-["Passeridae"] = {
-["total"] = 260980169,
-["itemLevel"] = 653.0625,
-["classId"] = 12,
+["Angri"] = {
+["total"] = 250305987,
+["itemLevel"] = 669.375,
+["classId"] = 3,
 },
 ["Tiekenei"] = {
 ["total"] = 320351868,
 ["itemLevel"] = 669.3125,
 ["classId"] = 7,
 },
-["Angri"] = {
-["total"] = 250305987,
-["itemLevel"] = 669.375,
-["classId"] = 3,
+["Passeridae"] = {
+["total"] = 260980169,
+["itemLevel"] = 653.0625,
+["classId"] = 12,
 },
 },
-["time"] = 1749665712,
-["date"] = "20:15 11/06/25",
-["elapsed"] = 161.6190000000643,
 ["servertime"] = 1749665712,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -9162,11 +9942,26 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:15 11/06/25",
 },
 {
-["date"] = "20:25 18/06/25",
+["time"] = 1750271110,
 ["guild"] = "Nox Terra",
+["elapsed"] = 163.0360000000219,
+["date"] = "20:25 18/06/25",
+["servertime"] = 1750271111,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 305872879,
+["itemLevel"] = 680.4375,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 222678042,
+["itemLevel"] = 651.3125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Cretino"] = {
 ["total"] = 297274118,
@@ -9203,41 +9998,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 681.0625,
 ["classId"] = 2,
 },
-["Misbaksel"] = {
-["total"] = 273904662,
-["itemLevel"] = 669.2666666666667,
-["classId"] = 3,
+["Potdisc"] = {
+["total"] = 326607417,
+["itemLevel"] = 675.5625,
+["classId"] = 5,
 },
 ["Passeridae"] = {
 ["total"] = 276958848,
 ["itemLevel"] = 656.6875,
 ["classId"] = 12,
 },
-["Potdisc"] = {
-["total"] = 326607417,
-["itemLevel"] = 675.5625,
-["classId"] = 5,
+["Misbaksel"] = {
+["total"] = 273904662,
+["itemLevel"] = 669.2666666666667,
+["classId"] = 3,
 },
 },
-["elapsed"] = 163.0360000000219,
-["servertime"] = 1750271111,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 305872879,
-["itemLevel"] = 680.4375,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 222678042,
-["itemLevel"] = 651.3125,
-["classId"] = 5,
-},
-},
-["time"] = 1750271110,
 },
 {
-["date"] = "20:32 16/07/25",
+["time"] = 1752690755,
 ["guild"] = "Nox Terra",
+["elapsed"] = 219.0090000000782,
+["date"] = "20:32 16/07/25",
+["servertime"] = 1752690755,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 343202995,
+["itemLevel"] = 677,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 336404658,
+["itemLevel"] = 682.25,
+["classId"] = 2,
+},
+},
 ["DAMAGER"] = {
 ["Garrandor"] = {
 ["total"] = 493199071,
@@ -9254,44 +10049,693 @@ DetailsDataStorage = {
 ["itemLevel"] = 678.1875,
 ["classId"] = 4,
 },
-["Velion"] = {
-["total"] = 374232693,
-["itemLevel"] = 680.4375,
-["classId"] = 6,
+["Shkia"] = {
+["total"] = 401355369,
+["itemLevel"] = 674.125,
+["classId"] = 9,
 },
 ["Angri"] = {
 ["total"] = 346518865,
 ["itemLevel"] = 677.5,
 ["classId"] = 3,
 },
+["Velion"] = {
+["total"] = 374232693,
+["itemLevel"] = 680.4375,
+["classId"] = 6,
+},
+},
+},
+},
+[3133] = {
+{
+["guild"] = "Nox Terra",
+["time"] = 1756327581,
+["elapsed"] = 272.864999999998,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1174375048,
+["itemLevel"] = 703.5625,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 1097872087,
+["itemLevel"] = 700.5,
+["classId"] = 3,
+},
 ["Shkia"] = {
-["total"] = 401355369,
-["itemLevel"] = 674.125,
+["total"] = 809369277,
+["itemLevel"] = 697.6875,
 ["classId"] = 9,
 },
+["Daveus-Draenor"] = {
+["total"] = 440226955,
+["itemLevel"] = 694.625,
+["classId"] = 1,
 },
-["elapsed"] = 219.0090000000782,
-["servertime"] = 1752690755,
-["HEALER"] = {
+["Angri"] = {
+["total"] = 828672315,
+["itemLevel"] = 696.4375,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 868066681,
+["itemLevel"] = 706.3125,
+["classId"] = 6,
+},
 ["Potdisc"] = {
-["total"] = 343202995,
-["itemLevel"] = 677,
+["total"] = 871564566,
+["itemLevel"] = 698.9375,
 ["classId"] = 5,
 },
+["Beorrn"] = {
+["total"] = 1102418604,
+["itemLevel"] = 702.375,
+["classId"] = 11,
+},
+["Garadh"] = {
+["total"] = 391348893,
+["itemLevel"] = 700.1875,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 866564933,
+["itemLevel"] = 700.25,
+["classId"] = 4,
+},
+["Tbonem"] = {
+["total"] = 1146482642,
+["itemLevel"] = 705.8125,
+["classId"] = 8,
+},
+["Tiekenei"] = {
+["total"] = 897656522,
+["itemLevel"] = 700.625,
+["classId"] = 7,
+},
+},
+["servertime"] = 1756327580,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 543607935,
+["itemLevel"] = 696.1875,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 611405723,
+["itemLevel"] = 688.25,
+["classId"] = 13,
+},
 ["Cidney"] = {
-["total"] = 336404658,
-["itemLevel"] = 682.25,
+["total"] = 696187544,
+["itemLevel"] = 696.75,
 ["classId"] = 2,
 },
 },
-["time"] = 1752690755,
+["date"] = "22:46 27/08/25",
+},
+{
+["time"] = 1756931598,
+["guild"] = "Nox Terra",
+["elapsed"] = 242.3059999999823,
+["date"] = "22:33 03/09/25",
+["servertime"] = 1756931597,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 466470198,
+["itemLevel"] = 698.8125,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 575646388,
+["itemLevel"] = 701.9375,
+["classId"] = 13,
+},
+["Potdisc"] = {
+["total"] = 762404028,
+["itemLevel"] = 702.0625,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 1009763398,
+["itemLevel"] = 709,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 1042079640,
+["itemLevel"] = 708.75,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 828749003,
+["itemLevel"] = 703.625,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 485675694,
+["itemLevel"] = 701.6875,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 824486454,
+["itemLevel"] = 699.5,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 578075439,
+["itemLevel"] = 708.6875,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 1011826430,
+["itemLevel"] = 705.6875,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 878583540,
+["itemLevel"] = 706.625,
+["classId"] = 11,
+},
+["Sparrowbeast"] = {
+["total"] = 1203177948,
+["itemLevel"] = 709,
+["classId"] = 7,
+},
+["Shkia"] = {
+["total"] = 801164124,
+["itemLevel"] = 701.875,
+["classId"] = 9,
+},
+["Klanky"] = {
+["total"] = 991879902,
+["itemLevel"] = 704.75,
+["classId"] = 3,
+},
+["Oplichter"] = {
+["total"] = 706507469,
+["itemLevel"] = 700.5625,
+["classId"] = 2,
+},
+["Velion"] = {
+["total"] = 925602221,
+["itemLevel"] = 710.6875,
+["classId"] = 6,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 1028505328,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 958282047,
+["itemLevel"] = 711.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 907106531,
+["itemLevel"] = 703.1875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 529322223,
+["itemLevel"] = 704.125,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 724494436,
+["itemLevel"] = 703.875,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 600328677,
+["itemLevel"] = 711.5,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 1048192130,
+["itemLevel"] = 711.625,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 854445757,
+["itemLevel"] = 711.4375,
+["classId"] = 11,
+},
+["Sparrowbeast"] = {
+["total"] = 1218999918,
+["itemLevel"] = 711,
+["classId"] = 7,
+},
+["Cretino"] = {
+["total"] = 1033516267,
+["itemLevel"] = 706.1875,
+["classId"] = 4,
+},
+},
+["time"] = 1757535164,
+["date"] = "22:12 10/09/25",
+["elapsed"] = 238.3239999999933,
+["servertime"] = 1757535163,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 569471616,
+["itemLevel"] = 703,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 502228941,
+["itemLevel"] = 705.4375,
+["classId"] = 5,
+},
+["Khalheessi"] = {
+["total"] = 493641528,
+["itemLevel"] = 705.0625,
+["classId"] = 13,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1091737262,
+["itemLevel"] = 712.1875,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 1023552662,
+["itemLevel"] = 709.75,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 955900898,
+["itemLevel"] = 709.6875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 486994866,
+["itemLevel"] = 706.4375,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 724728762,
+["itemLevel"] = 706.5,
+["classId"] = 3,
+},
+["Tbonem"] = {
+["total"] = 936179472,
+["itemLevel"] = 712.1333333333333,
+["classId"] = 8,
+},
+["Benosan"] = {
+["total"] = 629817135,
+["itemLevel"] = 713.0625,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 970443584,
+["itemLevel"] = 711.8125,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 942345738,
+["itemLevel"] = 712.8125,
+["classId"] = 11,
+},
+["Velion"] = {
+["total"] = 942679574,
+["itemLevel"] = 712.8125,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 827100848,
+["itemLevel"] = 707.375,
+["classId"] = 5,
+},
+["Shkia"] = {
+["total"] = 804071973,
+["itemLevel"] = 704.25,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 749771468,
+["itemLevel"] = 701.8125,
+["classId"] = 9,
+},
+["Garadh"] = {
+["total"] = 954494541,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+},
+["time"] = 1758135562,
+["date"] = "20:59 17/09/25",
+["elapsed"] = 209.5050000000047,
+["servertime"] = 1758135562,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 396609205,
+["itemLevel"] = 703.625,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 523865346,
+["itemLevel"] = 707.25,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 555505285,
+["itemLevel"] = 705.625,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 960768924,
+["itemLevel"] = 712.6875,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 934282581,
+["itemLevel"] = 711.125,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 794443278,
+["itemLevel"] = 712.0625,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 538840571,
+["itemLevel"] = 709.625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 832481998,
+["itemLevel"] = 708.25,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 896639588,
+["itemLevel"] = 715.8125,
+["classId"] = 6,
+},
+["Benosan"] = {
+["total"] = 538553187,
+["itemLevel"] = 714.5,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 1022208508,
+["itemLevel"] = 712.625,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 788457511,
+["itemLevel"] = 712.4,
+["classId"] = 11,
+},
+["Sparrowbeast"] = {
+["total"] = 1110498974,
+["itemLevel"] = 713.375,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 976125845,
+["itemLevel"] = 707,
+["classId"] = 11,
+},
+["Tbonem"] = {
+["total"] = 996364843,
+["itemLevel"] = 714.0625,
+["classId"] = 8,
+},
+["Potdisc"] = {
+["total"] = 895988558,
+["itemLevel"] = 709.125,
+["classId"] = 5,
+},
+["Bellætrix"] = {
+["total"] = 764868970,
+["itemLevel"] = 707.375,
+["classId"] = 9,
+},
+},
+["time"] = 1758740509,
+["date"] = "21:01 24/09/25",
+["elapsed"] = 203.9069999999992,
+["servertime"] = 1758740508,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 700363684,
+["itemLevel"] = 707.5625,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 665832197,
+["itemLevel"] = 710.1875,
+["classId"] = 13,
+},
+["Oplichter"] = {
+["total"] = 450437252,
+["itemLevel"] = 706.75,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1759950933,
+["elapsed"] = 219.7679999999964,
+["DAMAGER"] = {
+["Tbonem"] = {
+["total"] = 757692783,
+["itemLevel"] = 715.625,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 836186990,
+["itemLevel"] = 707.625,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 517079850,
+["itemLevel"] = 714.75,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 733066018,
+["itemLevel"] = 707.9375,
+["classId"] = 9,
+},
+["Velion"] = {
+["total"] = 1085501450,
+["itemLevel"] = 718.375,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 821410194,
+["itemLevel"] = 716.6875,
+["classId"] = 11,
+},
+["Benó"] = {
+["total"] = 572766071,
+["itemLevel"] = 712.4375,
+["classId"] = 6,
+},
+["Cretino"] = {
+["total"] = 958410806,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+["Klanky"] = {
+["total"] = 1033428144,
+["itemLevel"] = 711.875,
+["classId"] = 3,
+},
+["Angri"] = {
+["total"] = 732279909,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+},
+["servertime"] = 1759950932,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 884407205,
+["itemLevel"] = 712.375,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 827943492,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["date"] = "21:15 08/10/25",
+},
+{
+["date"] = "20:49 15/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1098951461,
+["itemLevel"] = 718.75,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 847689885,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 916134215,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 491579540,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 676704966,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 893129600,
+["itemLevel"] = 719.25,
+["classId"] = 6,
+},
+["Garadh"] = {
+["total"] = 786463509,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tiekenei"] = {
+["total"] = 966312689,
+["itemLevel"] = 715.9375,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 955616692,
+["itemLevel"] = 718.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 699142805,
+["itemLevel"] = 707.1875,
+["classId"] = 9,
+},
+["Benó"] = {
+["total"] = 520105489,
+["itemLevel"] = 714.625,
+["classId"] = 6,
+},
+},
+["elapsed"] = 181.6750000000002,
+["servertime"] = 1760554192,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 492337269,
+["itemLevel"] = 713.875,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 588593913,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["time"] = 1760554195,
+},
+{
+["date"] = "20:49 26/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 390640136,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 1024749326,
+["itemLevel"] = 722.2,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 977177244,
+["itemLevel"] = 718.75,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 541894518,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 780180853,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Lightflicker"] = {
+["total"] = 472583491,
+["itemLevel"] = 669.1333333333333,
+["classId"] = 2,
+},
+["Velion"] = {
+["total"] = 964374627,
+["itemLevel"] = 727.25,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 1082746944,
+["itemLevel"] = 722.4375,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 859052126,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Tiekenei"] = {
+["total"] = 959309168,
+["itemLevel"] = 717.25,
+["classId"] = 7,
+},
+},
+["elapsed"] = 191.2530000000006,
+["servertime"] = 1761508159,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 613250587,
+["itemLevel"] = 716.9375,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 619093910,
+["itemLevel"] = 715.4375,
+["classId"] = 5,
+},
+},
+["time"] = 1761508160,
 },
 },
 [3132] = {
 {
+["date"] = "22:54 24/08/25",
 ["guild"] = "Nox Terra",
-["time"] = 1756068843,
-["elapsed"] = 422.8170000000391,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 1465340567,
@@ -9333,27 +10777,28 @@ DetailsDataStorage = {
 ["itemLevel"] = 703.1875,
 ["classId"] = 11,
 },
-["Beorrn"] = {
-["total"] = 1860317867,
-["itemLevel"] = 699.4375,
-["classId"] = 11,
-},
-["Shkia"] = {
-["total"] = 1703445467,
-["itemLevel"] = 693.75,
-["classId"] = 9,
+["Garadh"] = {
+["total"] = 1565814409,
+["itemLevel"] = 697.9375,
+["classId"] = 12,
 },
 ["Tbonem"] = {
 ["total"] = 2076816802,
 ["itemLevel"] = 703.5625,
 ["classId"] = 8,
 },
-["Garadh"] = {
-["total"] = 1565814409,
-["itemLevel"] = 697.9375,
-["classId"] = 12,
+["Shkia"] = {
+["total"] = 1703445467,
+["itemLevel"] = 693.75,
+["classId"] = 9,
+},
+["Beorrn"] = {
+["total"] = 1860317867,
+["itemLevel"] = 699.4375,
+["classId"] = 11,
 },
 },
+["elapsed"] = 422.8170000000391,
 ["servertime"] = 1756068841,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -9372,9 +10817,12 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "22:54 24/08/25",
+["time"] = 1756068843,
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1756326925,
+["elapsed"] = 429.3589999999967,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 2253807170,
@@ -9411,35 +10859,32 @@ DetailsDataStorage = {
 ["itemLevel"] = 698.9375,
 ["classId"] = 5,
 },
-["Tiekenei"] = {
-["total"] = 1750159650,
-["itemLevel"] = 700.625,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 1798707722,
-["itemLevel"] = 705.8125,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 1451320893,
-["itemLevel"] = 699.625,
-["classId"] = 4,
+["Beorrn"] = {
+["total"] = 1791260044,
+["itemLevel"] = 702.375,
+["classId"] = 11,
 },
 ["Garadh"] = {
 ["total"] = 677809245,
 ["itemLevel"] = 700.1875,
 ["classId"] = 12,
 },
-["Beorrn"] = {
-["total"] = 1791260044,
-["itemLevel"] = 702.375,
-["classId"] = 11,
+["Cretino"] = {
+["total"] = 1451320893,
+["itemLevel"] = 699.625,
+["classId"] = 4,
+},
+["Tbonem"] = {
+["total"] = 1798707722,
+["itemLevel"] = 705.8125,
+["classId"] = 8,
+},
+["Tiekenei"] = {
+["total"] = 1750159650,
+["itemLevel"] = 700.625,
+["classId"] = 7,
 },
 },
-["time"] = 1756326925,
-["date"] = "22:35 27/08/25",
-["elapsed"] = 429.3589999999967,
 ["servertime"] = 1756326924,
 ["HEALER"] = {
 ["Oplichter"] = {
@@ -9458,11 +10903,31 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "22:35 27/08/25",
 },
 {
-["date"] = "22:14 03/09/25",
+["time"] = 1756930471,
 ["guild"] = "Nox Terra",
+["elapsed"] = 315.0970000000089,
+["date"] = "22:14 03/09/25",
+["servertime"] = 1756930470,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 641071398,
+["itemLevel"] = 698.8125,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 831163842,
+["itemLevel"] = 701.9375,
+["classId"] = 13,
+},
+["Potdisc"] = {
+["total"] = 811376191,
+["itemLevel"] = 703.3125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Garadh"] = {
 ["total"] = 1527284611,
@@ -9504,54 +10969,37 @@ DetailsDataStorage = {
 ["itemLevel"] = 705.7333333333333,
 ["classId"] = 11,
 },
-["Velion"] = {
-["total"] = 1343158665,
-["itemLevel"] = 710.875,
-["classId"] = 6,
-},
-["Oplichter"] = {
-["total"] = 1055350424,
-["itemLevel"] = 700.5625,
-["classId"] = 2,
-},
-["Klanky"] = {
-["total"] = 1381812182,
-["itemLevel"] = 704.75,
-["classId"] = 3,
+["Sparrowbeast"] = {
+["total"] = 1681291314,
+["itemLevel"] = 709,
+["classId"] = 7,
 },
 ["Shkia"] = {
 ["total"] = 1330614692,
 ["itemLevel"] = 701.875,
 ["classId"] = 9,
 },
-["Sparrowbeast"] = {
-["total"] = 1681291314,
-["itemLevel"] = 709,
-["classId"] = 7,
+["Klanky"] = {
+["total"] = 1381812182,
+["itemLevel"] = 704.75,
+["classId"] = 3,
 },
-},
-["elapsed"] = 315.0970000000089,
-["servertime"] = 1756930470,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 641071398,
-["itemLevel"] = 698.8125,
+["Oplichter"] = {
+["total"] = 1055350424,
+["itemLevel"] = 700.5625,
 ["classId"] = 2,
 },
-["Khalheessi"] = {
-["total"] = 831163842,
-["itemLevel"] = 701.9375,
-["classId"] = 13,
-},
-["Potdisc"] = {
-["total"] = 811376191,
-["itemLevel"] = 703.3125,
-["classId"] = 5,
+["Velion"] = {
+["total"] = 1343158665,
+["itemLevel"] = 710.875,
+["classId"] = 6,
 },
 },
-["time"] = 1756930471,
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1757533411,
+["elapsed"] = 294.476999999999,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 1688713942,
@@ -9593,30 +11041,27 @@ DetailsDataStorage = {
 ["itemLevel"] = 710.8666666666667,
 ["classId"] = 11,
 },
-["Potdisc"] = {
-["total"] = 1237109294,
-["itemLevel"] = 704.375,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 1486827509,
-["itemLevel"] = 710.875,
-["classId"] = 12,
+["Angri"] = {
+["total"] = 817469699,
+["itemLevel"] = 702.8125,
+["classId"] = 3,
 },
 ["Cretino"] = {
 ["total"] = 1149828004,
 ["itemLevel"] = 705.8125,
 ["classId"] = 4,
 },
-["Angri"] = {
-["total"] = 817469699,
-["itemLevel"] = 702.8125,
-["classId"] = 3,
+["Garadh"] = {
+["total"] = 1486827509,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Potdisc"] = {
+["total"] = 1237109294,
+["itemLevel"] = 704.375,
+["classId"] = 5,
 },
 },
-["time"] = 1757533411,
-["date"] = "21:43 10/09/25",
-["elapsed"] = 294.476999999999,
 ["servertime"] = 1757533410,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -9630,31 +11075,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "21:43 10/09/25",
 },
 {
-["time"] = 1758134347,
-["guild"] = "Nox Terra",
-["elapsed"] = 265.9110000000001,
-["date"] = "20:39 17/09/25",
-["servertime"] = 1758134347,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 374347183,
-["itemLevel"] = 703,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 658762137,
-["itemLevel"] = 707.25,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 599163773,
-["itemLevel"] = 705.625,
-["classId"] = 2,
-},
-},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 1611731924,
@@ -9681,10 +11104,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.4666666666667,
 ["classId"] = 3,
 },
-["Garadh"] = {
-["total"] = 1244142345,
-["itemLevel"] = 710.875,
-["classId"] = 12,
+["Tbonem"] = {
+["total"] = 1503178456,
+["itemLevel"] = 712.625,
+["classId"] = 8,
 },
 ["Benosan"] = {
 ["total"] = 960319933,
@@ -9701,56 +11124,56 @@ DetailsDataStorage = {
 ["itemLevel"] = 712.8125,
 ["classId"] = 11,
 },
-["Bellætrix"] = {
-["total"] = 969734427,
-["itemLevel"] = 701.8125,
-["classId"] = 9,
-},
-["Shkia"] = {
-["total"] = 1207130162,
-["itemLevel"] = 704.25,
-["classId"] = 9,
+["Velion"] = {
+["total"] = 1429957955,
+["itemLevel"] = 712.8125,
+["classId"] = 6,
 },
 ["Potdisc"] = {
 ["total"] = 1168856247,
 ["itemLevel"] = 707.375,
 ["classId"] = 5,
 },
-["Velion"] = {
-["total"] = 1429957955,
-["itemLevel"] = 712.8125,
-["classId"] = 6,
+["Shkia"] = {
+["total"] = 1207130162,
+["itemLevel"] = 704.25,
+["classId"] = 9,
 },
-["Tbonem"] = {
-["total"] = 1503178456,
-["itemLevel"] = 712.625,
-["classId"] = 8,
+["Bellætrix"] = {
+["total"] = 969734427,
+["itemLevel"] = 701.8125,
+["classId"] = 9,
+},
+["Garadh"] = {
+["total"] = 1244142345,
+["itemLevel"] = 710.875,
+["classId"] = 12,
 },
 },
-},
-{
-["time"] = 1758739215,
-["guild"] = "Nox Terra",
-["elapsed"] = 253.9320000000007,
-["date"] = "20:40 24/09/25",
-["servertime"] = 1758739215,
+["time"] = 1758134347,
+["date"] = "20:39 17/09/25",
+["elapsed"] = 265.9110000000001,
+["servertime"] = 1758134347,
 ["HEALER"] = {
-["Cidney"] = {
-["total"] = 558479829,
-["itemLevel"] = 707.5625,
+["Oplichter"] = {
+["total"] = 374347183,
+["itemLevel"] = 703,
 ["classId"] = 2,
 },
 ["Khalheessi"] = {
-["total"] = 706287631,
-["itemLevel"] = 710.1875,
+["total"] = 658762137,
+["itemLevel"] = 707.25,
 ["classId"] = 13,
 },
-["Oplichter"] = {
-["total"] = 299809966,
-["itemLevel"] = 706.5625,
+["Cidney"] = {
+["total"] = 599163773,
+["itemLevel"] = 705.625,
 ["classId"] = 2,
 },
 },
+["guild"] = "Nox Terra",
+},
+{
 ["DAMAGER"] = {
 ["Garadh"] = {
 ["total"] = 1285594441,
@@ -9777,10 +11200,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 708.4375,
 ["classId"] = 3,
 },
-["Bellætrix"] = {
-["total"] = 991208157,
-["itemLevel"] = 707.375,
-["classId"] = 9,
+["Velion"] = {
+["total"] = 1500535572,
+["itemLevel"] = 715.8125,
+["classId"] = 6,
 },
 ["Benosan"] = {
 ["total"] = 782632262,
@@ -9797,34 +11220,59 @@ DetailsDataStorage = {
 ["itemLevel"] = 712.875,
 ["classId"] = 11,
 },
-["Potdisc"] = {
-["total"] = 1322385469,
-["itemLevel"] = 709.125,
-["classId"] = 5,
-},
-["Tbonem"] = {
-["total"] = 1383875145,
-["itemLevel"] = 714.0625,
-["classId"] = 8,
+["Sparrowbeast"] = {
+["total"] = 1514610066,
+["itemLevel"] = 713.375,
+["classId"] = 7,
 },
 ["Beorrn"] = {
 ["total"] = 1158046509,
 ["itemLevel"] = 707,
 ["classId"] = 11,
 },
-["Sparrowbeast"] = {
-["total"] = 1514610066,
-["itemLevel"] = 713.375,
-["classId"] = 7,
+["Tbonem"] = {
+["total"] = 1383875145,
+["itemLevel"] = 714.0625,
+["classId"] = 8,
 },
-["Velion"] = {
-["total"] = 1500535572,
-["itemLevel"] = 715.8125,
-["classId"] = 6,
+["Potdisc"] = {
+["total"] = 1322385469,
+["itemLevel"] = 709.125,
+["classId"] = 5,
+},
+["Bellætrix"] = {
+["total"] = 991208157,
+["itemLevel"] = 707.375,
+["classId"] = 9,
 },
 },
+["time"] = 1758739215,
+["date"] = "20:40 24/09/25",
+["elapsed"] = 253.9320000000007,
+["servertime"] = 1758739215,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 558479829,
+["itemLevel"] = 707.5625,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 706287631,
+["itemLevel"] = 710.1875,
+["classId"] = 13,
+},
+["Oplichter"] = {
+["total"] = 299809966,
+["itemLevel"] = 706.5625,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1759948815,
+["elapsed"] = 266.7309999999998,
 ["DAMAGER"] = {
 ["Tbonem"] = {
 ["total"] = 1331508002,
@@ -9856,9 +11304,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 716.6875,
 ["classId"] = 11,
 },
-["Klanky"] = {
-["total"] = 986341023,
-["itemLevel"] = 711.875,
+["Cretino"] = {
+["total"] = 1223344608,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+["Angri"] = {
+["total"] = 1095199290,
+["itemLevel"] = 712,
 ["classId"] = 3,
 },
 ["Velion"] = {
@@ -9866,20 +11319,12 @@ DetailsDataStorage = {
 ["itemLevel"] = 718.375,
 ["classId"] = 6,
 },
-["Angri"] = {
-["total"] = 1095199290,
-["itemLevel"] = 712,
+["Klanky"] = {
+["total"] = 986341023,
+["itemLevel"] = 711.875,
 ["classId"] = 3,
 },
-["Cretino"] = {
-["total"] = 1223344608,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
 },
-},
-["time"] = 1759948815,
-["date"] = "20:40 08/10/25",
-["elapsed"] = 266.7309999999998,
 ["servertime"] = 1759948814,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -9893,12 +11338,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:40 08/10/25",
 },
 {
+["date"] = "20:36 15/10/25",
 ["guild"] = "Nox Terra",
-["time"] = 1760553413,
-["elapsed"] = 239.0750000000007,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 1583330182,
@@ -9930,32 +11374,33 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.25,
 ["classId"] = 6,
 },
-["Benó"] = {
-["total"] = 705217911,
-["itemLevel"] = 714.625,
-["classId"] = 6,
-},
-["Shkia"] = {
-["total"] = 1072914407,
-["itemLevel"] = 708,
-["classId"] = 9,
-},
-["Tbonem"] = {
-["total"] = 1390126391,
-["itemLevel"] = 718.25,
-["classId"] = 8,
+["Garadh"] = {
+["total"] = 1114548495,
+["itemLevel"] = 715.5,
+["classId"] = 12,
 },
 ["Tiekenei"] = {
 ["total"] = 1104213408,
 ["itemLevel"] = 715.9375,
 ["classId"] = 7,
 },
-["Garadh"] = {
-["total"] = 1114548495,
-["itemLevel"] = 715.5,
-["classId"] = 12,
+["Tbonem"] = {
+["total"] = 1390126391,
+["itemLevel"] = 718.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 1072914407,
+["itemLevel"] = 708,
+["classId"] = 9,
+},
+["Benó"] = {
+["total"] = 705217911,
+["itemLevel"] = 714.625,
+["classId"] = 6,
 },
 },
+["elapsed"] = 239.0750000000007,
 ["servertime"] = 1760553410,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -9969,1570 +11414,477 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["date"] = "20:36 15/10/25",
+["time"] = 1760553413,
 },
-},
-[3012] = {
 {
+["date"] = "20:34 26/10/25",
+["guild"] = "Nox Terra",
 ["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 715311206,
-["itemLevel"] = 665.1875,
-["classId"] = 7,
+["Garadh"] = {
+["total"] = 582270622,
+["itemLevel"] = 715.5,
+["classId"] = 12,
 },
-["Bellætrix"] = {
-["total"] = 485951947,
-["itemLevel"] = 660,
-["classId"] = 9,
-},
-["Klanky"] = {
-["total"] = 493918790,
-["itemLevel"] = 662.5625,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 326585523,
-["itemLevel"] = 643.75,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 316238886,
-["itemLevel"] = 661.3125,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 394767124,
-["itemLevel"] = 658.3125,
-["classId"] = 3,
-},
-["Strathlor"] = {
-["total"] = 621524640,
-["itemLevel"] = 662.875,
+["Tbonem"] = {
+["total"] = 1404186957,
+["itemLevel"] = 722.2,
 ["classId"] = 8,
 },
-["Benosan"] = {
-["total"] = 444994664,
-["itemLevel"] = 663.3125,
-["classId"] = 10,
-},
-["Beorrn"] = {
-["total"] = 726982526,
-["itemLevel"] = 666.375,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 568103004,
-["itemLevel"] = 665.375,
-["classId"] = 5,
-},
-["Shambone"] = {
-["total"] = 633666679,
-["itemLevel"] = 664.75,
-["classId"] = 7,
-},
-["Garanddor"] = {
-["total"] = 623839712,
-["itemLevel"] = 667.625,
-["classId"] = 2,
-},
-["Shkia"] = {
-["total"] = 585644498,
-["itemLevel"] = 660.6666666666666,
-["classId"] = 9,
-},
-["Vynarth"] = {
-["total"] = 563175969,
-["itemLevel"] = 661.5625,
+["Cretino"] = {
+["total"] = 1422435900,
+["itemLevel"] = 718.75,
 ["classId"] = 4,
 },
-["Tiekenei"] = {
-["total"] = 623578849,
-["itemLevel"] = 662.125,
-["classId"] = 7,
+["Daveus-Draenor"] = {
+["total"] = 710349298,
+["itemLevel"] = 0,
+["classId"] = 1,
 },
+["Angri"] = {
+["total"] = 1085194705,
+["itemLevel"] = 713.875,
+["classId"] = 3,
 },
-["time"] = 1744828800,
-["date"] = "20:40 16/04/25",
-["elapsed"] = 309.0859999999993,
-["servertime"] = 1744828798,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 558860779,
-["itemLevel"] = 661,
-["classId"] = 2,
-},
-["Shaolheen"] = {
-["total"] = 678922327,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["DAMAGER"] = {
-["Misbaksel"] = {
-["total"] = 481527645,
+["Lightflicker"] = {
+["total"] = 563286201,
 ["itemLevel"] = 660.875,
-["classId"] = 3,
+["classId"] = 2,
 },
-["Klanky"] = {
-["total"] = 592676250,
-["itemLevel"] = 663.25,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 703253937,
-["itemLevel"] = 650.875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 306455775,
-["itemLevel"] = 663.4375,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 411082437,
-["itemLevel"] = 660.875,
-["classId"] = 9,
-},
-["Shkia"] = {
-["total"] = 459057827,
-["itemLevel"] = 662.625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 413766484,
-["itemLevel"] = 664.875,
-["classId"] = 10,
-},
-["Vynarth"] = {
-["total"] = 772121344,
-["itemLevel"] = 663.5,
-["classId"] = 4,
+["Velion"] = {
+["total"] = 1503354062,
+["itemLevel"] = 727.25,
+["classId"] = 6,
 },
 ["Barrow"] = {
-["total"] = 397333164,
-["itemLevel"] = 649.625,
+["total"] = 1217154125,
+["itemLevel"] = 722.4375,
 ["classId"] = 11,
 },
-["Beorrn"] = {
-["total"] = 724712877,
-["itemLevel"] = 667.1333333333333,
-["classId"] = 11,
-},
-["Shambone"] = {
-["total"] = 550215295,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
-},
-["Garanddor"] = {
-["total"] = 677670986,
-["itemLevel"] = 667.625,
-["classId"] = 2,
+["Shkia"] = {
+["total"] = 1279978763,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
 },
 ["Tiekenei"] = {
-["total"] = 640826102,
-["itemLevel"] = 663.0625,
+["total"] = 1278727821,
+["itemLevel"] = 717.4375,
 ["classId"] = 7,
 },
-["Angri"] = {
-["total"] = 341297157,
-["itemLevel"] = 660.125,
-["classId"] = 3,
 },
-},
-["time"] = 1745433462,
-["date"] = "20:37 23/04/25",
-["elapsed"] = 303.780999999959,
-["servertime"] = 1745433462,
+["elapsed"] = 253.0869999999995,
+["servertime"] = 1761507248,
 ["HEALER"] = {
 ["Cidney"] = {
-["total"] = 566101212,
-["itemLevel"] = 662.875,
+["total"] = 606369375,
+["itemLevel"] = 716.9375,
 ["classId"] = 2,
-},
-["Shaolheen"] = {
-["total"] = 607560835,
-["itemLevel"] = 669.4666666666667,
-["classId"] = 10,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1746038123,
-["elapsed"] = 331.3800000000047,
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 899301610,
-["itemLevel"] = 669.875,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 690967761,
-["itemLevel"] = 666,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 667781256,
-["itemLevel"] = 658.875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 330168199,
-["itemLevel"] = 664.5,
-["classId"] = 1,
-},
-["Misbaksel"] = {
-["total"] = 530269561,
-["itemLevel"] = 661.75,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 453394253,
-["itemLevel"] = 665.0625,
-["classId"] = 10,
-},
-["Beorrn"] = {
-["total"] = 951663784,
-["itemLevel"] = 668.4666666666667,
-["classId"] = 11,
-},
-["Barrow"] = {
-["total"] = 559721171,
-["itemLevel"] = 655.9375,
-["classId"] = 11,
-},
-["Garmín"] = {
-["total"] = 623132691,
-["itemLevel"] = 665.8,
-["classId"] = 2,
-},
-["Angri"] = {
-["total"] = 422619833,
-["itemLevel"] = 661.6875,
-["classId"] = 3,
-},
-["Bellætrix"] = {
-["total"] = 488319858,
-["itemLevel"] = 664.3125,
-["classId"] = 9,
-},
-},
-["servertime"] = 1746038123,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 442814895,
-["itemLevel"] = 662.875,
-["classId"] = 2,
-},
-["Nitenurse"] = {
-["total"] = 408623534,
-["itemLevel"] = 650.25,
-["classId"] = 7,
 },
 ["Potdisc"] = {
-["total"] = 476019771,
-["itemLevel"] = 665.8125,
+["total"] = 654632408,
+["itemLevel"] = 715.4375,
 ["classId"] = 5,
 },
 },
-["date"] = "20:35 30/04/25",
+["time"] = 1761507248,
 },
+},
+[3135] = {
 {
-["date"] = "20:29 07/05/25",
+["time"] = 1757883196,
 ["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 864766912,
-["itemLevel"] = 669.875,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 605783714,
-["itemLevel"] = 666.9375,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 776345020,
-["itemLevel"] = 661.9375,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 297371265,
-["itemLevel"] = 665.5,
-["classId"] = 1,
-},
-["Misbaksel"] = {
-["total"] = 539073120,
-["itemLevel"] = 662.1875,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 378887231,
-["itemLevel"] = 666.3125,
-["classId"] = 10,
-},
-["Beorrn"] = {
-["total"] = 635102668,
-["itemLevel"] = 668.8666666666667,
-["classId"] = 11,
-},
-["Barrow"] = {
-["total"] = 481752013,
-["itemLevel"] = 658.6875,
-["classId"] = 11,
-},
-["Shkia"] = {
-["total"] = 478368275,
-["itemLevel"] = 664.25,
-["classId"] = 9,
-},
-["Garanddor"] = {
-["total"] = 567425821,
-["itemLevel"] = 668.625,
-["classId"] = 2,
-},
-["Garmín"] = {
-["total"] = 669921374,
-["itemLevel"] = 666.7333333333333,
-["classId"] = 2,
-},
-["Angri"] = {
-["total"] = 400654620,
-["itemLevel"] = 662.9375,
-["classId"] = 3,
-},
-["Shambone"] = {
-["total"] = 574673821,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
-},
-},
-["elapsed"] = 275.294000000009,
-["servertime"] = 1746642555,
+["elapsed"] = 498.6369999999988,
+["date"] = "22:53 14/09/25",
+["servertime"] = 1757883196,
 ["HEALER"] = {
 ["Cidney"] = {
-["total"] = 334888217,
-["itemLevel"] = 664.6875,
+["total"] = 1242512587,
+["itemLevel"] = 703,
 ["classId"] = 2,
 },
-["Nitenurse"] = {
-["total"] = 418896129,
-["itemLevel"] = 657,
-["classId"] = 7,
+["Khalheessi"] = {
+["total"] = 1574502059,
+["itemLevel"] = 705.875,
+["classId"] = 13,
 },
 ["Potdisc"] = {
-["total"] = 404149380,
-["itemLevel"] = 665.8125,
-["classId"] = 5,
-},
-},
-["time"] = 1746642557,
-},
-{
-["time"] = 1747247431,
-["guild"] = "Nox Terra",
-["elapsed"] = 284.9490000000224,
-["date"] = "20:30 14/05/25",
-["servertime"] = 1747247431,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 332831975,
-["itemLevel"] = 668.5,
-["classId"] = 2,
-},
-["Discotonic"] = {
-["total"] = 309687696,
-["itemLevel"] = 643.9375,
-["classId"] = 5,
-},
-["Potdisc"] = {
-["total"] = 432947944,
-["itemLevel"] = 668.625,
+["total"] = 1688552754,
+["itemLevel"] = 705.6875,
 ["classId"] = 5,
 },
 },
 ["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 894846075,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Cretino"] = {
-["total"] = 799643599,
-["itemLevel"] = 667.25,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 330428438,
-["itemLevel"] = 667.625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 496253795,
-["itemLevel"] = 664.6875,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 326385848,
-["itemLevel"] = 667.8125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 515656825,
-["itemLevel"] = 662.375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 513541499,
-["itemLevel"] = 662.8125,
-["classId"] = 11,
-},
-["Misbaksel"] = {
-["total"] = 460789156,
-["itemLevel"] = 662.8125,
-["classId"] = 3,
-},
-["Garanddor"] = {
-["total"] = 897707229,
-["itemLevel"] = 676.5625,
-["classId"] = 2,
-},
-["Beorrn"] = {
-["total"] = 729472756,
-["itemLevel"] = 671.0666666666667,
-["classId"] = 11,
-},
-["Shkia"] = {
-["total"] = 533448886,
-["itemLevel"] = 666.6875,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 432097215,
-["itemLevel"] = 667.0625,
-["classId"] = 9,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 660945615,
-["itemLevel"] = 677.125,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 566360978,
-["itemLevel"] = 671.9375,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 865581337,
-["itemLevel"] = 669.375,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 347642671,
-["itemLevel"] = 668,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 366089309,
-["itemLevel"] = 665.8125,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 637946670,
-["itemLevel"] = 666.25,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 279007163,
-["itemLevel"] = 664.4375,
-["classId"] = 11,
-},
-["Shambone"] = {
-["total"] = 0,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
-},
-["Garanddor"] = {
-["total"] = 971682422,
-["itemLevel"] = 678.5,
-["classId"] = 2,
-},
-["Shkia"] = {
-["total"] = 546278069,
-["itemLevel"] = 667.875,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 590553840,
-["itemLevel"] = 671.875,
-["classId"] = 11,
-},
-},
-["time"] = 1747858542,
-["date"] = "22:15 21/05/25",
-["elapsed"] = 281.8880000000354,
-["servertime"] = 1747858542,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 467633593,
-["itemLevel"] = 669.5625,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 464033323,
-["itemLevel"] = 670.0625,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1749066298,
-["elapsed"] = 260.4880000000012,
-["DAMAGER"] = {
-["Benosan"] = {
-["total"] = 436371866,
-["itemLevel"] = 672.8125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 589787050,
-["itemLevel"] = 673.875,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 603554375,
-["itemLevel"] = 673.2,
-["classId"] = 11,
-},
-["Klanky"] = {
-["total"] = 580216306,
-["itemLevel"] = 674.75,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 560721176,
-["itemLevel"] = 671.4375,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 410530416,
-["itemLevel"] = 673.4375,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 449752724,
-["itemLevel"] = 672.4375,
-["classId"] = 9,
-},
-["Passeridae"] = {
-["total"] = 434430388,
-["itemLevel"] = 649.875,
+["Garadh"] = {
+["total"] = 1498593998,
+["itemLevel"] = 710.875,
 ["classId"] = 12,
 },
-},
-["servertime"] = 1749066296,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 358984418,
-["itemLevel"] = 671.5,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 412523527,
-["itemLevel"] = 675.125,
-["classId"] = 2,
-},
-},
-["date"] = "21:44 04/06/25",
-},
-{
-["DAMAGER"] = {
-["Cretino"] = {
-["total"] = 606911877,
-["itemLevel"] = 674.0625,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 350414420,
-["itemLevel"] = 674.375,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 390325178,
-["itemLevel"] = 674.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 467110903,
-["itemLevel"] = 674.1875,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 649711118,
-["itemLevel"] = 676.125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 476387846,
-["itemLevel"] = 673.875,
-["classId"] = 11,
-},
-["Garanddor"] = {
-["total"] = 752257122,
-["itemLevel"] = 679.625,
-["classId"] = 2,
-},
-["Passeridae"] = {
-["total"] = 514392183,
-["itemLevel"] = 653.0625,
-["classId"] = 12,
-},
-["Tiekenei"] = {
-["total"] = 550795627,
-["itemLevel"] = 669.3125,
-["classId"] = 7,
-},
-["Angri"] = {
-["total"] = 380057234,
-["itemLevel"] = 669.375,
-["classId"] = 3,
-},
-},
-["time"] = 1749666093,
-["date"] = "20:21 11/06/25",
-["elapsed"] = 244.7430000000168,
-["servertime"] = 1749666093,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 437206078,
-["itemLevel"] = 672.3125,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 340947602,
-["itemLevel"] = 676.25,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["date"] = "20:32 18/06/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Cretino"] = {
-["total"] = 656248430,
-["itemLevel"] = 675.4375,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 338452400,
-["itemLevel"] = 677.5625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 440657017,
-["itemLevel"] = 672.125,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 344232942,
-["itemLevel"] = 675.125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 631268316,
-["itemLevel"] = 679,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 460447773,
-["itemLevel"] = 675.5,
-["classId"] = 11,
-},
-["Garanddor"] = {
-["total"] = 748706531,
-["itemLevel"] = 681.0625,
-["classId"] = 2,
-},
-["Misbaksel"] = {
-["total"] = 405962690,
-["itemLevel"] = 669.375,
-["classId"] = 3,
-},
-["Passeridae"] = {
-["total"] = 485963524,
-["itemLevel"] = 656.6875,
-["classId"] = 12,
-},
-["Potdisc"] = {
-["total"] = 499470576,
-["itemLevel"] = 675.5625,
-["classId"] = 5,
-},
-},
-["elapsed"] = 234.3239999999933,
-["servertime"] = 1750271553,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 385641807,
-["itemLevel"] = 680.4375,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 272605322,
-["itemLevel"] = 651.3125,
-["classId"] = 5,
-},
-},
-["time"] = 1750271552,
-},
-{
-["date"] = "20:40 16/07/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Garrandor"] = {
-["total"] = 718416997,
-["itemLevel"] = 670.5,
-["classId"] = 3,
-},
-["Barrow"] = {
-["total"] = 446011324,
-["itemLevel"] = 675.3125,
-["classId"] = 11,
-},
-["Cretino"] = {
-["total"] = 777122192,
-["itemLevel"] = 678.1875,
-["classId"] = 4,
-},
-["Velion"] = {
-["total"] = 786088224,
-["itemLevel"] = 680.4375,
-["classId"] = 6,
-},
-["Angri"] = {
-["total"] = 529531529,
-["itemLevel"] = 677.5,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 655401638,
-["itemLevel"] = 674.125,
-["classId"] = 9,
-},
-},
-["elapsed"] = 355.0770000000484,
-["servertime"] = 1752691248,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 647944467,
-["itemLevel"] = 677,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 614957340,
-["itemLevel"] = 682.25,
-["classId"] = 2,
-},
-},
-["time"] = 1752691248,
-},
-},
-[3015] = {
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 571642350,
-["itemLevel"] = 665.625,
-["classId"] = 7,
-},
 ["Klanky"] = {
-["total"] = 447805171,
-["itemLevel"] = 662.75,
+["total"] = 1574944970,
+["itemLevel"] = 706.5625,
 ["classId"] = 3,
 },
 ["Cretino"] = {
-["total"] = 358773235,
-["itemLevel"] = 643.75,
+["total"] = 1210215178,
+["itemLevel"] = 707,
 ["classId"] = 4,
 },
 ["Daveus-Draenor"] = {
-["total"] = 301926672,
-["itemLevel"] = 661.3125,
+["total"] = 751651491,
+["itemLevel"] = 706.0625,
 ["classId"] = 1,
 },
 ["Angri"] = {
-["total"] = 415009764,
-["itemLevel"] = 659.3125,
+["total"] = 1375821286,
+["itemLevel"] = 703.875,
 ["classId"] = 3,
 },
-["Bellætrix"] = {
-["total"] = 398354281,
-["itemLevel"] = 660,
-["classId"] = 9,
-},
 ["Benosan"] = {
-["total"] = 373867052,
-["itemLevel"] = 663.3125,
+["total"] = 1127248728,
+["itemLevel"] = 713.0625,
 ["classId"] = 10,
 },
 ["Tiekenei"] = {
-["total"] = 664588258,
-["itemLevel"] = 662.125,
+["total"] = 1701061238,
+["itemLevel"] = 710.4375,
 ["classId"] = 7,
 },
-["Strathlor"] = {
-["total"] = 557813199,
-["itemLevel"] = 662.875,
+["Barrow"] = {
+["total"] = 1427139884,
+["itemLevel"] = 712.625,
+["classId"] = 11,
+},
+["Tbonem"] = {
+["total"] = 1308828112,
+["itemLevel"] = 711.25,
 ["classId"] = 8,
 },
-["Shambone"] = {
-["total"] = 550631349,
-["itemLevel"] = 664.75,
-["classId"] = 7,
-},
-["Garanddor"] = {
-["total"] = 632356322,
-["itemLevel"] = 667.625,
-["classId"] = 2,
-},
-["Shkia"] = {
-["total"] = 506419911,
-["itemLevel"] = 661.5625,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 692599630,
-["itemLevel"] = 666.375,
-["classId"] = 11,
-},
-["Vynarth"] = {
-["total"] = 560266783,
-["itemLevel"] = 661.5625,
-["classId"] = 4,
-},
-},
-["time"] = 1744831268,
-["date"] = "21:21 16/04/25",
-["elapsed"] = 327.9930000000004,
-["servertime"] = 1744831266,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 579665555,
-["itemLevel"] = 661,
-["classId"] = 2,
-},
-["Shaolheen"] = {
-["total"] = 549376139,
-["itemLevel"] = 668.375,
-["classId"] = 10,
-},
-["Potdisc"] = {
-["total"] = 519566919,
-["itemLevel"] = 665.375,
-["classId"] = 5,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["date"] = "21:31 23/04/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Klanky"] = {
-["total"] = 598077530,
-["itemLevel"] = 663.25,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 468349850,
-["itemLevel"] = 662.625,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 361636352,
-["itemLevel"] = 663.4375,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 277054856,
-["itemLevel"] = 660.125,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 361973239,
-["itemLevel"] = 664.875,
-["classId"] = 10,
-},
-["Vynarth"] = {
-["total"] = 562837702,
-["itemLevel"] = 663.5,
-["classId"] = 4,
-},
-["Potdisc"] = {
-["total"] = 505115169,
-["itemLevel"] = 665.8125,
-["classId"] = 5,
-},
-["Shambone"] = {
-["total"] = 621358846,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
-},
-["Cretino"] = {
-["total"] = 542084031,
-["itemLevel"] = 650.875,
-["classId"] = 4,
-},
-["Garanddor"] = {
-["total"] = 569026223,
-["itemLevel"] = 667.625,
-["classId"] = 2,
-},
-["Beorrn"] = {
-["total"] = 592325008,
-["itemLevel"] = 667.625,
-["classId"] = 11,
-},
-},
-["elapsed"] = 341.3869999999879,
-["servertime"] = 1745436705,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 568961294,
-["itemLevel"] = 662.875,
-["classId"] = 2,
-},
-["Shaolheen"] = {
-["total"] = 435368103,
-["itemLevel"] = 670.0625,
-["classId"] = 10,
-},
-["Barrow"] = {
-["total"] = 360767228,
-["itemLevel"] = 650.4375,
-["classId"] = 11,
-},
-},
-["time"] = 1745436706,
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1746043781,
-["elapsed"] = 331.3400000000256,
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 642565888,
-["itemLevel"] = 669.875,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 524997840,
-["itemLevel"] = 666,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 478381493,
-["itemLevel"] = 658.875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 357626777,
-["itemLevel"] = 664.5,
-["classId"] = 1,
-},
-["Misbaksel"] = {
-["total"] = 522223023,
-["itemLevel"] = 661.75,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 395473883,
-["itemLevel"] = 665.0625,
-["classId"] = 10,
-},
-["Beorrn"] = {
-["total"] = 617390086,
-["itemLevel"] = 668.875,
-["classId"] = 11,
-},
-["Angri"] = {
-["total"] = 367254975,
-["itemLevel"] = 661.6875,
-["classId"] = 3,
-},
-["Garmín"] = {
-["total"] = 447514665,
-["itemLevel"] = 665.75,
-["classId"] = 2,
-},
-["Shkia"] = {
-["total"] = 438686291,
-["itemLevel"] = 663.4375,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 407835231,
-["itemLevel"] = 664.3125,
-["classId"] = 9,
-},
-},
-["servertime"] = 1746043781,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 471682410,
-["itemLevel"] = 662.875,
-["classId"] = 2,
-},
-["Nitenurse"] = {
-["total"] = 532002116,
-["itemLevel"] = 651.0625,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 363511931,
-["itemLevel"] = 665.8125,
-["classId"] = 5,
-},
-},
-["date"] = "22:09 30/04/25",
-},
-{
-["date"] = "21:33 07/05/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 676504130,
-["itemLevel"] = 670.2,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 521309096,
-["itemLevel"] = 667.3125,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 433034567,
-["itemLevel"] = 661.9375,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 388041541,
-["itemLevel"] = 665.5,
-["classId"] = 1,
-},
-["Misbaksel"] = {
-["total"] = 472095771,
-["itemLevel"] = 662.1875,
-["classId"] = 3,
-},
-["Bellætrix"] = {
-["total"] = 392005616,
-["itemLevel"] = 665.875,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 347311658,
-["itemLevel"] = 666.3125,
-["classId"] = 10,
-},
-["Beorrn"] = {
-["total"] = 599287541,
-["itemLevel"] = 669.25,
-["classId"] = 11,
-},
-["Barrow"] = {
-["total"] = 393229821,
-["itemLevel"] = 658.6875,
-["classId"] = 11,
-},
-["Shkia"] = {
-["total"] = 436655251,
-["itemLevel"] = 664.25,
-["classId"] = 9,
-},
-["Garanddor"] = {
-["total"] = 596719542,
-["itemLevel"] = 668.625,
-["classId"] = 2,
-},
-["Garmín"] = {
-["total"] = 549445613,
-["itemLevel"] = 666.625,
-["classId"] = 2,
-},
-["Shambone"] = {
-["total"] = 524887690,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
-},
-["Angri"] = {
-["total"] = 432560494,
-["itemLevel"] = 663.125,
-["classId"] = 3,
-},
-},
-["elapsed"] = 300.7540000000008,
-["servertime"] = 1746646386,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 456332887,
-["itemLevel"] = 664.6875,
-["classId"] = 2,
-},
-["Nitenurse"] = {
-["total"] = 535305606,
-["itemLevel"] = 657,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 476288042,
-["itemLevel"] = 665.8125,
-["classId"] = 5,
-},
-},
-["time"] = 1746646388,
-},
-{
-["time"] = 1747249083,
-["guild"] = "Nox Terra",
-["elapsed"] = 303.0260000000126,
-["date"] = "20:58 14/05/25",
-["servertime"] = 1747249083,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 574143591,
-["itemLevel"] = 668.5,
-["classId"] = 2,
-},
-["Discotonic"] = {
-["total"] = 294304055,
-["itemLevel"] = 643.9375,
-["classId"] = 5,
-},
-["Potdisc"] = {
-["total"] = 500848304,
-["itemLevel"] = 668.625,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 664607256,
-["itemLevel"] = 675.5,
-["classId"] = 7,
-},
-["Cretino"] = {
-["total"] = 487877503,
-["itemLevel"] = 667.25,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 323185071,
-["itemLevel"] = 667.625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 441495350,
-["itemLevel"] = 664.875,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 368542950,
-["itemLevel"] = 667.8125,
-["classId"] = 10,
-},
 ["Velion"] = {
-["total"] = 476382713,
-["itemLevel"] = 662.2,
+["total"] = 1586864772,
+["itemLevel"] = 712.8125,
 ["classId"] = 6,
 },
-["Barrow"] = {
-["total"] = 384628815,
-["itemLevel"] = 662.8125,
-["classId"] = 11,
-},
-["Misbaksel"] = {
-["total"] = 458326327,
-["itemLevel"] = 662.8125,
-["classId"] = 3,
-},
-["Garanddor"] = {
-["total"] = 644667489,
-["itemLevel"] = 676.5625,
-["classId"] = 2,
-},
-["Beorrn"] = {
-["total"] = 606713982,
-["itemLevel"] = 671.3125,
-["classId"] = 11,
-},
-["Shkia"] = {
-["total"] = 412069238,
-["itemLevel"] = 666.6875,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 369469869,
-["itemLevel"] = 667.0625,
-["classId"] = 9,
+["Sparrowbeast"] = {
+["total"] = 1937135927,
+["itemLevel"] = 711,
+["classId"] = 7,
 },
 },
 },
 {
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
-["total"] = 588829650,
-["itemLevel"] = 677.125,
+["total"] = 2149063003,
+["itemLevel"] = 713.375,
 ["classId"] = 7,
 },
 ["Klanky"] = {
-["total"] = 488240452,
-["itemLevel"] = 671.9375,
+["total"] = 943615777,
+["itemLevel"] = 711.5,
 ["classId"] = 3,
 },
 ["Cretino"] = {
-["total"] = 445539992,
-["itemLevel"] = 669.375,
+["total"] = 1602021751,
+["itemLevel"] = 712.0625,
 ["classId"] = 4,
 },
 ["Daveus-Draenor"] = {
-["total"] = 235596322,
-["itemLevel"] = 668,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 351815597,
-["itemLevel"] = 665.8125,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 382415673,
-["itemLevel"] = 666.25,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 212854510,
-["itemLevel"] = 664,
-["classId"] = 11,
-},
-["Garanddor"] = {
-["total"] = 536121380,
-["itemLevel"] = 678.5,
-["classId"] = 2,
-},
-["Shkia"] = {
-["total"] = 352381235,
-["itemLevel"] = 667.875,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 515467576,
-["itemLevel"] = 671.875,
-["classId"] = 11,
-},
-},
-["time"] = 1747860507,
-["date"] = "22:48 21/05/25",
-["elapsed"] = 228.1840000000084,
-["servertime"] = 1747860507,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 348290324,
-["itemLevel"] = 669.5625,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 409307748,
-["itemLevel"] = 670.0625,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1749067958,
-["elapsed"] = 223.3240000000005,
-["DAMAGER"] = {
-["Benosan"] = {
-["total"] = 295700001,
-["itemLevel"] = 672.8125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 379749869,
-["itemLevel"] = 673.875,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 406369593,
-["itemLevel"] = 673.0625,
-["classId"] = 11,
-},
-["Klanky"] = {
-["total"] = 492708592,
-["itemLevel"] = 674.75,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 460058617,
-["itemLevel"] = 670.375,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 300812525,
-["itemLevel"] = 673.4375,
+["total"] = 926896252,
+["itemLevel"] = 709.625,
 ["classId"] = 1,
 },
 ["Bellætrix"] = {
-["total"] = 378316790,
-["itemLevel"] = 672.4375,
-["classId"] = 9,
-},
-["Passeridae"] = {
-["total"] = 346100597,
-["itemLevel"] = 650.6875,
-["classId"] = 12,
-},
-},
-["servertime"] = 1749067956,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 270942170,
-["itemLevel"] = 671.5,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 349049853,
-["itemLevel"] = 675.125,
-["classId"] = 2,
-},
-},
-["date"] = "22:12 04/06/25",
-},
-{
-["DAMAGER"] = {
-["Cretino"] = {
-["total"] = 470965493,
-["itemLevel"] = 674.0625,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 308620935,
-["itemLevel"] = 674.375,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 388143250,
-["itemLevel"] = 674.5625,
+["total"] = 1139867029,
+["itemLevel"] = 707.1875,
 ["classId"] = 9,
 },
 ["Benosan"] = {
-["total"] = 315410925,
-["itemLevel"] = 674.1875,
+["total"] = 1137040278,
+["itemLevel"] = 714.5,
 ["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 420537970,
-["itemLevel"] = 676.125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 371558128,
-["itemLevel"] = 673.875,
-["classId"] = 11,
-},
-["Garanddor"] = {
-["total"] = 521152368,
-["itemLevel"] = 679.625,
-["classId"] = 2,
-},
-["Passeridae"] = {
-["total"] = 366831041,
-["itemLevel"] = 653.0625,
-["classId"] = 12,
 },
 ["Tiekenei"] = {
-["total"] = 416224850,
-["itemLevel"] = 669.3125,
+["total"] = 1805901301,
+["itemLevel"] = 712.625,
 ["classId"] = 7,
 },
+["Barrow"] = {
+["total"] = 1636532544,
+["itemLevel"] = 712.875,
+["classId"] = 11,
+},
 ["Angri"] = {
-["total"] = 381904247,
-["itemLevel"] = 669.375,
+["total"] = 1458652150,
+["itemLevel"] = 708.25,
 ["classId"] = 3,
 },
+["Garadh"] = {
+["total"] = 1737975042,
+["itemLevel"] = 712.6875,
+["classId"] = 12,
 },
-["time"] = 1749667333,
-["date"] = "20:42 11/06/25",
-["elapsed"] = 197.1480000000447,
-["servertime"] = 1749667333,
+["Velion"] = {
+["total"] = 1673758640,
+["itemLevel"] = 715.5333333333333,
+["classId"] = 6,
+},
+["Beorrn"] = {
+["total"] = 1204123861,
+["itemLevel"] = 707,
+["classId"] = 11,
+},
+["Tbonem"] = {
+["total"] = 1964149079,
+["itemLevel"] = 714.0625,
+["classId"] = 8,
+},
+},
+["time"] = 1758744221,
+["date"] = "22:03 24/09/25",
+["elapsed"] = 527.9040000000023,
+["servertime"] = 1758744221,
 ["HEALER"] = {
+["Cidney"] = {
+["total"] = 1741478412,
+["itemLevel"] = 707.5625,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 1705857313,
+["itemLevel"] = 710.1875,
+["classId"] = 13,
+},
 ["Potdisc"] = {
-["total"] = 297500185,
-["itemLevel"] = 672.3125,
+["total"] = 1871886849,
+["itemLevel"] = 711.375,
 ["classId"] = 5,
 },
-["Cidney"] = {
-["total"] = 273102728,
-["itemLevel"] = 676.25,
+["Oplichter"] = {
+["total"] = 1045516775,
+["itemLevel"] = 707.25,
 ["classId"] = 2,
 },
 },
 ["guild"] = "Nox Terra",
 },
 {
-["date"] = "20:53 18/06/25",
 ["guild"] = "Nox Terra",
+["time"] = 1759954406,
+["elapsed"] = 489.6350000000093,
 ["DAMAGER"] = {
-["Cretino"] = {
-["total"] = 430247890,
-["itemLevel"] = 676.0625,
-["classId"] = 4,
+["Tbonem"] = {
+["total"] = 1537528727,
+["itemLevel"] = 715.625,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 1234581352,
+["itemLevel"] = 707.0625,
+["classId"] = 9,
 },
 ["Daveus-Draenor"] = {
-["total"] = 266793259,
-["itemLevel"] = 677.5625,
+["total"] = 951141643,
+["itemLevel"] = 714.75,
 ["classId"] = 1,
 },
 ["Angri"] = {
-["total"] = 434061856,
-["itemLevel"] = 672.125,
+["total"] = 1258949988,
+["itemLevel"] = 712,
 ["classId"] = 3,
 },
-["Benosan"] = {
-["total"] = 316545371,
-["itemLevel"] = 675.125,
-["classId"] = 10,
-},
 ["Velion"] = {
-["total"] = 451290097,
-["itemLevel"] = 679,
+["total"] = 1779332231,
+["itemLevel"] = 718.375,
 ["classId"] = 6,
 },
 ["Barrow"] = {
-["total"] = 413605498,
-["itemLevel"] = 675.5,
+["total"] = 1443536517,
+["itemLevel"] = 716.6875,
 ["classId"] = 11,
 },
-["Garanddor"] = {
-["total"] = 474471226,
-["itemLevel"] = 681.0625,
-["classId"] = 2,
-},
-["Misbaksel"] = {
-["total"] = 407400225,
-["itemLevel"] = 669.375,
-["classId"] = 3,
-},
-["Passeridae"] = {
-["total"] = 320014746,
-["itemLevel"] = 657.5,
-["classId"] = 12,
-},
-["Potdisc"] = {
-["total"] = 461119413,
-["itemLevel"] = 675.5625,
-["classId"] = 5,
-},
-},
-["elapsed"] = 199.6009999999951,
-["servertime"] = 1750272781,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 349064394,
-["itemLevel"] = 680.4375,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 259896001,
-["itemLevel"] = 651.3125,
-["classId"] = 5,
-},
-},
-["time"] = 1750272780,
-},
-{
-["date"] = "21:19 16/07/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Benosan"] = {
-["total"] = 281473398,
-["itemLevel"] = 678.4666666666667,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 403551926,
-["itemLevel"] = 680.4375,
+["Benó"] = {
+["total"] = 873699464,
+["itemLevel"] = 712.4375,
 ["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 439845502,
-["itemLevel"] = 676.75,
-["classId"] = 11,
 },
 ["Cretino"] = {
-["total"] = 416132732,
-["itemLevel"] = 678.1875,
+["total"] = 1396053951,
+["itemLevel"] = 712.8125,
 ["classId"] = 4,
 },
-["Garrandor"] = {
-["total"] = 486911848,
-["itemLevel"] = 670.5,
+["Klanky"] = {
+["total"] = 1618344388,
+["itemLevel"] = 711.875,
 ["classId"] = 3,
 },
-["Angri"] = {
-["total"] = 419511886,
-["itemLevel"] = 677.5,
-["classId"] = 3,
 },
-["Shkia"] = {
-["total"] = 363005406,
-["itemLevel"] = 674.125,
-["classId"] = 9,
-},
-},
-["elapsed"] = 212.7030000000959,
-["servertime"] = 1752693588,
+["servertime"] = 1759954405,
 ["HEALER"] = {
 ["Potdisc"] = {
-["total"] = 266366023,
-["itemLevel"] = 677,
+["total"] = 1814046700,
+["itemLevel"] = 712.375,
 ["classId"] = 5,
 },
 ["Cidney"] = {
-["total"] = 335359241,
-["itemLevel"] = 682.25,
+["total"] = 1561391609,
+["itemLevel"] = 714.125,
 ["classId"] = 2,
 },
 },
-["time"] = 1752693588,
+["date"] = "22:13 08/10/25",
+},
+{
+["date"] = "21:45 15/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 2038691885,
+["itemLevel"] = 718.75,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 1544228091,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1494060183,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 992050173,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 1229312659,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 1885958201,
+["itemLevel"] = 719.25,
+["classId"] = 6,
+},
+["Tbonem"] = {
+["total"] = 1701405667,
+["itemLevel"] = 718.25,
+["classId"] = 8,
+},
+["Garadh"] = {
+["total"] = 1424536780,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Benó"] = {
+["total"] = 921983949,
+["itemLevel"] = 714.4375,
+["classId"] = 6,
+},
+},
+["elapsed"] = 504.7800000000007,
+["servertime"] = 1760557498,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 1379987943,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+["Tiekenei"] = {
+["total"] = 984211388,
+["itemLevel"] = 712.625,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 1707716555,
+["itemLevel"] = 714.3125,
+["classId"] = 5,
+},
+},
+["time"] = 1760557501,
+},
+{
+["date"] = "21:48 26/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 581779364,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 1611060661,
+["itemLevel"] = 722.5,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 1421857152,
+["itemLevel"] = 718.75,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 957666545,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 1181809277,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Lightflicker"] = {
+["total"] = 1035600586,
+["itemLevel"] = 675.75,
+["classId"] = 2,
+},
+["Velion"] = {
+["total"] = 1978693861,
+["itemLevel"] = 727.25,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 1388939346,
+["itemLevel"] = 721.625,
+["classId"] = 11,
+},
+["Tiekenei"] = {
+["total"] = 1758366258,
+["itemLevel"] = 717.25,
+["classId"] = 7,
+},
+},
+["elapsed"] = 493.362000000001,
+["servertime"] = 1761511699,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 1665434190,
+["itemLevel"] = 716.9375,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 1769635738,
+["itemLevel"] = 715.4375,
+["classId"] = 5,
+},
+},
+["time"] = 1761511699,
 },
 },
 [3013] = {
 {
+["guild"] = "Nox Terra",
+["time"] = 1744829360,
+["elapsed"] = 227.4259999999995,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 505483801,
 ["itemLevel"] = 665.1875,
 ["classId"] = 7,
 },
-["Bellætrix"] = {
-["total"] = 382795877,
-["itemLevel"] = 660,
-["classId"] = 9,
+["Beorrn"] = {
+["total"] = 479750887,
+["itemLevel"] = 666.375,
+["classId"] = 11,
 },
 ["Klanky"] = {
 ["total"] = 433045003,
@@ -11549,30 +11901,35 @@ DetailsDataStorage = {
 ["itemLevel"] = 661.3125,
 ["classId"] = 1,
 },
-["Angri"] = {
-["total"] = 326312899,
-["itemLevel"] = 658.3125,
-["classId"] = 3,
+["Bellætrix"] = {
+["total"] = 382795877,
+["itemLevel"] = 660,
+["classId"] = 9,
 },
-["Strathlor"] = {
-["total"] = 147444394,
-["itemLevel"] = 662.875,
-["classId"] = 8,
+["Tiekenei"] = {
+["total"] = 498875158,
+["itemLevel"] = 662.125,
+["classId"] = 7,
 },
 ["Benosan"] = {
 ["total"] = 259867693,
 ["itemLevel"] = 663.3125,
 ["classId"] = 10,
 },
-["Beorrn"] = {
-["total"] = 479750887,
-["itemLevel"] = 666.375,
-["classId"] = 11,
+["Vynarth"] = {
+["total"] = 430215017,
+["itemLevel"] = 661.5625,
+["classId"] = 4,
 },
-["Potdisc"] = {
-["total"] = 408580371,
-["itemLevel"] = 665.375,
-["classId"] = 5,
+["Strathlor"] = {
+["total"] = 147444394,
+["itemLevel"] = 662.875,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 433023156,
+["itemLevel"] = 661.5625,
+["classId"] = 9,
 },
 ["Shambone"] = {
 ["total"] = 463945559,
@@ -11584,25 +11941,17 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.625,
 ["classId"] = 2,
 },
-["Shkia"] = {
-["total"] = 433023156,
-["itemLevel"] = 661.5625,
-["classId"] = 9,
+["Potdisc"] = {
+["total"] = 408580371,
+["itemLevel"] = 665.375,
+["classId"] = 5,
 },
-["Vynarth"] = {
-["total"] = 430215017,
-["itemLevel"] = 661.5625,
-["classId"] = 4,
-},
-["Tiekenei"] = {
-["total"] = 498875158,
-["itemLevel"] = 662.125,
-["classId"] = 7,
+["Angri"] = {
+["total"] = 326312899,
+["itemLevel"] = 658.3125,
+["classId"] = 3,
 },
 },
-["time"] = 1744829360,
-["date"] = "20:49 16/04/25",
-["elapsed"] = 227.4259999999995,
 ["servertime"] = 1744829358,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -11616,15 +11965,30 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:49 16/04/25",
 },
 {
-["date"] = "20:50 23/04/25",
+["time"] = 1745434236,
 ["guild"] = "Nox Terra",
+["elapsed"] = 260.045999999973,
+["date"] = "20:50 23/04/25",
+["servertime"] = 1745434235,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 588767795,
+["itemLevel"] = 662.875,
+["classId"] = 2,
+},
+["Shaolheen"] = {
+["total"] = 592904568,
+["itemLevel"] = 669.8125,
+["classId"] = 10,
+},
+},
 ["DAMAGER"] = {
-["Angri"] = {
-["total"] = 226877928,
-["itemLevel"] = 660.125,
+["Misbaksel"] = {
+["total"] = 464165197,
+["itemLevel"] = 660.875,
 ["classId"] = 3,
 },
 ["Klanky"] = {
@@ -11642,15 +12006,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.625,
 ["classId"] = 1,
 },
-["Misbaksel"] = {
-["total"] = 464165197,
+["Bellætrix"] = {
+["total"] = 376283990,
 ["itemLevel"] = 660.875,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 420327295,
-["itemLevel"] = 662.625,
 ["classId"] = 9,
+},
+["Vynarth"] = {
+["total"] = 503278915,
+["itemLevel"] = 663.5,
+["classId"] = 4,
 },
 ["Benosan"] = {
 ["total"] = 294962703,
@@ -11667,52 +12031,36 @@ DetailsDataStorage = {
 ["itemLevel"] = 649.625,
 ["classId"] = 11,
 },
-["Beorrn"] = {
-["total"] = 377976600,
-["itemLevel"] = 667.625,
-["classId"] = 11,
+["Shambone"] = {
+["total"] = 358577765,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
 },
 ["Garanddor"] = {
 ["total"] = 506353904,
 ["itemLevel"] = 667.625,
 ["classId"] = 2,
 },
-["Shambone"] = {
-["total"] = 358577765,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
+["Beorrn"] = {
+["total"] = 377976600,
+["itemLevel"] = 667.625,
+["classId"] = 11,
 },
-["Vynarth"] = {
-["total"] = 503278915,
-["itemLevel"] = 663.5,
-["classId"] = 4,
-},
-["Bellætrix"] = {
-["total"] = 376283990,
-["itemLevel"] = 660.875,
+["Shkia"] = {
+["total"] = 420327295,
+["itemLevel"] = 662.625,
 ["classId"] = 9,
 },
-},
-["elapsed"] = 260.045999999973,
-["servertime"] = 1745434235,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 588767795,
-["itemLevel"] = 662.875,
-["classId"] = 2,
-},
-["Shaolheen"] = {
-["total"] = 592904568,
-["itemLevel"] = 669.8125,
-["classId"] = 10,
+["Angri"] = {
+["total"] = 226877928,
+["itemLevel"] = 660.125,
+["classId"] = 3,
 },
 },
-["time"] = 1745434236,
 },
 {
+["date"] = "20:48 30/04/25",
 ["guild"] = "Nox Terra",
-["time"] = 1746038934,
-["elapsed"] = 238.1149999999907,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 552555040,
@@ -11759,17 +12107,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 665.8,
 ["classId"] = 2,
 },
-["Angri"] = {
-["total"] = 314233179,
-["itemLevel"] = 661.6875,
-["classId"] = 3,
-},
 ["Bellætrix"] = {
 ["total"] = 390717957,
 ["itemLevel"] = 664.3125,
 ["classId"] = 9,
 },
+["Angri"] = {
+["total"] = 314233179,
+["itemLevel"] = 661.6875,
+["classId"] = 3,
 },
+},
+["elapsed"] = 238.1149999999907,
 ["servertime"] = 1746038934,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -11788,11 +12137,31 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "20:48 30/04/25",
+["time"] = 1746038934,
 },
 {
-["date"] = "20:42 07/05/25",
+["time"] = 1746643322,
 ["guild"] = "Nox Terra",
+["elapsed"] = 225.6730000000098,
+["date"] = "20:42 07/05/25",
+["servertime"] = 1746643320,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 376214407,
+["itemLevel"] = 664.6875,
+["classId"] = 2,
+},
+["Shaolheen"] = {
+["total"] = 351354008,
+["itemLevel"] = 670.25,
+["classId"] = 10,
+},
+["Potdisc"] = {
+["total"] = 437216525,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 489444270,
@@ -11834,10 +12203,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 658.6875,
 ["classId"] = 11,
 },
-["Shkia"] = {
-["total"] = 416353030,
-["itemLevel"] = 664.25,
-["classId"] = 9,
+["Shambone"] = {
+["total"] = 399931248,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
 },
 ["Garanddor"] = {
 ["total"] = 549744343,
@@ -11854,56 +12223,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.9375,
 ["classId"] = 3,
 },
-["Shambone"] = {
-["total"] = 399931248,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
+["Shkia"] = {
+["total"] = 416353030,
+["itemLevel"] = 664.25,
+["classId"] = 9,
 },
 },
-["elapsed"] = 225.6730000000098,
-["servertime"] = 1746643320,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 376214407,
-["itemLevel"] = 664.6875,
-["classId"] = 2,
-},
-["Shaolheen"] = {
-["total"] = 351354008,
-["itemLevel"] = 670.25,
-["classId"] = 10,
-},
-["Potdisc"] = {
-["total"] = 437216525,
-["itemLevel"] = 665.8125,
-["classId"] = 5,
-},
-},
-["time"] = 1746643322,
 },
 {
-["time"] = 1747248000,
-["guild"] = "Nox Terra",
-["elapsed"] = 232.3310000000056,
-["date"] = "20:40 14/05/25",
-["servertime"] = 1747248000,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 432274423,
-["itemLevel"] = 668.5,
-["classId"] = 2,
-},
-["Discotonic"] = {
-["total"] = 248401558,
-["itemLevel"] = 643.9375,
-["classId"] = 5,
-},
-["Potdisc"] = {
-["total"] = 373278610,
-["itemLevel"] = 668.625,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 576259794,
@@ -11940,34 +12267,59 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.8125,
 ["classId"] = 11,
 },
-["Misbaksel"] = {
-["total"] = 456581023,
-["itemLevel"] = 662.8125,
-["classId"] = 3,
+["Bellætrix"] = {
+["total"] = 220087768,
+["itemLevel"] = 667.0625,
+["classId"] = 9,
 },
 ["Garanddor"] = {
 ["total"] = 613723807,
 ["itemLevel"] = 676.5625,
 ["classId"] = 2,
 },
-["Beorrn"] = {
-["total"] = 500938290,
-["itemLevel"] = 671.0666666666667,
-["classId"] = 11,
-},
 ["Shkia"] = {
 ["total"] = 464757069,
 ["itemLevel"] = 666.6875,
 ["classId"] = 9,
 },
-["Bellætrix"] = {
-["total"] = 220087768,
-["itemLevel"] = 667.0625,
-["classId"] = 9,
+["Beorrn"] = {
+["total"] = 500938290,
+["itemLevel"] = 671.0666666666667,
+["classId"] = 11,
+},
+["Misbaksel"] = {
+["total"] = 456581023,
+["itemLevel"] = 662.8125,
+["classId"] = 3,
 },
 },
+["time"] = 1747248000,
+["date"] = "20:40 14/05/25",
+["elapsed"] = 232.3310000000056,
+["servertime"] = 1747248000,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 432274423,
+["itemLevel"] = 668.5,
+["classId"] = 2,
+},
+["Discotonic"] = {
+["total"] = 248401558,
+["itemLevel"] = 643.9375,
+["classId"] = 5,
+},
+["Potdisc"] = {
+["total"] = 373278610,
+["itemLevel"] = 668.625,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1747859053,
+["elapsed"] = 189.8680000000168,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 488393055,
@@ -12009,20 +12361,17 @@ DetailsDataStorage = {
 ["itemLevel"] = 678.5,
 ["classId"] = 2,
 },
-["Shkia"] = {
-["total"] = 387639673,
-["itemLevel"] = 667.875,
-["classId"] = 9,
-},
 ["Beorrn"] = {
 ["total"] = 476107105,
 ["itemLevel"] = 671.875,
 ["classId"] = 11,
 },
+["Shkia"] = {
+["total"] = 387639673,
+["itemLevel"] = 667.875,
+["classId"] = 9,
 },
-["time"] = 1747859053,
-["date"] = "22:24 21/05/25",
-["elapsed"] = 189.8680000000168,
+},
 ["servertime"] = 1747859053,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -12036,12 +12385,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "22:24 21/05/25",
 },
 {
+["date"] = "21:52 04/06/25",
 ["guild"] = "Nox Terra",
-["time"] = 1749066775,
-["elapsed"] = 221.0900000000002,
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 277403682,
@@ -12084,6 +12432,7 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["elapsed"] = 221.0900000000002,
 ["servertime"] = 1749066773,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -12097,9 +12446,12 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["date"] = "21:52 04/06/25",
+["time"] = 1749066775,
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1749666543,
+["elapsed"] = 179.75,
 ["DAMAGER"] = {
 ["Cretino"] = {
 ["total"] = 443341350,
@@ -12136,25 +12488,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 679.625,
 ["classId"] = 2,
 },
-["Passeridae"] = {
-["total"] = 363472094,
-["itemLevel"] = 653.0625,
-["classId"] = 12,
+["Angri"] = {
+["total"] = 334670212,
+["itemLevel"] = 669.375,
+["classId"] = 3,
 },
 ["Tiekenei"] = {
 ["total"] = 444468041,
 ["itemLevel"] = 669.3125,
 ["classId"] = 7,
 },
-["Angri"] = {
-["total"] = 334670212,
-["itemLevel"] = 669.375,
-["classId"] = 3,
+["Passeridae"] = {
+["total"] = 363472094,
+["itemLevel"] = 653.0625,
+["classId"] = 12,
 },
 },
-["time"] = 1749666543,
-["date"] = "20:29 11/06/25",
-["elapsed"] = 179.75,
 ["servertime"] = 1749666542,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -12168,11 +12517,26 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:29 11/06/25",
 },
 {
-["date"] = "20:39 18/06/25",
+["time"] = 1750271994,
 ["guild"] = "Nox Terra",
+["elapsed"] = 187.9080000000249,
+["date"] = "20:39 18/06/25",
+["servertime"] = 1750271995,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 400514599,
+["itemLevel"] = 680.4375,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 253521089,
+["itemLevel"] = 651.3125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Cretino"] = {
 ["total"] = 362755697,
@@ -12209,41 +12573,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 681.0625,
 ["classId"] = 2,
 },
-["Misbaksel"] = {
-["total"] = 387762553,
-["itemLevel"] = 669.375,
-["classId"] = 3,
+["Potdisc"] = {
+["total"] = 458146304,
+["itemLevel"] = 675.5625,
+["classId"] = 5,
 },
 ["Passeridae"] = {
 ["total"] = 361484358,
 ["itemLevel"] = 656.6875,
 ["classId"] = 12,
 },
-["Potdisc"] = {
-["total"] = 458146304,
-["itemLevel"] = 675.5625,
-["classId"] = 5,
+["Misbaksel"] = {
+["total"] = 387762553,
+["itemLevel"] = 669.375,
+["classId"] = 3,
 },
 },
-["elapsed"] = 187.9080000000249,
-["servertime"] = 1750271995,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 400514599,
-["itemLevel"] = 680.4375,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 253521089,
-["itemLevel"] = 651.3125,
-["classId"] = 5,
-},
-},
-["time"] = 1750271994,
 },
 {
-["date"] = "21:02 16/07/25",
+["time"] = 1752692550,
 ["guild"] = "Nox Terra",
+["elapsed"] = 215.560999999987,
+["date"] = "21:02 16/07/25",
+["servertime"] = 1752692550,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 404598970,
+["itemLevel"] = 677,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 370708095,
+["itemLevel"] = 682.25,
+["classId"] = 2,
+},
+},
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 230524382,
@@ -12265,1315 +12629,39 @@ DetailsDataStorage = {
 ["itemLevel"] = 678.1875,
 ["classId"] = 4,
 },
-["Garrandor"] = {
-["total"] = 486797317,
-["itemLevel"] = 670.5,
-["classId"] = 3,
+["Shkia"] = {
+["total"] = 437576257,
+["itemLevel"] = 674.125,
+["classId"] = 9,
 },
 ["Angri"] = {
 ["total"] = 366706496,
 ["itemLevel"] = 677.5,
 ["classId"] = 3,
 },
-["Shkia"] = {
-["total"] = 437576257,
-["itemLevel"] = 674.125,
-["classId"] = 9,
-},
-},
-["elapsed"] = 215.560999999987,
-["servertime"] = 1752692550,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 404598970,
-["itemLevel"] = 677,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 370708095,
-["itemLevel"] = 682.25,
-["classId"] = 2,
-},
-},
-["time"] = 1752692550,
-},
-},
-[3131] = {
-{
-["time"] = 1755461814,
-["guild"] = "Nox Terra",
-["elapsed"] = 414.7099999999919,
-["date"] = "22:16 17/08/25",
-["servertime"] = 1755461814,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 1057845014,
-["itemLevel"] = 685,
-["classId"] = 2,
-},
-["Cidney"] = {
-["total"] = 1447772339,
-["itemLevel"] = 687.25,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Klanky"] = {
-["total"] = 1310280671,
-["itemLevel"] = 685.5625,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 833187745,
-["itemLevel"] = 679.4375,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 553182729,
-["itemLevel"] = 685.125,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 772433469,
-["itemLevel"] = 686.4375,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 611859991,
-["itemLevel"] = 687.625,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 1235388227,
-["itemLevel"] = 696.0666666666667,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 1028872018,
-["itemLevel"] = 688.5625,
-["classId"] = 5,
-},
-["Beorrn"] = {
-["total"] = 932275044,
-["itemLevel"] = 687.75,
-["classId"] = 11,
-},
-["Barrow"] = {
-["total"] = 832352336,
-["itemLevel"] = 687.75,
-["classId"] = 11,
-},
-["Cretino"] = {
-["total"] = 1182016858,
-["itemLevel"] = 684.5,
-["classId"] = 4,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1290813299,
-["itemLevel"] = 702.9375,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 1111137575,
-["itemLevel"] = 700.5,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 996917247,
-["itemLevel"] = 697.6875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 447690901,
-["itemLevel"] = 693,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 932083776,
-["itemLevel"] = 695.875,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 1032432889,
-["itemLevel"] = 706.3125,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 1279630645,
-["itemLevel"] = 698.9375,
-["classId"] = 5,
-},
-["Tiekenei"] = {
-["total"] = 1113890674,
-["itemLevel"] = 700.625,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 1184527971,
-["itemLevel"] = 705.8125,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 858130655,
-["itemLevel"] = 699.625,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 345602783,
-["itemLevel"] = 700.1875,
-["classId"] = 12,
-},
-["Beorrn"] = {
-["total"] = 1235228654,
-["itemLevel"] = 702.375,
-["classId"] = 11,
-},
-},
-["time"] = 1756323950,
-["date"] = "21:45 27/08/25",
-["elapsed"] = 275.1080000000002,
-["servertime"] = 1756323949,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 708657215,
-["itemLevel"] = 695.3125,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 917625364,
-["itemLevel"] = 687.875,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 952773572,
-["itemLevel"] = 696.75,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["date"] = "21:45 03/09/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 1253448316,
-["itemLevel"] = 709,
-["classId"] = 12,
-},
-["Tbonem"] = {
-["total"] = 1117186854,
-["itemLevel"] = 709.1875,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 1071890073,
-["itemLevel"] = 704.1875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 630991556,
-["itemLevel"] = 701.6875,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 1105713965,
-["itemLevel"] = 699.5,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 1214064660,
-["itemLevel"] = 710.875,
-["classId"] = 6,
-},
-["Benosan"] = {
-["total"] = 814689404,
-["itemLevel"] = 708.6875,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 1235607975,
-["itemLevel"] = 705.6875,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 1145509940,
-["itemLevel"] = 706.625,
-["classId"] = 11,
-},
-["Oplichter"] = {
-["total"] = 40428713,
-["itemLevel"] = 700.5625,
-["classId"] = 2,
-},
-["Shkia"] = {
-["total"] = 1037864269,
-["itemLevel"] = 701.875,
-["classId"] = 9,
-},
-["Klanky"] = {
-["total"] = 540968971,
-["itemLevel"] = 704.75,
-["classId"] = 3,
-},
-["Bellætrix"] = {
-["total"] = 823657297,
-["itemLevel"] = 691.3125,
-["classId"] = 9,
-},
-["Sparrowbeast"] = {
-["total"] = 1430711567,
-["itemLevel"] = 709,
-["classId"] = 7,
-},
-},
-["elapsed"] = 281.3769999999786,
-["servertime"] = 1756928701,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 778566204,
-["itemLevel"] = 698.8125,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 1093703167,
-["itemLevel"] = 701.9375,
-["classId"] = 13,
-},
-["Potdisc"] = {
-["total"] = 1115073072,
-["itemLevel"] = 703.3125,
-["classId"] = 5,
-},
-},
-["time"] = 1756928702,
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1177586714,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 1057804224,
-["itemLevel"] = 711.25,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 929764595,
-["itemLevel"] = 703.1875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 541602751,
-["itemLevel"] = 703.0625,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 822156755,
-["itemLevel"] = 700.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 598675295,
-["itemLevel"] = 711.5,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 1139283509,
-["itemLevel"] = 711.625,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 883593289,
-["itemLevel"] = 710.8666666666667,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 982825280,
-["itemLevel"] = 705.625,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 1072663956,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 1014264130,
-["itemLevel"] = 706.1875,
-["classId"] = 4,
-},
-["Angri"] = {
-["total"] = 722304009,
-["itemLevel"] = 702.8125,
+["Garrandor"] = {
+["total"] = 486797317,
+["itemLevel"] = 670.5,
 ["classId"] = 3,
 },
 },
-["time"] = 1757532102,
-["date"] = "21:21 10/09/25",
-["elapsed"] = 216.8580000000075,
-["servertime"] = 1757532101,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 696588486,
-["itemLevel"] = 702.75,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 873692509,
-["itemLevel"] = 705.0625,
-["classId"] = 13,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1284815173,
-["itemLevel"] = 712.1875,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 1119089068,
-["itemLevel"] = 710.1875,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 911768311,
-["itemLevel"] = 709.25,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 570890414,
-["itemLevel"] = 706.8125,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 820915087,
-["itemLevel"] = 706.4666666666667,
-["classId"] = 3,
-},
-["Tbonem"] = {
-["total"] = 1143634076,
-["itemLevel"] = 712.625,
-["classId"] = 8,
-},
-["Benosan"] = {
-["total"] = 683101819,
-["itemLevel"] = 713.0625,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 950153145,
-["itemLevel"] = 711.8125,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 936174405,
-["itemLevel"] = 712.8125,
-["classId"] = 11,
-},
-["Velion"] = {
-["total"] = 1038946747,
-["itemLevel"] = 712.4375,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 932787365,
-["itemLevel"] = 707.375,
-["classId"] = 5,
-},
-["Shkia"] = {
-["total"] = 790521883,
-["itemLevel"] = 704.25,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 881828975,
-["itemLevel"] = 701.8125,
-["classId"] = 9,
-},
-["Garadh"] = {
-["total"] = 1113241818,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-},
-["time"] = 1758132900,
-["date"] = "20:15 17/09/25",
-["elapsed"] = 214.7869999999966,
-["servertime"] = 1758132900,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 539210598,
-["itemLevel"] = 703,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 784123225,
-["itemLevel"] = 707.25,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 671948711,
-["itemLevel"] = 705.625,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["time"] = 1758737899,
-["guild"] = "Nox Terra",
-["elapsed"] = 204.2719999999972,
-["date"] = "20:18 24/09/25",
-["servertime"] = 1758737898,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 663217500,
-["itemLevel"] = 707.5625,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 842560094,
-["itemLevel"] = 710.1875,
-["classId"] = 13,
-},
-["Oplichter"] = {
-["total"] = 423065698,
-["itemLevel"] = 706.5625,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 1043981783,
-["itemLevel"] = 712.6875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 1097233613,
-["itemLevel"] = 711.125,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 1064023119,
-["itemLevel"] = 712.0625,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 519819701,
-["itemLevel"] = 708.8125,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 810614189,
-["itemLevel"] = 708.4375,
-["classId"] = 3,
-},
-["Bellætrix"] = {
-["total"] = 842339826,
-["itemLevel"] = 707.375,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 626019701,
-["itemLevel"] = 714.5,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 984152777,
-["itemLevel"] = 712.625,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 828708428,
-["itemLevel"] = 712.875,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 977730571,
-["itemLevel"] = 711.375,
-["classId"] = 5,
-},
-["Tbonem"] = {
-["total"] = 1143091976,
-["itemLevel"] = 714.0625,
-["classId"] = 8,
-},
-["Beorrn"] = {
-["total"] = 1007624969,
-["itemLevel"] = 707,
-["classId"] = 11,
-},
-["Sparrowbeast"] = {
-["total"] = 1153516495,
-["itemLevel"] = 713.375,
-["classId"] = 7,
-},
-["Velion"] = {
-["total"] = 1227902022,
-["itemLevel"] = 715.8125,
-["classId"] = 6,
-},
-},
-},
-{
-["date"] = "20:23 01/10/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1199081401,
-["itemLevel"] = 713.375,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 1117307910,
-["itemLevel"] = 715.25,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 968104771,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 547853833,
-["itemLevel"] = 712.5625,
-["classId"] = 1,
-},
-["Benosan"] = {
-["total"] = 618952525,
-["itemLevel"] = 715.4375,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 1047323248,
-["itemLevel"] = 716.25,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 952061851,
-["itemLevel"] = 712.9375,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 1041331646,
-["itemLevel"] = 715.3125,
-["classId"] = 12,
-},
-["Barrow"] = {
-["total"] = 751049483,
-["itemLevel"] = 715.25,
-["classId"] = 11,
-},
-["Beorrn"] = {
-["total"] = 1060229237,
-["itemLevel"] = 708.4375,
-["classId"] = 11,
-},
-},
-["elapsed"] = 207.3349999999991,
-["servertime"] = 1759342991,
-["HEALER"] = {
-["Khalheessi"] = {
-["total"] = 640992350,
-["itemLevel"] = 710.375,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 716014582,
-["itemLevel"] = 711.875,
-["classId"] = 2,
-},
-},
-["time"] = 1759342993,
-},
-{
-["DAMAGER"] = {
-["Tbonem"] = {
-["total"] = 1222683194,
-["itemLevel"] = 715.625,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 1036509770,
-["itemLevel"] = 707.625,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 559773081,
-["itemLevel"] = 714.75,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 814814135,
-["itemLevel"] = 707.9375,
-["classId"] = 9,
-},
-["Benó"] = {
-["total"] = 647386214,
-["itemLevel"] = 712.4375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 1028314860,
-["itemLevel"] = 716.6875,
-["classId"] = 11,
-},
-["Klanky"] = {
-["total"] = 983938915,
-["itemLevel"] = 711.875,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 1021037043,
-["itemLevel"] = 718.375,
-["classId"] = 6,
-},
-["Angri"] = {
-["total"] = 828647549,
-["itemLevel"] = 711.8666666666667,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 945377801,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-},
-["time"] = 1759947504,
-["date"] = "20:18 08/10/25",
-["elapsed"] = 225.2419999999984,
-["servertime"] = 1759947503,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 809264379,
-["itemLevel"] = 712.375,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 766998007,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1760551990,
-["elapsed"] = 199.2069999999994,
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1266173884,
-["itemLevel"] = 718.75,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 878530009,
-["itemLevel"] = 714.5625,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 1057237906,
-["itemLevel"] = 715.25,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 524811292,
-["itemLevel"] = 0,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 716819975,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 1142778038,
-["itemLevel"] = 719.25,
-["classId"] = 6,
-},
-["Benó"] = {
-["total"] = 598757595,
-["itemLevel"] = 714.625,
-["classId"] = 6,
-},
-["Shkia"] = {
-["total"] = 756906754,
-["itemLevel"] = 708,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 760485339,
-["itemLevel"] = 711.5625,
-["classId"] = 9,
-},
-["Tbonem"] = {
-["total"] = 1034323212,
-["itemLevel"] = 718.25,
-["classId"] = 8,
-},
-["Tiekenei"] = {
-["total"] = 1120586500,
-["itemLevel"] = 715.9375,
-["classId"] = 7,
-},
-["Garadh"] = {
-["total"] = 950206751,
-["itemLevel"] = 715.5,
-["classId"] = 12,
-},
-},
-["servertime"] = 1760551987,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 782328857,
-["itemLevel"] = 713.875,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 767044790,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["date"] = "20:13 15/10/25",
-},
-},
-[3134] = {
-{
-["date"] = "23:05 03/09/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 2031734744,
-["itemLevel"] = 709,
-["classId"] = 12,
-},
-["Tbonem"] = {
-["total"] = 2010061796,
-["itemLevel"] = 708.75,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 1525295717,
-["itemLevel"] = 704.8125,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 880451278,
-["itemLevel"] = 701.6875,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 1379064438,
-["itemLevel"] = 699.3125,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 1274136320,
-["itemLevel"] = 708.6875,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 2086568152,
-["itemLevel"] = 710.6875,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 903240247,
-["itemLevel"] = 706.625,
-["classId"] = 11,
-},
-["Tiekenei"] = {
-["total"] = 1938892302,
-["itemLevel"] = 705.6875,
-["classId"] = 7,
-},
-["Oplichter"] = {
-["total"] = 1609008861,
-["itemLevel"] = 700.5625,
-["classId"] = 2,
-},
-["Klanky"] = {
-["total"] = 1560547621,
-["itemLevel"] = 704.75,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 1709334253,
-["itemLevel"] = 701.875,
-["classId"] = 9,
-},
-["Sparrowbeast"] = {
-["total"] = 2003980956,
-["itemLevel"] = 709,
-["classId"] = 7,
-},
-},
-["elapsed"] = 421.9230000000098,
-["servertime"] = 1756933545,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 1384354483,
-["itemLevel"] = 698.8125,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 1449152009,
-["itemLevel"] = 701.9375,
-["classId"] = 13,
-},
-["Potdisc"] = {
-["total"] = 1584043636,
-["itemLevel"] = 702.0625,
-["classId"] = 5,
-},
-},
-["time"] = 1756933546,
-},
-{
-["date"] = "20:17 14/09/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1827793687,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 1505786289,
-["itemLevel"] = 711.25,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 1157623320,
-["itemLevel"] = 706.8125,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 1036906135,
-["itemLevel"] = 706.0625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 1063224034,
-["itemLevel"] = 703.875,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 1183053185,
-["itemLevel"] = 713.0625,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 1823695970,
-["itemLevel"] = 710.4375,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 1571570643,
-["itemLevel"] = 712.625,
-["classId"] = 11,
-},
-["Velion"] = {
-["total"] = 1789995732,
-["itemLevel"] = 712.8125,
-["classId"] = 6,
-},
-["Garadh"] = {
-["total"] = 1963804739,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Potdisc"] = {
-["total"] = 1766349356,
-["itemLevel"] = 704.375,
-["classId"] = 5,
-},
-["Klanky"] = {
-["total"] = 1393753566,
-["itemLevel"] = 706.5625,
-["classId"] = 3,
-},
-},
-["elapsed"] = 377.9690000000001,
-["servertime"] = 1757873822,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 1272272348,
-["itemLevel"] = 703,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 1724404665,
-["itemLevel"] = 705.875,
-["classId"] = 13,
-},
-},
-["time"] = 1757873822,
-},
-{
-["time"] = 1758137044,
-["guild"] = "Nox Terra",
-["elapsed"] = 350.7379999999976,
-["date"] = "21:24 17/09/25",
-["servertime"] = 1758137044,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 957896728,
-["itemLevel"] = 704.4375,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 1671880097,
-["itemLevel"] = 707.625,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 920842753,
-["itemLevel"] = 705.625,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1891589419,
-["itemLevel"] = 712.1875,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 1623859561,
-["itemLevel"] = 710.1875,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 1763371399,
-["itemLevel"] = 708.9375,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 1087315852,
-["itemLevel"] = 706.4375,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 1392773382,
-["itemLevel"] = 706.3125,
-["classId"] = 3,
-},
-["Garadh"] = {
-["total"] = 1674069410,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Benosan"] = {
-["total"] = 1179644530,
-["itemLevel"] = 713.4375,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 1852668953,
-["itemLevel"] = 711.8125,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 1539217847,
-["itemLevel"] = 712.8125,
-["classId"] = 11,
-},
-["Bellætrix"] = {
-["total"] = 748103528,
-["itemLevel"] = 702.25,
-["classId"] = 9,
-},
-["Shkia"] = {
-["total"] = 1607906005,
-["itemLevel"] = 704.25,
-["classId"] = 9,
-},
-["Potdisc"] = {
-["total"] = 1916552801,
-["itemLevel"] = 707.1875,
-["classId"] = 5,
-},
-["Velion"] = {
-["total"] = 2021784997,
-["itemLevel"] = 712.8125,
-["classId"] = 6,
-},
-["Tbonem"] = {
-["total"] = 1981461630,
-["itemLevel"] = 712.1333333333333,
-["classId"] = 8,
-},
-},
-},
-{
-["time"] = 1758742274,
-["guild"] = "Nox Terra",
-["elapsed"] = 354.0750000000044,
-["date"] = "21:31 24/09/25",
-["servertime"] = 1758742274,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 1058260663,
-["itemLevel"] = 707.5625,
-["classId"] = 2,
-},
-["Oplichter"] = {
-["total"] = 629790124,
-["itemLevel"] = 707.625,
-["classId"] = 2,
-},
-["Potdisc"] = {
-["total"] = 1380728053,
-["itemLevel"] = 711.375,
-["classId"] = 5,
-},
-["Khalheessi"] = {
-["total"] = 1189512008,
-["itemLevel"] = 710.1875,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 2020836598,
-["itemLevel"] = 712.6875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 1734729502,
-["itemLevel"] = 711.5,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 1722262025,
-["itemLevel"] = 712.0625,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 932468188,
-["itemLevel"] = 709.625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 1551638228,
-["itemLevel"] = 708.25,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 1316392521,
-["itemLevel"] = 714.5,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 2110613845,
-["itemLevel"] = 715.8125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 1636849598,
-["itemLevel"] = 712.875,
-["classId"] = 11,
-},
-["Bellætrix"] = {
-["total"] = 1505107806,
-["itemLevel"] = 707.1875,
-["classId"] = 9,
-},
-["Tbonem"] = {
-["total"] = 2110548498,
-["itemLevel"] = 714.0625,
-["classId"] = 8,
-},
-["Beorrn"] = {
-["total"] = 1540886385,
-["itemLevel"] = 707,
-["classId"] = 11,
-},
-["Sparrowbeast"] = {
-["total"] = 1940297302,
-["itemLevel"] = 713.375,
-["classId"] = 7,
-},
-["Tiekenei"] = {
-["total"] = 1809955161,
-["itemLevel"] = 712.625,
-["classId"] = 7,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Tbonem"] = {
-["total"] = 2111787510,
-["itemLevel"] = 715.625,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 1444482504,
-["itemLevel"] = 707.0625,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 1066980871,
-["itemLevel"] = 714.75,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 1155792528,
-["itemLevel"] = 707.9375,
-["classId"] = 9,
-},
-["Velion"] = {
-["total"] = 1878996053,
-["itemLevel"] = 718.375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 1613335287,
-["itemLevel"] = 716.6875,
-["classId"] = 11,
-},
-["Angri"] = {
-["total"] = 1502282572,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-["Klanky"] = {
-["total"] = 1574354510,
-["itemLevel"] = 711.875,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 1662249619,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Benó"] = {
-["total"] = 1180034070,
-["itemLevel"] = 712.4375,
-["classId"] = 6,
-},
-},
-["time"] = 1759952759,
-["date"] = "21:45 08/10/25",
-["elapsed"] = 325.7400000000052,
-["servertime"] = 1759952758,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 1147286072,
-["itemLevel"] = 712.375,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 1079743689,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1760555351,
-["elapsed"] = 309.3299999999999,
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1806781140,
-["itemLevel"] = 718.75,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 1576623982,
-["itemLevel"] = 714.5625,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 1554721773,
-["itemLevel"] = 715.25,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 905874410,
-["itemLevel"] = 0,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 1462627920,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 1802848989,
-["itemLevel"] = 719.25,
-["classId"] = 6,
-},
-["Benó"] = {
-["total"] = 996937071,
-["itemLevel"] = 714.4375,
-["classId"] = 6,
-},
-["Shkia"] = {
-["total"] = 1228214678,
-["itemLevel"] = 707.1875,
-["classId"] = 9,
-},
-["Tbonem"] = {
-["total"] = 2023077746,
-["itemLevel"] = 718.25,
-["classId"] = 8,
-},
-["Tiekenei"] = {
-["total"] = 1643343694,
-["itemLevel"] = 715.9375,
-["classId"] = 7,
-},
-["Garadh"] = {
-["total"] = 1611046258,
-["itemLevel"] = 715.5,
-["classId"] = 12,
-},
-},
-["servertime"] = 1760555348,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 1282216780,
-["itemLevel"] = 714.3125,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 1061188397,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["date"] = "21:09 15/10/25",
 },
 },
 [3014] = {
 {
+["guild"] = "Nox Terra",
+["time"] = 1744830052,
+["elapsed"] = 314.3179999999993,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 632462719,
 ["itemLevel"] = 665.625,
 ["classId"] = 7,
 },
-["Bellætrix"] = {
-["total"] = 513782348,
-["itemLevel"] = 660,
-["classId"] = 9,
+["Beorrn"] = {
+["total"] = 484061025,
+["itemLevel"] = 666.375,
+["classId"] = 11,
 },
 ["Klanky"] = {
 ["total"] = 528045661,
@@ -13590,30 +12678,35 @@ DetailsDataStorage = {
 ["itemLevel"] = 661.3125,
 ["classId"] = 1,
 },
-["Angri"] = {
-["total"] = 237194319,
-["itemLevel"] = 658.3125,
-["classId"] = 3,
+["Bellætrix"] = {
+["total"] = 513782348,
+["itemLevel"] = 660,
+["classId"] = 9,
 },
-["Strathlor"] = {
-["total"] = 492038539,
-["itemLevel"] = 662.875,
-["classId"] = 8,
+["Tiekenei"] = {
+["total"] = 685285244,
+["itemLevel"] = 662.125,
+["classId"] = 7,
 },
 ["Benosan"] = {
 ["total"] = 399380889,
 ["itemLevel"] = 663.3125,
 ["classId"] = 10,
 },
-["Beorrn"] = {
-["total"] = 484061025,
-["itemLevel"] = 666.375,
-["classId"] = 11,
+["Vynarth"] = {
+["total"] = 555944566,
+["itemLevel"] = 661.5625,
+["classId"] = 4,
 },
-["Potdisc"] = {
-["total"] = 640336015,
-["itemLevel"] = 665.375,
-["classId"] = 5,
+["Strathlor"] = {
+["total"] = 492038539,
+["itemLevel"] = 662.875,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 618596872,
+["itemLevel"] = 661.5625,
+["classId"] = 9,
 },
 ["Shambone"] = {
 ["total"] = 606487536,
@@ -13625,25 +12718,17 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.625,
 ["classId"] = 2,
 },
-["Shkia"] = {
-["total"] = 618596872,
-["itemLevel"] = 661.5625,
-["classId"] = 9,
+["Potdisc"] = {
+["total"] = 640336015,
+["itemLevel"] = 665.375,
+["classId"] = 5,
 },
-["Vynarth"] = {
-["total"] = 555944566,
-["itemLevel"] = 661.5625,
-["classId"] = 4,
-},
-["Tiekenei"] = {
-["total"] = 685285244,
-["itemLevel"] = 662.125,
-["classId"] = 7,
+["Angri"] = {
+["total"] = 237194319,
+["itemLevel"] = 658.3125,
+["classId"] = 3,
 },
 },
-["time"] = 1744830052,
-["date"] = "21:00 16/04/25",
-["elapsed"] = 314.3179999999993,
 ["servertime"] = 1744830050,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -13657,11 +12742,31 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "21:00 16/04/25",
 },
 {
-["date"] = "21:15 23/04/25",
+["time"] = 1745435731,
 ["guild"] = "Nox Terra",
+["elapsed"] = 296.4590000000317,
+["date"] = "21:15 23/04/25",
+["servertime"] = 1745435731,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 579045480,
+["itemLevel"] = 662.875,
+["classId"] = 2,
+},
+["Shaolheen"] = {
+["total"] = 585814031,
+["itemLevel"] = 670.0625,
+["classId"] = 10,
+},
+["Barrow"] = {
+["total"] = 334618828,
+["itemLevel"] = 649.8125,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Klanky"] = {
 ["total"] = 662907970,
@@ -13703,47 +12808,26 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.625,
 ["classId"] = 2,
 },
-["Cretino"] = {
-["total"] = 648874909,
-["itemLevel"] = 650.875,
-["classId"] = 4,
+["Beorrn"] = {
+["total"] = 702867509,
+["itemLevel"] = 667.625,
+["classId"] = 11,
 },
 ["Shambone"] = {
 ["total"] = 665611657,
 ["itemLevel"] = 667.0625,
 ["classId"] = 7,
 },
-["Beorrn"] = {
-["total"] = 702867509,
-["itemLevel"] = 667.625,
-["classId"] = 11,
+["Cretino"] = {
+["total"] = 648874909,
+["itemLevel"] = 650.875,
+["classId"] = 4,
 },
 },
-["elapsed"] = 296.4590000000317,
-["servertime"] = 1745435731,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 579045480,
-["itemLevel"] = 662.875,
-["classId"] = 2,
-},
-["Shaolheen"] = {
-["total"] = 585814031,
-["itemLevel"] = 670.0625,
-["classId"] = 10,
-},
-["Barrow"] = {
-["total"] = 334618828,
-["itemLevel"] = 649.8125,
-["classId"] = 11,
-},
-},
-["time"] = 1745435731,
 },
 {
+["date"] = "21:13 30/04/25",
 ["guild"] = "Nox Terra",
-["time"] = 1746040424,
-["elapsed"] = 311.9680000000517,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 786121119,
@@ -13790,17 +12874,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 665.8,
 ["classId"] = 2,
 },
-["Angri"] = {
-["total"] = 396388379,
-["itemLevel"] = 661.6875,
-["classId"] = 3,
-},
 ["Bellætrix"] = {
 ["total"] = 562425932,
 ["itemLevel"] = 664.3125,
 ["classId"] = 9,
 },
+["Angri"] = {
+["total"] = 396388379,
+["itemLevel"] = 661.6875,
+["classId"] = 3,
 },
+},
+["elapsed"] = 311.9680000000517,
 ["servertime"] = 1746040424,
 ["HEALER"] = {
 ["Cidney"] = {
@@ -13819,11 +12904,31 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["date"] = "21:13 30/04/25",
+["time"] = 1746040424,
 },
 {
-["date"] = "20:56 07/05/25",
+["time"] = 1746644185,
 ["guild"] = "Nox Terra",
+["elapsed"] = 278.6720000000059,
+["date"] = "20:56 07/05/25",
+["servertime"] = 1746644183,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 461531754,
+["itemLevel"] = 664.6875,
+["classId"] = 2,
+},
+["Nitenurse"] = {
+["total"] = 540207258,
+["itemLevel"] = 657,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 549511354,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 779928745,
@@ -13850,10 +12955,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.1875,
 ["classId"] = 3,
 },
-["Bellætrix"] = {
-["total"] = 544257818,
-["itemLevel"] = 665.875,
-["classId"] = 9,
+["Angri"] = {
+["total"] = 407360945,
+["itemLevel"] = 663.125,
+["classId"] = 3,
 },
 ["Benosan"] = {
 ["total"] = 372237186,
@@ -13870,10 +12975,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 658.6875,
 ["classId"] = 11,
 },
-["Shkia"] = {
-["total"] = 513682189,
-["itemLevel"] = 664.25,
-["classId"] = 9,
+["Shambone"] = {
+["total"] = 619675198,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
 },
 ["Garanddor"] = {
 ["total"] = 649223264,
@@ -13885,61 +12990,19 @@ DetailsDataStorage = {
 ["itemLevel"] = 666.7333333333333,
 ["classId"] = 2,
 },
-["Shambone"] = {
-["total"] = 619675198,
-["itemLevel"] = 667.0625,
-["classId"] = 7,
+["Shkia"] = {
+["total"] = 513682189,
+["itemLevel"] = 664.25,
+["classId"] = 9,
 },
-["Angri"] = {
-["total"] = 407360945,
-["itemLevel"] = 663.125,
-["classId"] = 3,
-},
-},
-["elapsed"] = 278.6720000000059,
-["servertime"] = 1746644183,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 461531754,
-["itemLevel"] = 664.6875,
-["classId"] = 2,
-},
-["Nitenurse"] = {
-["total"] = 540207258,
-["itemLevel"] = 657,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 549511354,
-["itemLevel"] = 665.8125,
-["classId"] = 5,
+["Bellætrix"] = {
+["total"] = 544257818,
+["itemLevel"] = 665.875,
+["classId"] = 9,
 },
 },
-["time"] = 1746644185,
 },
 {
-["time"] = 1747248553,
-["guild"] = "Nox Terra",
-["elapsed"] = 282.8439999999828,
-["date"] = "20:49 14/05/25",
-["servertime"] = 1747248553,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 467815206,
-["itemLevel"] = 668.5,
-["classId"] = 2,
-},
-["Discotonic"] = {
-["total"] = 351356651,
-["itemLevel"] = 643.9375,
-["classId"] = 5,
-},
-["Potdisc"] = {
-["total"] = 610208924,
-["itemLevel"] = 668.625,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 705424541,
@@ -13976,34 +13039,59 @@ DetailsDataStorage = {
 ["itemLevel"] = 662.8125,
 ["classId"] = 11,
 },
-["Misbaksel"] = {
-["total"] = 480020986,
-["itemLevel"] = 662.8125,
-["classId"] = 3,
+["Bellætrix"] = {
+["total"] = 507846705,
+["itemLevel"] = 667.0625,
+["classId"] = 9,
 },
 ["Garanddor"] = {
 ["total"] = 802843088,
 ["itemLevel"] = 676.5625,
 ["classId"] = 2,
 },
-["Beorrn"] = {
-["total"] = 714691709,
-["itemLevel"] = 671.3125,
-["classId"] = 11,
-},
 ["Shkia"] = {
 ["total"] = 601614887,
 ["itemLevel"] = 666.6875,
 ["classId"] = 9,
 },
-["Bellætrix"] = {
-["total"] = 507846705,
-["itemLevel"] = 667.0625,
-["classId"] = 9,
+["Beorrn"] = {
+["total"] = 714691709,
+["itemLevel"] = 671.3125,
+["classId"] = 11,
+},
+["Misbaksel"] = {
+["total"] = 480020986,
+["itemLevel"] = 662.8125,
+["classId"] = 3,
 },
 },
+["time"] = 1747248553,
+["date"] = "20:49 14/05/25",
+["elapsed"] = 282.8439999999828,
+["servertime"] = 1747248553,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 467815206,
+["itemLevel"] = 668.5,
+["classId"] = 2,
+},
+["Discotonic"] = {
+["total"] = 351356651,
+["itemLevel"] = 643.9375,
+["classId"] = 5,
+},
+["Potdisc"] = {
+["total"] = 610208924,
+["itemLevel"] = 668.625,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1747860018,
+["elapsed"] = 234.7680000000401,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
 ["total"] = 684611983,
@@ -14045,20 +13133,17 @@ DetailsDataStorage = {
 ["itemLevel"] = 678.5,
 ["classId"] = 2,
 },
-["Shkia"] = {
-["total"] = 519593646,
-["itemLevel"] = 667.875,
-["classId"] = 9,
-},
 ["Beorrn"] = {
 ["total"] = 610352946,
 ["itemLevel"] = 671.875,
 ["classId"] = 11,
 },
+["Shkia"] = {
+["total"] = 519593646,
+["itemLevel"] = 667.875,
+["classId"] = 9,
 },
-["time"] = 1747860018,
-["date"] = "22:40 21/05/25",
-["elapsed"] = 234.7680000000401,
+},
 ["servertime"] = 1747860018,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -14072,12 +13157,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "22:40 21/05/25",
 },
 {
+["date"] = "21:59 04/06/25",
 ["guild"] = "Nox Terra",
-["time"] = 1749067184,
-["elapsed"] = 245.2199999999975,
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 405017764,
@@ -14120,6 +13204,7 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["elapsed"] = 245.2199999999975,
 ["servertime"] = 1749067182,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -14133,9 +13218,12 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["date"] = "21:59 04/06/25",
+["time"] = 1749067184,
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1749666967,
+["elapsed"] = 212.5650000000605,
 ["DAMAGER"] = {
 ["Cretino"] = {
 ["total"] = 487440180,
@@ -14172,25 +13260,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 679.625,
 ["classId"] = 2,
 },
-["Passeridae"] = {
-["total"] = 463333880,
-["itemLevel"] = 653.0625,
-["classId"] = 12,
+["Angri"] = {
+["total"] = 324848253,
+["itemLevel"] = 669.375,
+["classId"] = 3,
 },
 ["Tiekenei"] = {
 ["total"] = 545029347,
 ["itemLevel"] = 669.3125,
 ["classId"] = 7,
 },
-["Angri"] = {
-["total"] = 324848253,
-["itemLevel"] = 669.375,
-["classId"] = 3,
+["Passeridae"] = {
+["total"] = 463333880,
+["itemLevel"] = 653.0625,
+["classId"] = 12,
 },
 },
-["time"] = 1749666967,
-["date"] = "20:36 11/06/25",
-["elapsed"] = 212.5650000000605,
 ["servertime"] = 1749666967,
 ["HEALER"] = {
 ["Potdisc"] = {
@@ -14204,11 +13289,26 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Nox Terra",
+["date"] = "20:36 11/06/25",
 },
 {
-["date"] = "20:46 18/06/25",
+["time"] = 1750272371,
 ["guild"] = "Nox Terra",
+["elapsed"] = 207.9370000000054,
+["date"] = "20:46 18/06/25",
+["servertime"] = 1750272372,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 413724008,
+["itemLevel"] = 680.4375,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 298756454,
+["itemLevel"] = 651.3125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Cretino"] = {
 ["total"] = 495714976,
@@ -14245,41 +13345,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 681.0625,
 ["classId"] = 2,
 },
-["Misbaksel"] = {
-["total"] = 508163628,
-["itemLevel"] = 669.375,
-["classId"] = 3,
+["Potdisc"] = {
+["total"] = 560651652,
+["itemLevel"] = 675.5625,
+["classId"] = 5,
 },
 ["Passeridae"] = {
 ["total"] = 414909771,
 ["itemLevel"] = 657.5,
 ["classId"] = 12,
 },
-["Potdisc"] = {
-["total"] = 560651652,
-["itemLevel"] = 675.5625,
-["classId"] = 5,
+["Misbaksel"] = {
+["total"] = 508163628,
+["itemLevel"] = 669.375,
+["classId"] = 3,
 },
 },
-["elapsed"] = 207.9370000000054,
-["servertime"] = 1750272372,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 413724008,
-["itemLevel"] = 680.4375,
-["classId"] = 2,
-},
-["Asplor"] = {
-["total"] = 298756454,
-["itemLevel"] = 651.3125,
-["classId"] = 5,
-},
-},
-["time"] = 1750272371,
 },
 {
-["date"] = "21:12 16/07/25",
+["time"] = 1752693156,
 ["guild"] = "Nox Terra",
+["elapsed"] = 218.5470000000205,
+["date"] = "21:12 16/07/25",
+["servertime"] = 1752693156,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 346490870,
+["itemLevel"] = 677,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 380113766,
+["itemLevel"] = 682.25,
+["classId"] = 2,
+},
+},
 ["DAMAGER"] = {
 ["Benosan"] = {
 ["total"] = 357250605,
@@ -14301,1465 +13401,287 @@ DetailsDataStorage = {
 ["itemLevel"] = 678.1875,
 ["classId"] = 4,
 },
-["Garrandor"] = {
-["total"] = 575936719,
-["itemLevel"] = 670.5,
-["classId"] = 3,
+["Shkia"] = {
+["total"] = 485275918,
+["itemLevel"] = 674.125,
+["classId"] = 9,
 },
 ["Angri"] = {
 ["total"] = 423326967,
 ["itemLevel"] = 677.5,
 ["classId"] = 3,
 },
-["Shkia"] = {
-["total"] = 485275918,
-["itemLevel"] = 674.125,
-["classId"] = 9,
+["Garrandor"] = {
+["total"] = 575936719,
+["itemLevel"] = 670.5,
+["classId"] = 3,
 },
 },
-["elapsed"] = 218.5470000000205,
-["servertime"] = 1752693156,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 346490870,
-["itemLevel"] = 677,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 380113766,
-["itemLevel"] = 682.25,
-["classId"] = 2,
 },
 },
-["time"] = 1752693156,
-},
-},
-[3135] = {
+[3134] = {
 {
-["date"] = "22:53 14/09/25",
+["time"] = 1756933546,
 ["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 1498593998,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 1574944970,
-["itemLevel"] = 706.5625,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 1210215178,
-["itemLevel"] = 707,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 751651491,
-["itemLevel"] = 706.0625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 1375821286,
-["itemLevel"] = 703.875,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 1127248728,
-["itemLevel"] = 713.0625,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 1701061238,
-["itemLevel"] = 710.4375,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 1427139884,
-["itemLevel"] = 712.625,
-["classId"] = 11,
-},
-["Sparrowbeast"] = {
-["total"] = 1937135927,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-["Velion"] = {
-["total"] = 1586864772,
-["itemLevel"] = 712.8125,
-["classId"] = 6,
-},
-["Tbonem"] = {
-["total"] = 1308828112,
-["itemLevel"] = 711.25,
-["classId"] = 8,
-},
-},
-["elapsed"] = 498.6369999999988,
-["servertime"] = 1757883196,
+["elapsed"] = 421.9230000000098,
+["date"] = "23:05 03/09/25",
+["servertime"] = 1756933545,
 ["HEALER"] = {
 ["Cidney"] = {
-["total"] = 1242512587,
-["itemLevel"] = 703,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 1574502059,
-["itemLevel"] = 705.875,
-["classId"] = 13,
-},
-["Potdisc"] = {
-["total"] = 1688552754,
-["itemLevel"] = 705.6875,
-["classId"] = 5,
-},
-},
-["time"] = 1757883196,
-},
-{
-["time"] = 1758744221,
-["guild"] = "Nox Terra",
-["elapsed"] = 527.9040000000023,
-["date"] = "22:03 24/09/25",
-["servertime"] = 1758744221,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 1741478412,
-["itemLevel"] = 707.5625,
-["classId"] = 2,
-},
-["Oplichter"] = {
-["total"] = 1045516775,
-["itemLevel"] = 707.25,
-["classId"] = 2,
-},
-["Potdisc"] = {
-["total"] = 1871886849,
-["itemLevel"] = 711.375,
-["classId"] = 5,
-},
-["Khalheessi"] = {
-["total"] = 1705857313,
-["itemLevel"] = 710.1875,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 2149063003,
-["itemLevel"] = 713.375,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 943615777,
-["itemLevel"] = 711.5,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 1602021751,
-["itemLevel"] = 712.0625,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 926896252,
-["itemLevel"] = 709.625,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 1139867029,
-["itemLevel"] = 707.1875,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 1137040278,
-["itemLevel"] = 714.5,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 1805901301,
-["itemLevel"] = 712.625,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 1636532544,
-["itemLevel"] = 712.875,
-["classId"] = 11,
-},
-["Tbonem"] = {
-["total"] = 1964149079,
-["itemLevel"] = 714.0625,
-["classId"] = 8,
-},
-["Beorrn"] = {
-["total"] = 1204123861,
-["itemLevel"] = 707,
-["classId"] = 11,
-},
-["Velion"] = {
-["total"] = 1673758640,
-["itemLevel"] = 715.5333333333333,
-["classId"] = 6,
-},
-["Garadh"] = {
-["total"] = 1737975042,
-["itemLevel"] = 712.6875,
-["classId"] = 12,
-},
-["Angri"] = {
-["total"] = 1458652150,
-["itemLevel"] = 708.25,
-["classId"] = 3,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Tbonem"] = {
-["total"] = 1537528727,
-["itemLevel"] = 715.625,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 1234581352,
-["itemLevel"] = 707.0625,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 951141643,
-["itemLevel"] = 714.75,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 1258949988,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 1779332231,
-["itemLevel"] = 718.375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 1443536517,
-["itemLevel"] = 716.6875,
-["classId"] = 11,
-},
-["Klanky"] = {
-["total"] = 1618344388,
-["itemLevel"] = 711.875,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 1396053951,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Benó"] = {
-["total"] = 873699464,
-["itemLevel"] = 712.4375,
-["classId"] = 6,
-},
-},
-["time"] = 1759954406,
-["date"] = "22:13 08/10/25",
-["elapsed"] = 489.6350000000093,
-["servertime"] = 1759954405,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 1814046700,
-["itemLevel"] = 712.375,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 1561391609,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1760557501,
-["elapsed"] = 504.7800000000007,
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 2038691885,
-["itemLevel"] = 718.75,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 1544228091,
-["itemLevel"] = 714.5625,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 1494060183,
-["itemLevel"] = 715.25,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 992050173,
-["itemLevel"] = 0,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 1229312659,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 1885958201,
-["itemLevel"] = 719.25,
-["classId"] = 6,
-},
-["Benó"] = {
-["total"] = 921983949,
-["itemLevel"] = 714.4375,
-["classId"] = 6,
-},
-["Garadh"] = {
-["total"] = 1424536780,
-["itemLevel"] = 715.5,
-["classId"] = 12,
-},
-["Tbonem"] = {
-["total"] = 1701405667,
-["itemLevel"] = 718.25,
-["classId"] = 8,
-},
-},
-["servertime"] = 1760557498,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 1379987943,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-["Tiekenei"] = {
-["total"] = 984211388,
-["itemLevel"] = 712.625,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 1707716555,
-["itemLevel"] = 714.3125,
-["classId"] = 5,
-},
-},
-["date"] = "21:45 15/10/25",
-},
-},
-[3133] = {
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1174375048,
-["itemLevel"] = 703.5625,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 1097872087,
-["itemLevel"] = 700.5,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 809369277,
-["itemLevel"] = 697.6875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 440226955,
-["itemLevel"] = 694.625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 828672315,
-["itemLevel"] = 696.4375,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 868066681,
-["itemLevel"] = 706.3125,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 871564566,
-["itemLevel"] = 698.9375,
-["classId"] = 5,
-},
-["Tiekenei"] = {
-["total"] = 897656522,
-["itemLevel"] = 700.625,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 1146482642,
-["itemLevel"] = 705.8125,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 866564933,
-["itemLevel"] = 700.25,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 391348893,
-["itemLevel"] = 700.1875,
-["classId"] = 12,
-},
-["Beorrn"] = {
-["total"] = 1102418604,
-["itemLevel"] = 702.375,
-["classId"] = 11,
-},
-},
-["time"] = 1756327581,
-["date"] = "22:46 27/08/25",
-["elapsed"] = 272.864999999998,
-["servertime"] = 1756327580,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 543607935,
-["itemLevel"] = 696.1875,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 611405723,
-["itemLevel"] = 688.25,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 696187544,
-["itemLevel"] = 696.75,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["date"] = "22:33 03/09/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 1009763398,
-["itemLevel"] = 709,
-["classId"] = 12,
-},
-["Tbonem"] = {
-["total"] = 1042079640,
-["itemLevel"] = 708.75,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 828749003,
-["itemLevel"] = 703.625,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 485675694,
-["itemLevel"] = 701.6875,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 824486454,
-["itemLevel"] = 699.5,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 578075439,
-["itemLevel"] = 708.6875,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 1011826430,
-["itemLevel"] = 705.6875,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 878583540,
-["itemLevel"] = 706.625,
-["classId"] = 11,
-},
-["Velion"] = {
-["total"] = 925602221,
-["itemLevel"] = 710.6875,
-["classId"] = 6,
-},
-["Oplichter"] = {
-["total"] = 706507469,
-["itemLevel"] = 700.5625,
-["classId"] = 2,
-},
-["Klanky"] = {
-["total"] = 991879902,
-["itemLevel"] = 704.75,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 801164124,
-["itemLevel"] = 701.875,
-["classId"] = 9,
-},
-["Sparrowbeast"] = {
-["total"] = 1203177948,
-["itemLevel"] = 709,
-["classId"] = 7,
-},
-},
-["elapsed"] = 242.3059999999823,
-["servertime"] = 1756931597,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 466470198,
+["total"] = 1384354483,
 ["itemLevel"] = 698.8125,
 ["classId"] = 2,
 },
 ["Khalheessi"] = {
-["total"] = 575646388,
+["total"] = 1449152009,
 ["itemLevel"] = 701.9375,
 ["classId"] = 13,
 },
 ["Potdisc"] = {
-["total"] = 762404028,
+["total"] = 1584043636,
 ["itemLevel"] = 702.0625,
 ["classId"] = 5,
 },
 },
-["time"] = 1756931598,
-},
-{
-["time"] = 1757535164,
-["guild"] = "Nox Terra",
-["elapsed"] = 238.3239999999933,
-["date"] = "22:12 10/09/25",
-["servertime"] = 1757535163,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 569471616,
-["itemLevel"] = 703,
-["classId"] = 2,
-},
-["Potdisc"] = {
-["total"] = 502228941,
-["itemLevel"] = 705.4375,
-["classId"] = 5,
-},
-["Khalheessi"] = {
-["total"] = 493641528,
-["itemLevel"] = 705.0625,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Garadh"] = {
-["total"] = 1028505328,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Tbonem"] = {
-["total"] = 958282047,
-["itemLevel"] = 711.25,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 907106531,
-["itemLevel"] = 703.1875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 529322223,
-["itemLevel"] = 704.125,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 724494436,
-["itemLevel"] = 703.875,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 600328677,
-["itemLevel"] = 711.5,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 1048192130,
-["itemLevel"] = 711.625,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 854445757,
-["itemLevel"] = 711.4375,
-["classId"] = 11,
-},
-["Cretino"] = {
-["total"] = 1033516267,
-["itemLevel"] = 706.1875,
-["classId"] = 4,
-},
-["Sparrowbeast"] = {
-["total"] = 1218999918,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-},
-},
-{
-["time"] = 1758135562,
-["guild"] = "Nox Terra",
-["elapsed"] = 209.5050000000047,
-["date"] = "20:59 17/09/25",
-["servertime"] = 1758135562,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 396609205,
-["itemLevel"] = 703.625,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 523865346,
-["itemLevel"] = 707.25,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 555505285,
-["itemLevel"] = 705.625,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1091737262,
-["itemLevel"] = 712.1875,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 1023552662,
-["itemLevel"] = 709.75,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 955900898,
-["itemLevel"] = 709.6875,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 486994866,
-["itemLevel"] = 706.4375,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 724728762,
-["itemLevel"] = 706.5,
-["classId"] = 3,
-},
-["Garadh"] = {
-["total"] = 954494541,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Benosan"] = {
-["total"] = 629817135,
-["itemLevel"] = 713.0625,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 970443584,
-["itemLevel"] = 711.8125,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 942345738,
-["itemLevel"] = 712.8125,
-["classId"] = 11,
-},
-["Bellætrix"] = {
-["total"] = 749771468,
-["itemLevel"] = 701.8125,
-["classId"] = 9,
-},
-["Shkia"] = {
-["total"] = 804071973,
-["itemLevel"] = 704.25,
-["classId"] = 9,
-},
-["Potdisc"] = {
-["total"] = 827100848,
-["itemLevel"] = 707.375,
-["classId"] = 5,
-},
-["Velion"] = {
-["total"] = 942679574,
-["itemLevel"] = 712.8125,
-["classId"] = 6,
-},
-["Tbonem"] = {
-["total"] = 936179472,
-["itemLevel"] = 712.1333333333333,
-["classId"] = 8,
-},
-},
-},
-{
-["time"] = 1758740509,
-["guild"] = "Nox Terra",
-["elapsed"] = 203.9069999999992,
-["date"] = "21:01 24/09/25",
-["servertime"] = 1758740508,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 700363684,
-["itemLevel"] = 707.5625,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 665832197,
-["itemLevel"] = 710.1875,
-["classId"] = 13,
-},
-["Oplichter"] = {
-["total"] = 450437252,
-["itemLevel"] = 706.75,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 960768924,
-["itemLevel"] = 712.6875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 934282581,
-["itemLevel"] = 711.125,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 794443278,
-["itemLevel"] = 712.0625,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 538840571,
-["itemLevel"] = 709.625,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 832481998,
-["itemLevel"] = 708.25,
-["classId"] = 3,
-},
-["Bellætrix"] = {
-["total"] = 764868970,
-["itemLevel"] = 707.375,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 538553187,
-["itemLevel"] = 714.5,
-["classId"] = 10,
-},
-["Tiekenei"] = {
-["total"] = 1022208508,
-["itemLevel"] = 712.625,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 788457511,
-["itemLevel"] = 712.4,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 895988558,
-["itemLevel"] = 709.125,
-["classId"] = 5,
-},
-["Tbonem"] = {
-["total"] = 996364843,
-["itemLevel"] = 714.0625,
-["classId"] = 8,
-},
-["Beorrn"] = {
-["total"] = 976125845,
-["itemLevel"] = 707,
-["classId"] = 11,
-},
-["Sparrowbeast"] = {
-["total"] = 1110498974,
-["itemLevel"] = 713.375,
-["classId"] = 7,
-},
-["Velion"] = {
-["total"] = 896639588,
-["itemLevel"] = 715.8125,
-["classId"] = 6,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Tbonem"] = {
-["total"] = 757692783,
-["itemLevel"] = 715.625,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 836186990,
-["itemLevel"] = 707.625,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 517079850,
-["itemLevel"] = 714.75,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 733066018,
-["itemLevel"] = 707.9375,
-["classId"] = 9,
-},
-["Velion"] = {
-["total"] = 1085501450,
-["itemLevel"] = 718.375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 821410194,
-["itemLevel"] = 716.6875,
-["classId"] = 11,
-},
-["Angri"] = {
-["total"] = 732279909,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-["Klanky"] = {
-["total"] = 1033428144,
-["itemLevel"] = 711.875,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 958410806,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Benó"] = {
-["total"] = 572766071,
-["itemLevel"] = 712.4375,
-["classId"] = 6,
-},
-},
-["time"] = 1759950933,
-["date"] = "21:15 08/10/25",
-["elapsed"] = 219.7679999999964,
-["servertime"] = 1759950932,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 884407205,
-["itemLevel"] = 712.375,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 827943492,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["guild"] = "Nox Terra",
-["time"] = 1760554195,
-["elapsed"] = 181.6750000000002,
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1098951461,
-["itemLevel"] = 718.75,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 847689885,
-["itemLevel"] = 714.5625,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 916134215,
-["itemLevel"] = 715.25,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 491579540,
-["itemLevel"] = 0,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 676704966,
-["itemLevel"] = 712,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 893129600,
-["itemLevel"] = 719.25,
-["classId"] = 6,
-},
-["Benó"] = {
-["total"] = 520105489,
-["itemLevel"] = 714.625,
-["classId"] = 6,
-},
-["Shkia"] = {
-["total"] = 699142805,
-["itemLevel"] = 707.1875,
-["classId"] = 9,
-},
-["Tbonem"] = {
-["total"] = 955616692,
-["itemLevel"] = 718.25,
-["classId"] = 8,
-},
-["Tiekenei"] = {
-["total"] = 966312689,
-["itemLevel"] = 715.9375,
-["classId"] = 7,
-},
-["Garadh"] = {
-["total"] = 786463509,
-["itemLevel"] = 715.5,
-["classId"] = 12,
-},
-},
-["servertime"] = 1760554192,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 492337269,
-["itemLevel"] = 713.875,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 588593913,
-["itemLevel"] = 714.125,
-["classId"] = 2,
-},
-},
-["date"] = "20:49 15/10/25",
-},
-},
-[3129] = {
-{
-["time"] = 1755457074,
-["guild"] = "Nox Terra",
-["elapsed"] = 395.9500000000116,
-["date"] = "20:57 17/08/25",
-["servertime"] = 1755457074,
-["HEALER"] = {
-["Potdisc"] = {
-["total"] = 1192133015,
-["itemLevel"] = 687.75,
-["classId"] = 5,
-},
-["Cidney"] = {
-["total"] = 1325123528,
-["itemLevel"] = 686.4375,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Klanky"] = {
-["total"] = 1154789135,
-["itemLevel"] = 685.5625,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 810559466,
-["itemLevel"] = 679.4375,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 465941698,
-["itemLevel"] = 684.9375,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 845642039,
-["itemLevel"] = 686.4375,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 459418103,
-["itemLevel"] = 687.625,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 1010455449,
-["itemLevel"] = 696.5625,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 730281056,
-["itemLevel"] = 687.75,
-["classId"] = 11,
-},
-["Beorrn"] = {
-["total"] = 1095297823,
-["itemLevel"] = 687.75,
-["classId"] = 11,
-},
-["Oplichter"] = {
-["total"] = 719819152,
-["itemLevel"] = 687.8125,
-["classId"] = 2,
-},
-["Cretino"] = {
-["total"] = 947806367,
-["itemLevel"] = 684.5,
-["classId"] = 4,
-},
-},
-},
-{
-["time"] = 1755721842,
-["guild"] = "Nox Terra",
-["elapsed"] = 305.2480000000005,
-["date"] = "22:30 20/08/25",
-["servertime"] = 1755721842,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 655404152,
-["itemLevel"] = 689.4375,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 834931250,
-["itemLevel"] = 679.0625,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 939800333,
-["itemLevel"] = 691.875,
-["classId"] = 2,
-},
-},
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 880851170,
-["itemLevel"] = 696.1875,
-["classId"] = 12,
-},
-["Klanky"] = {
-["total"] = 956379862,
-["itemLevel"] = 690.0625,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 783759786,
-["itemLevel"] = 685.5,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 354800608,
-["itemLevel"] = 688.3125,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 812438173,
-["itemLevel"] = 690.5,
-["classId"] = 3,
-},
-["Benosan"] = {
-["total"] = 477888725,
-["itemLevel"] = 692.3125,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 948943825,
-["itemLevel"] = 700.8125,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 684781923,
-["itemLevel"] = 691.25,
-["classId"] = 11,
-},
-["Tbonem"] = {
-["total"] = 970340782,
-["itemLevel"] = 697,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 927118781,
-["itemLevel"] = 689.6875,
-["classId"] = 9,
-},
-["Beorrn"] = {
-["total"] = 869833243,
-["itemLevel"] = 689.375,
-["classId"] = 11,
-},
-["Tiekenei"] = {
-["total"] = 916172226,
-["itemLevel"] = 693.6875,
-["classId"] = 7,
-},
-["Potdisc"] = {
-["total"] = 871717331,
-["itemLevel"] = 692.875,
-["classId"] = 5,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1075979861,
-["itemLevel"] = 702.9375,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 947241275,
-["itemLevel"] = 700.5,
-["classId"] = 3,
-},
-["Shkia"] = {
-["total"] = 826316713,
-["itemLevel"] = 697.6875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 331231428,
-["itemLevel"] = 693,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 640501131,
-["itemLevel"] = 695.875,
-["classId"] = 3,
-},
-["Velion"] = {
-["total"] = 978610114,
-["itemLevel"] = 706.3125,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 924459963,
-["itemLevel"] = 698.9375,
-["classId"] = 5,
-},
-["Tiekenei"] = {
-["total"] = 919648878,
-["itemLevel"] = 700.625,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 903270591,
-["itemLevel"] = 705.8125,
-["classId"] = 8,
-},
-["Cretino"] = {
-["total"] = 761483095,
-["itemLevel"] = 699.625,
-["classId"] = 4,
-},
-["Garadh"] = {
-["total"] = 328988727,
-["itemLevel"] = 700.1875,
-["classId"] = 12,
-},
-["Beorrn"] = {
-["total"] = 1027506572,
-["itemLevel"] = 702.375,
-["classId"] = 11,
-},
-},
-["time"] = 1756323264,
-["date"] = "21:34 27/08/25",
-["elapsed"] = 265.8510000000024,
-["servertime"] = 1756323263,
-["HEALER"] = {
-["Oplichter"] = {
-["total"] = 610950981,
-["itemLevel"] = 695.3125,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 774744174,
-["itemLevel"] = 687.875,
-["classId"] = 13,
-},
-["Cidney"] = {
-["total"] = 843898651,
-["itemLevel"] = 696.75,
-["classId"] = 2,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["date"] = "21:33 03/09/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
-["Garadh"] = {
-["total"] = 842583130,
+["total"] = 2031734744,
 ["itemLevel"] = 709,
 ["classId"] = 12,
 },
 ["Tbonem"] = {
-["total"] = 906636060,
-["itemLevel"] = 709.1875,
+["total"] = 2010061796,
+["itemLevel"] = 708.75,
 ["classId"] = 8,
 },
 ["Cretino"] = {
-["total"] = 818807884,
-["itemLevel"] = 704.1875,
+["total"] = 1525295717,
+["itemLevel"] = 704.8125,
 ["classId"] = 4,
 },
 ["Daveus-Draenor"] = {
-["total"] = 422720901,
+["total"] = 880451278,
 ["itemLevel"] = 701.6875,
 ["classId"] = 1,
 },
 ["Angri"] = {
-["total"] = 693720934,
-["itemLevel"] = 699.5,
+["total"] = 1379064438,
+["itemLevel"] = 699.3125,
 ["classId"] = 3,
 },
-["Velion"] = {
-["total"] = 931527277,
-["itemLevel"] = 710.875,
-["classId"] = 6,
-},
 ["Benosan"] = {
-["total"] = 542591913,
+["total"] = 1274136320,
 ["itemLevel"] = 708.6875,
 ["classId"] = 10,
 },
-["Tiekenei"] = {
-["total"] = 845220219,
-["itemLevel"] = 705.6875,
-["classId"] = 7,
+["Velion"] = {
+["total"] = 2086568152,
+["itemLevel"] = 710.6875,
+["classId"] = 6,
 },
 ["Barrow"] = {
-["total"] = 837913515,
+["total"] = 903240247,
 ["itemLevel"] = 706.625,
 ["classId"] = 11,
 },
-["Oplichter"] = {
-["total"] = 714115501,
-["itemLevel"] = 700.5625,
-["classId"] = 2,
+["Sparrowbeast"] = {
+["total"] = 2003980956,
+["itemLevel"] = 709,
+["classId"] = 7,
 },
 ["Shkia"] = {
-["total"] = 879020251,
+["total"] = 1709334253,
 ["itemLevel"] = 701.875,
 ["classId"] = 9,
 },
 ["Klanky"] = {
-["total"] = 901312287,
+["total"] = 1560547621,
 ["itemLevel"] = 704.75,
 ["classId"] = 3,
 },
-["Bellætrix"] = {
-["total"] = 647959492,
-["itemLevel"] = 691.3125,
-["classId"] = 9,
-},
-["Sparrowbeast"] = {
-["total"] = 1073615103,
-["itemLevel"] = 709,
-["classId"] = 7,
-},
-},
-["elapsed"] = 239.2690000000293,
-["servertime"] = 1756927998,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 649723052,
-["itemLevel"] = 698.8125,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 658063647,
-["itemLevel"] = 699.9375,
-["classId"] = 13,
-},
-["Potdisc"] = {
-["total"] = 814747727,
-["itemLevel"] = 703.3125,
-["classId"] = 5,
-},
-},
-["time"] = 1756927999,
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 971589903,
-["itemLevel"] = 711,
-["classId"] = 7,
-},
-["Tbonem"] = {
-["total"] = 866204704,
-["itemLevel"] = 711.25,
-["classId"] = 8,
-},
-["Shkia"] = {
-["total"] = 795917087,
-["itemLevel"] = 703.1875,
-["classId"] = 9,
-},
-["Daveus-Draenor"] = {
-["total"] = 445318871,
-["itemLevel"] = 703.0625,
-["classId"] = 1,
-},
-["Bellætrix"] = {
-["total"] = 625971455,
+["Oplichter"] = {
+["total"] = 1609008861,
 ["itemLevel"] = 700.5625,
-["classId"] = 9,
-},
-["Benosan"] = {
-["total"] = 574191998,
-["itemLevel"] = 711.5,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 983421132,
-["itemLevel"] = 711.625,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 704589478,
-["itemLevel"] = 711.4375,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 912610810,
-["itemLevel"] = 705.625,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 924849001,
-["itemLevel"] = 710.875,
-["classId"] = 12,
-},
-["Cretino"] = {
-["total"] = 840933623,
-["itemLevel"] = 706.1875,
-["classId"] = 4,
-},
-["Angri"] = {
-["total"] = 508446499,
-["itemLevel"] = 702.8125,
-["classId"] = 3,
-},
-},
-["time"] = 1757531477,
-["date"] = "21:11 10/09/25",
-["elapsed"] = 218.3540000000066,
-["servertime"] = 1757531476,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 862990991,
-["itemLevel"] = 702.75,
 ["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 571586134,
-["itemLevel"] = 705.0625,
-["classId"] = 13,
-},
-},
-["guild"] = "Nox Terra",
-},
-{
-["DAMAGER"] = {
-["Sparrowbeast"] = {
-["total"] = 1135283887,
-["itemLevel"] = 712.1875,
-["classId"] = 7,
-},
-["Klanky"] = {
-["total"] = 282854571,
-["itemLevel"] = 710.1875,
-["classId"] = 3,
-},
-["Cretino"] = {
-["total"] = 813040473,
-["itemLevel"] = 709.25,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 477492527,
-["itemLevel"] = 706.8125,
-["classId"] = 1,
-},
-["Angri"] = {
-["total"] = 685581984,
-["itemLevel"] = 706.5,
-["classId"] = 3,
-},
-["Tbonem"] = {
-["total"] = 910203685,
-["itemLevel"] = 712.625,
-["classId"] = 8,
-},
-["Benosan"] = {
-["total"] = 575470982,
-["itemLevel"] = 713.0625,
-["classId"] = 10,
 },
 ["Tiekenei"] = {
-["total"] = 841130461,
-["itemLevel"] = 711.8125,
+["total"] = 1938892302,
+["itemLevel"] = 705.6875,
 ["classId"] = 7,
 },
-["Barrow"] = {
-["total"] = 959980764,
-["itemLevel"] = 712.8125,
-["classId"] = 11,
-},
-["Velion"] = {
-["total"] = 992329592,
-["itemLevel"] = 712.4375,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 936226365,
-["itemLevel"] = 707.375,
-["classId"] = 5,
-},
-["Shkia"] = {
-["total"] = 806415525,
-["itemLevel"] = 704.25,
-["classId"] = 9,
-},
-["Bellætrix"] = {
-["total"] = 708747216,
-["itemLevel"] = 701.8125,
-["classId"] = 9,
-},
-["Garadh"] = {
-["total"] = 943959246,
-["itemLevel"] = 710.875,
-["classId"] = 12,
 },
 },
-["time"] = 1758132384,
-["date"] = "20:06 17/09/25",
-["elapsed"] = 229.0720000000001,
-["servertime"] = 1758132384,
+{
+["time"] = 1757873822,
+["guild"] = "Nox Terra",
+["elapsed"] = 377.9690000000001,
+["date"] = "20:17 14/09/25",
+["servertime"] = 1757873822,
 ["HEALER"] = {
-["Oplichter"] = {
-["total"] = 477321342,
+["Cidney"] = {
+["total"] = 1272272348,
 ["itemLevel"] = 703,
 ["classId"] = 2,
 },
 ["Khalheessi"] = {
-["total"] = 805863562,
-["itemLevel"] = 707.25,
+["total"] = 1724404665,
+["itemLevel"] = 705.875,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1827793687,
+["itemLevel"] = 711,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 1505786289,
+["itemLevel"] = 711.25,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 1157623320,
+["itemLevel"] = 706.8125,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 1036906135,
+["itemLevel"] = 706.0625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 1063224034,
+["itemLevel"] = 703.875,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 1183053185,
+["itemLevel"] = 713.0625,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 1823695970,
+["itemLevel"] = 710.4375,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 1571570643,
+["itemLevel"] = 712.625,
+["classId"] = 11,
+},
+["Klanky"] = {
+["total"] = 1393753566,
+["itemLevel"] = 706.5625,
+["classId"] = 3,
+},
+["Potdisc"] = {
+["total"] = 1766349356,
+["itemLevel"] = 704.375,
+["classId"] = 5,
+},
+["Garadh"] = {
+["total"] = 1963804739,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Velion"] = {
+["total"] = 1789995732,
+["itemLevel"] = 712.8125,
+["classId"] = 6,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1891589419,
+["itemLevel"] = 712.1875,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 1623859561,
+["itemLevel"] = 710.1875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1763371399,
+["itemLevel"] = 708.9375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 1087315852,
+["itemLevel"] = 706.4375,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 1392773382,
+["itemLevel"] = 706.3125,
+["classId"] = 3,
+},
+["Tbonem"] = {
+["total"] = 1981461630,
+["itemLevel"] = 712.1333333333333,
+["classId"] = 8,
+},
+["Benosan"] = {
+["total"] = 1179644530,
+["itemLevel"] = 713.4375,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 1852668953,
+["itemLevel"] = 711.8125,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 1539217847,
+["itemLevel"] = 712.8125,
+["classId"] = 11,
+},
+["Velion"] = {
+["total"] = 2021784997,
+["itemLevel"] = 712.8125,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 1916552801,
+["itemLevel"] = 707.1875,
+["classId"] = 5,
+},
+["Shkia"] = {
+["total"] = 1607906005,
+["itemLevel"] = 704.25,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 748103528,
+["itemLevel"] = 702.25,
+["classId"] = 9,
+},
+["Garadh"] = {
+["total"] = 1674069410,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+},
+["time"] = 1758137044,
+["date"] = "21:24 17/09/25",
+["elapsed"] = 350.7379999999976,
+["servertime"] = 1758137044,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 957896728,
+["itemLevel"] = 704.4375,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 1671880097,
+["itemLevel"] = 707.625,
 ["classId"] = 13,
 },
 ["Cidney"] = {
-["total"] = 650213297,
+["total"] = 920842753,
 ["itemLevel"] = 705.625,
 ["classId"] = 2,
 },
@@ -15767,238 +13689,387 @@ DetailsDataStorage = {
 ["guild"] = "Nox Terra",
 },
 {
-["time"] = 1758737336,
-["guild"] = "Nox Terra",
-["elapsed"] = 225.6729999999952,
-["date"] = "20:08 24/09/25",
-["servertime"] = 1758737336,
-["HEALER"] = {
-["Cidney"] = {
-["total"] = 749566378,
-["itemLevel"] = 707.5625,
-["classId"] = 2,
-},
-["Khalheessi"] = {
-["total"] = 176880964,
-["itemLevel"] = 710.1875,
-["classId"] = 13,
-},
-["Oplichter"] = {
-["total"] = 722404945,
-["itemLevel"] = 706.5625,
-["classId"] = 2,
-},
-},
 ["DAMAGER"] = {
 ["Garadh"] = {
-["total"] = 1020374614,
+["total"] = 2020836598,
 ["itemLevel"] = 712.6875,
 ["classId"] = 12,
 },
 ["Klanky"] = {
-["total"] = 1010103559,
-["itemLevel"] = 711.125,
+["total"] = 1734729502,
+["itemLevel"] = 711.5,
 ["classId"] = 3,
 },
 ["Cretino"] = {
-["total"] = 895781484,
+["total"] = 1722262025,
 ["itemLevel"] = 712.0625,
 ["classId"] = 4,
 },
 ["Daveus-Draenor"] = {
-["total"] = 454834253,
-["itemLevel"] = 708.8125,
+["total"] = 932468188,
+["itemLevel"] = 709.625,
 ["classId"] = 1,
 },
 ["Angri"] = {
-["total"] = 194956113,
-["itemLevel"] = 708.4375,
+["total"] = 1551638228,
+["itemLevel"] = 708.25,
 ["classId"] = 3,
 },
-["Bellætrix"] = {
-["total"] = 679627901,
-["itemLevel"] = 707.375,
-["classId"] = 9,
-},
 ["Benosan"] = {
-["total"] = 563998391,
+["total"] = 1316392521,
 ["itemLevel"] = 714.5,
 ["classId"] = 10,
 },
-["Tiekenei"] = {
-["total"] = 984781283,
-["itemLevel"] = 712.625,
-["classId"] = 7,
-},
-["Barrow"] = {
-["total"] = 947073354,
-["itemLevel"] = 712.875,
-["classId"] = 11,
-},
-["Potdisc"] = {
-["total"] = 955579768,
-["itemLevel"] = 709.125,
-["classId"] = 5,
-},
-["Tbonem"] = {
-["total"] = 964479675,
-["itemLevel"] = 713.6666666666666,
-["classId"] = 8,
-},
-["Beorrn"] = {
-["total"] = 977738770,
-["itemLevel"] = 706.1333333333333,
-["classId"] = 11,
-},
-["Sparrowbeast"] = {
-["total"] = 384167650,
-["itemLevel"] = 713.375,
-["classId"] = 7,
-},
 ["Velion"] = {
-["total"] = 1064397966,
+["total"] = 2110613845,
 ["itemLevel"] = 715.8125,
 ["classId"] = 6,
 },
+["Barrow"] = {
+["total"] = 1636849598,
+["itemLevel"] = 712.875,
+["classId"] = 11,
 },
+["Tiekenei"] = {
+["total"] = 1809955161,
+["itemLevel"] = 712.625,
+["classId"] = 7,
 },
-{
-["date"] = "20:14 01/10/25",
-["guild"] = "Nox Terra",
-["DAMAGER"] = {
 ["Sparrowbeast"] = {
-["total"] = 1082164633,
+["total"] = 1940297302,
 ["itemLevel"] = 713.375,
 ["classId"] = 7,
 },
+["Beorrn"] = {
+["total"] = 1540886385,
+["itemLevel"] = 707,
+["classId"] = 11,
+},
 ["Tbonem"] = {
-["total"] = 300648579,
-["itemLevel"] = 715.25,
+["total"] = 2110548498,
+["itemLevel"] = 714.0625,
 ["classId"] = 8,
 },
-["Cretino"] = {
-["total"] = 835261362,
-["itemLevel"] = 712.8125,
-["classId"] = 4,
-},
-["Daveus-Draenor"] = {
-["total"] = 535405761,
-["itemLevel"] = 712.5625,
-["classId"] = 1,
-},
-["Benosan"] = {
-["total"] = 546285254,
-["itemLevel"] = 715.4375,
-["classId"] = 10,
-},
-["Velion"] = {
-["total"] = 926748507,
-["itemLevel"] = 716.25,
-["classId"] = 6,
-},
-["Potdisc"] = {
-["total"] = 860440808,
-["itemLevel"] = 712.9375,
-["classId"] = 5,
-},
-["Garadh"] = {
-["total"] = 866638667,
-["itemLevel"] = 715.3125,
-["classId"] = 12,
-},
-["Barrow"] = {
-["total"] = 693316812,
-["itemLevel"] = 715.25,
-["classId"] = 11,
-},
-["Beorrn"] = {
-["total"] = 893403526,
-["itemLevel"] = 708.4375,
-["classId"] = 11,
+["Bellætrix"] = {
+["total"] = 1505107806,
+["itemLevel"] = 707.1875,
+["classId"] = 9,
 },
 },
-["elapsed"] = 210.9800000000032,
-["servertime"] = 1759342456,
+["time"] = 1758742274,
+["date"] = "21:31 24/09/25",
+["elapsed"] = 354.0750000000044,
+["servertime"] = 1758742274,
 ["HEALER"] = {
+["Cidney"] = {
+["total"] = 1058260663,
+["itemLevel"] = 707.5625,
+["classId"] = 2,
+},
 ["Khalheessi"] = {
-["total"] = 683031559,
-["itemLevel"] = 710.375,
+["total"] = 1189512008,
+["itemLevel"] = 710.1875,
 ["classId"] = 13,
 },
-["Cidney"] = {
-["total"] = 619152221,
-["itemLevel"] = 711.875,
+["Potdisc"] = {
+["total"] = 1380728053,
+["itemLevel"] = 711.375,
+["classId"] = 5,
+},
+["Oplichter"] = {
+["total"] = 629790124,
+["itemLevel"] = 707.625,
 ["classId"] = 2,
 },
 },
-["time"] = 1759342458,
+["guild"] = "Nox Terra",
 },
 {
+["guild"] = "Nox Terra",
+["time"] = 1759952759,
+["elapsed"] = 325.7400000000052,
 ["DAMAGER"] = {
 ["Tbonem"] = {
-["total"] = 842554138,
+["total"] = 2111787510,
 ["itemLevel"] = 715.625,
 ["classId"] = 8,
 },
 ["Shkia"] = {
-["total"] = 814198778,
-["itemLevel"] = 707.625,
+["total"] = 1444482504,
+["itemLevel"] = 707.0625,
 ["classId"] = 9,
 },
 ["Daveus-Draenor"] = {
-["total"] = 456683262,
+["total"] = 1066980871,
 ["itemLevel"] = 714.75,
 ["classId"] = 1,
 },
 ["Bellætrix"] = {
-["total"] = 732708201,
+["total"] = 1155792528,
 ["itemLevel"] = 707.9375,
 ["classId"] = 9,
 },
-["Benó"] = {
-["total"] = 484801073,
-["itemLevel"] = 712.4375,
-["classId"] = 6,
-},
-["Barrow"] = {
-["total"] = 897624867,
-["itemLevel"] = 716.5,
-["classId"] = 11,
-},
-["Klanky"] = {
-["total"] = 885180129,
-["itemLevel"] = 711.875,
-["classId"] = 3,
-},
 ["Velion"] = {
-["total"] = 967004558,
+["total"] = 1878996053,
 ["itemLevel"] = 718.375,
 ["classId"] = 6,
 },
-["Angri"] = {
-["total"] = 632013794,
-["itemLevel"] = 712,
-["classId"] = 3,
+["Barrow"] = {
+["total"] = 1613335287,
+["itemLevel"] = 716.6875,
+["classId"] = 11,
+},
+["Benó"] = {
+["total"] = 1180034070,
+["itemLevel"] = 712.4375,
+["classId"] = 6,
 },
 ["Cretino"] = {
-["total"] = 923557661,
+["total"] = 1662249619,
 ["itemLevel"] = 712.8125,
 ["classId"] = 4,
 },
+["Klanky"] = {
+["total"] = 1574354510,
+["itemLevel"] = 711.875,
+["classId"] = 3,
 },
-["time"] = 1759946810,
-["date"] = "20:06 08/10/25",
-["elapsed"] = 216.5819999999949,
-["servertime"] = 1759946809,
+["Angri"] = {
+["total"] = 1502282572,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+},
+["servertime"] = 1759952758,
 ["HEALER"] = {
 ["Potdisc"] = {
-["total"] = 747943063,
+["total"] = 1147286072,
 ["itemLevel"] = 712.375,
 ["classId"] = 5,
 },
 ["Cidney"] = {
-["total"] = 756110763,
+["total"] = 1079743689,
 ["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["date"] = "21:45 08/10/25",
+},
+{
+["date"] = "21:09 15/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1806781140,
+["itemLevel"] = 718.75,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 1576623982,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1554721773,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 905874410,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 1462627920,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 1802848989,
+["itemLevel"] = 719.25,
+["classId"] = 6,
+},
+["Garadh"] = {
+["total"] = 1611046258,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tiekenei"] = {
+["total"] = 1643343694,
+["itemLevel"] = 715.9375,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 2023077746,
+["itemLevel"] = 718.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 1228214678,
+["itemLevel"] = 707.1875,
+["classId"] = 9,
+},
+["Benó"] = {
+["total"] = 996937071,
+["itemLevel"] = 714.4375,
+["classId"] = 6,
+},
+},
+["elapsed"] = 309.3299999999999,
+["servertime"] = 1760555348,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 1282216780,
+["itemLevel"] = 714.3125,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 1061188397,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["time"] = 1760555351,
+},
+{
+["date"] = "21:14 26/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 805691259,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 2149567100,
+["itemLevel"] = 722.2,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 1519346026,
+["itemLevel"] = 718.75,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 982294804,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 1475094726,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Lightflicker"] = {
+["total"] = 909995888,
+["itemLevel"] = 667.625,
+["classId"] = 2,
+},
+["Velion"] = {
+["total"] = 2179166005,
+["itemLevel"] = 727.2666666666667,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 1643772017,
+["itemLevel"] = 722.4375,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 1596363816,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Tiekenei"] = {
+["total"] = 1940806979,
+["itemLevel"] = 717.25,
+["classId"] = 7,
+},
+},
+["elapsed"] = 327.7410000000018,
+["servertime"] = 1761509643,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 1051493523,
+["itemLevel"] = 716.9375,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 1466736100,
+["itemLevel"] = 715.4375,
+["classId"] = 5,
+},
+},
+["time"] = 1761509644,
+},
+},
+[3131] = {
+{
+["DAMAGER"] = {
+["Klanky"] = {
+["total"] = 1310280671,
+["itemLevel"] = 685.5625,
+["classId"] = 3,
+},
+["Shkia"] = {
+["total"] = 833187745,
+["itemLevel"] = 679.4375,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 553182729,
+["itemLevel"] = 685.125,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 772433469,
+["itemLevel"] = 686.4375,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 611859991,
+["itemLevel"] = 687.625,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 1235388227,
+["itemLevel"] = 696.0666666666667,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 1028872018,
+["itemLevel"] = 688.5625,
+["classId"] = 5,
+},
+["Cretino"] = {
+["total"] = 1182016858,
+["itemLevel"] = 684.5,
+["classId"] = 4,
+},
+["Barrow"] = {
+["total"] = 832352336,
+["itemLevel"] = 687.75,
+["classId"] = 11,
+},
+["Beorrn"] = {
+["total"] = 932275044,
+["itemLevel"] = 687.75,
+["classId"] = 11,
+},
+},
+["time"] = 1755461814,
+["date"] = "22:16 17/08/25",
+["elapsed"] = 414.7099999999919,
+["servertime"] = 1755461814,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 1057845014,
+["itemLevel"] = 685,
+["classId"] = 2,
+},
+["Cidney"] = {
+["total"] = 1447772339,
+["itemLevel"] = 687.25,
 ["classId"] = 2,
 },
 },
@@ -16006,85 +14077,3156 @@ DetailsDataStorage = {
 },
 {
 ["guild"] = "Nox Terra",
-["time"] = 1760551491,
-["elapsed"] = 169.8530000000005,
+["time"] = 1756323950,
+["elapsed"] = 275.1080000000002,
 ["DAMAGER"] = {
 ["Sparrowbeast"] = {
-["total"] = 851533568,
-["itemLevel"] = 718.75,
+["total"] = 1290813299,
+["itemLevel"] = 702.9375,
 ["classId"] = 7,
 },
 ["Klanky"] = {
-["total"] = 827690793,
-["itemLevel"] = 714.5625,
+["total"] = 1111137575,
+["itemLevel"] = 700.5,
 ["classId"] = 3,
 },
-["Cretino"] = {
-["total"] = 701010597,
-["itemLevel"] = 715.25,
-["classId"] = 4,
+["Shkia"] = {
+["total"] = 996917247,
+["itemLevel"] = 697.6875,
+["classId"] = 9,
 },
 ["Daveus-Draenor"] = {
-["total"] = 405048287,
-["itemLevel"] = 0,
+["total"] = 447690901,
+["itemLevel"] = 693,
 ["classId"] = 1,
 },
 ["Angri"] = {
-["total"] = 619558750,
-["itemLevel"] = 712,
+["total"] = 932083776,
+["itemLevel"] = 695.875,
 ["classId"] = 3,
 },
 ["Velion"] = {
-["total"] = 811547664,
-["itemLevel"] = 719.25,
+["total"] = 1032432889,
+["itemLevel"] = 706.3125,
 ["classId"] = 6,
 },
-["Benó"] = {
-["total"] = 424499147,
-["itemLevel"] = 714.625,
-["classId"] = 6,
+["Potdisc"] = {
+["total"] = 1279630645,
+["itemLevel"] = 698.9375,
+["classId"] = 5,
 },
-["Shkia"] = {
-["total"] = 758716209,
-["itemLevel"] = 708,
-["classId"] = 9,
+["Beorrn"] = {
+["total"] = 1235228654,
+["itemLevel"] = 702.375,
+["classId"] = 11,
 },
-["Bellætrix"] = {
-["total"] = 645854199,
-["itemLevel"] = 711.5625,
-["classId"] = 9,
+["Garadh"] = {
+["total"] = 345602783,
+["itemLevel"] = 700.1875,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 858130655,
+["itemLevel"] = 699.625,
+["classId"] = 4,
 },
 ["Tbonem"] = {
-["total"] = 747411532,
-["itemLevel"] = 718.25,
+["total"] = 1184527971,
+["itemLevel"] = 705.8125,
 ["classId"] = 8,
 },
 ["Tiekenei"] = {
-["total"] = 878800230,
-["itemLevel"] = 715.9375,
+["total"] = 1113890674,
+["itemLevel"] = 700.625,
 ["classId"] = 7,
 },
+},
+["servertime"] = 1756323949,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 708657215,
+["itemLevel"] = 695.3125,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 917625364,
+["itemLevel"] = 687.875,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 952773572,
+["itemLevel"] = 696.75,
+["classId"] = 2,
+},
+},
+["date"] = "21:45 27/08/25",
+},
+{
+["time"] = 1756928702,
+["guild"] = "Nox Terra",
+["elapsed"] = 281.3769999999786,
+["date"] = "21:45 03/09/25",
+["servertime"] = 1756928701,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 778566204,
+["itemLevel"] = 698.8125,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 1093703167,
+["itemLevel"] = 701.9375,
+["classId"] = 13,
+},
+["Potdisc"] = {
+["total"] = 1115073072,
+["itemLevel"] = 703.3125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
 ["Garadh"] = {
-["total"] = 658047110,
-["itemLevel"] = 715.5,
+["total"] = 1253448316,
+["itemLevel"] = 709,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 1117186854,
+["itemLevel"] = 709.1875,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 1071890073,
+["itemLevel"] = 704.1875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 630991556,
+["itemLevel"] = 701.6875,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 1105713965,
+["itemLevel"] = 699.5,
+["classId"] = 3,
+},
+["Sparrowbeast"] = {
+["total"] = 1430711567,
+["itemLevel"] = 709,
+["classId"] = 7,
+},
+["Benosan"] = {
+["total"] = 814689404,
+["itemLevel"] = 708.6875,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 1214064660,
+["itemLevel"] = 710.875,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 1145509940,
+["itemLevel"] = 706.625,
+["classId"] = 11,
+},
+["Bellætrix"] = {
+["total"] = 823657297,
+["itemLevel"] = 691.3125,
+["classId"] = 9,
+},
+["Klanky"] = {
+["total"] = 540968971,
+["itemLevel"] = 704.75,
+["classId"] = 3,
+},
+["Shkia"] = {
+["total"] = 1037864269,
+["itemLevel"] = 701.875,
+["classId"] = 9,
+},
+["Oplichter"] = {
+["total"] = 40428713,
+["itemLevel"] = 700.5625,
+["classId"] = 2,
+},
+["Tiekenei"] = {
+["total"] = 1235607975,
+["itemLevel"] = 705.6875,
+["classId"] = 7,
+},
+},
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1757532102,
+["elapsed"] = 216.8580000000075,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1177586714,
+["itemLevel"] = 711,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 1057804224,
+["itemLevel"] = 711.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 929764595,
+["itemLevel"] = 703.1875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 541602751,
+["itemLevel"] = 703.0625,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 822156755,
+["itemLevel"] = 700.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 598675295,
+["itemLevel"] = 711.5,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 1139283509,
+["itemLevel"] = 711.625,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 883593289,
+["itemLevel"] = 710.8666666666667,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 722304009,
+["itemLevel"] = 702.8125,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1014264130,
+["itemLevel"] = 706.1875,
+["classId"] = 4,
+},
+["Garadh"] = {
+["total"] = 1072663956,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Potdisc"] = {
+["total"] = 982825280,
+["itemLevel"] = 705.625,
+["classId"] = 5,
+},
+},
+["servertime"] = 1757532101,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 696588486,
+["itemLevel"] = 702.75,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 873692509,
+["itemLevel"] = 705.0625,
+["classId"] = 13,
+},
+},
+["date"] = "21:21 10/09/25",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1758132900,
+["elapsed"] = 214.7869999999966,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1284815173,
+["itemLevel"] = 712.1875,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 1119089068,
+["itemLevel"] = 710.1875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 911768311,
+["itemLevel"] = 709.25,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 570890414,
+["itemLevel"] = 706.8125,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 820915087,
+["itemLevel"] = 706.4666666666667,
+["classId"] = 3,
+},
+["Garadh"] = {
+["total"] = 1113241818,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Benosan"] = {
+["total"] = 683101819,
+["itemLevel"] = 713.0625,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 950153145,
+["itemLevel"] = 711.8125,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 936174405,
+["itemLevel"] = 712.8125,
+["classId"] = 11,
+},
+["Bellætrix"] = {
+["total"] = 881828975,
+["itemLevel"] = 701.8125,
+["classId"] = 9,
+},
+["Shkia"] = {
+["total"] = 790521883,
+["itemLevel"] = 704.25,
+["classId"] = 9,
+},
+["Potdisc"] = {
+["total"] = 932787365,
+["itemLevel"] = 707.375,
+["classId"] = 5,
+},
+["Velion"] = {
+["total"] = 1038946747,
+["itemLevel"] = 712.4375,
+["classId"] = 6,
+},
+["Tbonem"] = {
+["total"] = 1143634076,
+["itemLevel"] = 712.625,
+["classId"] = 8,
+},
+},
+["servertime"] = 1758132900,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 539210598,
+["itemLevel"] = 703,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 784123225,
+["itemLevel"] = 707.25,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 671948711,
+["itemLevel"] = 705.625,
+["classId"] = 2,
+},
+},
+["date"] = "20:15 17/09/25",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 1043981783,
+["itemLevel"] = 712.6875,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 1097233613,
+["itemLevel"] = 711.125,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1064023119,
+["itemLevel"] = 712.0625,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 519819701,
+["itemLevel"] = 708.8125,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 810614189,
+["itemLevel"] = 708.4375,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 1227902022,
+["itemLevel"] = 715.8125,
+["classId"] = 6,
+},
+["Benosan"] = {
+["total"] = 626019701,
+["itemLevel"] = 714.5,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 984152777,
+["itemLevel"] = 712.625,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 828708428,
+["itemLevel"] = 712.875,
+["classId"] = 11,
+},
+["Sparrowbeast"] = {
+["total"] = 1153516495,
+["itemLevel"] = 713.375,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 1007624969,
+["itemLevel"] = 707,
+["classId"] = 11,
+},
+["Tbonem"] = {
+["total"] = 1143091976,
+["itemLevel"] = 714.0625,
+["classId"] = 8,
+},
+["Potdisc"] = {
+["total"] = 977730571,
+["itemLevel"] = 711.375,
+["classId"] = 5,
+},
+["Bellætrix"] = {
+["total"] = 842339826,
+["itemLevel"] = 707.375,
+["classId"] = 9,
+},
+},
+["time"] = 1758737899,
+["date"] = "20:18 24/09/25",
+["elapsed"] = 204.2719999999972,
+["servertime"] = 1758737898,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 663217500,
+["itemLevel"] = 707.5625,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 842560094,
+["itemLevel"] = 710.1875,
+["classId"] = 13,
+},
+["Oplichter"] = {
+["total"] = 423065698,
+["itemLevel"] = 706.5625,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["time"] = 1759342993,
+["guild"] = "Nox Terra",
+["elapsed"] = 207.3349999999991,
+["date"] = "20:23 01/10/25",
+["servertime"] = 1759342991,
+["HEALER"] = {
+["Khalheessi"] = {
+["total"] = 640992350,
+["itemLevel"] = 710.375,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 716014582,
+["itemLevel"] = 711.875,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1199081401,
+["itemLevel"] = 713.375,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 1117307910,
+["itemLevel"] = 715.25,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 968104771,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 547853833,
+["itemLevel"] = 712.5625,
+["classId"] = 1,
+},
+["Benosan"] = {
+["total"] = 618952525,
+["itemLevel"] = 715.4375,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 1047323248,
+["itemLevel"] = 716.25,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 952061851,
+["itemLevel"] = 712.9375,
+["classId"] = 5,
+},
+["Beorrn"] = {
+["total"] = 1060229237,
+["itemLevel"] = 708.4375,
+["classId"] = 11,
+},
+["Barrow"] = {
+["total"] = 751049483,
+["itemLevel"] = 715.25,
+["classId"] = 11,
+},
+["Garadh"] = {
+["total"] = 1041331646,
+["itemLevel"] = 715.3125,
 ["classId"] = 12,
 },
 },
-["servertime"] = 1760551488,
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1759947504,
+["elapsed"] = 225.2419999999984,
+["DAMAGER"] = {
+["Tbonem"] = {
+["total"] = 1222683194,
+["itemLevel"] = 715.625,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 1036509770,
+["itemLevel"] = 707.625,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 559773081,
+["itemLevel"] = 714.75,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 814814135,
+["itemLevel"] = 707.9375,
+["classId"] = 9,
+},
+["Benó"] = {
+["total"] = 647386214,
+["itemLevel"] = 712.4375,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 1028314860,
+["itemLevel"] = 716.6875,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 945377801,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+["Angri"] = {
+["total"] = 828647549,
+["itemLevel"] = 711.8666666666667,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 1021037043,
+["itemLevel"] = 718.375,
+["classId"] = 6,
+},
+["Klanky"] = {
+["total"] = 983938915,
+["itemLevel"] = 711.875,
+["classId"] = 3,
+},
+},
+["servertime"] = 1759947503,
 ["HEALER"] = {
 ["Potdisc"] = {
-["total"] = 607038360,
-["itemLevel"] = 713.875,
+["total"] = 809264379,
+["itemLevel"] = 712.375,
 ["classId"] = 5,
 },
 ["Cidney"] = {
-["total"] = 593930576,
+["total"] = 766998007,
 ["itemLevel"] = 714.125,
 ["classId"] = 2,
 },
 },
-["date"] = "20:04 15/10/25",
+["date"] = "20:18 08/10/25",
 },
+{
+["date"] = "20:13 15/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1266173884,
+["itemLevel"] = 718.75,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 878530009,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1057237906,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 524811292,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 716819975,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 1142778038,
+["itemLevel"] = 719.25,
+["classId"] = 6,
+},
+["Garadh"] = {
+["total"] = 950206751,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tiekenei"] = {
+["total"] = 1120586500,
+["itemLevel"] = 715.9375,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 1034323212,
+["itemLevel"] = 718.25,
+["classId"] = 8,
+},
+["Bellætrix"] = {
+["total"] = 760485339,
+["itemLevel"] = 711.5625,
+["classId"] = 9,
+},
+["Shkia"] = {
+["total"] = 756906754,
+["itemLevel"] = 708,
+["classId"] = 9,
+},
+["Benó"] = {
+["total"] = 598757595,
+["itemLevel"] = 714.625,
+["classId"] = 6,
+},
+},
+["elapsed"] = 199.2069999999994,
+["servertime"] = 1760551987,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 782328857,
+["itemLevel"] = 713.875,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 767044790,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["time"] = 1760551990,
+},
+{
+["date"] = "20:14 26/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 418663946,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 1293399902,
+["itemLevel"] = 722.5,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 1156203846,
+["itemLevel"] = 718.75,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 470184987,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 871769930,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Lightflicker"] = {
+["total"] = 458881318,
+["itemLevel"] = 658.0625,
+["classId"] = 2,
+},
+["Velion"] = {
+["total"] = 1343866543,
+["itemLevel"] = 727.25,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 1094307838,
+["itemLevel"] = 722.4375,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 930053534,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Tiekenei"] = {
+["total"] = 1199865329,
+["itemLevel"] = 717.4375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 203.1610000000001,
+["servertime"] = 1761506095,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 72919423,
+["itemLevel"] = 716.9375,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 1119672052,
+["itemLevel"] = 715.4375,
+["classId"] = 5,
+},
+},
+["time"] = 1761506096,
+},
+},
+[3015] = {
+{
+["guild"] = "Nox Terra",
+["time"] = 1744831268,
+["elapsed"] = 327.9930000000004,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 571642350,
+["itemLevel"] = 665.625,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 447805171,
+["itemLevel"] = 662.75,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 358773235,
+["itemLevel"] = 643.75,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 301926672,
+["itemLevel"] = 661.3125,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 415009764,
+["itemLevel"] = 659.3125,
+["classId"] = 3,
+},
+["Vynarth"] = {
+["total"] = 560266783,
+["itemLevel"] = 661.5625,
+["classId"] = 4,
+},
+["Benosan"] = {
+["total"] = 373867052,
+["itemLevel"] = 663.3125,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 664588258,
+["itemLevel"] = 662.125,
+["classId"] = 7,
+},
+["Strathlor"] = {
+["total"] = 557813199,
+["itemLevel"] = 662.875,
+["classId"] = 8,
+},
+["Beorrn"] = {
+["total"] = 692599630,
+["itemLevel"] = 666.375,
+["classId"] = 11,
+},
+["Shambone"] = {
+["total"] = 550631349,
+["itemLevel"] = 664.75,
+["classId"] = 7,
+},
+["Shkia"] = {
+["total"] = 506419911,
+["itemLevel"] = 661.5625,
+["classId"] = 9,
+},
+["Garanddor"] = {
+["total"] = 632356322,
+["itemLevel"] = 667.625,
+["classId"] = 2,
+},
+["Bellætrix"] = {
+["total"] = 398354281,
+["itemLevel"] = 660,
+["classId"] = 9,
+},
+},
+["servertime"] = 1744831266,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 579665555,
+["itemLevel"] = 661,
+["classId"] = 2,
+},
+["Shaolheen"] = {
+["total"] = 549376139,
+["itemLevel"] = 668.375,
+["classId"] = 10,
+},
+["Potdisc"] = {
+["total"] = 519566919,
+["itemLevel"] = 665.375,
+["classId"] = 5,
+},
+},
+["date"] = "21:21 16/04/25",
+},
+{
+["time"] = 1745436706,
+["guild"] = "Nox Terra",
+["elapsed"] = 341.3869999999879,
+["date"] = "21:31 23/04/25",
+["servertime"] = 1745436705,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 568961294,
+["itemLevel"] = 662.875,
+["classId"] = 2,
+},
+["Shaolheen"] = {
+["total"] = 435368103,
+["itemLevel"] = 670.0625,
+["classId"] = 10,
+},
+["Barrow"] = {
+["total"] = 360767228,
+["itemLevel"] = 650.4375,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Klanky"] = {
+["total"] = 598077530,
+["itemLevel"] = 663.25,
+["classId"] = 3,
+},
+["Shkia"] = {
+["total"] = 468349850,
+["itemLevel"] = 662.625,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 361636352,
+["itemLevel"] = 663.4375,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 277054856,
+["itemLevel"] = 660.125,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 361973239,
+["itemLevel"] = 664.875,
+["classId"] = 10,
+},
+["Vynarth"] = {
+["total"] = 562837702,
+["itemLevel"] = 663.5,
+["classId"] = 4,
+},
+["Potdisc"] = {
+["total"] = 505115169,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+["Shambone"] = {
+["total"] = 621358846,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 592325008,
+["itemLevel"] = 667.625,
+["classId"] = 11,
+},
+["Garanddor"] = {
+["total"] = 569026223,
+["itemLevel"] = 667.625,
+["classId"] = 2,
+},
+["Cretino"] = {
+["total"] = 542084031,
+["itemLevel"] = 650.875,
+["classId"] = 4,
+},
+},
+},
+{
+["date"] = "22:09 30/04/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 642565888,
+["itemLevel"] = 669.875,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 524997840,
+["itemLevel"] = 666,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 478381493,
+["itemLevel"] = 658.875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 357626777,
+["itemLevel"] = 664.5,
+["classId"] = 1,
+},
+["Misbaksel"] = {
+["total"] = 522223023,
+["itemLevel"] = 661.75,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 395473883,
+["itemLevel"] = 665.0625,
+["classId"] = 10,
+},
+["Beorrn"] = {
+["total"] = 617390086,
+["itemLevel"] = 668.875,
+["classId"] = 11,
+},
+["Bellætrix"] = {
+["total"] = 407835231,
+["itemLevel"] = 664.3125,
+["classId"] = 9,
+},
+["Garmín"] = {
+["total"] = 447514665,
+["itemLevel"] = 665.75,
+["classId"] = 2,
+},
+["Shkia"] = {
+["total"] = 438686291,
+["itemLevel"] = 663.4375,
+["classId"] = 9,
+},
+["Angri"] = {
+["total"] = 367254975,
+["itemLevel"] = 661.6875,
+["classId"] = 3,
+},
+},
+["elapsed"] = 331.3400000000256,
+["servertime"] = 1746043781,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 471682410,
+["itemLevel"] = 662.875,
+["classId"] = 2,
+},
+["Nitenurse"] = {
+["total"] = 532002116,
+["itemLevel"] = 651.0625,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 363511931,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+},
+["time"] = 1746043781,
+},
+{
+["time"] = 1746646388,
+["guild"] = "Nox Terra",
+["elapsed"] = 300.7540000000008,
+["date"] = "21:33 07/05/25",
+["servertime"] = 1746646386,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 456332887,
+["itemLevel"] = 664.6875,
+["classId"] = 2,
+},
+["Nitenurse"] = {
+["total"] = 535305606,
+["itemLevel"] = 657,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 476288042,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 676504130,
+["itemLevel"] = 670.2,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 521309096,
+["itemLevel"] = 667.3125,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 433034567,
+["itemLevel"] = 661.9375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 388041541,
+["itemLevel"] = 665.5,
+["classId"] = 1,
+},
+["Misbaksel"] = {
+["total"] = 472095771,
+["itemLevel"] = 662.1875,
+["classId"] = 3,
+},
+["Angri"] = {
+["total"] = 432560494,
+["itemLevel"] = 663.125,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 347311658,
+["itemLevel"] = 666.3125,
+["classId"] = 10,
+},
+["Beorrn"] = {
+["total"] = 599287541,
+["itemLevel"] = 669.25,
+["classId"] = 11,
+},
+["Barrow"] = {
+["total"] = 393229821,
+["itemLevel"] = 658.6875,
+["classId"] = 11,
+},
+["Shambone"] = {
+["total"] = 524887690,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
+},
+["Garanddor"] = {
+["total"] = 596719542,
+["itemLevel"] = 668.625,
+["classId"] = 2,
+},
+["Garmín"] = {
+["total"] = 549445613,
+["itemLevel"] = 666.625,
+["classId"] = 2,
+},
+["Shkia"] = {
+["total"] = 436655251,
+["itemLevel"] = 664.25,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 392005616,
+["itemLevel"] = 665.875,
+["classId"] = 9,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 664607256,
+["itemLevel"] = 675.5,
+["classId"] = 7,
+},
+["Cretino"] = {
+["total"] = 487877503,
+["itemLevel"] = 667.25,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 323185071,
+["itemLevel"] = 667.625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 441495350,
+["itemLevel"] = 664.875,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 368542950,
+["itemLevel"] = 667.8125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 476382713,
+["itemLevel"] = 662.2,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 384628815,
+["itemLevel"] = 662.8125,
+["classId"] = 11,
+},
+["Bellætrix"] = {
+["total"] = 369469869,
+["itemLevel"] = 667.0625,
+["classId"] = 9,
+},
+["Garanddor"] = {
+["total"] = 644667489,
+["itemLevel"] = 676.5625,
+["classId"] = 2,
+},
+["Shkia"] = {
+["total"] = 412069238,
+["itemLevel"] = 666.6875,
+["classId"] = 9,
+},
+["Beorrn"] = {
+["total"] = 606713982,
+["itemLevel"] = 671.3125,
+["classId"] = 11,
+},
+["Misbaksel"] = {
+["total"] = 458326327,
+["itemLevel"] = 662.8125,
+["classId"] = 3,
+},
+},
+["time"] = 1747249083,
+["date"] = "20:58 14/05/25",
+["elapsed"] = 303.0260000000126,
+["servertime"] = 1747249083,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 574143591,
+["itemLevel"] = 668.5,
+["classId"] = 2,
+},
+["Discotonic"] = {
+["total"] = 294304055,
+["itemLevel"] = 643.9375,
+["classId"] = 5,
+},
+["Potdisc"] = {
+["total"] = 500848304,
+["itemLevel"] = 668.625,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1747860507,
+["elapsed"] = 228.1840000000084,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 588829650,
+["itemLevel"] = 677.125,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 488240452,
+["itemLevel"] = 671.9375,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 445539992,
+["itemLevel"] = 669.375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 235596322,
+["itemLevel"] = 668,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 351815597,
+["itemLevel"] = 665.8125,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 382415673,
+["itemLevel"] = 666.25,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 212854510,
+["itemLevel"] = 664,
+["classId"] = 11,
+},
+["Garanddor"] = {
+["total"] = 536121380,
+["itemLevel"] = 678.5,
+["classId"] = 2,
+},
+["Beorrn"] = {
+["total"] = 515467576,
+["itemLevel"] = 671.875,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 352381235,
+["itemLevel"] = 667.875,
+["classId"] = 9,
+},
+},
+["servertime"] = 1747860507,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 348290324,
+["itemLevel"] = 669.5625,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 409307748,
+["itemLevel"] = 670.0625,
+["classId"] = 2,
+},
+},
+["date"] = "22:48 21/05/25",
+},
+{
+["date"] = "22:12 04/06/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Benosan"] = {
+["total"] = 295700001,
+["itemLevel"] = 672.8125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 379749869,
+["itemLevel"] = 673.875,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 406369593,
+["itemLevel"] = 673.0625,
+["classId"] = 11,
+},
+["Klanky"] = {
+["total"] = 492708592,
+["itemLevel"] = 674.75,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 460058617,
+["itemLevel"] = 670.375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 300812525,
+["itemLevel"] = 673.4375,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 378316790,
+["itemLevel"] = 672.4375,
+["classId"] = 9,
+},
+["Passeridae"] = {
+["total"] = 346100597,
+["itemLevel"] = 650.6875,
+["classId"] = 12,
+},
+},
+["elapsed"] = 223.3240000000005,
+["servertime"] = 1749067956,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 270942170,
+["itemLevel"] = 671.5,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 349049853,
+["itemLevel"] = 675.125,
+["classId"] = 2,
+},
+},
+["time"] = 1749067958,
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1749667333,
+["elapsed"] = 197.1480000000447,
+["DAMAGER"] = {
+["Cretino"] = {
+["total"] = 470965493,
+["itemLevel"] = 674.0625,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 308620935,
+["itemLevel"] = 674.375,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 388143250,
+["itemLevel"] = 674.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 315410925,
+["itemLevel"] = 674.1875,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 420537970,
+["itemLevel"] = 676.125,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 371558128,
+["itemLevel"] = 673.875,
+["classId"] = 11,
+},
+["Garanddor"] = {
+["total"] = 521152368,
+["itemLevel"] = 679.625,
+["classId"] = 2,
+},
+["Angri"] = {
+["total"] = 381904247,
+["itemLevel"] = 669.375,
+["classId"] = 3,
+},
+["Tiekenei"] = {
+["total"] = 416224850,
+["itemLevel"] = 669.3125,
+["classId"] = 7,
+},
+["Passeridae"] = {
+["total"] = 366831041,
+["itemLevel"] = 653.0625,
+["classId"] = 12,
+},
+},
+["servertime"] = 1749667333,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 297500185,
+["itemLevel"] = 672.3125,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 273102728,
+["itemLevel"] = 676.25,
+["classId"] = 2,
+},
+},
+["date"] = "20:42 11/06/25",
+},
+{
+["time"] = 1750272780,
+["guild"] = "Nox Terra",
+["elapsed"] = 199.6009999999951,
+["date"] = "20:53 18/06/25",
+["servertime"] = 1750272781,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 349064394,
+["itemLevel"] = 680.4375,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 259896001,
+["itemLevel"] = 651.3125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Cretino"] = {
+["total"] = 430247890,
+["itemLevel"] = 676.0625,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 266793259,
+["itemLevel"] = 677.5625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 434061856,
+["itemLevel"] = 672.125,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 316545371,
+["itemLevel"] = 675.125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 451290097,
+["itemLevel"] = 679,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 413605498,
+["itemLevel"] = 675.5,
+["classId"] = 11,
+},
+["Garanddor"] = {
+["total"] = 474471226,
+["itemLevel"] = 681.0625,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 461119413,
+["itemLevel"] = 675.5625,
+["classId"] = 5,
+},
+["Passeridae"] = {
+["total"] = 320014746,
+["itemLevel"] = 657.5,
+["classId"] = 12,
+},
+["Misbaksel"] = {
+["total"] = 407400225,
+["itemLevel"] = 669.375,
+["classId"] = 3,
+},
+},
+},
+{
+["time"] = 1752693588,
+["guild"] = "Nox Terra",
+["elapsed"] = 212.7030000000959,
+["date"] = "21:19 16/07/25",
+["servertime"] = 1752693588,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 266366023,
+["itemLevel"] = 677,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 335359241,
+["itemLevel"] = 682.25,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["Benosan"] = {
+["total"] = 281473398,
+["itemLevel"] = 678.4666666666667,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 403551926,
+["itemLevel"] = 680.4375,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 439845502,
+["itemLevel"] = 676.75,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 416132732,
+["itemLevel"] = 678.1875,
+["classId"] = 4,
+},
+["Shkia"] = {
+["total"] = 363005406,
+["itemLevel"] = 674.125,
+["classId"] = 9,
+},
+["Angri"] = {
+["total"] = 419511886,
+["itemLevel"] = 677.5,
+["classId"] = 3,
+},
+["Garrandor"] = {
+["total"] = 486911848,
+["itemLevel"] = 670.5,
+["classId"] = 3,
+},
+},
+},
+},
+[3012] = {
+{
+["guild"] = "Nox Terra",
+["time"] = 1744828800,
+["elapsed"] = 309.0859999999993,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 715311206,
+["itemLevel"] = 665.1875,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 726982526,
+["itemLevel"] = 666.375,
+["classId"] = 11,
+},
+["Klanky"] = {
+["total"] = 493918790,
+["itemLevel"] = 662.5625,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 326585523,
+["itemLevel"] = 643.75,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 316238886,
+["itemLevel"] = 661.3125,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 485951947,
+["itemLevel"] = 660,
+["classId"] = 9,
+},
+["Tiekenei"] = {
+["total"] = 623578849,
+["itemLevel"] = 662.125,
+["classId"] = 7,
+},
+["Benosan"] = {
+["total"] = 444994664,
+["itemLevel"] = 663.3125,
+["classId"] = 10,
+},
+["Vynarth"] = {
+["total"] = 563175969,
+["itemLevel"] = 661.5625,
+["classId"] = 4,
+},
+["Strathlor"] = {
+["total"] = 621524640,
+["itemLevel"] = 662.875,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 585644498,
+["itemLevel"] = 660.6666666666666,
+["classId"] = 9,
+},
+["Shambone"] = {
+["total"] = 633666679,
+["itemLevel"] = 664.75,
+["classId"] = 7,
+},
+["Garanddor"] = {
+["total"] = 623839712,
+["itemLevel"] = 667.625,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 568103004,
+["itemLevel"] = 665.375,
+["classId"] = 5,
+},
+["Angri"] = {
+["total"] = 394767124,
+["itemLevel"] = 658.3125,
+["classId"] = 3,
+},
+},
+["servertime"] = 1744828798,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 558860779,
+["itemLevel"] = 661,
+["classId"] = 2,
+},
+["Shaolheen"] = {
+["total"] = 678922327,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+},
+["date"] = "20:40 16/04/25",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1745433462,
+["elapsed"] = 303.780999999959,
+["DAMAGER"] = {
+["Bellætrix"] = {
+["total"] = 411082437,
+["itemLevel"] = 660.875,
+["classId"] = 9,
+},
+["Klanky"] = {
+["total"] = 592676250,
+["itemLevel"] = 663.25,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 703253937,
+["itemLevel"] = 650.875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 306455775,
+["itemLevel"] = 663.4375,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 341297157,
+["itemLevel"] = 660.125,
+["classId"] = 3,
+},
+["Tiekenei"] = {
+["total"] = 640826102,
+["itemLevel"] = 663.0625,
+["classId"] = 7,
+},
+["Benosan"] = {
+["total"] = 413766484,
+["itemLevel"] = 664.875,
+["classId"] = 10,
+},
+["Vynarth"] = {
+["total"] = 772121344,
+["itemLevel"] = 663.5,
+["classId"] = 4,
+},
+["Barrow"] = {
+["total"] = 397333164,
+["itemLevel"] = 649.625,
+["classId"] = 11,
+},
+["Garanddor"] = {
+["total"] = 677670986,
+["itemLevel"] = 667.625,
+["classId"] = 2,
+},
+["Shambone"] = {
+["total"] = 550215295,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 724712877,
+["itemLevel"] = 667.1333333333333,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 459057827,
+["itemLevel"] = 662.625,
+["classId"] = 9,
+},
+["Misbaksel"] = {
+["total"] = 481527645,
+["itemLevel"] = 660.875,
+["classId"] = 3,
+},
+},
+["servertime"] = 1745433462,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 566101212,
+["itemLevel"] = 662.875,
+["classId"] = 2,
+},
+["Shaolheen"] = {
+["total"] = 607560835,
+["itemLevel"] = 669.4666666666667,
+["classId"] = 10,
+},
+},
+["date"] = "20:37 23/04/25",
+},
+{
+["date"] = "20:35 30/04/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 899301610,
+["itemLevel"] = 669.875,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 690967761,
+["itemLevel"] = 666,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 667781256,
+["itemLevel"] = 658.875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 330168199,
+["itemLevel"] = 664.5,
+["classId"] = 1,
+},
+["Misbaksel"] = {
+["total"] = 530269561,
+["itemLevel"] = 661.75,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 453394253,
+["itemLevel"] = 665.0625,
+["classId"] = 10,
+},
+["Beorrn"] = {
+["total"] = 951663784,
+["itemLevel"] = 668.4666666666667,
+["classId"] = 11,
+},
+["Barrow"] = {
+["total"] = 559721171,
+["itemLevel"] = 655.9375,
+["classId"] = 11,
+},
+["Garmín"] = {
+["total"] = 623132691,
+["itemLevel"] = 665.8,
+["classId"] = 2,
+},
+["Bellætrix"] = {
+["total"] = 488319858,
+["itemLevel"] = 664.3125,
+["classId"] = 9,
+},
+["Angri"] = {
+["total"] = 422619833,
+["itemLevel"] = 661.6875,
+["classId"] = 3,
+},
+},
+["elapsed"] = 331.3800000000047,
+["servertime"] = 1746038123,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 442814895,
+["itemLevel"] = 662.875,
+["classId"] = 2,
+},
+["Nitenurse"] = {
+["total"] = 408623534,
+["itemLevel"] = 650.25,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 476019771,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+},
+["time"] = 1746038123,
+},
+{
+["time"] = 1746642557,
+["guild"] = "Nox Terra",
+["elapsed"] = 275.294000000009,
+["date"] = "20:29 07/05/25",
+["servertime"] = 1746642555,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 334888217,
+["itemLevel"] = 664.6875,
+["classId"] = 2,
+},
+["Nitenurse"] = {
+["total"] = 418896129,
+["itemLevel"] = 657,
+["classId"] = 7,
+},
+["Potdisc"] = {
+["total"] = 404149380,
+["itemLevel"] = 665.8125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 864766912,
+["itemLevel"] = 669.875,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 605783714,
+["itemLevel"] = 666.9375,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 776345020,
+["itemLevel"] = 661.9375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 297371265,
+["itemLevel"] = 665.5,
+["classId"] = 1,
+},
+["Misbaksel"] = {
+["total"] = 539073120,
+["itemLevel"] = 662.1875,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 378887231,
+["itemLevel"] = 666.3125,
+["classId"] = 10,
+},
+["Beorrn"] = {
+["total"] = 635102668,
+["itemLevel"] = 668.8666666666667,
+["classId"] = 11,
+},
+["Barrow"] = {
+["total"] = 481752013,
+["itemLevel"] = 658.6875,
+["classId"] = 11,
+},
+["Shambone"] = {
+["total"] = 574673821,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
+},
+["Garanddor"] = {
+["total"] = 567425821,
+["itemLevel"] = 668.625,
+["classId"] = 2,
+},
+["Garmín"] = {
+["total"] = 669921374,
+["itemLevel"] = 666.7333333333333,
+["classId"] = 2,
+},
+["Angri"] = {
+["total"] = 400654620,
+["itemLevel"] = 662.9375,
+["classId"] = 3,
+},
+["Shkia"] = {
+["total"] = 478368275,
+["itemLevel"] = 664.25,
+["classId"] = 9,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 894846075,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Cretino"] = {
+["total"] = 799643599,
+["itemLevel"] = 667.25,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 330428438,
+["itemLevel"] = 667.625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 496253795,
+["itemLevel"] = 664.6875,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 326385848,
+["itemLevel"] = 667.8125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 515656825,
+["itemLevel"] = 662.375,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 513541499,
+["itemLevel"] = 662.8125,
+["classId"] = 11,
+},
+["Bellætrix"] = {
+["total"] = 432097215,
+["itemLevel"] = 667.0625,
+["classId"] = 9,
+},
+["Garanddor"] = {
+["total"] = 897707229,
+["itemLevel"] = 676.5625,
+["classId"] = 2,
+},
+["Shkia"] = {
+["total"] = 533448886,
+["itemLevel"] = 666.6875,
+["classId"] = 9,
+},
+["Beorrn"] = {
+["total"] = 729472756,
+["itemLevel"] = 671.0666666666667,
+["classId"] = 11,
+},
+["Misbaksel"] = {
+["total"] = 460789156,
+["itemLevel"] = 662.8125,
+["classId"] = 3,
+},
+},
+["time"] = 1747247431,
+["date"] = "20:30 14/05/25",
+["elapsed"] = 284.9490000000224,
+["servertime"] = 1747247431,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 332831975,
+["itemLevel"] = 668.5,
+["classId"] = 2,
+},
+["Discotonic"] = {
+["total"] = 309687696,
+["itemLevel"] = 643.9375,
+["classId"] = 5,
+},
+["Potdisc"] = {
+["total"] = 432947944,
+["itemLevel"] = 668.625,
+["classId"] = 5,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1747858542,
+["elapsed"] = 281.8880000000354,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 660945615,
+["itemLevel"] = 677.125,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 566360978,
+["itemLevel"] = 671.9375,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 865581337,
+["itemLevel"] = 669.375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 347642671,
+["itemLevel"] = 668,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 366089309,
+["itemLevel"] = 665.8125,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 637946670,
+["itemLevel"] = 666.25,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 279007163,
+["itemLevel"] = 664.4375,
+["classId"] = 11,
+},
+["Shambone"] = {
+["total"] = 0,
+["itemLevel"] = 667.0625,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 590553840,
+["itemLevel"] = 671.875,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 546278069,
+["itemLevel"] = 667.875,
+["classId"] = 9,
+},
+["Garanddor"] = {
+["total"] = 971682422,
+["itemLevel"] = 678.5,
+["classId"] = 2,
+},
+},
+["servertime"] = 1747858542,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 467633593,
+["itemLevel"] = 669.5625,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 464033323,
+["itemLevel"] = 670.0625,
+["classId"] = 2,
+},
+},
+["date"] = "22:15 21/05/25",
+},
+{
+["date"] = "21:44 04/06/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Benosan"] = {
+["total"] = 436371866,
+["itemLevel"] = 672.8125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 589787050,
+["itemLevel"] = 673.875,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 603554375,
+["itemLevel"] = 673.2,
+["classId"] = 11,
+},
+["Klanky"] = {
+["total"] = 580216306,
+["itemLevel"] = 674.75,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 560721176,
+["itemLevel"] = 671.4375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 410530416,
+["itemLevel"] = 673.4375,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 449752724,
+["itemLevel"] = 672.4375,
+["classId"] = 9,
+},
+["Passeridae"] = {
+["total"] = 434430388,
+["itemLevel"] = 649.875,
+["classId"] = 12,
+},
+},
+["elapsed"] = 260.4880000000012,
+["servertime"] = 1749066296,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 358984418,
+["itemLevel"] = 671.5,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 412523527,
+["itemLevel"] = 675.125,
+["classId"] = 2,
+},
+},
+["time"] = 1749066298,
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1749666093,
+["elapsed"] = 244.7430000000168,
+["DAMAGER"] = {
+["Cretino"] = {
+["total"] = 606911877,
+["itemLevel"] = 674.0625,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 350414420,
+["itemLevel"] = 674.375,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 390325178,
+["itemLevel"] = 674.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 467110903,
+["itemLevel"] = 674.1875,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 649711118,
+["itemLevel"] = 676.125,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 476387846,
+["itemLevel"] = 673.875,
+["classId"] = 11,
+},
+["Garanddor"] = {
+["total"] = 752257122,
+["itemLevel"] = 679.625,
+["classId"] = 2,
+},
+["Angri"] = {
+["total"] = 380057234,
+["itemLevel"] = 669.375,
+["classId"] = 3,
+},
+["Tiekenei"] = {
+["total"] = 550795627,
+["itemLevel"] = 669.3125,
+["classId"] = 7,
+},
+["Passeridae"] = {
+["total"] = 514392183,
+["itemLevel"] = 653.0625,
+["classId"] = 12,
+},
+},
+["servertime"] = 1749666093,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 437206078,
+["itemLevel"] = 672.3125,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 340947602,
+["itemLevel"] = 676.25,
+["classId"] = 2,
+},
+},
+["date"] = "20:21 11/06/25",
+},
+{
+["time"] = 1750271552,
+["guild"] = "Nox Terra",
+["elapsed"] = 234.3239999999933,
+["date"] = "20:32 18/06/25",
+["servertime"] = 1750271553,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 385641807,
+["itemLevel"] = 680.4375,
+["classId"] = 2,
+},
+["Asplor"] = {
+["total"] = 272605322,
+["itemLevel"] = 651.3125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Cretino"] = {
+["total"] = 656248430,
+["itemLevel"] = 675.4375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 338452400,
+["itemLevel"] = 677.5625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 440657017,
+["itemLevel"] = 672.125,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 344232942,
+["itemLevel"] = 675.125,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 631268316,
+["itemLevel"] = 679,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 460447773,
+["itemLevel"] = 675.5,
+["classId"] = 11,
+},
+["Garanddor"] = {
+["total"] = 748706531,
+["itemLevel"] = 681.0625,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 499470576,
+["itemLevel"] = 675.5625,
+["classId"] = 5,
+},
+["Passeridae"] = {
+["total"] = 485963524,
+["itemLevel"] = 656.6875,
+["classId"] = 12,
+},
+["Misbaksel"] = {
+["total"] = 405962690,
+["itemLevel"] = 669.375,
+["classId"] = 3,
+},
+},
+},
+{
+["time"] = 1752691248,
+["guild"] = "Nox Terra",
+["elapsed"] = 355.0770000000484,
+["date"] = "20:40 16/07/25",
+["servertime"] = 1752691248,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 647944467,
+["itemLevel"] = 677,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 614957340,
+["itemLevel"] = 682.25,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["Garrandor"] = {
+["total"] = 718416997,
+["itemLevel"] = 670.5,
+["classId"] = 3,
+},
+["Barrow"] = {
+["total"] = 446011324,
+["itemLevel"] = 675.3125,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 777122192,
+["itemLevel"] = 678.1875,
+["classId"] = 4,
+},
+["Shkia"] = {
+["total"] = 655401638,
+["itemLevel"] = 674.125,
+["classId"] = 9,
+},
+["Angri"] = {
+["total"] = 529531529,
+["itemLevel"] = 677.5,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 786088224,
+["itemLevel"] = 680.4375,
+["classId"] = 6,
+},
+},
+},
+},
+[3130] = {
+{
+["date"] = "20:58 24/08/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 1719905179,
+["itemLevel"] = 697.9375,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 788873567,
+["itemLevel"] = 699.875,
+["classId"] = 3,
+},
+["Shkia"] = {
+["total"] = 1758818074,
+["itemLevel"] = 689.6875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 809412591,
+["itemLevel"] = 689.3125,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 453241323,
+["itemLevel"] = 692.6875,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 1213322451,
+["itemLevel"] = 700.625,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 1676284241,
+["itemLevel"] = 704.1875,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 1311284950,
+["itemLevel"] = 703.1875,
+["classId"] = 11,
+},
+["Sparrowbeast"] = {
+["total"] = 1390960837,
+["itemLevel"] = 686.8125,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 2211898426,
+["itemLevel"] = 703.5625,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 1811231245,
+["itemLevel"] = 697.0625,
+["classId"] = 4,
+},
+["Beorrn"] = {
+["total"] = 1552286439,
+["itemLevel"] = 699.4375,
+["classId"] = 11,
+},
+},
+["elapsed"] = 370.9619999999995,
+["servertime"] = 1756061909,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 1296187301,
+["itemLevel"] = 692.3125,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 658678171,
+["itemLevel"] = 680.875,
+["classId"] = 13,
+},
+["Potdisc"] = {
+["total"] = 1066683254,
+["itemLevel"] = 696.375,
+["classId"] = 5,
+},
+},
+["time"] = 1756061911,
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1756325484,
+["elapsed"] = 335.7489999999962,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1695175398,
+["itemLevel"] = 702.9375,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 1531057155,
+["itemLevel"] = 700.5,
+["classId"] = 3,
+},
+["Shkia"] = {
+["total"] = 1869988759,
+["itemLevel"] = 697.6875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 817477584,
+["itemLevel"] = 694.625,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 540797524,
+["itemLevel"] = 695.875,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 1824455605,
+["itemLevel"] = 706.3125,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 445913554,
+["itemLevel"] = 698.9375,
+["classId"] = 5,
+},
+["Beorrn"] = {
+["total"] = 1546184542,
+["itemLevel"] = 702.375,
+["classId"] = 11,
+},
+["Garadh"] = {
+["total"] = 626801124,
+["itemLevel"] = 700.1875,
+["classId"] = 12,
+},
+["Cretino"] = {
+["total"] = 1502084318,
+["itemLevel"] = 699.625,
+["classId"] = 4,
+},
+["Tbonem"] = {
+["total"] = 1515847579,
+["itemLevel"] = 705.8125,
+["classId"] = 8,
+},
+["Tiekenei"] = {
+["total"] = 1788672102,
+["itemLevel"] = 700.625,
+["classId"] = 7,
+},
+},
+["servertime"] = 1756325483,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 1027301732,
+["itemLevel"] = 696.1875,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 1094883453,
+["itemLevel"] = 688.25,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 1177329935,
+["itemLevel"] = 696.75,
+["classId"] = 2,
+},
+},
+["date"] = "22:11 27/08/25",
+},
+{
+["time"] = 1756929308,
+["guild"] = "Nox Terra",
+["elapsed"] = 244.8969999999972,
+["date"] = "21:55 03/09/25",
+["servertime"] = 1756929307,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 668601963,
+["itemLevel"] = 698.8125,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 961802607,
+["itemLevel"] = 701.9375,
+["classId"] = 13,
+},
+["Potdisc"] = {
+["total"] = 897642428,
+["itemLevel"] = 703.3125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 1437824956,
+["itemLevel"] = 709,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 1284200194,
+["itemLevel"] = 709.1875,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 1083108534,
+["itemLevel"] = 704.1875,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 591229456,
+["itemLevel"] = 701.6875,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 873306411,
+["itemLevel"] = 699.5,
+["classId"] = 3,
+},
+["Benosan"] = {
+["total"] = 885503471,
+["itemLevel"] = 708.6875,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 1314170927,
+["itemLevel"] = 705.6875,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 1003627279,
+["itemLevel"] = 706.625,
+["classId"] = 11,
+},
+["Sparrowbeast"] = {
+["total"] = 1463740012,
+["itemLevel"] = 709,
+["classId"] = 7,
+},
+["Shkia"] = {
+["total"] = 1253894238,
+["itemLevel"] = 701.875,
+["classId"] = 9,
+},
+["Klanky"] = {
+["total"] = 1243550894,
+["itemLevel"] = 704.75,
+["classId"] = 3,
+},
+["Oplichter"] = {
+["total"] = 1055922387,
+["itemLevel"] = 700.5625,
+["classId"] = 2,
+},
+["Velion"] = {
+["total"] = 1183758134,
+["itemLevel"] = 710.875,
+["classId"] = 6,
+},
+},
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1757532665,
+["elapsed"] = 233.0740000000078,
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1420970634,
+["itemLevel"] = 711,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 1334295740,
+["itemLevel"] = 711.25,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 1086556229,
+["itemLevel"] = 703.1875,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 620270426,
+["itemLevel"] = 703.0625,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 920354022,
+["itemLevel"] = 700.5625,
+["classId"] = 9,
+},
+["Benosan"] = {
+["total"] = 906165303,
+["itemLevel"] = 710.7333333333333,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 1436917390,
+["itemLevel"] = 711.7333333333333,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 759594576,
+["itemLevel"] = 711.4375,
+["classId"] = 11,
+},
+["Angri"] = {
+["total"] = 563577110,
+["itemLevel"] = 702.8125,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1351991644,
+["itemLevel"] = 705.8125,
+["classId"] = 4,
+},
+["Garadh"] = {
+["total"] = 1513030000,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+["Potdisc"] = {
+["total"] = 848642809,
+["itemLevel"] = 705.625,
+["classId"] = 5,
+},
+},
+["servertime"] = 1757532664,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 736327943,
+["itemLevel"] = 702.75,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 918227875,
+["itemLevel"] = 705.0625,
+["classId"] = 13,
+},
+},
+["date"] = "21:31 10/09/25",
+},
+{
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1482463089,
+["itemLevel"] = 712.1875,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 797176999,
+["itemLevel"] = 710.1875,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1377804649,
+["itemLevel"] = 708.9375,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 732293528,
+["itemLevel"] = 706.8125,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 597104441,
+["itemLevel"] = 706.4666666666667,
+["classId"] = 3,
+},
+["Tbonem"] = {
+["total"] = 1396210890,
+["itemLevel"] = 712.625,
+["classId"] = 8,
+},
+["Benosan"] = {
+["total"] = 908035873,
+["itemLevel"] = 713.0625,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 1188512379,
+["itemLevel"] = 711.8125,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 1164678799,
+["itemLevel"] = 712.8125,
+["classId"] = 11,
+},
+["Velion"] = {
+["total"] = 1287037818,
+["itemLevel"] = 712.8125,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 1433946460,
+["itemLevel"] = 707.375,
+["classId"] = 5,
+},
+["Shkia"] = {
+["total"] = 1386286013,
+["itemLevel"] = 704.25,
+["classId"] = 9,
+},
+["Bellætrix"] = {
+["total"] = 555166853,
+["itemLevel"] = 701.8125,
+["classId"] = 9,
+},
+["Garadh"] = {
+["total"] = 1491412573,
+["itemLevel"] = 710.875,
+["classId"] = 12,
+},
+},
+["time"] = 1758133596,
+["date"] = "20:26 17/09/25",
+["elapsed"] = 229.7739999999976,
+["servertime"] = 1758133596,
+["HEALER"] = {
+["Oplichter"] = {
+["total"] = 626589092,
+["itemLevel"] = 703,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 859078246,
+["itemLevel"] = 707.25,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 728831631,
+["itemLevel"] = 705.625,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 1132715045,
+["itemLevel"] = 712.6875,
+["classId"] = 12,
+},
+["Klanky"] = {
+["total"] = 1048936651,
+["itemLevel"] = 711.125,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 1311576658,
+["itemLevel"] = 712.0625,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 579061133,
+["itemLevel"] = 708.8125,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 716169606,
+["itemLevel"] = 708.4375,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 1187130772,
+["itemLevel"] = 715.8125,
+["classId"] = 6,
+},
+["Benosan"] = {
+["total"] = 885496256,
+["itemLevel"] = 714.5,
+["classId"] = 10,
+},
+["Tiekenei"] = {
+["total"] = 1256474485,
+["itemLevel"] = 712.625,
+["classId"] = 7,
+},
+["Barrow"] = {
+["total"] = 891017169,
+["itemLevel"] = 712.875,
+["classId"] = 11,
+},
+["Sparrowbeast"] = {
+["total"] = 1212961116,
+["itemLevel"] = 713.375,
+["classId"] = 7,
+},
+["Beorrn"] = {
+["total"] = 988025785,
+["itemLevel"] = 707,
+["classId"] = 11,
+},
+["Tbonem"] = {
+["total"] = 1216444035,
+["itemLevel"] = 713.6666666666666,
+["classId"] = 8,
+},
+["Potdisc"] = {
+["total"] = 1370733987,
+["itemLevel"] = 709.125,
+["classId"] = 5,
+},
+["Bellætrix"] = {
+["total"] = 951781332,
+["itemLevel"] = 707.375,
+["classId"] = 9,
+},
+},
+["time"] = 1758738513,
+["date"] = "20:28 24/09/25",
+["elapsed"] = 194.7130000000034,
+["servertime"] = 1758738513,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 597959443,
+["itemLevel"] = 707.5625,
+["classId"] = 2,
+},
+["Khalheessi"] = {
+["total"] = 732863419,
+["itemLevel"] = 710.1875,
+["classId"] = 13,
+},
+["Oplichter"] = {
+["total"] = 391922541,
+["itemLevel"] = 706.5625,
+["classId"] = 2,
+},
+},
+["guild"] = "Nox Terra",
+},
+{
+["time"] = 1759343561,
+["guild"] = "Nox Terra",
+["elapsed"] = 191.9780000000028,
+["date"] = "20:32 01/10/25",
+["servertime"] = 1759343559,
+["HEALER"] = {
+["Khalheessi"] = {
+["total"] = 672881327,
+["itemLevel"] = 710.375,
+["classId"] = 13,
+},
+["Cidney"] = {
+["total"] = 659322709,
+["itemLevel"] = 711.875,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1290925229,
+["itemLevel"] = 713.375,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 1173981188,
+["itemLevel"] = 715.25,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 1142410601,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 724401631,
+["itemLevel"] = 712.5625,
+["classId"] = 1,
+},
+["Benosan"] = {
+["total"] = 738395248,
+["itemLevel"] = 715.4375,
+["classId"] = 10,
+},
+["Velion"] = {
+["total"] = 1193542524,
+["itemLevel"] = 716.25,
+["classId"] = 6,
+},
+["Potdisc"] = {
+["total"] = 1209646952,
+["itemLevel"] = 712.9375,
+["classId"] = 5,
+},
+["Beorrn"] = {
+["total"] = 1044626535,
+["itemLevel"] = 708.4375,
+["classId"] = 11,
+},
+["Barrow"] = {
+["total"] = 948963389,
+["itemLevel"] = 715.25,
+["classId"] = 11,
+},
+["Garadh"] = {
+["total"] = 1316354839,
+["itemLevel"] = 715.3125,
+["classId"] = 12,
+},
+},
+},
+{
+["guild"] = "Nox Terra",
+["time"] = 1759948109,
+["elapsed"] = 228.752999999997,
+["DAMAGER"] = {
+["Tbonem"] = {
+["total"] = 889217968,
+["itemLevel"] = 715.625,
+["classId"] = 8,
+},
+["Shkia"] = {
+["total"] = 931701510,
+["itemLevel"] = 707.625,
+["classId"] = 9,
+},
+["Daveus-Draenor"] = {
+["total"] = 645043951,
+["itemLevel"] = 714.75,
+["classId"] = 1,
+},
+["Bellætrix"] = {
+["total"] = 1152986650,
+["itemLevel"] = 707.9375,
+["classId"] = 9,
+},
+["Benó"] = {
+["total"] = 856460741,
+["itemLevel"] = 712.4375,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 1041858270,
+["itemLevel"] = 716.6875,
+["classId"] = 11,
+},
+["Cretino"] = {
+["total"] = 1233983945,
+["itemLevel"] = 712.8125,
+["classId"] = 4,
+},
+["Angri"] = {
+["total"] = 1128844577,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 1286043291,
+["itemLevel"] = 718.375,
+["classId"] = 6,
+},
+["Klanky"] = {
+["total"] = 1349503367,
+["itemLevel"] = 711.875,
+["classId"] = 3,
+},
+},
+["servertime"] = 1759948108,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 777974083,
+["itemLevel"] = 712.375,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 774387188,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["date"] = "20:28 08/10/25",
+},
+{
+["date"] = "20:21 15/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Sparrowbeast"] = {
+["total"] = 1404899448,
+["itemLevel"] = 718.75,
+["classId"] = 7,
+},
+["Klanky"] = {
+["total"] = 1130697529,
+["itemLevel"] = 714.5625,
+["classId"] = 3,
+},
+["Cretino"] = {
+["total"] = 982314237,
+["itemLevel"] = 715.25,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 582277077,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 655090554,
+["itemLevel"] = 712,
+["classId"] = 3,
+},
+["Velion"] = {
+["total"] = 1159160001,
+["itemLevel"] = 719.25,
+["classId"] = 6,
+},
+["Garadh"] = {
+["total"] = 1286225900,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tiekenei"] = {
+["total"] = 1192234339,
+["itemLevel"] = 715.9375,
+["classId"] = 7,
+},
+["Tbonem"] = {
+["total"] = 1014072309,
+["itemLevel"] = 718.25,
+["classId"] = 8,
+},
+["Bellætrix"] = {
+["total"] = 776067114,
+["itemLevel"] = 711.5625,
+["classId"] = 9,
+},
+["Shkia"] = {
+["total"] = 1031100659,
+["itemLevel"] = 708,
+["classId"] = 9,
+},
+["Benó"] = {
+["total"] = 729636645,
+["itemLevel"] = 714.625,
+["classId"] = 6,
+},
+},
+["elapsed"] = 190.1950000000006,
+["servertime"] = 1760552498,
+["HEALER"] = {
+["Potdisc"] = {
+["total"] = 838156075,
+["itemLevel"] = 713.875,
+["classId"] = 5,
+},
+["Cidney"] = {
+["total"] = 648985425,
+["itemLevel"] = 714.125,
+["classId"] = 2,
+},
+},
+["time"] = 1760552501,
+},
+{
+["date"] = "20:24 26/10/25",
+["guild"] = "Nox Terra",
+["DAMAGER"] = {
+["Garadh"] = {
+["total"] = 787404561,
+["itemLevel"] = 715.5,
+["classId"] = 12,
+},
+["Tbonem"] = {
+["total"] = 1264273151,
+["itemLevel"] = 722.2,
+["classId"] = 8,
+},
+["Cretino"] = {
+["total"] = 1094271229,
+["itemLevel"] = 718.75,
+["classId"] = 4,
+},
+["Daveus-Draenor"] = {
+["total"] = 616013101,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Angri"] = {
+["total"] = 1106820470,
+["itemLevel"] = 713.875,
+["classId"] = 3,
+},
+["Lightflicker"] = {
+["total"] = 529629616,
+["itemLevel"] = 661.9333333333333,
+["classId"] = 2,
+},
+["Velion"] = {
+["total"] = 1146078817,
+["itemLevel"] = 727.25,
+["classId"] = 6,
+},
+["Barrow"] = {
+["total"] = 1223125688,
+["itemLevel"] = 722.6,
+["classId"] = 11,
+},
+["Shkia"] = {
+["total"] = 1248467298,
+["itemLevel"] = 710.6875,
+["classId"] = 9,
+},
+["Tiekenei"] = {
+["total"] = 1439967678,
+["itemLevel"] = 717.4375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 201.625,
+["servertime"] = 1761506662,
+["HEALER"] = {
+["Cidney"] = {
+["total"] = 596972609,
+["itemLevel"] = 716.9375,
+["classId"] = 2,
+},
+["Potdisc"] = {
+["total"] = 833422124,
+["itemLevel"] = 715.4375,
+["classId"] = 5,
+},
+},
+["time"] = 1761506662,
+},
+},
+},
+["saved_encounters"] = {
+},
+["Data"] = {
+},
+["raidfinder"] = {
+[3015] = {
+},
+[3009] = {
+},
+[3010] = {
+},
+[3011] = {
+},
+[3012] = {
+},
+[3013] = {
+},
+[3014] = {
+},
+[3016] = {
 },
 },
 }

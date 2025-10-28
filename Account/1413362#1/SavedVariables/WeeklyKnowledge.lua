@@ -16,9 +16,9 @@ WeeklyKnowledgeDB = {
 ["raceEnglish"] = "",
 ["realmName"] = "",
 ["classID"] = 0,
+["raceName"] = "",
 ["completed"] = {
 },
-["raceName"] = "",
 ["professions"] = {
 },
 ["name"] = "",
@@ -32,13 +32,9 @@ WeeklyKnowledgeDB = {
 ["enabled"] = true,
 ["GUID"] = "Player-1329-0625A67D",
 ["factionEnglish"] = "Alliance",
-["raceName"] = "Human",
-["lastUpdate"] = 1760557722,
-["realmName"] = "Ravencrest",
-["classID"] = 4,
-["name"] = "Cretino",
 ["completed"] = {
 [83856] = true,
+[84292] = true,
 [83860] = true,
 [83862] = true,
 [83058] = true,
@@ -59,7 +55,15 @@ WeeklyKnowledgeDB = {
 [83846] = true,
 [83864] = true,
 [84290] = true,
+[84293] = true,
+[84294] = true,
+[84295] = true,
 },
+["raceEnglish"] = "Human",
+["realmName"] = "Ravencrest",
+["classID"] = 4,
+["name"] = "Cretino",
+["raceName"] = "Human",
 ["professions"] = {
 {
 ["knowledgeMaxLevel"] = 565,
@@ -194,9 +198,9 @@ WeeklyKnowledgeDB = {
 },
 {
 ["knowledgeMaxLevel"] = 640,
-["knowledgeLevel"] = 494,
+["knowledgeLevel"] = 500,
 ["skillLineID"] = 333,
-["knowledgeUnspent"] = 0,
+["knowledgeUnspent"] = 4,
 ["maxLevel"] = 100,
 ["specializations"] = {
 {
@@ -279,7 +283,7 @@ WeeklyKnowledgeDB = {
 },
 },
 ["description"] = "Perfect the art of temporary illusions, equipment, reagents, and mana oils.",
-["knowledgeLevel"] = 144,
+["knowledgeLevel"] = 150,
 ["rootIconID"] = 4224731,
 ["configID"] = 37877127,
 ["state"] = 1,
@@ -307,8 +311,8 @@ WeeklyKnowledgeDB = {
 ["isTradeable"] = false,
 ["useTotalEarnedForMaxQty"] = true,
 ["currencyID"] = 3059,
-["totalEarned"] = 378,
-["quantity"] = 378,
+["totalEarned"] = 387,
+["quantity"] = 387,
 ["name"] = "11.0 Professions - Tracker - Weekly Enchanting Knowledge",
 ["maxWeeklyQuantity"] = 0,
 ["quality"] = 0,
@@ -322,7 +326,7 @@ WeeklyKnowledgeDB = {
 ["className"] = "Rogue",
 ["factionName"] = "Alliance",
 ["level"] = 80,
-["raceEnglish"] = "Human",
+["lastUpdate"] = 1761592518,
 ["raceID"] = 1,
 },
 ["Player-1329-0A73CA02"] = {
@@ -351,9 +355,9 @@ WeeklyKnowledgeDB = {
 ["raceEnglish"] = "",
 ["realmName"] = "",
 ["classID"] = 0,
-["raceName"] = "",
 ["completed"] = {
 },
+["raceName"] = "",
 ["professions"] = {
 },
 ["name"] = "",
@@ -364,7 +368,7 @@ WeeklyKnowledgeDB = {
 ["raceID"] = 0,
 },
 },
-["weeklyReset"] = 1761105596,
+["weeklyReset"] = 1761710399,
 ["minimap"] = {
 ["showInCompartment"] = true,
 },

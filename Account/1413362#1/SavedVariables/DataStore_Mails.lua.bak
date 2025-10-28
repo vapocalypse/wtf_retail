@@ -1,12 +1,22 @@
 
 DataStore_Mails_Characters = {
 {
-["lastUpdate"] = 1760547685,
+["lastUpdate"] = 1761583058,
 ["Mails"] = {
+{
+["lastCheck"] = 1761583058,
+["sender"] = "Barrow",
+["subject"] = "Nox Terra",
+["returned"] = false,
+["money"] = 0,
+["text"] = "Thank you for being part of the team. We love having you with us and hope to continue together for a while.\n\nNox Terra",
+["icon"] = 134327,
+["daysLeft"] = 26.12762641906738,
+},
 },
 ["MailCache"] = {
 },
-["lastVisitDate"] = "2025/10/15 19:01",
+["lastVisitDate"] = "2025/10/27 17:37",
 },
 {
 ["lastUpdate"] = 1757958979,
@@ -83,10 +93,20 @@ DataStore_Mails_Characters = {
 },
 },
 {
-["lastUpdate"] = 1760478991,
+["lastUpdate"] = 1761375532,
 ["Mails"] = {
+{
+["icon"] = 134327,
+["sender"] = "Thaumaturge Vashreen",
+["subject"] = "Lost Item",
+["returned"] = false,
+["money"] = 0,
+["text"] = "We discovered this curious item in one of our vaults, and it apparently belongs to you.",
+["lastCheck"] = 1761375532,
+["daysLeft"] = 26.68458366394043,
 },
-["lastVisitDate"] = "2025/10/14 23:56",
+},
+["lastVisitDate"] = "2025/10/25 08:58",
 ["MailCache"] = {
 },
 },

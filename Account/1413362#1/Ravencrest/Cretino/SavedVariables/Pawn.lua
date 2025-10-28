@@ -1,13 +1,13 @@
 
 PawnOptions = {
-["LastVersion"] = 2.1108,
+["LastVersion"] = 2.1109,
 ["LastPlayerFullName"] = "Cretino-Ravencrest",
 ["AutoSelectScales"] = true,
 ["ItemLevels"] = {
 {
 ["ID"] = 237664,
-["Level"] = 710,
-["Link"] = "|cnIQ4:|Hitem:237664::213743::::::80:259::108:7:12231:6652:12365:12676:12355:1520:10255:1:28:2462:::::|h[Hood of the Sudden Eclipse]|h|r",
+["Level"] = 717,
+["Link"] = "|cnIQ4:|Hitem:237664::213743::::::80:260::108:7:12231:6652:12365:12676:13444:1527:10255:1:28:2462:::::|h[Hood of the Sudden Eclipse]|h|r",
 },
 {
 ["ID"] = 215136,
@@ -22,23 +22,23 @@ PawnOptions = {
 nil,
 {
 ["ID"] = 237667,
-["Level"] = 710,
-["Link"] = "|cnIQ4:|Hitem:237667:7364:::::::80:260::5:7:10355:12229:6652:12676:12355:1520:10255:1:28:2462:::::|h[Tactical Vest of the Sudden Eclipse]|h|r",
+["Level"] = 717,
+["Link"] = "|cnIQ4:|Hitem:237667:7364:::::::80:260::5:7:10355:12229:6652:12676:13444:1527:10255:1:28:2462:::::|h[Tactical Vest of the Sudden Eclipse]|h|r",
 },
 {
-["ID"] = 237557,
-["Level"] = 704,
-["Link"] = "|cnIQ4:|Hitem:237557::::::::80:260::3:7:6652:12921:12239:10354:12297:1514:10255:1:28:2462:::::|h[Reaper's Dreadbelt]|h|r",
+["ID"] = 219331,
+["Level"] = 720,
+["Link"] = "|cnIQ4:|Hitem:219331::::::::80:260::13:8:10421:9633:8902:9627:12053:8795:12050:12921:9:28:2734:29:36:30:49:38:8:40:1437:46:231768:48:222596:49:231756:52:248447:::::|h[Rune-Branded Waistband |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 },
 {
 ["ID"] = 237663,
-["Level"] = 710,
-["Link"] = "|cnIQ4:|Hitem:237663:7601:::::::80:260::5:7:10355:12232:6652:12676:12355:1520:10255:1:28:2462:::::|h[Pants of the Sudden Eclipse]|h|r",
+["Level"] = 717,
+["Link"] = "|cnIQ4:|Hitem:237663:7601:::::::80:260::5:7:10355:12232:6652:12676:13444:1527:10255:1:28:2462:::::|h[Pants of the Sudden Eclipse]|h|r",
 },
 {
 ["ID"] = 243306,
-["Level"] = 714,
-["Link"] = "|cnIQ4:|Hitem:243306:7424:::::::80:260::5:7:40:12239:10355:13503:13443:1524:10255:1:28:2462:::::|h[Interloper's Reinforced Sandals]|h|r",
+["Level"] = 717,
+["Link"] = "|cnIQ4:|Hitem:243306:7424:::::::80:260::5:7:40:12239:10355:13503:13444:1527:10255:1:28:2462:::::|h[Interloper's Reinforced Sandals]|h|r",
 },
 {
 ["ID"] = 237546,

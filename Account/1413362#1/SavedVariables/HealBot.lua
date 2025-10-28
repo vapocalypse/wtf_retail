@@ -80,10 +80,10 @@ Healbot_Config_Skins = {
 ["Anchors"] = {
 ["Group"] = {
 {
-["Y"] = 58.6,
-["X"] = 15.84,
-["RealY"] = 103,
-["RealX"] = -729,
+["Y"] = 64.61,
+["X"] = 15.21,
+["RealY"] = 175,
+["RealX"] = -743,
 },
 {
 ["Y"] = 51,
@@ -750,63 +750,9 @@ Healbot_Config_Skins = {
 ["Raid 25"] = {
 },
 },
-["Healing"] = {
-["Group"] = {
-},
-["Raid 40"] = {
-},
-["Standard"] = {
-},
-["Raid 25"] = {
-},
+["ToolTip"] = {
 },
 ["Icons"] = {
-["Group"] = {
-},
-["Raid 40"] = {
-},
-["Standard"] = {
-},
-["Raid 25"] = {
-},
-},
-["DupBarsPrivList"] = {
-["Group"] = true,
-["Raid 40"] = true,
-["Standard"] = true,
-["Raid 25"] = true,
-},
-["BarCol"] = {
-["Group"] = {
-},
-["Raid 40"] = {
-},
-["Standard"] = {
-},
-["Raid 25"] = {
-},
-},
-["IconText"] = {
-["Group"] = {
-},
-["Raid 40"] = {
-},
-["Standard"] = {
-},
-["Raid 25"] = {
-},
-},
-["RaidIcon"] = {
-["Group"] = {
-},
-["Raid 40"] = {
-},
-["Standard"] = {
-},
-["Raid 25"] = {
-},
-},
-["CustomCols"] = {
 ["Group"] = {
 },
 ["Raid 40"] = {
@@ -870,7 +816,61 @@ Healbot_Config_Skins = {
 "Absorbs",
 },
 },
-["ToolTip"] = {
+["BarCol"] = {
+["Group"] = {
+},
+["Raid 40"] = {
+},
+["Standard"] = {
+},
+["Raid 25"] = {
+},
+},
+["CustomCols"] = {
+["Group"] = {
+},
+["Raid 40"] = {
+},
+["Standard"] = {
+},
+["Raid 25"] = {
+},
+},
+["RaidIcon"] = {
+["Group"] = {
+},
+["Raid 40"] = {
+},
+["Standard"] = {
+},
+["Raid 25"] = {
+},
+},
+["IconText"] = {
+["Group"] = {
+},
+["Raid 40"] = {
+},
+["Standard"] = {
+},
+["Raid 25"] = {
+},
+},
+["DupBarsPrivList"] = {
+["Group"] = true,
+["Raid 40"] = true,
+["Standard"] = true,
+["Raid 25"] = true,
+},
+["Healing"] = {
+["Group"] = {
+},
+["Raid 40"] = {
+},
+["Standard"] = {
+},
+["Raid 25"] = {
+},
 },
 ["Enemy"] = {
 ["Group"] = {
@@ -1015,7 +1015,7 @@ HealBot_Globals = {
 },
 ["Tooltip_IgnoreGCD"] = false,
 ["aggro2pct"] = 55,
-["CPUUsage"] = 23,
+["CPUUsage"] = 24,
 ["SmartCastDebuff"] = true,
 ["Tooltip_MouseWheel"] = false,
 ["CustomDebuffsFilter"] = {
@@ -1209,7 +1209,7 @@ HealBot_Globals = {
 },
 ["CustomDebuffsIconSet"] = {
 },
-["FPS"] = 92,
+["FPS"] = 96,
 ["IgnoreCustomBuff"] = {
 },
 ["WatchHoT"] = {
@@ -1237,7 +1237,7 @@ HealBot_Globals = {
 [196644] = 1,
 [77489] = 1,
 [27827] = 1,
-[70772] = 1,
+[139] = 1,
 [212570] = 1,
 [197031] = 1,
 [196490] = 1,
@@ -1253,7 +1253,7 @@ HealBot_Globals = {
 [47536] = 1,
 [114255] = 1,
 [15286] = 1,
-[139] = 1,
+[70772] = 1,
 },
 ["HUNT"] = {
 [136] = 1,
@@ -1308,21 +1308,21 @@ HealBot_Globals = {
 [359816] = 1,
 },
 ["ALL"] = {
-[208215] = 1,
-[242586] = 1,
-[221878] = 1,
 [272276] = 1,
+[225126] = 1,
+[221878] = 1,
+[208215] = 1,
 [208052] = 1,
 [28880] = 1,
-[225126] = 1,
-[242622] = 1,
-[271843] = 1,
-[253287] = 1,
-[242623] = 1,
-[235966] = 1,
+[242586] = 1,
 [215247] = 1,
+[271843] = 1,
+[242622] = 1,
+[242623] = 1,
 [20594] = 1,
 [68992] = 1,
+[235966] = 1,
+[253287] = 1,
 },
 ["DEMO"] = {
 [212800] = 1,
@@ -1351,17 +1351,17 @@ HealBot_Globals = {
 [73685] = 1,
 },
 ["ROGU"] = {
-[1966] = 1,
 [31224] = 1,
-[5277] = 1,
 [11327] = 1,
+[5277] = 1,
+[1966] = 1,
 },
 ["DEAT"] = {
 [42650] = 1,
 [48707] = 1,
 [55233] = 1,
-[48792] = 1,
 [116888] = 1,
+[48792] = 1,
 [81256] = 1,
 [51052] = 1,
 },
@@ -1387,8 +1387,8 @@ HealBot_Globals = {
 [20216] = 1,
 [200654] = 1,
 [216327] = 1,
-[200025] = 1,
 [223306] = 1,
+[200025] = 1,
 [287280] = 1,
 [1044] = 1,
 [210256] = 1,
@@ -1413,18 +1413,18 @@ HealBot_Globals = {
 ["MAGE"] = {
 [168] = 1,
 [12051] = 1,
-[30482] = 1,
+[235450] = 1,
 [116267] = 1,
 [12042] = 1,
 [130] = 1,
-[45438] = 1,
-[235450] = 1,
+[235313] = 1,
+[30482] = 1,
 [11426] = 1,
 [7302] = 1,
 [6117] = 1,
 [604] = 1,
 [1463] = 1,
-[235313] = 1,
+[45438] = 1,
 },
 },
 ["AcceptSkins"] = 1,
@@ -1482,7 +1482,7 @@ true,
 "lodJlK4kjU4a8d",
 "lodJlK4kjU4a8d",
 },
-["LASTSAVE"] = 1760569145,
+["LASTSAVE"] = 1761612877,
 ["FREQSAVES"] = false,
 ["BUFFS"] = {
 "lodJlK4kjU4a8d",
@@ -1534,8 +1534,8 @@ true,
 ["PluginRequests"] = true,
 ["TopRole"] = "TANK",
 ["HealBot_ButtonPosition"] = 300,
-["AbsorbDiv"] = 100,
 ["Tooltip_ShowCD"] = false,
+["AbsorbDiv"] = 100,
 ["excludeMount"] = {
 },
 ["Tooltip_MaxButtons"] = 5,

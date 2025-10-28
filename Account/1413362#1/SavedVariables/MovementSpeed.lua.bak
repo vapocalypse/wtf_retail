@@ -5,30 +5,14 @@ MovementSpeedDB = {
 ["title"] = "Main",
 ["data"] = {
 ["travelSpeed"] = {
-["background"] = {
-["visible"] = false,
-["colors"] = {
-["bg"] = {
-["a"] = 0.5,
-["r"] = 0,
-["g"] = 0,
-["b"] = 0,
-},
-["border"] = {
-["a"] = 0.4,
-["r"] = 1,
-["g"] = 1,
-["b"] = 1,
-},
-},
-},
+["keepInBounds"] = true,
 ["font"] = {
 ["alignment"] = "CENTER",
 ["color"] = {
 ["a"] = 1,
-["r"] = 1,
-["g"] = 1,
 ["b"] = 1,
+["g"] = 1,
+["r"] = 1,
 },
 ["valueColoring"] = true,
 ["family"] = "Interface/AddOns/ElvUI/Core/Media/Fonts/PTSansNarrow.ttf",
@@ -55,42 +39,42 @@ false,
 false,
 },
 },
-["keepInBounds"] = true,
+["layer"] = {
+["keepOnTop"] = false,
+["strata"] = "MEDIUM",
+},
 ["visibility"] = {
 ["statusNotice"] = true,
 ["hidden"] = true,
 ["autoHide"] = false,
 },
-["layer"] = {
-["keepOnTop"] = false,
-["strata"] = "MEDIUM",
-},
-},
-["playerSpeed"] = {
 ["background"] = {
 ["visible"] = false,
 ["colors"] = {
 ["bg"] = {
 ["a"] = 0.5,
-["r"] = 0,
-["g"] = 0,
 ["b"] = 0,
+["g"] = 0,
+["r"] = 0,
 },
 ["border"] = {
 ["a"] = 0.4,
-["r"] = 1,
-["g"] = 1,
 ["b"] = 1,
+["g"] = 1,
+["r"] = 1,
 },
 },
 },
+},
+["playerSpeed"] = {
+["keepInBounds"] = true,
 ["font"] = {
 ["alignment"] = "CENTER",
 ["color"] = {
 ["a"] = 1,
-["r"] = 1,
-["g"] = 1,
 ["b"] = 1,
+["g"] = 1,
+["r"] = 1,
 },
 ["valueColoring"] = true,
 ["family"] = "Interface/AddOns/ElvUI/Core/Media/Fonts/PTSansNarrow.ttf",
@@ -117,15 +101,31 @@ false,
 false,
 },
 },
-["keepInBounds"] = true,
+["layer"] = {
+["keepOnTop"] = false,
+["strata"] = "MEDIUM",
+},
 ["visibility"] = {
 ["statusNotice"] = true,
 ["hidden"] = false,
 ["autoHide"] = false,
 },
-["layer"] = {
-["keepOnTop"] = false,
-["strata"] = "MEDIUM",
+["background"] = {
+["visible"] = false,
+["colors"] = {
+["bg"] = {
+["a"] = 0.5,
+["b"] = 0,
+["g"] = 0,
+["r"] = 0,
+},
+["border"] = {
+["a"] = 0.4,
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+},
 },
 },
 ["targetSpeed"] = {

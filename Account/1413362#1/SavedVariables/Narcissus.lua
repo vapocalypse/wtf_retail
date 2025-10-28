@@ -52,19 +52,31 @@ NarcissusDB = {
 ["TranslateName"] = false,
 ["TalentTreeUseClassBackground"] = false,
 ["DressingRoomShowSlot"] = true,
-["installTime"] = 1757077476,
 ["EnableDoubleTap"] = false,
+["SearchRelativesHotkey"] = "TAB",
 ["AutoPlayAnimation"] = false,
 ["AFKScreen"] = false,
 ["ConduitTooltip"] = false,
 ["AKFScreenDelay"] = false,
-["SearchRelativesHotkey"] = "TAB",
+["installTime"] = 1757077476,
 ["Version"] = 10000,
 ["UseEntranceVisual"] = true,
 ["SpeedyScreenshotAlert"] = true,
 ["TalentTreeForEquipmentManager"] = true,
 ["IndependentMinimapButton"] = false,
 ["NameTranslationPosition"] = 1,
+["NamePlateNameOffset"] = 0,
+["TalentTreeAnchor"] = 1,
+["MissingEnchantAlert"] = false,
+["GemManager"] = true,
+["ModelPanelScale"] = 1,
+["AutoDisplayQuestItem"] = false,
+["TalentTreeForPaperDoll"] = false,
+["TooltipTheme"] = "Bright",
+["TalentTreeForInspection"] = true,
+["CameraOrbit"] = true,
+["TooltipLanguages"] = {
+},
 ["PerksProgramDB"] = {
 ["MonthNames"] = {
 {
@@ -83,18 +95,6 @@ NarcissusDB = {
 ["CurrentMonthData"] = {
 },
 },
-["TalentTreeAnchor"] = 1,
-["MissingEnchantAlert"] = false,
-["GemManager"] = true,
-["ModelPanelScale"] = 1,
-["AutoDisplayQuestItem"] = false,
-["TalentTreeForPaperDoll"] = false,
-["TooltipTheme"] = "Bright",
-["TalentTreeForInspection"] = true,
-["CameraOrbit"] = true,
-["TooltipLanguages"] = {
-},
-["NamePlateNameOffset"] = 0,
 ["AnchorToMinimap"] = true,
 ["Tutorials"] = {
 ["ExitConfirmation"] = true,
@@ -157,7 +157,7 @@ NarciCharacterProfiles = {
 ["name"] = "Cretino",
 ["birth"] = 1757077504,
 ["serverID"] = "1329",
-["lastVisit"] = 1760557714,
+["lastVisit"] = 1761591535,
 ["outfits"] = {
 {
 ["s"] = "19472,19475,77345,19469,1255,83203,19088,19470,19287,19473,19036,80726,73714",
@@ -227,7 +227,7 @@ NarciCharacterProfiles = {
 ["name"] = "Wanpan",
 ["birth"] = 1759922906,
 ["serverID"] = "1329",
-["lastVisit"] = 1760558074,
+["lastVisit"] = 1761607828,
 ["outfits"] = {
 },
 ["class"] = 10,

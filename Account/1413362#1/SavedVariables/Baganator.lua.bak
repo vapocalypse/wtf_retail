@@ -347,7 +347,7 @@ BAGANATOR_CONFIG = {
 ["bag_view_width"] = 15,
 ["disabled_skins"] = {
 },
-["setting_anchors"] = false,
+["sort_ignore_slots_count_2"] = 0,
 ["guild_current_tab"] = 1,
 ["currencies_tracked_imported"] = 0,
 ["bag_icon_size"] = 37,
@@ -392,7 +392,7 @@ BAGANATOR_CONFIG = {
 },
 ["debug_timers"] = false,
 ["show_sort_button_2"] = true,
-["sort_ignore_slots_count_2"] = 0,
+["setting_anchors"] = false,
 ["saved_searches"] = {
 },
 ["currency_panel_position"] = {

@@ -1,11 +1,4 @@
 Version: 1
-Frame: f1_HealBot_Action
-FrameLevel: 1
-Anchor: LEFT
-X: 338
-Y: 66
-W: 94
-H: 74
 Frame: MovementSpeedPlayerSpeed
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -29,9 +22,9 @@ W: 261
 H: 595
 Frame: HealBot_Options
 FrameLevel: 1
-Anchor: CENTER
-X: 241
-Y: 50
+Anchor: RIGHT
+X: -231
+Y: 1
 W: 860
 H: 750
 Frame: MovementSpeedTravelSpeed

@@ -5,9 +5,22 @@ MovementSpeedDB = {
 ["title"] = "Main",
 ["data"] = {
 ["travelSpeed"] = {
-["layer"] = {
-["keepOnTop"] = false,
-["strata"] = "MEDIUM",
+["background"] = {
+["visible"] = false,
+["colors"] = {
+["bg"] = {
+["a"] = 0.5,
+["b"] = 0,
+["g"] = 0,
+["r"] = 0,
+},
+["border"] = {
+["a"] = 0.4,
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+},
 },
 ["font"] = {
 ["alignment"] = "CENTER",
@@ -43,6 +56,17 @@ false,
 false,
 },
 },
+["keepInBounds"] = true,
+["update"] = {
+["throttle"] = true,
+["frequency"] = 0.1,
+},
+["layer"] = {
+["keepOnTop"] = false,
+["strata"] = "MEDIUM",
+},
+},
+["playerSpeed"] = {
 ["background"] = {
 ["visible"] = false,
 ["colors"] = {
@@ -59,17 +83,6 @@ false,
 ["r"] = 1,
 },
 },
-},
-["update"] = {
-["throttle"] = true,
-["frequency"] = 0.1,
-},
-["keepInBounds"] = true,
-},
-["playerSpeed"] = {
-["layer"] = {
-["keepOnTop"] = false,
-["strata"] = "MEDIUM",
 },
 ["font"] = {
 ["alignment"] = "CENTER",
@@ -105,28 +118,15 @@ false,
 false,
 },
 },
-["background"] = {
-["visible"] = false,
-["colors"] = {
-["bg"] = {
-["a"] = 0.5,
-["b"] = 0,
-["g"] = 0,
-["r"] = 0,
-},
-["border"] = {
-["a"] = 0.4,
-["b"] = 1,
-["g"] = 1,
-["r"] = 1,
-},
-},
-},
+["keepInBounds"] = true,
 ["update"] = {
 ["throttle"] = false,
 ["frequency"] = 0.1,
 },
-["keepInBounds"] = true,
+["layer"] = {
+["keepOnTop"] = false,
+["strata"] = "MEDIUM",
+},
 },
 ["customPreset"] = {
 ["keepInBounds"] = true,

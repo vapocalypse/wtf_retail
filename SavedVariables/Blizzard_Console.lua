@@ -1,325 +1,10 @@
 
 Blizzard_Console_SavedVars = {
 ["version"] = 3,
+["height"] = 300,
 ["messageHistory"] = {
 {
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 1.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Changed difficulty successfully",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Completed challenge mode mapID 1458, level 2, time 362666",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
+"Proficiency in item class 4 set to 0x0000000027",
 0,
 },
 {
@@ -327,7 +12,219 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 4, intensity 1.000000\n",
+"Time set to 10/26/2025 (Sun) 3:00",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 2d 21h 51m 59s",
+0,
+},
+{
+"Level: 2d 4h 41m 19s",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 2d 21h 52m 41s",
+0,
+},
+{
+"Level: 2d 4h 42m 1s",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.600000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.600000\n",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"Weather changed to 1, intensity 0.600000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
 0,
 },
 {
@@ -351,7 +248,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 1.000000\n",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -359,7 +256,75 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"GameTimeSync: delta=0, differential=64, HoursAndMinutes=272",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
 "Weather changed to 1, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -371,59 +336,31 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
 "Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Test CVar test_cameraDynamicPitch has been set to 0 (default 0.000000)",
-0,
-},
-{
-"Test CVar test_cameraOverShoulder has been set to 0 (default 0.000000)",
-0,
-},
-{
-"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
-0,
-},
-{
-"ACTION Camera set to 'off' - 'Disable action cam features'",
+"World transfer pending...",
 0,
 },
 {
 "Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"Weather changed to 1, intensity 0.750000\n",
 0,
 },
 {
@@ -444,26 +381,6 @@ Blizzard_Console_SavedVars = {
 },
 {
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
 0,
 },
 {
@@ -547,11 +464,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Water detail changed to 2",
+"Water detail changed to 0",
 0,
 },
 {
-"Ripple detail changed to 1",
+"Ripple detail changed to 0",
 0,
 },
 {
@@ -563,19 +480,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Sunshafts quality changed to 1",
+"Sunshafts quality changed to 0",
 0,
 },
 {
-"Refraction mode changed to 1",
+"Refraction mode changed to 0",
 0,
 },
 {
-"Volume fog enabled.",
+"Volume fog disabled.",
 0,
 },
 {
-"Particulate volumes enabled.",
+"Particulate volumes disabled.",
 0,
 },
 {
@@ -583,7 +500,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Shadow mode changed to 2 - 2 band dynamic shadows on units and terrain, 1024",
+"Shadow mode changed to 0 - Blob shadows",
 0,
 },
 {
@@ -599,7 +516,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Number of shadow cascades changed to 2",
+"Number of shadow cascades changed to 1",
 0,
 },
 {
@@ -615,7 +532,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Clustered shading enabled.",
+"Clustered shading disabled.",
 0,
 },
 {
@@ -623,7 +540,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"SSAO mode set to 2",
+"SSAO mode set to 0",
 0,
 },
 {
@@ -631,7 +548,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Depth Based Opacity Enabled",
+"Depth Based Opacity Disabled",
 0,
 },
 {
@@ -647,7 +564,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Outline mode changed to 2",
+"Outline mode changed to 1",
 0,
 },
 {
@@ -815,7 +732,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 10/14/2025 (Tue) 21:10",
+"Time set to 10/26/2025 (Sun) 14:23",
 0,
 },
 {
@@ -835,11 +752,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Total: 0d 20h 21m 49s",
+"Total: 3d 0h 1m 35s",
 0,
 },
 {
-"Level: 0d 3h 11m 9s",
+"Level: 2d 6h 50m 55s",
 0,
 },
 {
@@ -847,123 +764,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Total: 0d 20h 22m 19s",
+"Total: 3d 0h 1m 57s",
 0,
 },
 {
-"Level: 0d 3h 11m 39s",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.750000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.750000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.750000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
+"Level: 2d 6h 51m 17s",
 0,
 },
 {
@@ -995,15 +800,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
+"World transfer pending...",
 0,
 },
 {
@@ -1015,11 +812,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Got new connection 3",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Got new connection 3",
+"World transfer pending...",
 0,
 },
 {
@@ -1031,6 +828,10 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"World transfer pending...",
+0,
+},
+{
 "Got new connection 3",
 0,
 },
@@ -1039,7 +840,1303 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Player-1329-0A73CA02 TRAIT_VALIDATION: Failure: Config 62699632. 140 pending (including duplicates) after adding all open nodes.",
+0,
+},
+{
+"Player-1329-0A73CA02 TRAIT_VALIDATION: Failure: Config 62699632. 140 pending (including duplicates) after adding all open nodes.",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Sorting particles normally.",
+0,
+},
+{
+"Multithreaded rendering enabled.",
+0,
+},
+{
+"Multithreaded BeginDraw enabled.",
+0,
+},
+{
+"Multithread shadows changed to 1.",
+0,
+},
+{
+"Multithreaded prepass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded alpha M2 pass enabled.",
+0,
+},
+{
+"Multithreaded opaque WMO pass enabled.",
+0,
+},
+{
+"Multithreaded terrain pass enabled.",
+0,
+},
+{
+"Multithreaded volumetric fog enabled.",
+0,
+},
+{
+"Multithreaded Refraction Pass enabled.",
+0,
+},
+{
+"Multithreaded miscellaneous passes enabled.",
+0,
+},
+{
+"Multithreaded decal passes disabled.",
+0,
+},
+{
+"Multithreaded outline passes enabled.",
+0,
+},
+{
+"Multithreaded lightshaft passes enabled.",
+0,
+},
+{
+"Multithreaded alpha pass enabled.",
+0,
+},
+{
+"Multithreaded daynight update enabled.",
+0,
+},
+{
+"Water detail changed to 0",
+0,
+},
+{
+"Ripple detail changed to 0",
+0,
+},
+{
+"Reflection mode changed to 0",
+0,
+},
+{
+"Reflection downscale changed to 0",
+0,
+},
+{
+"Sunshafts quality changed to 0",
+0,
+},
+{
+"Refraction mode changed to 0",
+0,
+},
+{
+"Volume fog disabled.",
+0,
+},
+{
+"Particulate volumes disabled.",
+0,
+},
+{
+"Projected textures enabled.",
+0,
+},
+{
+"Shadow mode changed to 0 - Blob shadows",
+0,
+},
+{
+"Shadow texture size changed to 1024.",
+0,
+},
+{
+"Soft shadows changed to 0.",
+0,
+},
+{
+"Shadow cascade blending changed to 0",
+0,
+},
+{
+"Number of shadow cascades changed to 1",
+0,
+},
+{
+"Shadow RT mode changed to 0 (Disabled)",
+0,
+},
+{
+"maxLightCount must be in range 0 to 32.",
+0,
+},
+{
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading disabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
+0,
+},
+{
+"SSAO mode set to 0",
+0,
+},
+{
+"SSAO type set to 0",
+0,
+},
+{
+"Depth Based Opacity Disabled",
+0,
+},
+{
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 0.",
+0,
+},
+{
+"Outline mode changed to 1",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 1",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 1",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog disabled.",
+0,
+},
+{
+"dynamicLod enabled",
+0,
+},
+{
+"World preload object sort enabled.",
+0,
+},
+{
+"World load object sort enabled.",
+0,
+},
+{
+"World preload non critical enabled.",
+0,
+},
+{
+"World preload high res textures enabled.",
+0,
+},
+{
+"FFX: Color Blind Test Mode Disabled",
+0,
+},
+{
+"Error display disabled",
+0,
+},
+{
+"Error display shown",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Now filtering: all messages",
+0,
+},
+{
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"ChromaEffects disabled",
+0,
+},
+{
+"NetClient::HandleConnect()\n",
+0,
+},
+{
+"[WowEntitlements] [BNetAccount-0-0000001590F2] [WowAccount-0-000003929FB9] Initialized with 79 entitlements.",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
 "Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008001",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c001",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000025",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c005",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004e00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e01d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e09d",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e09d",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 10/26/2025 (Sun) 19:00",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 158d 10h 27m 20s",
+0,
+},
+{
+"Level: 18d 6h 58m 22s",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 158d 10h 27m 45s",
+0,
+},
+{
+"Level: 18d 6h 58m 47s",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.500000\n",
+0,
+},
+{
+"Weather changed to 4, intensity 1.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000041",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004041",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004441",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000025",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006441",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006451",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 10/26/2025 (Sun) 19:08",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 3d 0h 26m 12s",
+0,
+},
+{
+"Level: 2d 7h 15m 32s",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 3d 0h 26m 40s",
+0,
+},
+{
+"Level: 2d 7h 16m 0s",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.800000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.800000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.800000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.800000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008001",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c001",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000025",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c005",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004e00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e01d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e09d",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e09d",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 10/26/2025 (Sun) 19:55",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 158d 10h 34m 28s",
+0,
+},
+{
+"Level: 18d 7h 5m 30s",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 158d 10h 34m 57s",
+0,
+},
+{
+"Level: 18d 7h 5m 59s",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Test CVar test_cameraDynamicPitch has been set to 0 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 0 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
+0,
+},
+{
+"ACTION Camera set to 'off' - 'Disable action cam features'",
+0,
+},
+{
+"Weather changed to 4, intensity 0.250000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 4, intensity 0.250000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 4, intensity 0.250000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 4, intensity 0.250000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 4, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 4, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 4, intensity 1.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 4, intensity 0.250000\n",
+0,
+},
+{
+"Weather changed to 4, intensity 0.250000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"ACTION Camera set to 'off' - 'Disable action cam features'",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Sorting particles normally.",
+0,
+},
+{
+"Multithreaded rendering enabled.",
+0,
+},
+{
+"Multithreaded BeginDraw enabled.",
+0,
+},
+{
+"Multithread shadows changed to 1.",
+0,
+},
+{
+"Multithreaded prepass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded alpha M2 pass enabled.",
+0,
+},
+{
+"Multithreaded opaque WMO pass enabled.",
+0,
+},
+{
+"Multithreaded terrain pass enabled.",
+0,
+},
+{
+"Multithreaded volumetric fog enabled.",
+0,
+},
+{
+"Multithreaded Refraction Pass enabled.",
+0,
+},
+{
+"Multithreaded miscellaneous passes enabled.",
+0,
+},
+{
+"Multithreaded decal passes disabled.",
+0,
+},
+{
+"Multithreaded outline passes enabled.",
+0,
+},
+{
+"Multithreaded lightshaft passes enabled.",
+0,
+},
+{
+"Multithreaded alpha pass enabled.",
+0,
+},
+{
+"Multithreaded daynight update enabled.",
+0,
+},
+{
+"Water detail changed to 0",
+0,
+},
+{
+"Ripple detail changed to 0",
+0,
+},
+{
+"Reflection mode changed to 0",
+0,
+},
+{
+"Reflection downscale changed to 0",
+0,
+},
+{
+"Sunshafts quality changed to 0",
+0,
+},
+{
+"Refraction mode changed to 0",
+0,
+},
+{
+"Volume fog disabled.",
+0,
+},
+{
+"Particulate volumes disabled.",
+0,
+},
+{
+"Projected textures enabled.",
+0,
+},
+{
+"Shadow mode changed to 0 - Blob shadows",
+0,
+},
+{
+"Shadow texture size changed to 1024.",
+0,
+},
+{
+"Soft shadows changed to 0.",
+0,
+},
+{
+"Shadow cascade blending changed to 0",
+0,
+},
+{
+"Number of shadow cascades changed to 1",
+0,
+},
+{
+"Shadow RT mode changed to 0 (Disabled)",
+0,
+},
+{
+"maxLightCount must be in range 0 to 32.",
+0,
+},
+{
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading disabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
+0,
+},
+{
+"SSAO mode set to 0",
+0,
+},
+{
+"SSAO type set to 0",
+0,
+},
+{
+"Depth Based Opacity Disabled",
+0,
+},
+{
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 0.",
+0,
+},
+{
+"Outline mode changed to 1",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 1",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 1",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog disabled.",
+0,
+},
+{
+"dynamicLod enabled",
+0,
+},
+{
+"World preload object sort enabled.",
+0,
+},
+{
+"World load object sort enabled.",
+0,
+},
+{
+"World preload non critical enabled.",
+0,
+},
+{
+"World preload high res textures enabled.",
+0,
+},
+{
+"FFX: Color Blind Test Mode Disabled",
+0,
+},
+{
+"Error display disabled",
+0,
+},
+{
+"Error display shown",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Now filtering: all messages",
+0,
+},
+{
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"ChromaEffects disabled",
+0,
+},
+{
+"NetClient::HandleConnect()\n",
+0,
+},
+{
+"[WowEntitlements] [BNetAccount-0-0000001590F2] [WowAccount-0-000003929FB9] Initialized with 79 entitlements.",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000041",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004041",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004441",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000025",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006441",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006451",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 10/26/2025 (Sun) 23:29",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 3d 1h 12m 55s",
+0,
+},
+{
+"Level: 2d 8h 2m 15s",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 3d 1h 13m 20s",
+0,
+},
+{
+"Level: 2d 8h 2m 40s",
 0,
 },
 {
@@ -1067,267 +2164,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
 "Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 2, intensity 0.850886\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"Player-1329-0A73CA02 TRAIT_VALIDATION: Failure: Config 62699632. 17 pending (including duplicates) after adding all open nodes.",
 0,
 },
 {
@@ -1359,19 +2200,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 0.600000\n",
-0,
-},
-{
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
 0,
 },
 {
@@ -1387,7 +2216,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Got new connection 3",
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.800000\n",
 0,
 },
 {
@@ -1411,75 +2244,107 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"DBCache::CancelCallback ignored",
+"-------------------------------------------------- Previous Session --------------------------------------------------",
 0,
 },
 {
-"Got new connection 3",
+"-------------------------------------------------- Previous Session --------------------------------------------------",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Sorting particles normally.",
 0,
 },
 {
-"World transfer pending...",
+"Multithreaded rendering enabled.",
 0,
 },
 {
-"Got new connection 3",
+"Multithreaded BeginDraw enabled.",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Multithread shadows changed to 1.",
 0,
 },
 {
-"World transfer pending...",
+"Multithreaded prepass enabled.",
 0,
 },
 {
-"Got new connection 3",
+"Multithreaded opaque pass enabled.",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Multithreaded opaque pass enabled.",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Multithreaded alpha M2 pass enabled.",
 0,
 },
 {
-"World transfer pending...",
+"Multithreaded opaque WMO pass enabled.",
 0,
 },
 {
-"Got new connection 3",
+"Multithreaded terrain pass enabled.",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Multithreaded volumetric fog enabled.",
 0,
 },
 {
-"World transfer pending...",
+"Multithreaded Refraction Pass enabled.",
 0,
 },
 {
-"Got new connection 3",
+"Multithreaded miscellaneous passes enabled.",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Multithreaded decal passes disabled.",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Multithreaded outline passes enabled.",
 0,
 },
 {
-"Outline mode changed to 1",
+"Multithreaded lightshaft passes enabled.",
+0,
+},
+{
+"Multithreaded alpha pass enabled.",
+0,
+},
+{
+"Multithreaded daynight update enabled.",
+0,
+},
+{
+"Water detail changed to 0",
+0,
+},
+{
+"Ripple detail changed to 0",
+0,
+},
+{
+"Reflection mode changed to 0",
+0,
+},
+{
+"Reflection downscale changed to 0",
+0,
+},
+{
+"Sunshafts quality changed to 0",
+0,
+},
+{
+"Refraction mode changed to 0",
 0,
 },
 {
@@ -1491,7 +2356,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Clustered shading disabled.",
+"Projected textures enabled.",
 0,
 },
 {
@@ -1515,15 +2380,23 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Water detail changed to 0",
+"Shadow RT mode changed to 0 (Disabled)",
 0,
 },
 {
-"Reflection mode changed to 0",
+"maxLightCount must be in range 0 to 32.",
 0,
 },
 {
-"Ripple detail changed to 0",
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading disabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
 0,
 },
 {
@@ -1531,11 +2404,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Sunshafts quality changed to 0",
-0,
-},
-{
-"Refraction mode changed to 0",
+"SSAO type set to 0",
 0,
 },
 {
@@ -1543,11 +2412,499 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 0.",
+0,
+},
+{
+"Outline mode changed to 1",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 1",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 1",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog disabled.",
+0,
+},
+{
+"dynamicLod enabled",
+0,
+},
+{
+"World preload object sort enabled.",
+0,
+},
+{
+"World load object sort enabled.",
+0,
+},
+{
+"World preload non critical enabled.",
+0,
+},
+{
+"World preload high res textures enabled.",
+0,
+},
+{
+"FFX: Color Blind Test Mode Disabled",
+0,
+},
+{
+"Error display disabled",
+0,
+},
+{
+"Error display shown",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Now filtering: all messages",
+0,
+},
+{
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"ChromaEffects disabled",
+0,
+},
+{
+"NetClient::HandleConnect()\n",
+0,
+},
+{
+"[WowEntitlements] [BNetAccount-0-0000001590F2] [WowAccount-0-000003929FB9] Initialized with 79 entitlements.",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008001",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c001",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000025",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c005",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004e00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e01d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e09d",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e09d",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 10/27/2025 (Mon) 17:36",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 158d 12h 33m 58s",
+0,
+},
+{
+"Level: 18d 9h 5m 0s",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 158d 12h 34m 22s",
+0,
+},
+{
+"Level: 18d 9h 5m 24s",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000041",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004041",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004441",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000025",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006441",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006451",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 10/27/2025 (Mon) 17:38",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 3d 1h 42m 55s",
+0,
+},
+{
+"Level: 2d 8h 32m 15s",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 3d 1h 43m 22s",
+0,
+},
+{
+"Level: 2d 8h 32m 42s",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 4, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 4, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
 "World transfer pending...",
 0,
 },
 {
 "Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 2, intensity 0.809997\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 4, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"DBCache::CancelCallback ignored",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -1615,10 +2972,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"DBCache::CancelCallback ignored",
-0,
-},
-{
 "World transfer pending...",
 0,
 },
@@ -1644,94 +2997,6 @@ Blizzard_Console_SavedVars = {
 },
 {
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
 0,
 },
 {
@@ -1811,7 +3076,103 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Player-1329-0A73CA02 TRAIT_VALIDATION: Failure: Config 62699632. 19 pending (including duplicates) after adding all open nodes.",
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.600000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.600000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.600000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 4, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -1827,7 +3188,95 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"World transfer pending...",
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008001",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c001",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000025",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c005",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004e00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e01d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e09d",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e09d",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 10/27/2025 (Mon) 19:58",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
 0,
 },
 {
@@ -1839,7 +3288,27 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Time played:",
+0,
+},
+{
+"Total: 158d 12h 35m 22s",
+0,
+},
+{
+"Level: 18d 9h 6m 24s",
+0,
+},
+{
+"Time played:",
+0,
+},
+{
+"Total: 158d 12h 35m 52s",
+0,
+},
+{
+"Level: 18d 9h 6m 54s",
 0,
 },
 {
@@ -1848,102 +3317,6 @@ Blizzard_Console_SavedVars = {
 },
 {
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Player-1329-0A73CA02 TRAIT_VALIDATION: Failure: Config 62391455. 19 pending (including duplicates) after adding all open nodes.",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Player-1329-0A73CA02 TRAIT_VALIDATION: Failure: Config 62391455. 20 pending (including duplicates) after adding all open nodes.",
-0,
-},
-{
-"Player-1329-0A73CA02 TRAIT_VALIDATION: Failure: Config 62699632. 20 pending (including duplicates) after adding all open nodes.",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
 0,
 },
 {
@@ -2259,130 +3632,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000008001",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c001",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004c001",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000025",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004c005",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004c00d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004e00d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e00d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e01d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e09d",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e09d",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 10/15/2025 (Wed) 18:59",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 158d 2h 21m 13s",
-0,
-},
-{
-"Level: 17d 22h 52m 15s",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 158d 2h 21m 34s",
-0,
-},
-{
-"Level: 17d 22h 52m 36s",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Attempted to register existing command: SetDifficulty",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000001",
-0,
-},
-{
 "Proficiency in item class 2 set to 0x0000000041",
 0,
 },
@@ -2431,7 +3680,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 10/15/2025 (Wed) 19:05",
+"Time set to 10/28/2025 (Tue) 0:30",
 0,
 },
 {
@@ -2451,15 +3700,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Total: 1d 2h 3m 26s",
+"Total: 3d 4h 2m 13s",
 0,
 },
 {
-"Level: 0d 8h 52m 46s",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
+"Level: 2d 10h 51m 33s",
 0,
 },
 {
@@ -2467,35 +3712,23 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Total: 1d 2h 3m 51s",
+"Total: 3d 4h 2m 35s",
 0,
 },
 {
-"Level: 0d 8h 53m 11s",
+"Level: 2d 10h 51m 55s",
 0,
 },
 {
-"DBCache::CancelCallback ignored",
+"Got new connection 3",
 0,
 },
 {
-"DBCache::CancelCallback ignored",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Time played:",
-0,
-},
-{
-"Total: 1d 2h 4m 40s",
-0,
-},
-{
-"Level: 0d 8h 54m 0s",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -2511,7 +3744,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 0.800000\n",
+"World transfer pending...",
 0,
 },
 {
@@ -2519,39 +3752,55 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 0.800000\n",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Weather changed to 1, intensity 1.000000\n",
+"World transfer pending...",
 0,
 },
 {
-"Test CVar test_cameraDynamicPitch has been set to 0 (default 0.000000)",
+"Got new connection 3",
 0,
 },
 {
-"Test CVar test_cameraOverShoulder has been set to 0 (default 0.000000)",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"ACTION Camera set to 'off' - 'Disable action cam features'",
+"Got new connection 3",
 0,
 },
 {
-"ACTION Camera set to 'off' - 'Disable action cam features'",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Weather changed to 1, intensity 0.800000\n",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Weather changed to 1, intensity 1.000000\n",
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.600000\n",
 0,
 },
 {
@@ -2571,495 +3820,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Sorting particles normally.",
-0,
-},
-{
-"Multithreaded rendering enabled.",
-0,
-},
-{
-"Multithreaded BeginDraw enabled.",
-0,
-},
-{
-"Multithread shadows changed to 1.",
-0,
-},
-{
-"Multithreaded prepass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded alpha M2 pass enabled.",
-0,
-},
-{
-"Multithreaded opaque WMO pass enabled.",
-0,
-},
-{
-"Multithreaded terrain pass enabled.",
-0,
-},
-{
-"Multithreaded volumetric fog enabled.",
-0,
-},
-{
-"Multithreaded Refraction Pass enabled.",
-0,
-},
-{
-"Multithreaded miscellaneous passes enabled.",
-0,
-},
-{
-"Multithreaded decal passes disabled.",
-0,
-},
-{
-"Multithreaded outline passes enabled.",
-0,
-},
-{
-"Multithreaded lightshaft passes enabled.",
-0,
-},
-{
-"Multithreaded alpha pass enabled.",
-0,
-},
-{
-"Multithreaded daynight update enabled.",
-0,
-},
-{
-"Water detail changed to 0",
-0,
-},
-{
-"Ripple detail changed to 0",
-0,
-},
-{
-"Reflection mode changed to 0",
-0,
-},
-{
-"Reflection downscale changed to 0",
-0,
-},
-{
-"Sunshafts quality changed to 0",
-0,
-},
-{
-"Refraction mode changed to 0",
-0,
-},
-{
-"Volume fog disabled.",
-0,
-},
-{
-"Particulate volumes disabled.",
-0,
-},
-{
-"Projected textures enabled.",
-0,
-},
-{
-"Shadow mode changed to 0 - Blob shadows",
-0,
-},
-{
-"Shadow texture size changed to 1024.",
-0,
-},
-{
-"Soft shadows changed to 0.",
-0,
-},
-{
-"Shadow cascade blending changed to 0",
-0,
-},
-{
-"Number of shadow cascades changed to 1",
-0,
-},
-{
-"Shadow RT mode changed to 0 (Disabled)",
-0,
-},
-{
-"maxLightCount must be in range 0 to 32.",
-0,
-},
-{
-"CVar 'maxLightCount' failed validation for its initial value.",
-0,
-},
-{
-"Clustered shading disabled.",
-0,
-},
-{
-"Not forcing clustered shading.",
-0,
-},
-{
-"SSAO mode set to 0",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"Depth Based Opacity Disabled",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Outline mode changed to 1",
-0,
-},
-{
-"Physics interaction level changed to 1",
-0,
-},
-{
-"Render scale changed to 1",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA disabled",
-0,
-},
-{
-"MSAA for alpha-test enabled.",
-0,
-},
-{
-"VALAR mode changed to 1",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"Volume fog disabled.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"ChromaEffects disabled",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-0000001590F2] [WowAccount-0-000003929FB9] Initialized with 79 entitlements.",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000001",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000008001",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c001",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004c001",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000025",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004c005",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004c00d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004e00d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e00d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e01d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e09d",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e09d",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 10/15/2025 (Wed) 19:36",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 158d 2h 25m 53s",
-0,
-},
-{
-"Level: 17d 22h 56m 55s",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 158d 2h 26m 18s",
-0,
-},
-{
-"Level: 17d 22h 57m 20s",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 0.250000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 0.250000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 0.250000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 0.250000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 0.250000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 0.250000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 0.250000\n",
+"Weather changed to 1, intensity 1.000000\n",
 0,
 },
 {
@@ -3079,439 +3840,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 158d 4h 37m 11s",
-0,
-},
-{
-"Level: 18d 1h 8m 13s",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 158d 4h 37m 59s",
-0,
-},
-{
-"Level: 18d 1h 9m 1s",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Sorting particles normally.",
-0,
-},
-{
-"Multithreaded rendering enabled.",
-0,
-},
-{
-"Multithreaded BeginDraw enabled.",
-0,
-},
-{
-"Multithread shadows changed to 1.",
-0,
-},
-{
-"Multithreaded prepass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded alpha M2 pass enabled.",
-0,
-},
-{
-"Multithreaded opaque WMO pass enabled.",
-0,
-},
-{
-"Multithreaded terrain pass enabled.",
-0,
-},
-{
-"Multithreaded volumetric fog enabled.",
-0,
-},
-{
-"Multithreaded Refraction Pass enabled.",
-0,
-},
-{
-"Multithreaded miscellaneous passes enabled.",
-0,
-},
-{
-"Multithreaded decal passes disabled.",
-0,
-},
-{
-"Multithreaded outline passes enabled.",
-0,
-},
-{
-"Multithreaded lightshaft passes enabled.",
-0,
-},
-{
-"Multithreaded alpha pass enabled.",
-0,
-},
-{
-"Multithreaded daynight update enabled.",
-0,
-},
-{
-"Water detail changed to 0",
-0,
-},
-{
-"Ripple detail changed to 0",
-0,
-},
-{
-"Reflection mode changed to 0",
-0,
-},
-{
-"Reflection downscale changed to 0",
-0,
-},
-{
-"Sunshafts quality changed to 0",
-0,
-},
-{
-"Refraction mode changed to 0",
-0,
-},
-{
-"Volume fog disabled.",
-0,
-},
-{
-"Particulate volumes disabled.",
-0,
-},
-{
-"Projected textures enabled.",
-0,
-},
-{
-"Shadow mode changed to 0 - Blob shadows",
-0,
-},
-{
-"Shadow texture size changed to 1024.",
-0,
-},
-{
-"Soft shadows changed to 0.",
-0,
-},
-{
-"Shadow cascade blending changed to 0",
-0,
-},
-{
-"Number of shadow cascades changed to 1",
-0,
-},
-{
-"Shadow RT mode changed to 0 (Disabled)",
-0,
-},
-{
-"maxLightCount must be in range 0 to 32.",
-0,
-},
-{
-"CVar 'maxLightCount' failed validation for its initial value.",
-0,
-},
-{
-"Clustered shading disabled.",
-0,
-},
-{
-"Not forcing clustered shading.",
-0,
-},
-{
-"SSAO mode set to 0",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"Depth Based Opacity Disabled",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Outline mode changed to 1",
-0,
-},
-{
-"Physics interaction level changed to 1",
-0,
-},
-{
-"Render scale changed to 1",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA disabled",
-0,
-},
-{
-"MSAA for alpha-test enabled.",
-0,
-},
-{
-"VALAR mode changed to 1",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"Volume fog disabled.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"ChromaEffects disabled",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-0000001590F2] [WowAccount-0-000003929FB9] Initialized with 79 entitlements.",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000001",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000041",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004041",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004441",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000025",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000006441",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000006451",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x00000064d1",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x00000064d1",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 10/15/2025 (Wed) 21:54",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 1d 2h 30m 23s",
-0,
-},
-{
-"Level: 0d 9h 19m 43s",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 1d 2h 30m 54s",
-0,
-},
-{
-"Level: 0d 9h 20m 14s",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
+"Set pending. Call UpdateWindow to finalize",
 0,
 },
 {
@@ -3531,10 +3860,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
 "Got new connection 3",
 0,
 },
@@ -3547,187 +3872,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Got new connection 3",
-0,
-},
-{
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.800000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
 0,
 },
 {
@@ -3743,39 +3888,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
 "Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"World transfer pending...",
-0,
-},
-{
 "Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -3807,6 +3924,14 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
 "Weather changed to 0, intensity 0.000000\n",
 0,
 },
@@ -3819,159 +3944,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"Test CVar test_cameraDynamicPitch has been set to 0 (default 0.000000)",
-0,
-},
-{
-"Test CVar test_cameraOverShoulder has been set to 0 (default 0.000000)",
-0,
-},
-{
-"Test CVar test_cameraHeadMovementStrength has been set to 0 (default 0.000000)",
-0,
-},
-{
-"ACTION Camera set to 'off' - 'Disable action cam features'",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"ACTION Camera set to 'off' - 'Disable action cam features'",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"ACTION Camera set to 'off' - 'Disable action cam features'",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
-0,
-},
-{
-"DBCache::CancelCallback ignored",
+"Weather changed to 4, intensity 1.000000\n",
 0,
 },
 {
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.250000\n",
 0,
 },
 {
@@ -3991,15 +3968,39 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Player-1329-0A73CA02 TRAIT_VALIDATION: Failure: Config 62391455. 22 pending (including duplicates) after adding all open nodes.",
+"Changed difficulty successfully",
 0,
 },
 {
-"Player-1329-0A73CA02 TRAIT_VALIDATION: Failure: Config 62391455. 15 pending (including duplicates) after adding all open nodes.",
+"World transfer pending...",
 0,
 },
 {
-"Player-1329-0A73CA02 TRAIT_VALIDATION: Failure: Config 62391455. 22 pending (including duplicates) after adding all open nodes.",
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -4007,9 +4008,8 @@ Blizzard_Console_SavedVars = {
 0,
 },
 },
-["height"] = 300,
-["fontHeight"] = 14,
 ["isShown"] = false,
+["fontHeight"] = 14,
 ["commandHistory"] = {
 },
 }

@@ -52,13 +52,13 @@ NarcissusDB = {
 ["TranslateName"] = false,
 ["TalentTreeUseClassBackground"] = false,
 ["DressingRoomShowSlot"] = true,
-["EnableDoubleTap"] = false,
 ["SearchRelativesHotkey"] = "TAB",
+["installTime"] = 1757077476,
 ["AutoPlayAnimation"] = false,
 ["AFKScreen"] = false,
 ["FontHeightItemName"] = 10,
 ["AKFScreenDelay"] = false,
-["installTime"] = 1757077476,
+["EnableDoubleTap"] = false,
 ["GlobalScale"] = 0.8,
 ["UseEntranceVisual"] = true,
 ["Tutorials"] = {
@@ -71,6 +71,7 @@ NarcissusDB = {
 },
 ["TalentTreeForEquipmentManager"] = true,
 ["AnchorToMinimap"] = true,
+["NamePlateNameOffset"] = 0,
 ["PerksProgramDB"] = {
 ["MonthNames"] = {
 {
@@ -89,7 +90,6 @@ NarcissusDB = {
 ["CurrentMonthData"] = {
 },
 },
-["NamePlateNameOffset"] = 0,
 ["TooltipLanguages"] = {
 },
 ["CameraOrbit"] = true,
@@ -171,7 +171,7 @@ NarciCharacterProfiles = {
 ["name"] = "Wanpan",
 ["birth"] = 1759922906,
 ["serverID"] = "1329",
-["lastVisit"] = 1760547981,
+["lastVisit"] = 1761583150,
 ["outfits"] = {
 },
 ["class"] = 10,
@@ -181,7 +181,7 @@ NarciCharacterProfiles = {
 ["name"] = "Cretino",
 ["birth"] = 1757077504,
 ["serverID"] = "1329",
-["lastVisit"] = 1760557714,
+["lastVisit"] = 1761591535,
 ["outfits"] = {
 {
 ["s"] = "19472,19475,77345,19469,1255,83203,19088,19470,19287,19473,19036,80726,73714",

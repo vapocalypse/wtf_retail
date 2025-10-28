@@ -80,9 +80,9 @@ HealBot_Config_Spells = {
 },
 ["EmergAvoidBlueCursor"] = {
 },
-["ButtonCastMethod"] = 2,
 ["EmergSpellTarget"] = {
 },
+["ButtonCastMethod"] = 2,
 ["EnabledKeyCombo"] = {
 },
 ["EnemySpellTarget"] = {
@@ -118,16 +118,20 @@ HealBot_Config_Buffs = {
 ["ShowBuffWarning"] = false,
 ["SoundBuffChan"] = 2,
 ["SoundBuffPlay"] = "Elf Bell Toll",
-["WarnRange_Bar"] = 2,
-["ListSortOrder"] = 1,
-["BuffWatch"] = true,
 ["AlwaysShowSelf"] = false,
-["BuffCustomWatchInCombat"] = true,
 ["CustomBuffName"] = {
 "",
 "",
 "",
 "",
+},
+["ListSortFilterTag"] = "",
+["WarnRange_Bar"] = 2,
+["BuffCustomWatchInCombat"] = true,
+["CustomBuffCheck"] = {
+false,
+false,
+false,
 },
 ["LongBuffTimer"] = 120,
 ["BuffWatchInCombat"] = false,
@@ -144,12 +148,8 @@ HealBot_Config_Buffs = {
 ["AlwaysShowTimed"] = false,
 ["HealBotBuffColR"] = {
 },
-["CustomBuffCheck"] = {
-false,
-false,
-false,
-},
-["ListSortFilterTag"] = "",
+["ListSortOrder"] = 1,
+["BuffWatch"] = true,
 ["HealBotBuffDropDown"] = {
 ["43"] = 4,
 ["41"] = 4,
@@ -267,6 +267,7 @@ HealBot_Config_Cures = {
 },
 ["IgnoreFastDurDebuffsSecs"] = 2,
 ["ListSortOrder"] = 1,
+["EnableBar"] = true,
 ["HealBot_Custom_Debuffs_All"] = {
 ["Disease"] = false,
 ["Bleed"] = false,
@@ -274,7 +275,6 @@ HealBot_Config_Cures = {
 ["Magic"] = false,
 ["Curse"] = false,
 },
-["EnableBar"] = true,
 ["DebuffWatchWhenGrouped"] = false,
 ["WarnRange_Screen"] = 2,
 ["WarnRange_Bar"] = 2,
@@ -344,8 +344,8 @@ HealBot_Config_Cures = {
 ["HealBotDebuffPriority"] = {
 ["Disease"] = 7,
 ["Bleed"] = 9,
-["Poison"] = 8,
 ["Curse"] = 6,
+["Poison"] = 8,
 ["Magic"] = 5,
 ["Custom"] = 15,
 },
@@ -360,5 +360,5 @@ HealBot_ActionIconsData_Loadouts = {
 ["Group:2:280621"] = "lodJlK4kjU4a8d",
 }
 HealBot_Spell_Loadouts = {
-["2:280621"] = "1fzqpkmiqu4)soOUQhLgpTQhuptsnmPBZsbdmDt6)ERZ4Mq3LM08k5bVVHzWaMBMRh813DO96d05UvhBqA0L(JFS1)nsWV7GDd7)j0A1UESQpMcXSDYtOE73HXMsKE5)jouf6UhelDR3MgxEg4pfRlzDfRRz9dw3W6ww3jrwi)K0GehK8GaaecGGaegGabekkMsPlUA2HJAMrqERwCOP7jk4RQt0jK(kyF105f()VjtNyzvm7OzghhrxGsXldhlDbtJhw)M9KYrgZZp",
+["2:280621"] = "1fzWUnimqq0FPUUPnPhRr9ut6HsoBjqEffvJDL9sL4VVMDtunrosOb0SmV1myaZzt7B(UEhAB)bDUZDXbKYU0n(Xr)3ibxNGtlV(By0QDZyZCmfIftktOU4pHXHAKw9FhxAct9bXsp6TP8JFa8LI1hzDhRpX6ZSUN1dS(Ie5b5MKgK4GKheaGqaeeGWaeiGqrXuQDWv3TCu3Pck)uRxA)VJI6xptuW30LOti9vWUwfxx72gRyJf5lmoMHu5pB1ddhl9jMYVS(c7nRJmM)c",
 }

@@ -14,9 +14,16 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "eu-Cretino-ravencrest"
 RaiderIO_MissingCharacters = {
-["eu-Sulyvahnn-ravencrest"] = true,
-["eu-Druthau-ravencrest"] = true,
-["eu-Edwins-ravencrest"] = true,
+["eu-Kicomali-ravencrest"] = true,
+["eu-Metalist-ravencrest"] = true,
+["eu-Gemas-ravencrest"] = true,
+["eu-Cretino-ravencrest"] = true,
+["eu-Blapps-ravencrest"] = true,
+["eu-Corenor-ravencrest"] = true,
+["eu-Laserhen-ravencrest"] = true,
+["eu-Wildfirexc-ravencrest"] = true,
+["eu-Mussanko-ravencrest"] = true,
+["eu-Erewon-ravencrest"] = true,
 }
 RaiderIO_MissingServers = {
 }

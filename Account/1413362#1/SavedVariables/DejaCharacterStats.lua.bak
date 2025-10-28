@@ -255,8 +255,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hideAt"] = 0,
 ["hidden"] = true,
+["hideAt"] = 0,
 ["roles"] = {
 "TANK",
 },
@@ -294,7 +294,7 @@ DCS_ClassSpecDB = {
 },
 ["uniqueKey"] = "Zedek:Ravencrest:2",
 },
-["Wanpan:Ravencrest:1"] = {
+["Cretino:Ravencrest:1"] = {
 {
 ["statKey"] = "ItemLevelFrame",
 },
@@ -339,6 +339,9 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAMINA",
+},
+{
+["statKey"] = "ARMOR",
 },
 {
 ["statKey"] = "OffenseCategory",
@@ -405,29 +408,22 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "DefenseCategory",
-},
-{
-["statKey"] = "ARMOR",
+["hidden"] = true,
 },
 {
 ["statKey"] = "DODGE",
 ["hideAt"] = 0,
+["hidden"] = true,
 },
 {
 ["statKey"] = "PARRY",
 ["hideAt"] = 0,
+["hidden"] = true,
 },
 {
 ["statKey"] = "BLOCK",
+["hidden"] = true,
 ["hideAt"] = 0,
-},
-{
-["statKey"] = "STAGGER",
-["hidden"] = false,
-["hideAt"] = 0,
-["roles"] = {
-"TANK",
-},
 },
 {
 ["statKey"] = "RatingCategory",
@@ -484,6 +480,14 @@ DCS_ClassSpecDB = {
 ["hidden"] = true,
 },
 {
+["statKey"] = "STAGGER",
+["hidden"] = true,
+["hideAt"] = 0,
+["roles"] = {
+"TANK",
+},
+},
+{
 ["statKey"] = "HonorCategory",
 },
 {
@@ -514,7 +518,7 @@ DCS_ClassSpecDB = {
 ["statKey"] = "UserCat5",
 ["hidden"] = true,
 },
-["uniqueKey"] = "Wanpan:Ravencrest:1",
+["uniqueKey"] = "Cretino:Ravencrest:1",
 },
 ["Wanpan:Ravencrest:3"] = {
 {
@@ -706,8 +710,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 },
 {
 ["statKey"] = "HonorCategory",
@@ -874,8 +878,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hideAt"] = 0,
 ["hidden"] = false,
+["hideAt"] = 0,
 },
 {
 ["statKey"] = "RatingCategory",
@@ -1156,8 +1160,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 },
 {
 ["statKey"] = "HonorCategory",
@@ -1192,7 +1196,7 @@ DCS_ClassSpecDB = {
 },
 ["uniqueKey"] = "Wanpan:Ravencrest:2",
 },
-["Cretino:Ravencrest:1"] = {
+["Wanpan:Ravencrest:1"] = {
 {
 ["statKey"] = "ItemLevelFrame",
 },
@@ -1237,9 +1241,6 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAMINA",
-},
-{
-["statKey"] = "ARMOR",
 },
 {
 ["statKey"] = "OffenseCategory",
@@ -1306,22 +1307,29 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "DefenseCategory",
-["hidden"] = true,
+},
+{
+["statKey"] = "ARMOR",
 },
 {
 ["statKey"] = "DODGE",
 ["hideAt"] = 0,
-["hidden"] = true,
 },
 {
 ["statKey"] = "PARRY",
 ["hideAt"] = 0,
-["hidden"] = true,
 },
 {
 ["statKey"] = "BLOCK",
-["hidden"] = true,
 ["hideAt"] = 0,
+},
+{
+["statKey"] = "STAGGER",
+["hideAt"] = 0,
+["hidden"] = false,
+["roles"] = {
+"TANK",
+},
 },
 {
 ["statKey"] = "RatingCategory",
@@ -1378,14 +1386,6 @@ DCS_ClassSpecDB = {
 ["hidden"] = true,
 },
 {
-["statKey"] = "STAGGER",
-["hideAt"] = 0,
-["hidden"] = true,
-["roles"] = {
-"TANK",
-},
-},
-{
 ["statKey"] = "HonorCategory",
 },
 {
@@ -1416,7 +1416,7 @@ DCS_ClassSpecDB = {
 ["statKey"] = "UserCat5",
 ["hidden"] = true,
 },
-["uniqueKey"] = "Cretino:Ravencrest:1",
+["uniqueKey"] = "Wanpan:Ravencrest:1",
 },
 ["Cretino:Ravencrest:3"] = {
 {
@@ -1605,8 +1605,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hideAt"] = 0,
 ["hidden"] = true,
+["hideAt"] = 0,
 ["roles"] = {
 "TANK",
 },
@@ -1834,8 +1834,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 },
 {
 ["statKey"] = "HonorCategory",

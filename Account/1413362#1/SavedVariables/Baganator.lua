@@ -424,8 +424,8 @@ BAGANATOR_CONFIG = {
 ["saved_searches"] = {
 },
 ["icon_text_font_size"] = 14,
-["sort_ignore_slots_count_2"] = 0,
 ["setting_anchors"] = false,
+["sort_ignore_slots_count_2"] = 0,
 ["disabled_skins"] = {
 },
 ["bag_view_width"] = 15,

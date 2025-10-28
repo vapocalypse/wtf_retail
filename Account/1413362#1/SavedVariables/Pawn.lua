@@ -11,6 +11,8 @@ PawnCommon = {
 ["ColorTooltipBorder"] = true,
 ["ShownGettingStarted"] = true,
 ["ShowTooltipIcons"] = true,
+["ShowSpecIcons"] = true,
+["ShowSocketingAdvisor"] = true,
 ["Scales"] = {
 ["\"MrRobot\":HUNTER3"] = {
 ["IconTexturePath"] = 461113,
@@ -127,9 +129,6 @@ PawnCommon = {
 ["\"MrRobot\":ROGUE2"] = {
 ["IconTexturePath"] = 236286,
 ["PerCharacterOptions"] = {
-["Cretino-Ravencrest"] = {
-["Visible"] = true,
-},
 },
 ["Color"] = "fff468",
 ["LocalizedName"] = "Rogue: Outlaw",
@@ -145,9 +144,6 @@ PawnCommon = {
 ["IconTexturePath"] = 608951,
 ["PerCharacterOptions"] = {
 ["Brewdda-Ravencrest"] = {
-["Visible"] = true,
-},
-["Wanpan-Ravencrest"] = {
 ["Visible"] = true,
 },
 },
@@ -206,6 +202,9 @@ PawnCommon = {
 ["\"MrRobot\":ROGUE3"] = {
 ["IconTexturePath"] = 132320,
 ["PerCharacterOptions"] = {
+["Cretino-Ravencrest"] = {
+["Visible"] = true,
+},
 },
 ["Color"] = "fff468",
 ["LocalizedName"] = "Rogue: Subtlety",
@@ -287,20 +286,6 @@ PawnCommon = {
 ["UnenchantedColor"] = "699189",
 ["SpecID"] = 3,
 },
-["\"MrRobot\":WARRIOR1"] = {
-["IconTexturePath"] = 132355,
-["PerCharacterOptions"] = {
-},
-["Color"] = "c69b6d",
-["LocalizedName"] = "Warrior: Arms",
-["ClassID"] = 1,
-["DoNotShow1HUpgrades"] = true,
-["Role"] = "DAMAGER",
-["DoNotShow2HUpgrades"] = false,
-["Provider"] = "MrRobot",
-["UnenchantedColor"] = "947451",
-["SpecID"] = 1,
-},
 ["\"MrRobot\":PALADIN3"] = {
 ["IconTexturePath"] = 135873,
 ["PerCharacterOptions"] = {
@@ -314,6 +299,20 @@ PawnCommon = {
 ["Provider"] = "MrRobot",
 ["UnenchantedColor"] = "b7698b",
 ["SpecID"] = 3,
+},
+["\"MrRobot\":WARRIOR1"] = {
+["IconTexturePath"] = 132355,
+["PerCharacterOptions"] = {
+},
+["Color"] = "c69b6d",
+["LocalizedName"] = "Warrior: Arms",
+["ClassID"] = 1,
+["DoNotShow1HUpgrades"] = true,
+["Role"] = "DAMAGER",
+["DoNotShow2HUpgrades"] = false,
+["Provider"] = "MrRobot",
+["UnenchantedColor"] = "947451",
+["SpecID"] = 1,
 },
 ["\"MrRobot\":WARLOCK2"] = {
 ["IconTexturePath"] = 136172,
@@ -329,20 +328,6 @@ PawnCommon = {
 ["UnenchantedColor"] = "6566b2",
 ["SpecID"] = 2,
 },
-["\"MrRobot\":MAGE1"] = {
-["IconTexturePath"] = 135932,
-["PerCharacterOptions"] = {
-},
-["Color"] = "3fc7eb",
-["LocalizedName"] = "Mage: Arcane",
-["ClassID"] = 8,
-["DoNotShow1HUpgrades"] = false,
-["Role"] = "DAMAGER",
-["DoNotShow2HUpgrades"] = false,
-["Provider"] = "MrRobot",
-["UnenchantedColor"] = "2f95b0",
-["SpecID"] = 1,
-},
 ["\"MrRobot\":SHAMAN3"] = {
 ["IconTexturePath"] = 136052,
 ["PerCharacterOptions"] = {
@@ -357,18 +342,32 @@ PawnCommon = {
 ["UnenchantedColor"] = "0054a5",
 ["SpecID"] = 3,
 },
-["\"MrRobot\":PALADIN2"] = {
-["IconTexturePath"] = 236264,
+["\"MrRobot\":DEMONHUNTER2"] = {
+["IconTexturePath"] = 1247265,
 ["PerCharacterOptions"] = {
 },
-["Color"] = "f48cba",
-["LocalizedName"] = "Paladin: Protection",
-["ClassID"] = 2,
+["Color"] = "a330c9",
+["LocalizedName"] = "Demon Hunter: Vengeance",
+["ClassID"] = 12,
 ["DoNotShow1HUpgrades"] = false,
 ["Role"] = "TANK",
 ["DoNotShow2HUpgrades"] = true,
 ["Provider"] = "MrRobot",
-["UnenchantedColor"] = "b7698b",
+["UnenchantedColor"] = "7a2496",
+["SpecID"] = 2,
+},
+["\"MrRobot\":DRUID2"] = {
+["IconTexturePath"] = 132115,
+["PerCharacterOptions"] = {
+},
+["Color"] = "ff7c0a",
+["LocalizedName"] = "Druid: Feral",
+["ClassID"] = 11,
+["DoNotShow1HUpgrades"] = true,
+["Role"] = "DAMAGER",
+["DoNotShow2HUpgrades"] = false,
+["Provider"] = "MrRobot",
+["UnenchantedColor"] = "bf5d07",
 ["SpecID"] = 2,
 },
 ["\"MrRobot\":ROGUE1"] = {
@@ -486,33 +485,33 @@ PawnCommon = {
 ["UnenchantedColor"] = "bf5d07",
 ["SpecID"] = 1,
 },
-["\"MrRobot\":DRUID2"] = {
-["IconTexturePath"] = 132115,
+["\"MrRobot\":PALADIN2"] = {
+["IconTexturePath"] = 236264,
 ["PerCharacterOptions"] = {
 },
-["Color"] = "ff7c0a",
-["LocalizedName"] = "Druid: Feral",
-["ClassID"] = 11,
-["DoNotShow1HUpgrades"] = true,
-["Role"] = "DAMAGER",
-["DoNotShow2HUpgrades"] = false,
-["Provider"] = "MrRobot",
-["UnenchantedColor"] = "bf5d07",
-["SpecID"] = 2,
-},
-["\"MrRobot\":DEMONHUNTER2"] = {
-["IconTexturePath"] = 1247265,
-["PerCharacterOptions"] = {
-},
-["Color"] = "a330c9",
-["LocalizedName"] = "Demon Hunter: Vengeance",
-["ClassID"] = 12,
+["Color"] = "f48cba",
+["LocalizedName"] = "Paladin: Protection",
+["ClassID"] = 2,
 ["DoNotShow1HUpgrades"] = false,
 ["Role"] = "TANK",
 ["DoNotShow2HUpgrades"] = true,
 ["Provider"] = "MrRobot",
-["UnenchantedColor"] = "7a2496",
+["UnenchantedColor"] = "b7698b",
 ["SpecID"] = 2,
+},
+["\"MrRobot\":MAGE1"] = {
+["IconTexturePath"] = 135932,
+["PerCharacterOptions"] = {
+},
+["Color"] = "3fc7eb",
+["LocalizedName"] = "Mage: Arcane",
+["ClassID"] = 8,
+["DoNotShow1HUpgrades"] = false,
+["Role"] = "DAMAGER",
+["DoNotShow2HUpgrades"] = false,
+["Provider"] = "MrRobot",
+["UnenchantedColor"] = "2f95b0",
+["SpecID"] = 1,
 },
 ["\"MrRobot\":DRUID3"] = {
 ["IconTexturePath"] = 132276,
@@ -559,6 +558,9 @@ PawnCommon = {
 ["\"MrRobot\":MONK3"] = {
 ["IconTexturePath"] = 608953,
 ["PerCharacterOptions"] = {
+["Wanpan-Ravencrest"] = {
+["Visible"] = true,
+},
 },
 ["Color"] = "00ff98",
 ["LocalizedName"] = "Monk: Windwalker",
@@ -571,12 +573,10 @@ PawnCommon = {
 ["SpecID"] = 3,
 },
 },
-["ShowSocketingAdvisor"] = true,
-["ShowSpecIcons"] = true,
 ["IgnoreGemsWhileLeveling"] = true,
 ["ButtonPosition"] = 2,
 ["Digits"] = 1,
 ["ShowQuestUpgradeAdvisor"] = true,
-["LastVersion"] = 2.1108,
+["LastVersion"] = 2.1109,
 ["ShowUpgradesOnTooltips"] = true,
 }

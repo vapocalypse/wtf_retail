@@ -18,10 +18,10 @@ DataStore_Talents_Characters = {
 },
 }
 DataStore_Talents_Specializations = {
-42,
+75,
 138,
 177,
-177,
+203,
 }
 DataStore_Talents_SpecializationInfos = {
 ["Roles"] = {

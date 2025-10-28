@@ -1,7 +1,7 @@
 
 DataStore_Garrisons_Characters = {
 {
-["lastUpdate"] = 1760557717,
+["lastUpdate"] = 1761591545,
 },
 {
 ["lastUpdate"] = 1757958950,
@@ -10,23 +10,17 @@ DataStore_Garrisons_Characters = {
 ["lastUpdate"] = 1757959245,
 },
 {
-["lastUpdate"] = 1760569028,
+["lastUpdate"] = 1761612792,
 },
 }
 DataStore_Garrisons_Missions = {
 {
-["lastUpdate"] = 1760557717,
+["lastUpdate"] = 1761591545,
 ["Infos"] = {
 [147] = {
 ["successChance"] = 65,
 ["followers"] = {
 216,
-},
-},
-[148] = {
-["successChance"] = 62,
-["followers"] = {
-463,
 },
 },
 [370] = {
@@ -35,6 +29,12 @@ DataStore_Garrisons_Missions = {
 153,
 182,
 192,
+},
+},
+[148] = {
+["successChance"] = 62,
+["followers"] = {
+463,
 },
 },
 [1761] = {
@@ -48,76 +48,76 @@ DataStore_Garrisons_Missions = {
 ["Available"] = {
 {
 66,
-114,
+115,
 116,
-162,
-375,
-373,
-125,
-150,
 151,
-176,
-272,
-178,
-192,
-202,
-359,
+177,
 243,
-664,
 245,
-266,
+272,
+664,
+665,
+371,
+127,
+150,
+162,
+373,
+192,
+194,
 274,
+358,
 },
 {
-1377,
-1682,
+1680,
+1709,
 1758,
-1770,
+1760,
+1767,
+1768,
 1773,
-1778,
 1815,
 1816,
-1768,
-1709,
-1751,
+1778,
+1759,
 1765,
 },
 {
-1883,
-1888,
+1858,
 1893,
-1913,
-2078,
-2143,
+1894,
+1899,
+1910,
+2141,
+2135,
 },
 {
-2185,
-2206,
-2215,
-2219,
-2227,
-2238,
+2202,
+2207,
+2223,
 2240,
-2255,
-2256,
-2274,
+2244,
+2252,
 2277,
-2282,
-2284,
-2289,
+2280,
+2283,
+2287,
 2291,
-2302,
-2304,
-2308,
+2293,
+2301,
+2307,
 2320,
-2339,
+2345,
+2255,
+2285,
+2232,
+2309,
 },
 },
 ["Active"] = {
 {
+370,
 147,
 148,
-370,
 },
 {
 1761,
@@ -144,7 +144,7 @@ DataStore_Garrisons_Missions = {
 },
 },
 {
-["lastUpdate"] = 1760569028,
+["lastUpdate"] = 1761612792,
 ["Infos"] = {
 },
 },
@@ -152,18 +152,18 @@ DataStore_Garrisons_Missions = {
 DataStore_Garrisons_MissionInfos = {
 ["Infos"] = {
 [127] = 42953637953,
-[1769] = 65331873817096,
+[1769] = 65331847602696,
 [190] = 37580988481,
 [1770] = 65331873772040,
 [380] = 42953637953,
 [1773] = 63613860590088,
-[1774] = 61895873782280,
+[1774] = 61895873712648,
 [1775] = 61895873798664,
-[1776] = 61895873765896,
-[1777] = 61895873671688,
+[1776] = 61895873708552,
+[1777] = 61895873700360,
 [191] = 38654722113,
 [223] = 34362384644,
-[1779] = 61895899927048,
+[1779] = 61895873712648,
 [128] = 42952335425,
 [160] = 38657351745,
 [192] = 39728463937,
@@ -171,20 +171,21 @@ DataStore_Garrisons_MissionInfos = {
 [385] = 42953637953,
 [129] = 42952335425,
 [161] = 38657355841,
-[1796] = 65331899965960,
-[1797] = 65331873817096,
+[1796] = 65331978609160,
+[1797] = 65331926245896,
 [130] = 42953637953,
 [162] = 39731097665,
 [194] = 41875959873,
 [2071] = 55029279027655,
 [2072] = 55029279015302,
-[2073] = 55029279007045,
-[2074] = 55029289492935,
+[2073] = 55029289492805,
+[2074] = 55029279007175,
 [2075] = 55029289501127,
+[2076] = 55029279007045,
 [2077] = 55029289558406,
-[2078] = 55029279007110,
+[2078] = 55029289492870,
 [2079] = 55029278978438,
-[2080] = 55029279015302,
+[2080] = 55029289501062,
 [163] = 39731093569,
 [66] = 32212258881,
 [1815] = 65331978609160,
@@ -199,17 +200,18 @@ DataStore_Garrisons_MissionInfos = {
 [115] = 42952331329,
 [198] = 35438751809,
 [663] = 42953637953,
+[2135] = 55029281742978,
 [664] = 42953637953,
-[2138] = 55029279007110,
-[2140] = 55029278974342,
-[2141] = 55029289513350,
-[2142] = 55029279023954,
+[2138] = 55029279093126,
+[2140] = 55029279027590,
+[2141] = 55029279027590,
+[2142] = 55029289558866,
 [2143] = 55029279073106,
 [2144] = 55029279023954,
 [666] = 42953637953,
 [667] = 42953637953,
 [2151] = 55029279027590,
-[2153] = 55029289464198,
+[2153] = 55029279007110,
 [271] = 42953642244,
 [335] = 42956271681,
 [116] = 42954956865,
@@ -221,7 +223,7 @@ DataStore_Garrisons_MissionInfos = {
 [337] = 42956239633,
 [169] = 41878581313,
 [201] = 38660079681,
-[1858] = 55029273755973,
+[1858] = 55029273764165,
 [2180] = 55040019149450,
 [2185] = 55040013873737,
 [2186] = 55040008585801,
@@ -253,9 +255,9 @@ DataStore_Garrisons_MissionInfos = {
 [2224] = 55040013877451,
 [2225] = 55040008585419,
 [2226] = 55040019075275,
-[1882] = 55029273756038,
+[1882] = 55029273764230,
 [2228] = 55040012484811,
-[1883] = 55029273756038,
+[1883] = 55029273764230,
 [1884] = 55029273756038,
 [2232] = 55040012529867,
 [1885] = 55029273756038,
@@ -263,7 +265,7 @@ DataStore_Garrisons_MissionInfos = {
 [2236] = 55040008597964,
 [1887] = 55029278998918,
 [2238] = 55040013877708,
-[1377] = 57085523436040,
+[1377] = 57085562757640,
 [2240] = 55040019104204,
 [2241] = 55040008585676,
 [2242] = 55040013849036,
@@ -281,9 +283,9 @@ DataStore_Garrisons_MissionInfos = {
 [2256] = 55040032203212,
 [1897] = 55029279015302,
 [2258] = 55040058417612,
-[1898] = 55029289492870,
+[1898] = 55029278978438,
 [2260] = 55040058417612,
-[1899] = 55029294850438,
+[1899] = 55029294756230,
 [2262] = 55040008552908,
 [476] = 38658671312,
 [2264] = 55040013877708,
@@ -295,12 +297,12 @@ DataStore_Garrisons_MissionInfos = {
 [2270] = 55040019095755,
 [1904] = 55029299978630,
 [2272] = 55040008622730,
-[1905] = 55029279118227,
+[1905] = 55029279085459,
 [2274] = 55040019104394,
 [2276] = 55040008598089,
 [2277] = 55040019075657,
 [2278] = 55040019100233,
-[1908] = 55029278978438,
+[1908] = 55029279007110,
 [2280] = 55040019096012,
 [2281] = 55040019096012,
 [2282] = 55040008593868,
@@ -311,10 +313,10 @@ DataStore_Garrisons_MissionInfos = {
 [2288] = 55040008594058,
 [2289] = 55040019096137,
 [208] = 35437441089,
-[1914] = 55029278978438,
+[1914] = 55029279007110,
 [2292] = 55040008598089,
 [2293] = 55040008598089,
-[1916] = 55029279027590,
+[1916] = 55029278974342,
 [1917] = 55029279085459,
 [1918] = 55029279007110,
 [2300] = 55040045318349,
@@ -337,6 +339,8 @@ DataStore_Garrisons_MissionInfos = {
 [178] = 37583609921,
 [210] = 37584924737,
 [1164] = 52265483280904,
+[1165] = 52266557026824,
+[1166] = 52266570138120,
 [2330] = 55040019103951,
 [2331] = 55040019103951,
 [2332] = 55040019103951,
@@ -358,95 +362,107 @@ DataStore_Garrisons_MissionInfos = {
 [148] = 34362376257,
 [180] = 39731085377,
 [212] = 39732510785,
-[1697] = 61896109744648,
-[1698] = 61896371888648,
+[1697] = 61896109756936,
+[1698] = 61896109752840,
 [245] = 41878569220,
 [1699] = 61896371888648,
 [150] = 35436118081,
 [182] = 41878581313,
+[214] = 41879883841,
 [300] = 42954956865,
 [364] = 32214909974,
 [1708] = 65332083437763,
-[1709] = 65331952365763,
+[1709] = 65332083437763,
 [1710] = 65331952365763,
 [301] = 42957578305,
 [365] = 32218850065,
 [151] = 35436105793,
+[215] = 32214913744,
+[1171] = 52265496367624,
+[358] = 42956271681,
+[2253] = 55040058417612,
+[2130] = 55029281742978,
 [497] = 42956271681,
-[370] = 34365026369,
-[498] = 42956271681,
 [1042] = 52267657097736,
-[1169] = 52268704498184,
+[1168] = 52268730712584,
 [2133] = 55029281595522,
-[170] = 41878573121,
+[1041] = 52267656958472,
 [472] = 33289962192,
-[371] = 35438768193,
-[1907] = 55029278978438,
-[499] = 42956271681,
+[370] = 34365026369,
+[170] = 41878573121,
+[498] = 42956271681,
 [2259] = 55040032203212,
-[147] = 34362376257,
+[114] = 42953642049,
 [275] = 42953646340,
-[2269] = 55040008597707,
-[274] = 42952335620,
-[159] = 38657355841,
-[2285] = 55040019075275,
-[243] = 39731085572,
-[177] = 36507246657,
+[147] = 34362376257,
+[2191] = 55040008585801,
+[371] = 35438768193,
 [157] = 37583589441,
-[1683] = 61896109600963,
-[1910] = 55029279007110,
+[499] = 42956271681,
+[274] = 42952335620,
+[2269] = 55040008597707,
+[159] = 38657355841,
+[131] = 42953637953,
+[177] = 36507246657,
+[2285] = 55040019075275,
 [2237] = 55040008593868,
-[373] = 37586251841,
-[1894] = 55029273756038,
+[243] = 39731085572,
 [120] = 42952327233,
-[1915] = 55029289501127,
-[187] = 34359763009,
+[1910] = 55029279007110,
 [119] = 42953637953,
-[2223] = 55040008593611,
+[1894] = 55029273756038,
 [175] = 34359763009,
+[373] = 37586251841,
+[2223] = 55040008593611,
+[665] = 42953637953,
 [176] = 35433504833,
+[187] = 34359763009,
 [1890] = 55029273756038,
-[1889] = 55029273756038,
-[2178] = 55040008553033,
+[1896] = 55029273829766,
+[1888] = 55029273756038,
+[1889] = 55029273764230,
 [2287] = 55040019088010,
-[1913] = 55029278978438,
+[332] = 40804827856,
 [1778] = 61895873765896,
+[1913] = 55029278978438,
+[2178] = 55040008553033,
+[125] = 42954948673,
 [1751] = 65331899974152,
 [375] = 39733735489,
-[1752] = 65331926262280,
+[1752] = 65331926192648,
 [126] = 42952327233,
 [156] = 37583601729,
 [188] = 35433504833,
-[332] = 40804827856,
-[125] = 42954948673,
-[1755] = 65331900047880,
-[1896] = 55029273829766,
-[1756] = 65331899965960,
-[1888] = 55029278998918,
-[1757] = 65332450464264,
-[665] = 42953637953,
-[1758] = 65331900047880,
+[1915] = 55029279072711,
 [2273] = 55040019075722,
-[1759] = 65331899937288,
+[1755] = 65331900047880,
 [2291] = 55040019096137,
-[1760] = 65332083548680,
+[1756] = 65331978609160,
+[1683] = 61896109600963,
+[1757] = 65333079609864,
+[2227] = 55040008597707,
+[1758] = 65331899978248,
+[2239] = 55040008597964,
+[1759] = 65331899937288,
+[132] = 42949709889,
+[1760] = 65332083479048,
 [1505] = 58459926049748,
 [1761] = 65331847545352,
 [189] = 36507246657,
 [1762] = 65331926200840,
-[2227] = 55040008597707,
-[2239] = 55040008597964,
-[131] = 42953637953,
-[132] = 42949709889,
-[2191] = 55040008585801,
-[1765] = 65331847504392,
-[114] = 42953642049,
-[1766] = 65331926245896,
 [2127] = 55029281742978,
-[1767] = 65333079622152,
+[1907] = 55029279007110,
 [334] = 42956271681,
-[1768] = 65331847557640,
+[1169] = 52268730712584,
 [211] = 38658768961,
+[1765] = 65331847557640,
+[467] = 33289962192,
+[1766] = 65331873817096,
+[1172] = 52269778248200,
+[1767] = 65332450476552,
+[1167] = 52266557014536,
+[1768] = 65331847557640,
+[1680] = 61895978643651,
 },
 ["Durations"] = {
 ["List"] = {
@@ -489,8 +505,10 @@ DataStore_Garrisons_MissionInfos = {
 288000,
 259200,
 18000,
+518400,
+1036800,
 },
-["Count"] = 39,
+["Count"] = 41,
 ["Set"] = {
 [115200] = 31,
 [32400] = 22,
@@ -500,7 +518,9 @@ DataStore_Garrisons_MissionInfos = {
 [6750] = 32,
 [259200] = 38,
 [13500] = 25,
+[518400] = 40,
 [27000] = 24,
+[1036800] = 41,
 [35100] = 23,
 [12150] = 18,
 [2700] = 6,
@@ -579,28 +599,28 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 152928,
-["itemLink"] = "|cnIQ2:|Hitem:152928::::::::80:261:::::::::|h[Archaic Seerstone]|h|r",
+["itemLink"] = "|cnIQ2:|Hitem:152928::::::::80:260:::::::::|h[Archaic Seerstone]|h|r",
 },
 },
 [1775] = {
 {
 ["quantity"] = 1,
-["itemID"] = 152929,
-["itemLink"] = "|cnIQ2:|Hitem:152929::::::::80:260:::::::::|h[Pronged Ridgestalker Spear]|h|r",
+["itemID"] = 152928,
+["itemLink"] = "|cnIQ2:|Hitem:152928::::::::80:261:::::::::|h[Archaic Seerstone]|h|r",
 },
 },
 [1776] = {
 {
 ["quantity"] = 1,
-["itemID"] = 152442,
-["itemLink"] = "|cnIQ3:|Hitem:152442::::::::80:260:::::::::|h[Impervious Shadoweave Hood]|h|r",
+["itemID"] = 152934,
+["itemLink"] = "|cnIQ1:|Hitem:152934::::::::80:260:::::::::|h[]|h|r",
 },
 },
 [1777] = {
 {
 ["quantity"] = 1,
-["itemID"] = 152934,
-["itemLink"] = "|cnIQ3:|Hitem:152934::::::::80:260:::::::::|h[Shadow-Soaked Stalker Heart]|h|r",
+["itemID"] = 152935,
+["itemLink"] = "|cnIQ1:|Hitem:152935::::::::80:261:::::::::|h[]|h|r",
 },
 },
 [191] = {
@@ -623,8 +643,8 @@ DataStore_Garrisons_MissionInfos = {
 [1779] = {
 {
 ["quantity"] = 1,
-["itemID"] = 152932,
-["itemLink"] = "|cnIQ4:|Hitem:152932::::::::80:260:::::::::|h[Runewarded Lightblade]|h|r",
+["itemID"] = 152445,
+["itemLink"] = "|cnIQ4:|Hitem:152445::::::::80:261:::::::::|h[Memento of the Lightforged]|h|r",
 },
 },
 [128] = {
@@ -691,7 +711,7 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 2,
 ["itemID"] = 151568,
-["itemLink"] = "|cnIQ3:|Hitem:151568::::::::80:260:::::::::|h[Primal Sargerite]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:151568::::::::80:261:::::::::|h[Primal Sargerite]|h|r",
 },
 },
 [130] = {
@@ -735,17 +755,17 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2073] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 350,
 ["icon"] = 2032594,
+["quantity"] = 350,
+["title"] = "Currency Reward",
 ["currencyID"] = 1592,
 },
 },
 [2074] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 375,
 ["icon"] = 2032594,
+["quantity"] = 375,
+["title"] = "Currency Reward",
 ["currencyID"] = 1592,
 },
 },
@@ -753,6 +773,14 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["icon"] = 2032596,
 ["quantity"] = 350,
+["title"] = "Currency Reward",
+["currencyID"] = 1594,
+},
+},
+[2076] = {
+{
+["icon"] = 2032596,
+["quantity"] = 325,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1594,
 },
@@ -767,9 +795,9 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2078] = {
 {
-["icon"] = 2032592,
-["quantity"] = 400,
 ["title"] = "Currency Reward",
+["quantity"] = 350,
+["icon"] = 2032592,
 ["currencyID"] = 1579,
 },
 },
@@ -782,7 +810,7 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2080] = {
 {
-["quantity"] = 13,
+["quantity"] = 14,
 ["itemID"] = 163036,
 ["itemLink"] = "|cnIQ1:|Hitem:163036::::::::80:261:::::::::|h[Polished Pet Charm]|h|r",
 },
@@ -805,7 +833,7 @@ DataStore_Garrisons_MissionInfos = {
 [1815] = {
 {
 ["icon"] = 1064188,
-["quantity"] = 49,
+["quantity"] = 40,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1508,
 },
@@ -813,7 +841,7 @@ DataStore_Garrisons_MissionInfos = {
 [1816] = {
 {
 ["icon"] = 1064188,
-["quantity"] = 49,
+["quantity"] = 51,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1508,
 },
@@ -893,6 +921,13 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 1101,
 },
 },
+[2135] = {
+{
+["quantity"] = 15,
+["itemID"] = 33226,
+["itemLink"] = "|cnIQ1:|Hitem:33226::::::::80:260:::::::::|h[Tricky Treat]|h|r",
+},
+},
 [664] = {
 {
 ["icon"] = 1131085,
@@ -904,7 +939,7 @@ DataStore_Garrisons_MissionInfos = {
 [2138] = {
 {
 ["icon"] = 2065624,
-["quantity"] = 361,
+["quantity"] = 327,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1553,
 },
@@ -925,16 +960,16 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2142] = {
 {
-["icon"] = 2065624,
-["quantity"] = 459,
 ["title"] = "Currency Reward",
+["quantity"] = 475,
+["icon"] = 2065624,
 ["currencyID"] = 1553,
 },
 },
 [2143] = {
 {
 ["icon"] = 2065624,
-["quantity"] = 451,
+["quantity"] = 493,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1553,
 },
@@ -949,9 +984,9 @@ DataStore_Garrisons_MissionInfos = {
 },
 [666] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 25,
 ["icon"] = 1131085,
+["quantity"] = 25,
+["title"] = "Currency Reward",
 ["currencyID"] = 1101,
 },
 },
@@ -974,7 +1009,7 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 169479,
-["itemLink"] = "|cnIQ4:|Hitem:169479::::::::80:260::::1:28:464:::::|h[Benthic Helm]|h|r",
+["itemLink"] = "|cnIQ1:|Hitem:169479::::::::80:261::::1:28:464:::::|h[]|h|r",
 },
 },
 [271] = {
@@ -1071,7 +1106,7 @@ DataStore_Garrisons_MissionInfos = {
 [1858] = {
 {
 ["icon"] = 2065624,
-["quantity"] = 474,
+["quantity"] = 443,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1553,
 },
@@ -1094,23 +1129,23 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2186] = {
 {
-["title"] = "Money Reward",
-["quantity"] = 246270,
 ["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+["quantity"] = 232310,
+["title"] = "Money Reward",
 ["currencyID"] = 0,
 },
 },
 [2187] = {
 {
 ["quantity"] = 13,
-["itemID"] = 181540,
-["itemLink"] = "|cnIQ2:|Hitem:181540::::::::80:260:::::::::|h[Animaflower Bud]|h|r",
+["itemID"] = 184385,
+["itemLink"] = "|cnIQ2:|Hitem:184385::::::::80:260:::::::::|h[Fossilized Heartwood]|h|r",
 },
 },
 [2188] = {
 {
 ["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-["quantity"] = 263907,
+["quantity"] = 239489,
 ["title"] = "Money Reward",
 ["currencyID"] = 0,
 },
@@ -1125,7 +1160,7 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2190] = {
 {
-["quantity"] = 20,
+["quantity"] = 22,
 ["itemID"] = 163036,
 ["itemLink"] = "|cnIQ1:|Hitem:163036::::::::80:260:::::::::|h[Polished Pet Charm]|h|r",
 },
@@ -1149,8 +1184,8 @@ DataStore_Garrisons_MissionInfos = {
 [2193] = {
 {
 ["quantity"] = 1,
-["itemID"] = 184648,
-["itemLink"] = "|cnIQ3:|Hitem:184648::::::::80:260::31:::::::|h[Hero's Enchanting Cache]|h|r",
+["itemID"] = 184647,
+["itemLink"] = "|cnIQ3:|Hitem:184647::::::::80:260::31:::::::|h[Hero's Herbalism Cache]|h|r",
 },
 },
 [202] = {
@@ -1188,7 +1223,7 @@ DataStore_Garrisons_MissionInfos = {
 [2203] = {
 {
 ["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-["quantity"] = 267287,
+["quantity"] = 248157,
 ["title"] = "Money Reward",
 ["currencyID"] = 0,
 },
@@ -1196,8 +1231,8 @@ DataStore_Garrisons_MissionInfos = {
 [2204] = {
 {
 ["quantity"] = 1,
-["itemID"] = 181659,
-["itemLink"] = "|cnIQ1:|Hitem:181659::::::::80:260::27:3:1472:5910:6646::::::|h[]|h|r",
+["itemID"] = 181205,
+["itemLink"] = "|cnIQ4:|Hitem:181205::::::::80:260::27:3:1472:5910:6646::::::|h[Soulstalker Epaulets]|h|r",
 },
 },
 [2205] = {
@@ -1212,13 +1247,13 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 15,
 ["itemID"] = 184360,
-["itemLink"] = "|cnIQ1:|Hitem:184360::::::::80:260:::::::::|h[]|h|r",
+["itemLink"] = "|cnIQ2:|Hitem:184360::::::::80:260:::::::::|h[Musings on Repetition]|h|r",
 },
 },
 [2207] = {
 {
 ["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-["quantity"] = 264683,
+["quantity"] = 262967,
 ["title"] = "Money Reward",
 ["currencyID"] = 0,
 },
@@ -1227,7 +1262,7 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 5,
 ["itemID"] = 184765,
-["itemLink"] = "|cnIQ3:|Hitem:184765::::::::80:260:::::::::|h[Vesper Strikehammer]|h|r",
+["itemLink"] = "|cnIQ1:|Hitem:184765::::::::80:261:::::::::|h[]|h|r",
 },
 },
 [2209] = {
@@ -1240,9 +1275,9 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2210] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 50,
 ["icon"] = 133250,
+["quantity"] = 50,
+["title"] = "Currency Reward",
 ["currencyID"] = 1820,
 },
 },
@@ -1250,7 +1285,7 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 188654,
-["itemLink"] = "|cnIQ1:|Hitem:188654::::::::80:260:::::::::|h[]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:188654::::::::80:260:::::::::|h[Grimoire of Knowledge]|h|r",
 },
 {
 ["icon"] = 255347,
@@ -1263,20 +1298,20 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 13,
 ["itemID"] = 181642,
-["itemLink"] = "|cnIQ1:|Hitem:181642::::::::80:260:::::::::|h[]|h|r",
+["itemLink"] = "|cnIQ2:|Hitem:181642::::::::80:261:::::::::|h[Novice Principles of Plaguistry]|h|r",
 },
 },
 [2220] = {
 {
-["quantity"] = 3,
+["quantity"] = 4,
 ["itemID"] = 181468,
-["itemLink"] = "|cnIQ3:|Hitem:181468::::::::80:260:::::::::|h[Veiled Augment Rune]|h|r",
+["itemLink"] = "|cnIQ1:|Hitem:181468::::::::80:260:::::::::|h[]|h|r",
 },
 },
 [2221] = {
 {
 ["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-["quantity"] = 254998,
+["quantity"] = 246377,
 ["title"] = "Money Reward",
 ["currencyID"] = 0,
 },
@@ -1300,28 +1335,28 @@ DataStore_Garrisons_MissionInfos = {
 [2224] = {
 {
 ["quantity"] = 1,
-["itemID"] = 181457,
-["itemLink"] = "|cnIQ4:|Hitem:181457::::::::80:260::27:3:1472:5910:6646::::::|h[Wakener's Frond]|h|r",
+["itemID"] = 181430,
+["itemLink"] = "|cnIQ1:|Hitem:181430::::::::80:261::27:3:1472:5910:6646::::::|h[]|h|r",
 },
 },
 [2225] = {
 {
 ["quantity"] = 5,
-["itemID"] = 181645,
-["itemLink"] = "|cnIQ3:|Hitem:181645::::::::80:260:::::::::|h[Engorged Monstrosity's Heart]|h|r",
+["itemID"] = 184773,
+["itemLink"] = "|cnIQ3:|Hitem:184773::::::::80:260:::::::::|h[Battle-Tested Armor Component]|h|r",
 },
 },
 [2226] = {
 {
 ["quantity"] = 5,
 ["itemID"] = 181468,
-["itemLink"] = "|cnIQ3:|Hitem:181468::::::::80:260:::::::::|h[Veiled Augment Rune]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:181468::::::::80:261:::::::::|h[Veiled Augment Rune]|h|r",
 },
 },
 [1882] = {
 {
 ["title"] = "Currency Reward",
-["quantity"] = 228,
+["quantity"] = 265,
 ["icon"] = 2065624,
 ["currencyID"] = 1553,
 },
@@ -1342,7 +1377,7 @@ DataStore_Garrisons_MissionInfos = {
 [1883] = {
 {
 ["icon"] = 2065624,
-["quantity"] = 239,
+["quantity"] = 247,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1553,
 },
@@ -1350,7 +1385,7 @@ DataStore_Garrisons_MissionInfos = {
 [1884] = {
 {
 ["icon"] = 2032594,
-["quantity"] = 125,
+["quantity"] = 100,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1592,
 },
@@ -1378,9 +1413,9 @@ DataStore_Garrisons_MissionInfos = {
 },
 [1886] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 75,
 ["icon"] = 2032591,
+["quantity"] = 100,
+["title"] = "Currency Reward",
 ["currencyID"] = 1599,
 },
 },
@@ -1403,8 +1438,8 @@ DataStore_Garrisons_MissionInfos = {
 [2238] = {
 {
 ["quantity"] = 1,
-["itemID"] = 184642,
-["itemLink"] = "|cnIQ1:|Hitem:184642::::::::80:260::31:::::::|h[]|h|r",
+["itemID"] = 184643,
+["itemLink"] = "|cnIQ2:|Hitem:184643::::::::80:261::31:::::::|h[Champion's Enchanting Cache]|h|r",
 },
 },
 [1377] = {
@@ -1425,21 +1460,21 @@ DataStore_Garrisons_MissionInfos = {
 [2241] = {
 {
 ["quantity"] = 15,
-["itemID"] = 184152,
-["itemLink"] = "|cnIQ2:|Hitem:184152::::::::80:260:::::::::|h[Bottle of Diluted Anima-Wine]|h|r",
+["itemID"] = 184151,
+["itemLink"] = "|cnIQ2:|Hitem:184151::::::::80:260:::::::::|h[Counterfeit Ruby Brooch]|h|r",
 },
 },
 [2242] = {
 {
 ["quantity"] = 1,
-["itemID"] = 181334,
-["itemLink"] = "|cnIQ4:|Hitem:181334::::::::80:260::27:3:1472:5910:6646::::::|h[Essence Extractor]|h|r",
+["itemID"] = 181507,
+["itemLink"] = "|cnIQ4:|Hitem:181507::::::::80:260::27:3:1472:5910:6646::::::|h[Beating Abomination Core]|h|r",
 },
 },
 [2243] = {
 {
 ["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-["quantity"] = 268990,
+["quantity"] = 231412,
 ["title"] = "Money Reward",
 ["currencyID"] = 0,
 },
@@ -1447,30 +1482,30 @@ DataStore_Garrisons_MissionInfos = {
 [2244] = {
 {
 ["quantity"] = 5,
-["itemID"] = 181550,
-["itemLink"] = "|cnIQ3:|Hitem:181550::::::::80:261:::::::::|h[Hopebreaker's Field Injector]|h|r",
+["itemID"] = 181546,
+["itemLink"] = "|cnIQ3:|Hitem:181546::::::::80:260:::::::::|h[Mature Cryptbloom]|h|r",
 },
 },
 [1891] = {
 {
-["icon"] = 2032595,
-["quantity"] = 100,
 ["title"] = "Currency Reward",
+["quantity"] = 125,
+["icon"] = 2032595,
 ["currencyID"] = 1593,
 },
 },
 [1892] = {
 {
-["icon"] = 2065624,
-["quantity"] = 275,
 ["title"] = "Currency Reward",
+["quantity"] = 275,
+["icon"] = 2065624,
 ["currencyID"] = 1553,
 },
 },
 [1893] = {
 {
 ["icon"] = 2065624,
-["quantity"] = 262,
+["quantity"] = 257,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1553,
 },
@@ -1500,9 +1535,9 @@ DataStore_Garrisons_MissionInfos = {
 },
 [1895] = {
 {
-["icon"] = 2032591,
-["quantity"] = 75,
 ["title"] = "Currency Reward",
+["quantity"] = 125,
+["icon"] = 2032591,
 ["currencyID"] = 1599,
 },
 },
@@ -1525,29 +1560,29 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 2,
 ["itemID"] = 178040,
-["itemLink"] = "|cnIQ1:|Hitem:178040::::::::80:260:::::::::|h[]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:178040::::::::80:261:::::::::|h[Condensed Stygia]|h|r",
 },
 },
 [1897] = {
 {
 ["icon"] = 2032592,
-["quantity"] = 225,
+["quantity"] = 200,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1579,
 },
 },
 [2258] = {
 {
-["icon"] = 3743738,
-["quantity"] = 150,
 ["title"] = "Currency Reward",
+["quantity"] = 150,
+["icon"] = 3743738,
 ["currencyID"] = 1828,
 },
 },
 [1898] = {
 {
 ["icon"] = 2065624,
-["quantity"] = 361,
+["quantity"] = 343,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1553,
 },
@@ -1561,7 +1596,7 @@ DataStore_Garrisons_MissionInfos = {
 },
 [1899] = {
 {
-["quantity"] = 4,
+["quantity"] = 3,
 ["itemID"] = 160053,
 ["itemLink"] = "|cnIQ3:|Hitem:160053::::::::80:260:::::::::|h[Battle-Scarred Augment Rune]|h|r",
 },
@@ -1589,15 +1624,15 @@ DataStore_Garrisons_MissionInfos = {
 [2265] = {
 {
 ["quantity"] = 1,
-["itemID"] = 184638,
-["itemLink"] = "|cnIQ3:|Hitem:184638::::::::80:261::31:::::::|h[Hero's Fish Cache]|h|r",
+["itemID"] = 184637,
+["itemLink"] = "|cnIQ3:|Hitem:184637::::::::80:261::31:::::::|h[Hero's Meat Cache]|h|r",
 },
 },
 [2266] = {
 {
 ["quantity"] = 5,
-["itemID"] = 181547,
-["itemLink"] = "|cnIQ3:|Hitem:181547::::::::80:260:::::::::|h[Noble's Draught]|h|r",
+["itemID"] = 181550,
+["itemLink"] = "|cnIQ3:|Hitem:181550::::::::80:261:::::::::|h[Hopebreaker's Field Injector]|h|r",
 },
 },
 [1902] = {
@@ -1611,8 +1646,8 @@ DataStore_Garrisons_MissionInfos = {
 [2268] = {
 {
 ["quantity"] = 1,
-["itemID"] = 181187,
-["itemLink"] = "|cnIQ4:|Hitem:181187::::::::80:261::27:3:1472:5910:6646::::::|h[Soulstalker Bindings]|h|r",
+["itemID"] = 181580,
+["itemLink"] = "|cnIQ4:|Hitem:181580::::::::80:261::27:3:1472:5910:6646::::::|h[Soulbearer's Gloves]|h|r",
 },
 },
 [1903] = {
@@ -1625,30 +1660,30 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2270] = {
 {
-["quantity"] = 5,
+["quantity"] = 6,
 ["itemID"] = 181468,
-["itemLink"] = "|cnIQ3:|Hitem:181468::::::::80:260:::::::::|h[Veiled Augment Rune]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:181468::::::::80:261:::::::::|h[Veiled Augment Rune]|h|r",
 },
 },
 [1904] = {
 {
-["icon"] = 2032592,
-["quantity"] = 225,
 ["title"] = "Currency Reward",
+["quantity"] = 225,
+["icon"] = 2032592,
 ["currencyID"] = 1579,
 },
 },
 [2272] = {
 {
 ["quantity"] = 5,
-["itemID"] = 171301,
-["itemLink"] = "|cnIQ1:|Hitem:171301::::::::80:260:::::::::|h[Spiritual Anti-Venom]|h|r",
+["itemID"] = 171264,
+["itemLink"] = "|cnIQ1:|Hitem:171264::::::::80:261:::::::::|h[Potion of Shaded Sight]|h|r",
 },
 },
 [1905] = {
 {
 ["icon"] = 2065624,
-["quantity"] = 430,
+["quantity"] = 425,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1553,
 },
@@ -1656,8 +1691,8 @@ DataStore_Garrisons_MissionInfos = {
 [2274] = {
 {
 ["quantity"] = 1,
-["itemID"] = 184648,
-["itemLink"] = "|cnIQ1:|Hitem:184648::::::::80:260::31:::::::|h[]|h|r",
+["itemID"] = 184647,
+["itemLink"] = "|cnIQ3:|Hitem:184647::::::::80:261::31:::::::|h[Hero's Herbalism Cache]|h|r",
 },
 },
 [2276] = {
@@ -1671,7 +1706,7 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2277] = {
 {
-["quantity"] = 21,
+["quantity"] = 22,
 ["itemID"] = 163036,
 ["itemLink"] = "|cnIQ1:|Hitem:163036::::::::80:260:::::::::|h[Polished Pet Charm]|h|r",
 },
@@ -1680,29 +1715,29 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 184647,
-["itemLink"] = "|cnIQ3:|Hitem:184647::::::::80:260::31:::::::|h[Hero's Herbalism Cache]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:184647::::::::80:261::31:::::::|h[Hero's Herbalism Cache]|h|r",
 },
 },
 [1908] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 225,
 ["icon"] = 2032591,
+["quantity"] = 225,
+["title"] = "Currency Reward",
 ["currencyID"] = 1599,
 },
 },
 [2280] = {
 {
 ["quantity"] = 1,
-["itemID"] = 184640,
-["itemLink"] = "|cnIQ2:|Hitem:184640::::::::80:260::31:::::::|h[Champion's Skinning Cache]|h|r",
+["itemID"] = 184643,
+["itemLink"] = "|cnIQ2:|Hitem:184643::::::::80:260::31:::::::|h[Champion's Enchanting Cache]|h|r",
 },
 },
 [2281] = {
 {
 ["quantity"] = 1,
-["itemID"] = 184638,
-["itemLink"] = "|cnIQ3:|Hitem:184638::::::::80:260::31:::::::|h[Hero's Fish Cache]|h|r",
+["itemID"] = 184637,
+["itemLink"] = "|cnIQ3:|Hitem:184637::::::::80:261::31:::::::|h[Hero's Meat Cache]|h|r",
 },
 },
 [2282] = {
@@ -1716,15 +1751,15 @@ DataStore_Garrisons_MissionInfos = {
 [2283] = {
 {
 ["quantity"] = 1,
-["itemID"] = 179547,
-["itemLink"] = "|cnIQ4:|Hitem:179547::::::::80:261::27:3:1472:5910:6646::::::|h[Duskwarder Warclub]|h|r",
+["itemID"] = 181186,
+["itemLink"] = "|cnIQ4:|Hitem:181186::::::::80:260::27:3:1472:5910:6646::::::|h[Stalker Wight's Sash]|h|r",
 },
 },
 [2284] = {
 {
 ["quantity"] = 1,
-["itemID"] = 181185,
-["itemLink"] = "|cnIQ1:|Hitem:181185::::::::80:260::27:3:1472:5910:6646::::::|h[]|h|r",
+["itemID"] = 181501,
+["itemLink"] = "|cnIQ4:|Hitem:181501::::::::80:260::27:3:1472:5910:6646::::::|h[Flame of Battle]|h|r",
 },
 },
 [1911] = {
@@ -1744,9 +1779,9 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2288] = {
 {
-["title"] = "Money Reward",
-["quantity"] = 263039,
 ["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+["quantity"] = 231360,
+["title"] = "Money Reward",
 ["currencyID"] = 0,
 },
 },
@@ -1754,7 +1789,7 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 184641,
-["itemLink"] = "|cnIQ1:|Hitem:184641::::::::80:260::31:::::::|h[]|h|r",
+["itemLink"] = "|cnIQ2:|Hitem:184641::::::::80:261::31:::::::|h[Champion's Mining Cache]|h|r",
 },
 },
 [208] = {
@@ -1775,7 +1810,7 @@ DataStore_Garrisons_MissionInfos = {
 [1914] = {
 {
 ["icon"] = 2065624,
-["quantity"] = 370,
+["quantity"] = 368,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1553,
 },
@@ -1783,22 +1818,23 @@ DataStore_Garrisons_MissionInfos = {
 [2292] = {
 {
 ["quantity"] = 15,
-["itemID"] = 184385,
-["itemLink"] = "|cnIQ2:|Hitem:184385::::::::80:260:::::::::|h[Fossilized Heartwood]|h|r",
+["itemID"] = 184386,
+["itemLink"] = "|cnIQ2:|Hitem:184386::::::::80:261:::::::::|h[Nascent Sporepod]|h|r",
 },
 },
 [2293] = {
 {
-["quantity"] = 10,
-["itemID"] = 173059,
-["itemLink"] = "|cnIQ1:|Hitem:173059::::::::80:260:::::::::|h[Luminous Ink]|h|r",
+["icon"] = 133250,
+["quantity"] = 50,
+["title"] = "Currency Reward",
+["currencyID"] = 1820,
 },
 },
 [1916] = {
 {
-["icon"] = 2065624,
-["quantity"] = 369,
 ["title"] = "Currency Reward",
+["quantity"] = 339,
+["icon"] = 2065624,
 ["currencyID"] = 1553,
 },
 },
@@ -1821,12 +1857,12 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 187569,
-["itemLink"] = "|cnIQ3:|Hitem:187569::::::::80:260::31:::::::|h[Brokers' Tailoring Mote of Potentiation]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:187569::::::::80:261::31:::::::|h[Brokers' Tailoring Mote of Potentiation]|h|r",
 },
 {
 ["quantity"] = 1,
-["itemID"] = 188655,
-["itemLink"] = "|cnIQ2:|Hitem:188655::::::::80:260:::::::::|h[Crystalline Memory Repository]|h|r",
+["itemID"] = 188656,
+["itemLink"] = "|cnIQ3:|Hitem:188656::::::::80:261:::::::::|h[Fractal Thoughtbinder]|h|r",
 },
 },
 [2301] = {
@@ -1836,9 +1872,9 @@ DataStore_Garrisons_MissionInfos = {
 ["itemLink"] = "|cnIQ3:|Hitem:188656::::::::80:260:::::::::|h[Fractal Thoughtbinder]|h|r",
 },
 {
-["title"] = "Money Reward",
-["quantity"] = 245364,
 ["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+["quantity"] = 239763,
+["title"] = "Money Reward",
 ["currencyID"] = 0,
 },
 },
@@ -1846,12 +1882,12 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 187572,
-["itemLink"] = "|cnIQ1:|Hitem:187572::::::::80:260::31:::::::|h[]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:187572::::::::80:260::31:::::::|h[Brokers' Herbalism Mote of Potentiation]|h|r",
 },
 {
 ["quantity"] = 1,
 ["itemID"] = 188656,
-["itemLink"] = "|cnIQ1:|Hitem:188656::::::::80:260:::::::::|h[]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:188656::::::::80:260:::::::::|h[Fractal Thoughtbinder]|h|r",
 },
 },
 [2303] = {
@@ -1869,12 +1905,12 @@ DataStore_Garrisons_MissionInfos = {
 [2304] = {
 {
 ["quantity"] = 1,
-["itemID"] = 188657,
-["itemLink"] = "|cnIQ1:|Hitem:188657::::::::80:260:::::::::|h[]|h|r",
+["itemID"] = 188656,
+["itemLink"] = "|cnIQ1:|Hitem:188656::::::::80:261:::::::::|h[]|h|r",
 },
 {
 ["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-["quantity"] = 239436,
+["quantity"] = 230123,
 ["title"] = "Money Reward",
 ["currencyID"] = 0,
 },
@@ -1883,12 +1919,12 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 187574,
-["itemLink"] = "|cnIQ3:|Hitem:187574::::::::80:260::31:::::::|h[Brokers' Overflowing Bucket]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:187574::::::::80:261::31:::::::|h[Brokers' Overflowing Bucket]|h|r",
 },
 {
 ["quantity"] = 1,
-["itemID"] = 188657,
-["itemLink"] = "|cnIQ4:|Hitem:188657::::::::80:260:::::::::|h[Mind-Expanding Prism]|h|r",
+["itemID"] = 188656,
+["itemLink"] = "|cnIQ3:|Hitem:188656::::::::80:261:::::::::|h[Fractal Thoughtbinder]|h|r",
 },
 },
 [2306] = {
@@ -1906,13 +1942,13 @@ DataStore_Garrisons_MissionInfos = {
 [2307] = {
 {
 ["quantity"] = 1,
-["itemID"] = 188656,
-["itemLink"] = "|cnIQ3:|Hitem:188656::::::::80:260:::::::::|h[Fractal Thoughtbinder]|h|r",
+["itemID"] = 188655,
+["itemLink"] = "|cnIQ2:|Hitem:188655::::::::80:260:::::::::|h[Crystalline Memory Repository]|h|r",
 },
 {
-["title"] = "Money Reward",
-["quantity"] = 233128,
 ["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+["quantity"] = 267364,
+["title"] = "Money Reward",
 ["currencyID"] = 0,
 },
 },
@@ -1934,11 +1970,11 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 187577,
-["itemLink"] = "|cnIQ3:|Hitem:187577::::::::80:260::31:::::::|h[Korthian Meat Cache]|h|r",
+["itemLink"] = "|cnIQ1:|Hitem:187577::::::::80:260::31:::::::|h[]|h|r",
 },
 {
 ["icon"] = 4067362,
-["quantity"] = 18,
+["quantity"] = 21,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1906,
 },
@@ -1947,12 +1983,12 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 187576,
-["itemLink"] = "|cnIQ3:|Hitem:187576::::::::80:260::31:::::::|h[Korthian Skinning Cache]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:187576::::::::80:261::31:::::::|h[Korthian Skinning Cache]|h|r",
 },
 {
-["icon"] = 4067362,
-["quantity"] = 30,
 ["title"] = "Currency Reward",
+["quantity"] = 31,
+["icon"] = 4067362,
 ["currencyID"] = 1906,
 },
 },
@@ -1973,20 +2009,20 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 187575,
-["itemLink"] = "|cnIQ3:|Hitem:187575::::::::80:260::31:::::::|h[Korthian Fishing Cache]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:187575::::::::80:261::31:::::::|h[Korthian Fishing Cache]|h|r",
 },
 {
-["title"] = "Currency Reward",
-["quantity"] = 32,
 ["icon"] = 4067362,
+["quantity"] = 28,
+["title"] = "Currency Reward",
 ["currencyID"] = 1906,
 },
 },
 [2313] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 33,
 ["icon"] = 4067362,
+["quantity"] = 32,
+["title"] = "Currency Reward",
 ["currencyID"] = 1906,
 },
 {
@@ -2023,12 +2059,12 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 187569,
-["itemLink"] = "|cnIQ1:|Hitem:187569::::::::80:260::31:::::::|h[]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:187569::::::::80:260::31:::::::|h[Brokers' Tailoring Mote of Potentiation]|h|r",
 },
 {
 ["quantity"] = 1,
 ["itemID"] = 188655,
-["itemLink"] = "|cnIQ1:|Hitem:188655::::::::80:260:::::::::|h[]|h|r",
+["itemLink"] = "|cnIQ2:|Hitem:188655::::::::80:260:::::::::|h[Crystalline Memory Repository]|h|r",
 },
 },
 [178] = {
@@ -2063,6 +2099,20 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 1533,
 },
 },
+[1165] = {
+{
+["itemID"] = 140584,
+["quantity"] = 1,
+},
+},
+[1166] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 5,
+["icon"] = 236521,
+["currencyID"] = 1533,
+},
+},
 [2330] = {
 {
 ["quantity"] = 1,
@@ -2086,7 +2136,7 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 190178,
-["itemLink"] = "|cnIQ3:|Hitem:190178::::::::80:261::31:::::::|h[Pouch of Protogenic Provisions]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:190178::::::::80:260::31:::::::|h[Pouch of Protogenic Provisions]|h|r",
 },
 },
 [2333] = {
@@ -2105,49 +2155,49 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2335] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 250,
 ["icon"] = 3257748,
+["quantity"] = 250,
+["title"] = "Currency Reward",
 ["currencyID"] = 1804,
 },
 {
-["title"] = "Currency Reward",
-["quantity"] = 250,
 ["icon"] = 3575389,
+["quantity"] = 250,
+["title"] = "Currency Reward",
 ["currencyID"] = 1806,
 },
 {
-["title"] = "Currency Reward",
-["quantity"] = 250,
 ["icon"] = 3492310,
+["quantity"] = 250,
+["title"] = "Currency Reward",
 ["currencyID"] = 1805,
 },
 },
 [2336] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 250,
 ["icon"] = 3257748,
+["quantity"] = 250,
+["title"] = "Currency Reward",
 ["currencyID"] = 1804,
 },
 {
-["title"] = "Currency Reward",
-["quantity"] = 250,
 ["icon"] = 3575389,
+["quantity"] = 250,
+["title"] = "Currency Reward",
 ["currencyID"] = 1806,
 },
 {
-["title"] = "Currency Reward",
-["quantity"] = 250,
 ["icon"] = 3492310,
+["quantity"] = 250,
+["title"] = "Currency Reward",
 ["currencyID"] = 1805,
 },
 },
 [179] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 42,
 ["icon"] = 1005027,
+["quantity"] = 42,
+["title"] = "Currency Reward",
 ["currencyID"] = 824,
 },
 },
@@ -2155,7 +2205,7 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 147507,
-["itemLink"] = "|cnIQ1:|Hitem:147507::::::::80:260:::::::::|h[]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:147507::::::::80:261:::::::::|h[Wailing Soul]|h|r",
 },
 },
 [2339] = {
@@ -2185,29 +2235,29 @@ DataStore_Garrisons_MissionInfos = {
 },
 [2341] = {
 {
+["icon"] = 4067362,
+["quantity"] = 30,
 ["title"] = "Currency Reward",
-["quantity"] = 150,
-["icon"] = 3743738,
-["currencyID"] = 1828,
+["currencyID"] = 1906,
 },
 {
-["title"] = "Money Reward",
-["quantity"] = 262877,
 ["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+["quantity"] = 233372,
+["title"] = "Money Reward",
 ["currencyID"] = 0,
 },
 },
 [2342] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 26,
 ["icon"] = 4067362,
+["quantity"] = 33,
+["title"] = "Currency Reward",
 ["currencyID"] = 1906,
 },
 {
-["quantity"] = 8,
+["quantity"] = 6,
 ["itemID"] = 189544,
-["itemLink"] = "|cnIQ3:|Hitem:189544::::::::80:260:::::::::|h[Anima Webbing]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:189544::::::::80:261:::::::::|h[Anima Webbing]|h|r",
 },
 },
 [2343] = {
@@ -2229,21 +2279,21 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 3,
 ["itemID"] = 181468,
-["itemLink"] = "|cnIQ3:|Hitem:181468::::::::80:261:::::::::|h[Veiled Augment Rune]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:181468::::::::80:260:::::::::|h[Veiled Augment Rune]|h|r",
 },
 },
 [2346] = {
 {
-["quantity"] = 8,
+["quantity"] = 6,
 ["itemID"] = 189544,
 ["itemLink"] = "|cnIQ3:|Hitem:189544::::::::80:260:::::::::|h[Anima Webbing]|h|r",
 },
 },
 [359] = {
 {
-["icon"] = 838813,
-["quantity"] = 1,
 ["title"] = "Currency Reward",
+["quantity"] = 1,
+["icon"] = 838813,
 ["currencyID"] = 994,
 },
 },
@@ -2282,17 +2332,17 @@ DataStore_Garrisons_MissionInfos = {
 },
 [1697] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 7500,
 ["icon"] = 132775,
+["quantity"] = 7500,
+["title"] = "Currency Reward",
 ["currencyID"] = 1226,
 },
 },
 [1698] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 500,
 ["icon"] = 803763,
+["quantity"] = 500,
+["title"] = "Currency Reward",
 ["currencyID"] = 1342,
 },
 },
@@ -2307,9 +2357,9 @@ DataStore_Garrisons_MissionInfos = {
 },
 [1699] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 250,
 ["icon"] = 236521,
+["quantity"] = 250,
+["title"] = "Currency Reward",
 ["currencyID"] = 1533,
 },
 },
@@ -2329,6 +2379,21 @@ DataStore_Garrisons_MissionInfos = {
 ["tooltip"] = "+1,000 XP",
 ["icon"] = "Interface\\Icons\\XPBonus_Icon",
 ["name"] = "+1,000 XP",
+},
+},
+[214] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 1500,
+["tooltip"] = "+1,500 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1,500 XP",
+},
+{
+["title"] = "Currency Reward",
+["quantity"] = 275,
+["icon"] = 1005027,
+["currencyID"] = 824,
 },
 },
 [300] = {
@@ -2357,7 +2422,7 @@ DataStore_Garrisons_MissionInfos = {
 {
 ["quantity"] = 1,
 ["itemID"] = 152323,
-["itemLink"] = "|cnIQ1:|Hitem:152323::::::::80:260:::::::::|h[]|h|r",
+["itemLink"] = "|cnIQ3:|Hitem:152323::::::::80:260:::::::::|h[Sargerei Manifesto]|h|r",
 },
 },
 [1710] = {
@@ -2391,10 +2456,82 @@ DataStore_Garrisons_MissionInfos = {
 ["name"] = "+400 XP",
 },
 },
+[215] = {
+{
+["itemID"] = 115012,
+["quantity"] = 1,
+},
+},
+[1171] = {
+{
+["itemID"] = 140584,
+["quantity"] = 1,
+},
+},
+[358] = {
+{
+["icon"] = 838813,
+["quantity"] = 1,
+["title"] = "Currency Reward",
+["currencyID"] = 994,
+},
+},
+[2253] = {
+{
+["quantity"] = 2,
+["itemID"] = 178040,
+["itemLink"] = "|cnIQ3:|Hitem:178040::::::::80:261:::::::::|h[Condensed Stygia]|h|r",
+},
+},
+[2130] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 50,
+["icon"] = 463446,
+["currencyID"] = 1166,
+},
+},
 [497] = {
 {
 ["itemID"] = 122580,
 ["quantity"] = 1,
+},
+},
+[1042] = {
+{
+["itemID"] = 140584,
+["quantity"] = 1,
+},
+},
+[1168] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 5,
+["icon"] = 236521,
+["currencyID"] = 1533,
+},
+},
+[2133] = {
+{
+["quantity"] = 10,
+["itemID"] = 37829,
+["itemLink"] = "|cnIQ1:|Hitem:37829::::::::80:260:::::::::|h[]|h|r",
+},
+},
+[1041] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 5,
+["icon"] = 236521,
+["currencyID"] = 1533,
+},
+},
+[472] = {
+{
+["icon"] = 136086,
+["quantity"] = 50,
+["title"] = "Currency Reward",
+["currencyID"] = 828,
 },
 },
 [370] = {
@@ -2406,31 +2543,6 @@ DataStore_Garrisons_MissionInfos = {
 ["name"] = "+600 XP",
 },
 },
-[498] = {
-{
-["itemID"] = 122582,
-["quantity"] = 1,
-},
-},
-[1042] = {
-{
-["itemID"] = 140584,
-["quantity"] = 1,
-},
-},
-[1169] = {
-{
-["itemID"] = 140584,
-["quantity"] = 1,
-},
-},
-[2133] = {
-{
-["quantity"] = 10,
-["itemID"] = 37829,
-["itemLink"] = "|cnIQ1:|Hitem:37829::::::::80:260:::::::::|h[]|h|r",
-},
-},
 [170] = {
 {
 ["title"] = "Bonus Follower XP",
@@ -2440,34 +2552,9 @@ DataStore_Garrisons_MissionInfos = {
 ["name"] = "+1,000 XP",
 },
 },
-[472] = {
+[498] = {
 {
-["icon"] = 136086,
-["quantity"] = 50,
-["title"] = "Currency Reward",
-["currencyID"] = 828,
-},
-},
-[371] = {
-{
-["title"] = "Bonus Follower XP",
-["followerXP"] = 800,
-["tooltip"] = "+800 XP",
-["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+800 XP",
-},
-},
-[1907] = {
-{
-["icon"] = 2032595,
-["quantity"] = 225,
-["title"] = "Currency Reward",
-["currencyID"] = 1593,
-},
-},
-[499] = {
-{
-["itemID"] = 122583,
+["itemID"] = 122582,
 ["quantity"] = 1,
 },
 },
@@ -2479,6 +2566,24 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 1828,
 },
 },
+[114] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 8000,
+["tooltip"] = "+8,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+8,000 XP",
+},
+},
+[275] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 10000,
+["tooltip"] = "+10,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+10,000 XP",
+},
+},
 [147] = {
 {
 ["title"] = "Bonus Follower XP",
@@ -2488,7 +2593,38 @@ DataStore_Garrisons_MissionInfos = {
 ["name"] = "+300 XP",
 },
 },
-[275] = {
+[2191] = {
+{
+["quantity"] = 5,
+["itemID"] = 181479,
+["itemLink"] = "|cnIQ3:|Hitem:181479::::::::80:260:::::::::|h[Starlight Catcher]|h|r",
+},
+},
+[371] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 800,
+["tooltip"] = "+800 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+800 XP",
+},
+},
+[157] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 600,
+["tooltip"] = "+600 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+600 XP",
+},
+},
+[499] = {
+{
+["itemID"] = 122583,
+["quantity"] = 1,
+},
+},
+[274] = {
 {
 ["title"] = "Bonus Follower XP",
 ["followerXP"] = 10000,
@@ -2505,15 +2641,6 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 1805,
 },
 },
-[274] = {
-{
-["title"] = "Bonus Follower XP",
-["followerXP"] = 10000,
-["tooltip"] = "+10,000 XP",
-["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+10,000 XP",
-},
-},
 [159] = {
 {
 ["title"] = "Bonus Follower XP",
@@ -2523,11 +2650,32 @@ DataStore_Garrisons_MissionInfos = {
 ["name"] = "+700 XP",
 },
 },
+[131] = {
+{
+["itemID"] = 120301,
+["quantity"] = 1,
+},
+},
+[177] = {
+{
+["icon"] = 1005027,
+["quantity"] = 38,
+["title"] = "Currency Reward",
+["currencyID"] = 824,
+},
+},
 [2285] = {
 {
 ["quantity"] = 1,
 ["itemID"] = 184642,
 ["itemLink"] = "|cnIQ2:|Hitem:184642::::::::80:260::31:::::::|h[Champion's Herbalism Cache]|h|r",
+},
+},
+[2237] = {
+{
+["quantity"] = 13,
+["itemID"] = 184151,
+["itemLink"] = "|cnIQ1:|Hitem:184151::::::::80:261:::::::::|h[]|h|r",
 },
 },
 [243] = {
@@ -2539,43 +2687,40 @@ DataStore_Garrisons_MissionInfos = {
 ["name"] = "+1,200 XP",
 },
 },
-[177] = {
+[120] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 38,
-["icon"] = 1005027,
-["currencyID"] = 824,
-},
-},
-[157] = {
-{
-["title"] = "Bonus Follower XP",
-["followerXP"] = 600,
-["tooltip"] = "+600 XP",
-["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+600 XP",
-},
-},
-[1683] = {
-{
+["itemID"] = 120302,
 ["quantity"] = 1,
-["itemID"] = 147511,
-["itemLink"] = "|cnIQ3:|Hitem:147511::::::::80:261:::::::::|h[Seal of the Deceiver]|h|r",
 },
 },
 [1910] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 225,
 ["icon"] = 2032592,
+["quantity"] = 225,
+["title"] = "Currency Reward",
 ["currencyID"] = 1579,
 },
 },
-[2237] = {
+[119] = {
 {
-["quantity"] = 13,
-["itemID"] = 184151,
-["itemLink"] = "|cnIQ2:|Hitem:184151::::::::80:261:::::::::|h[Counterfeit Ruby Brooch]|h|r",
+["itemID"] = 120301,
+["quantity"] = 1,
+},
+},
+[1894] = {
+{
+["icon"] = 2065624,
+["quantity"] = 242,
+["title"] = "Currency Reward",
+["currencyID"] = 1553,
+},
+},
+[175] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 34,
+["icon"] = 1005027,
+["currencyID"] = 824,
 },
 },
 [373] = {
@@ -2587,55 +2732,19 @@ DataStore_Garrisons_MissionInfos = {
 ["name"] = "+1,200 XP",
 },
 },
-[1894] = {
-{
-["icon"] = 2065624,
-["quantity"] = 270,
-["title"] = "Currency Reward",
-["currencyID"] = 1553,
-},
-},
-[120] = {
-{
-["itemID"] = 120302,
-["quantity"] = 1,
-},
-},
-[1915] = {
-{
-["icon"] = 2065624,
-["quantity"] = 427,
-["title"] = "Currency Reward",
-["currencyID"] = 1553,
-},
-},
-[187] = {
-{
-["icon"] = 1005027,
-["quantity"] = 34,
-["title"] = "Currency Reward",
-["currencyID"] = 824,
-},
-},
-[119] = {
-{
-["itemID"] = 120301,
-["quantity"] = 1,
-},
-},
 [2223] = {
 {
 ["quantity"] = 15,
-["itemID"] = 184306,
-["itemLink"] = "|cnIQ2:|Hitem:184306::::::::80:261:::::::::|h[Soulcatching Sludge]|h|r",
+["itemID"] = 181644,
+["itemLink"] = "|cnIQ2:|Hitem:181644::::::::80:260:::::::::|h[Unlabeled Culture Jars]|h|r",
 },
 },
-[175] = {
+[665] = {
 {
+["icon"] = 1131085,
+["quantity"] = 25,
 ["title"] = "Currency Reward",
-["quantity"] = 34,
-["icon"] = 1005027,
-["currencyID"] = 824,
+["currencyID"] = 1101,
 },
 },
 [176] = {
@@ -2646,28 +2755,44 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 824,
 },
 },
+[187] = {
+{
+["icon"] = 1005027,
+["quantity"] = 34,
+["title"] = "Currency Reward",
+["currencyID"] = 824,
+},
+},
 [1890] = {
 {
 ["icon"] = 2032591,
-["quantity"] = 125,
+["quantity"] = 100,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1599,
+},
+},
+[1896] = {
+{
+["icon"] = 2032595,
+["quantity"] = 75,
+["title"] = "Currency Reward",
+["currencyID"] = 1593,
+},
+},
+[1888] = {
+{
+["icon"] = 2032596,
+["quantity"] = 75,
+["title"] = "Currency Reward",
+["currencyID"] = 1594,
 },
 },
 [1889] = {
 {
 ["icon"] = 2032592,
-["quantity"] = 200,
+["quantity"] = 250,
 ["title"] = "Currency Reward",
 ["currencyID"] = 1579,
-},
-},
-[2178] = {
-{
-["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-["quantity"] = 254618,
-["title"] = "Money Reward",
-["currencyID"] = 0,
 },
 },
 [2287] = {
@@ -2679,6 +2804,23 @@ DataStore_Garrisons_MissionInfos = {
 ["name"] = "+2,500 XP",
 },
 },
+[332] = {
+{
+["itemID"] = 26045,
+["quantity"] = 100,
+},
+{
+["itemID"] = 26044,
+["quantity"] = 40,
+},
+},
+[1778] = {
+{
+["quantity"] = 1,
+["itemID"] = 152446,
+["itemLink"] = "|cnIQ4:|Hitem:152446::::::::80:260:::::::::|h[Writ of Holy Orders]|h|r",
+},
+},
 [1913] = {
 {
 ["icon"] = 2032591,
@@ -2687,18 +2829,25 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 1599,
 },
 },
-[1778] = {
+[2178] = {
 {
+["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+["quantity"] = 254618,
+["title"] = "Money Reward",
+["currencyID"] = 0,
+},
+},
+[125] = {
+{
+["itemID"] = 120301,
 ["quantity"] = 1,
-["itemID"] = 152443,
-["itemLink"] = "|cnIQ1:|Hitem:152443::::::::80:260:::::::::|h[]|h|r",
 },
 },
 [1751] = {
 {
-["icon"] = 236521,
-["quantity"] = 25,
 ["title"] = "Currency Reward",
+["quantity"] = 25,
+["icon"] = 236521,
 ["currencyID"] = 1533,
 },
 },
@@ -2713,9 +2862,9 @@ DataStore_Garrisons_MissionInfos = {
 },
 [1752] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 25,
 ["icon"] = 236521,
+["quantity"] = 25,
+["title"] = "Currency Reward",
 ["currencyID"] = 1533,
 },
 },
@@ -2736,56 +2885,53 @@ DataStore_Garrisons_MissionInfos = {
 },
 [188] = {
 {
-["icon"] = 1005027,
-["quantity"] = 36,
 ["title"] = "Currency Reward",
+["quantity"] = 36,
+["icon"] = 1005027,
 ["currencyID"] = 824,
 },
 },
-[332] = {
+[1915] = {
 {
-["itemID"] = 26045,
-["quantity"] = 100,
-},
-{
-["itemID"] = 26044,
-["quantity"] = 40,
+["icon"] = 2065624,
+["quantity"] = 433,
+["title"] = "Currency Reward",
+["currencyID"] = 1553,
 },
 },
-[125] = {
+[2273] = {
 {
-["itemID"] = 120301,
 ["quantity"] = 1,
+["itemID"] = 184637,
+["itemLink"] = "|cnIQ3:|Hitem:184637::::::::80:260::31:::::::|h[Hero's Meat Cache]|h|r",
 },
 },
 [1755] = {
 {
 ["quantity"] = 2,
-["itemID"] = 146944,
-["itemLink"] = "|cnIQ3:|Hitem:146944::::::::80:260:::::::::|h[Highmountain Tribe Insignia]|h|r",
+["itemID"] = 146946,
+["itemLink"] = "|cnIQ3:|Hitem:146946::::::::80:260:::::::::|h[Nightfallen Insignia]|h|r",
 },
 },
-[1896] = {
+[2291] = {
 {
-["icon"] = 2032595,
-["quantity"] = 75,
-["title"] = "Currency Reward",
-["currencyID"] = 1593,
+["quantity"] = 1,
+["itemID"] = 184647,
+["itemLink"] = "|cnIQ3:|Hitem:184647::::::::80:260::31:::::::|h[Hero's Herbalism Cache]|h|r",
 },
 },
 [1756] = {
 {
 ["quantity"] = 1,
 ["itemID"] = 152960,
-["itemLink"] = "|cnIQ3:|Hitem:152960::::::::80:260:::::::::|h[Argussian Reach Insignia]|h|r",
+["itemLink"] = "|cnIQ1:|Hitem:152960::::::::80:260:::::::::|h[]|h|r",
 },
 },
-[1888] = {
+[1683] = {
 {
-["icon"] = 2032596,
-["quantity"] = 125,
-["title"] = "Currency Reward",
-["currencyID"] = 1594,
+["quantity"] = 1,
+["itemID"] = 147511,
+["itemLink"] = "|cnIQ3:|Hitem:147511::::::::80:261:::::::::|h[Seal of the Deceiver]|h|r",
 },
 },
 [1757] = {
@@ -2795,26 +2941,27 @@ DataStore_Garrisons_MissionInfos = {
 ["itemLink"] = "|cnIQ3:|Hitem:124124::::::::80:260:::::::::|h[Blood of Sargeras]|h|r",
 },
 },
-[665] = {
+[2227] = {
 {
-["icon"] = 1131085,
-["quantity"] = 25,
-["title"] = "Currency Reward",
-["currencyID"] = 1101,
+["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+["quantity"] = 244747,
+["title"] = "Money Reward",
+["currencyID"] = 0,
 },
 },
 [1758] = {
 {
 ["quantity"] = 2,
-["itemID"] = 146941,
-["itemLink"] = "|cnIQ1:|Hitem:146941::::::::80:260:::::::::|h[]|h|r",
+["itemID"] = 146950,
+["itemLink"] = "|cnIQ3:|Hitem:146950::::::::80:260:::::::::|h[Legionfall Insignia]|h|r",
 },
 },
-[2273] = {
+[2239] = {
 {
-["quantity"] = 1,
-["itemID"] = 184637,
-["itemLink"] = "|cnIQ3:|Hitem:184637::::::::80:260::31:::::::|h[Hero's Meat Cache]|h|r",
+["icon"] = 3514227,
+["quantity"] = 375,
+["title"] = "Currency Reward",
+["currencyID"] = 1807,
 },
 },
 [1759] = {
@@ -2825,11 +2972,12 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 1533,
 },
 },
-[2291] = {
+[132] = {
 {
-["quantity"] = 1,
-["itemID"] = 184648,
-["itemLink"] = "|cnIQ1:|Hitem:184648::::::::80:260::31:::::::|h[]|h|r",
+["title"] = "Currency Reward",
+["quantity"] = 175,
+["icon"] = 1005027,
+["currencyID"] = 824,
 },
 },
 [1760] = {
@@ -2855,9 +3003,9 @@ DataStore_Garrisons_MissionInfos = {
 },
 [189] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 38,
 ["icon"] = 1005027,
+["quantity"] = 38,
+["title"] = "Currency Reward",
 ["currencyID"] = 824,
 },
 },
@@ -2869,66 +3017,6 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 1533,
 },
 },
-[2227] = {
-{
-["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-["quantity"] = 230285,
-["title"] = "Money Reward",
-["currencyID"] = 0,
-},
-},
-[2239] = {
-{
-["title"] = "Currency Reward",
-["quantity"] = 375,
-["icon"] = 3514227,
-["currencyID"] = 1807,
-},
-},
-[131] = {
-{
-["itemID"] = 120301,
-["quantity"] = 1,
-},
-},
-[132] = {
-{
-["title"] = "Currency Reward",
-["quantity"] = 175,
-["icon"] = 1005027,
-["currencyID"] = 824,
-},
-},
-[2191] = {
-{
-["quantity"] = 5,
-["itemID"] = 181479,
-["itemLink"] = "|cnIQ3:|Hitem:181479::::::::80:260:::::::::|h[Starlight Catcher]|h|r",
-},
-},
-[1765] = {
-{
-["quantity"] = 2,
-["itemID"] = 146943,
-["itemLink"] = "|cnIQ1:|Hitem:146943::::::::80:260:::::::::|h[]|h|r",
-},
-},
-[114] = {
-{
-["title"] = "Bonus Follower XP",
-["followerXP"] = 8000,
-["tooltip"] = "+8,000 XP",
-["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+8,000 XP",
-},
-},
-[1766] = {
-{
-["quantity"] = 1,
-["itemID"] = 152957,
-["itemLink"] = "|cnIQ3:|Hitem:152957::::::::80:260:::::::::|h[Army of the Light Insignia]|h|r",
-},
-},
 [2127] = {
 {
 ["title"] = "Currency Reward",
@@ -2937,11 +3025,12 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 1166,
 },
 },
-[1767] = {
+[1907] = {
 {
-["quantity"] = 4,
-["itemID"] = 124124,
-["itemLink"] = "|cnIQ3:|Hitem:124124::::::::80:260:::::::::|h[Blood of Sargeras]|h|r",
+["title"] = "Currency Reward",
+["quantity"] = 200,
+["icon"] = 2032595,
+["currencyID"] = 1593,
 },
 },
 [334] = {
@@ -2959,11 +3048,10 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 824,
 },
 },
-[1768] = {
+[1169] = {
 {
-["quantity"] = 2,
-["itemID"] = 146950,
-["itemLink"] = "|cnIQ1:|Hitem:146950::::::::80:260:::::::::|h[]|h|r",
+["itemID"] = 140584,
+["quantity"] = 1,
 },
 },
 [211] = {
@@ -2979,6 +3067,65 @@ DataStore_Garrisons_MissionInfos = {
 ["quantity"] = 200,
 ["title"] = "Currency Reward",
 ["currencyID"] = 824,
+},
+},
+[1765] = {
+{
+["quantity"] = 2,
+["itemID"] = 146941,
+["itemLink"] = "|cnIQ3:|Hitem:146941::::::::80:260:::::::::|h[Valarjar Insignia]|h|r",
+},
+},
+[467] = {
+{
+["icon"] = 136086,
+["quantity"] = 25,
+["title"] = "Currency Reward",
+["currencyID"] = 828,
+},
+{
+["itemID"] = 109584,
+["quantity"] = 1,
+},
+},
+[1766] = {
+{
+["quantity"] = 1,
+["itemID"] = 152957,
+["itemLink"] = "|cnIQ3:|Hitem:152957::::::::80:261:::::::::|h[Army of the Light Insignia]|h|r",
+},
+},
+[1172] = {
+{
+["itemID"] = 140584,
+["quantity"] = 1,
+},
+},
+[1767] = {
+{
+["quantity"] = 4,
+["itemID"] = 124124,
+["itemLink"] = "|cnIQ3:|Hitem:124124::::::::80:260:::::::::|h[Blood of Sargeras]|h|r",
+},
+},
+[1167] = {
+{
+["itemID"] = 140584,
+["quantity"] = 1,
+},
+},
+[1768] = {
+{
+["quantity"] = 2,
+["itemID"] = 146942,
+["itemLink"] = "|cnIQ3:|Hitem:146942::::::::80:260:::::::::|h[Dreamweaver Insignia]|h|r",
+},
+},
+[1680] = {
+{
+["quantity"] = 1,
+["itemID"] = 147499,
+["itemLink"] = "|cnIQ3:|Hitem:147499::::::::80:260:::::::::|h[Encrusted Naga Scale]|h|r",
 },
 },
 },
@@ -3063,8 +3210,8 @@ DataStore_Garrisons_MissionInfos = {
 ["Provision"] = 22,
 ["Training"] = 17,
 ["8.2 - Deep Sea"] = 18,
-["8.2 - Holiday Mission"] = 2,
 ["8.0 - Generic Missions"] = 6,
+["8.2 - Holiday Mission"] = 2,
 ["7.0 Class Hall - Generic Missions"] = 8,
 ["9.2 Encounter - Zereth Mortis"] = 15,
 ["Exploration"] = 16,
@@ -3102,7 +3249,7 @@ DataStore_Garrisons_Followers = {
 },
 ["Traits"] = {
 },
-["lastUpdate"] = 1760557716,
+["lastUpdate"] = 1761591542,
 ["Followers"] = {
 [988] = 0,
 [182] = 1551894880,
@@ -3162,21 +3309,27 @@ DataStore_Garrisons_Followers = {
 {
 ["LevelCount"] = 0,
 ["FollowerLinks"] = {
-[596] = "|cnIQ1:|Hgarrfollower:596:1:35:760:417:0:0:0:0:0:0:0:335|h[Chen Stormstout]|h|r",
 [588] = "|cnIQ1:|Hgarrfollower:588:1:35:760:412:0:0:0:0:0:0:0:336|h[Li Li Stormstout]|h|r",
-[603] = "|cnIQ1:|Hgarrfollower:603:1:38:760:417:0:0:0:0:0:0:0:334|h[Taran Zhu]|h|r",
+[604] = "|cnIQ1:|Hgarrfollower:604:1:44:760:412:0:0:0:0:0:0:0:334|h[Sylara Steelsong]|h|r",
+[606] = "|cnIQ1:|Hgarrfollower:606:1:44:760:417:0:0:0:0:0:0:0:336|h[Hiro]|h|r",
 [602] = "|cnIQ1:|Hgarrfollower:602:1:38:760:416:0:0:0:0:0:0:0:334|h[The Monkey King]|h|r",
+[596] = "|cnIQ1:|Hgarrfollower:596:1:35:760:417:0:0:0:0:0:0:0:335|h[Chen Stormstout]|h|r",
+[605] = "|cnIQ1:|Hgarrfollower:605:1:44:760:412:0:0:0:0:0:0:0:335|h[Angus Ironfist]|h|r",
+[603] = "|cnIQ1:|Hgarrfollower:603:1:38:760:417:0:0:0:0:0:0:0:334|h[Taran Zhu]|h|r",
 },
 ["Abilities"] = {
 },
 ["Traits"] = {
 },
-["lastUpdate"] = 1760569028,
+["lastUpdate"] = 1761612792,
 ["Followers"] = {
-[596] = 400,
 [588] = 400,
-[603] = 1600,
+[604] = 6000,
+[606] = 6000,
 [602] = 1600,
+[596] = 400,
+[605] = 6000,
+[603] = 1600,
 },
 ["AbilityCounters"] = {
 },
@@ -3234,8 +3387,8 @@ DataStore_Garrisons_FollowerNamesToID = {
 ["Rangari Erdanii"] = 212,
 ["Leeroy Jenkins"] = 178,
 ["Fleet Admiral Tethys"] = 780,
-["Taoshi"] = 892,
 ["Apprentice Artificer Andren"] = 184,
+["Miall"] = 155,
 ["Professor Felblast"] = 460,
 ["Daleera Moonfang"] = 463,
 ["Dawnseeker Rukaryx"] = 462,
@@ -3252,7 +3405,7 @@ DataStore_Garrisons_FollowerNamesToID = {
 ["Admiral Taylor"] = 204,
 ["Taran Zhu"] = 603,
 ["Master Mathias Shaw"] = 893,
-["Miall"] = 155,
+["Taoshi"] = 892,
 ["Glirin"] = 211,
 ["Image of Archmage Vargoth"] = 190,
 ["Sylara Steelsong"] = 604,

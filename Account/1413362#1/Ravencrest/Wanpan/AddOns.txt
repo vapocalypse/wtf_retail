@@ -177,4 +177,4 @@ kExtraBossFrames: disabled
 HandyNotes_Legion: disabled
 HandyNotes_LegionTreasures: disabled
 LegionRemixHelper: disabled
-Plumber: disabled
+Plumber: enabled
